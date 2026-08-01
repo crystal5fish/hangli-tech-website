@@ -1,0 +1,415 @@
+{
+  "date": "2026-07-20",
+  "items": [
+    {
+      "title": "Adobe 相机应用新功能将利用 AI 评价你的照片",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "pubdate": "2026-07-20 23:45:00",
+      "contentSnippet": "Adobe 的 Project Indigo 现在可以移除你用应用拍摄的照片中的各种背景。",
+      "creator": "Ivan Mehta",
+      "relevance": 7,
+      "source": "TechCrunch AI",
+      "category": "产品发布"
+    },
+    {
+      "title": "YouTube 澄清关于AI低质内容和令人不适视频的政策",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "pubdate": "2026-07-20 23:23:06",
+      "contentSnippet": "YouTube更新了其变现政策，更清晰地定义了哪些类型的AI生成内容和低质量视频无法获得广告收入。",
+      "creator": "Sarah Perez",
+      "relevance": 7,
+      "source": "YouTube",
+      "category": "安全监管"
+    },
+    {
+      "title": "Z.AI 完成配备中国芯片的大型数据中心建设，用于训练 AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
+      "pubdate": "2026-07-20 23:02:36",
+      "contentSnippet": "Z.AI已完成一座仅配备中国制造芯片的大型数据中心建设，这是北京方面为在未来AI发展中替代受限制的英伟达芯片所迈出的重要一步。",
+      "creator": "Bloomberg News",
+      "relevance": 10,
+      "source": "Z.AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI在零售、旅游和消费品领域实现转型的三种方式",
+      "link": "https://www.databricks.com/blog/three-ways-ai-unlocks-transformation-retail-travel-and-consumer-goods",
+      "pubdate": "2026-07-20 23:01:00",
+      "contentSnippet": "现在是周五清晨5点45分，一位门店经理站在后台办公室里...",
+      "creator": "Databricks",
+      "relevance": 9,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "击败Claude的AI模型：Kimi K3登顶前端编程测试榜首",
+      "link": "https://www.techrepublic.com/article/news-apac-china-kimi-k3-moonshot-ai/",
+      "pubdate": "2026-07-20 22:57:49",
+      "contentSnippet": "Moonshot AI的Kimi K3在一项前端编程基准测试中登顶，击败了Claude Fable 5，给美国AI领导者带来压力。",
+      "creator": "Aminu Abdullahi",
+      "relevance": 9,
+      "source": "Moonshot AI",
+      "category": "模型发布"
+    },
+    {
+      "title": "谷歌股价上涨，据报道将推出提升AI效率的芯片",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says",
+      "pubdate": "2026-07-20 21:22:04",
+      "contentSnippet": "谷歌母公司Alphabet Inc.股价上涨，因有报道称该公司正在开发一款旨在优化其Gemini人工智能模型的服务器芯片。",
+      "creator": "Amy Thomson and Mark Bergen",
+      "relevance": 9,
+      "source": "Google",
+      "category": "行业动态"
+    },
+    {
+      "title": "中国AI新星月之暗面押注大模型终获回报",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/chinese-ai-sensation-moonshot-s-gamble-on-big-models-pays-off",
+      "pubdate": "2026-07-20 21:14:33",
+      "contentSnippet": "人群涌向中国顶级科技峰会的一个不起眼角落，绕过阿里巴巴集团和腾讯控股公司的巨大展位，只为目睹国内AI领域最炙手可热的名字。",
+      "creator": "Bloomberg News",
+      "relevance": 9,
+      "source": "月之暗面",
+      "category": "行业动态"
+    },
+    {
+      "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
+      "link": "https://36kr.com/p/3902068392658566?f=rss",
+      "pubdate": "2026-07-20 20:32:43",
+      "contentSnippet": "华为公司高级副总裁、引望公司CEO靳玉志接受专访，强调引望始终坚持「电子螺丝钉」的战略定位，不做整车制造。文章深入讨论了华为乾崑智驾的「界」与「境」两大品牌矩阵的互补关系——「界」",
+      "creator": "肖漫",
+      "relevance": 7,
+      "source": "华为",
+      "category": "行业动态"
+    },
+    {
+      "title": "今日下载：AI招聘偏见与天气数据破坏",
+      "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "pubdate": "2026-07-20 20:10:00",
+      "contentSnippet": "这是《今日下载》的今日版，我们的工作日通讯提供科技世界的最新动态。文章指出，AI在招聘时比人类更容易形成偏见。下次你申请工作时，AI可能会在任何人类看到你的简历之前就对其进行筛选…",
+      "creator": "Thomas Macaulay",
+      "relevance": 8,
+      "source": "MIT Technology Review",
+      "category": "行业动态"
+    },
+    {
+      "title": "随着AI支出攀升，企业开始认真对待Token成本",
+      "link": "https://aibusiness.com/generative-ai/as-ai-spending-climbs-enterprises-serious-about-token-cost",
+      "pubdate": "2026-07-20 20:05:10",
+      "contentSnippet": "不透明的定价和滞后的账单迫使企业重新审视其AI模型策略。",
+      "creator": "Patrick Thibodeau",
+      "relevance": 9,
+      "source": "AI Business",
+      "category": "行业动态"
+    },
+    {
+      "title": "超越grep：论上下文丰富的AI编程框架的必要性",
+      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "pubdate": "2026-07-20 19:20:00",
+      "contentSnippet": "Augment Code的Vinay Perneti畅谈模型、编程框架与上下文。",
+      "creator": "Samuel Axon",
+      "relevance": 9,
+      "source": "Augment Code",
+      "category": "行业动态"
+    },
+    {
+      "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+      "link": "https://36kr.com/p/3903396279125888?f=rss",
+      "pubdate": "2026-07-20 19:02:32",
+      "contentSnippet": "6个年轻创业者在WAIC的故事。文章讲述了多位AI初创团队创始人在WAIC展会上的经历，包括基于AI的婚恋应用'良配'、AI角色互动硬件CookiePi、视频营销Agent公司Mu",
+      "creator": "温丽虹 王欣逸",
+      "relevance": 7,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "月之暗面旗下 Kimi AI 模型引发美国焦虑",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-s-kimi-ai-model-sets-off-anxiety-in-the-us",
+      "pubdate": "2026-07-20 19:02:01",
+      "contentSnippet": "月之暗面发布的 Kimi K3 在美国引发激烈讨论",
+      "creator": "Edward Ludlow",
+      "relevance": 10,
+      "source": "Moonshot",
+      "category": "行业动态"
+    },
+    {
+      "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+      "link": "https://36kr.com/p/3903383663478403?f=rss",
+      "pubdate": "2026-07-20 18:49:41",
+      "contentSnippet": "7月17日-20日，WAIC2026在上海举办，聚焦人工智能从模型参数竞赛转向产业真实应用。文章探讨了AI Agent、具身智能、空间智能、AI基础设施等方向如何进入真实业务流程，",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
+      "link": "https://www.qbitai.com/2026/07/455963.html",
+      "pubdate": "2026-07-20 18:42:09",
+      "contentSnippet": "WAIC 2026世界人工智能大会圆满收官，范式大会亮点集锦，全方位展现AI 2.0从技术突破走向产业实践的演进历程，涵盖前沿模型、应用落地及行业共识。",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+      "link": "https://www.qbitai.com/2026/07/455805.html",
+      "pubdate": "2026-07-20 18:33:23",
+      "contentSnippet": "大模型时代的共同选择",
+      "creator": "克雷西",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "月之暗面Kimi K3震撼投资者，挑战Anthropic和OpenAI领先地位",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead",
+      "pubdate": "2026-07-20 18:30:02",
+      "contentSnippet": "月之暗面发布的新模型迫使硅谷重新审视长期以来的假设",
+      "creator": "Seth Fiegerman",
+      "relevance": 9,
+      "source": "月之暗面",
+      "category": "模型发布"
+    },
+    {
+      "title": "ChatGPT、Claude 渗透约会应用，助力单身人士与匹配对象调情",
+      "link": "https://www.bloomberg.com/news/features/2026-07-20/chatgpt-claude-infiltrate-dating-apps-by-helping-singles-flirt-with-matches",
+      "pubdate": "2026-07-20 18:15:20",
+      "contentSnippet": "单身人士正在将聊天任务外包给 ChatGPT 和 Claude，这使得浪漫关系的建立方式变得复杂化",
+      "creator": "Samantha Kelly",
+      "relevance": 7,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "美国公共卫生机构将测试 OpenAI 和 Anthropic 的 AI 模型",
+      "link": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+      "pubdate": "2026-07-20 18:00:00",
+      "contentSnippet": "美国各地的公共卫生部门将在一项新计划中测试生成式AI工具。该计划由健康AI联盟、OpenAI、Anthropic和埃森哲共同参与推进。这个名为PULSE（公共卫生用例与学习扩展引擎",
+      "creator": "Muhammad Zulhusni",
+      "relevance": 8,
+      "source": "AI News",
+      "category": "行业动态"
+    },
+    {
+      "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
+      "link": "https://www.qbitai.com/2026/07/455729.html",
+      "pubdate": "2026-07-20 17:41:49",
+      "contentSnippet": "文章报道了全球首个AI for ADANES技术路线图发布以及全域联盟成立，通过人工智能技术赋能先进核能系统（ADANES），释放核能领域的新质生产力，实现技术路线与产业生态的双轮",
+      "creator": "量子位的朋友们",
+      "relevance": 7,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
+      "link": "https://www.qbitai.com/2026/07/455730.html",
+      "pubdate": "2026-07-20 17:21:30",
+      "contentSnippet": "从理论探索到体系构建",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "Kimi K3 开源权重模型：中国最大的人工智能押注内存而非算力",
+      "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+      "pubdate": "2026-07-20 17:00:00",
+      "contentSnippet": "Moonshot AI 的 Kimi K3 开源权重模型自7月16日发布以来，几乎完全凭借其参数数量引发了行业关注。该模型拥有2.8万亿参数，是迄今为止发布的最大开源权重模型。模型",
+      "creator": "Dashveenjit Kaur",
+      "relevance": 10,
+      "source": "Moonshot AI",
+      "category": "模型发布"
+    },
+    {
+      "title": "GMI Cloud  \"无界造物节\"在WAIC圆满完赛，\"MaaS+创意\"赋能 AI 创作新生态！",
+      "link": "https://www.qbitai.com/2026/07/455593.html",
+      "pubdate": "2026-07-20 16:52:26",
+      "contentSnippet": "GMI Cloud × HappyHorse 共建 AI 创作生态",
+      "creator": "量子位的朋友们",
+      "relevance": 7,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
+      "link": "https://www.qbitai.com/2026/07/455517.html",
+      "pubdate": "2026-07-20 16:44:24",
+      "contentSnippet": "国家具身智能应用中试基地发布了首个合作世界模型，魔芯科技携MoWorld 3D正式亮相，展示了具身智能与3D世界模型结合的最新成果，标志着具身智能领域的重要进展。",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "模型发布"
+    },
+    {
+      "title": "AI在招聘时比人类更容易产生偏见",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "pubdate": "2026-07-20 16:39:00",
+      "contentSnippet": "下次你申请工作时，AI可能会在人类看到你的简历之前对其进行筛选。但我们有充分的理由质疑AI是否会公平地评判你。研究人员已经知道，LLM会从训练数据中学习到人类的偏见。新的研究表明，",
+      "creator": "Michelle Kim",
+      "relevance": 9,
+      "source": "MIT Tech Review",
+      "category": "安全监管"
+    },
+    {
+      "title": "月之暗面在AI热潮中创造新赢家与输家",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-ai-is-creating-new-winners-and-losers-in-the-ai-trade",
+      "pubdate": "2026-07-20 16:34:41",
+      "contentSnippet": "月之暗面AI突然发布新的人工智能模型，震动了市场，迫使投资者重新评估全球科技涨势背后的一些重大假设。",
+      "creator": "Jeanny Yu",
+      "relevance": 9,
+      "source": "月之暗面AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "了解AI平台如何看您的品牌 - BeeSeen终身订阅仅需$99.99",
+      "link": "https://www.techrepublic.com/article/beeseen-lifetime-subscription/",
+      "pubdate": "2026-07-20 16:09:44",
+      "contentSnippet": "以低于近$400的价格获得BeeSeen终身订阅，提升您的品牌可见度和整体GEO，了解AI平台如何审视您的品牌形象。",
+      "creator": "TechRepublic Academy",
+      "relevance": 7,
+      "source": "TechRepublic - AI",
+      "category": "产品发布"
+    },
+    {
+      "title": "WAIC之外，一张AI人才图谱正在知乎形成",
+      "link": "https://www.qbitai.com/2026/07/455496.html",
+      "pubdate": "2026-07-20 16:06:22",
+      "contentSnippet": "本文探讨在世界人工智能大会（WAIC）之外，知乎平台上正在形成的AI人才图谱现象，展现了AI行业人才流动和知识社区的生态发展。",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI透明度：治理、可解释性与数据实践",
+      "link": "https://www.databricks.com/blog/ai-transparency",
+      "pubdate": "2026-07-20 16:03:23",
+      "contentSnippet": "AI透明度是指使人工智能系统的数据、模型行为等环节透明化的实践，涵盖治理、可解释性与数据处理规范。",
+      "creator": "Databricks",
+      "relevance": 9,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI行情现分歧，基金经理调仓动作出现明显差异",
+      "link": "https://36kr.com/newsflashes/3903182048954244?f=rss",
+      "pubdate": "2026-07-20 15:33:04",
+      "contentSnippet": "随着公募基金2026年二季报密集披露，人工智能（AI）板块是否已经出现泡沫，成为基金经理讨论最为集中的话题之一。回顾2026年上半年，全球宏观经济与资本市场共同演绎了一场极致的K型",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI 成为中国经济新引擎，避免经济硬着陆",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/ai-is-new-engine-keeping-chinese-economy-from-harder-landing",
+      "pubdate": "2026-07-20 15:25:45",
+      "contentSnippet": "全球竞相建设人工智能基础设施，使这项技术在中国经济多年来最疲软时期之一成为关键增长点。",
+      "creator": "Bloomberg News",
+      "relevance": 9,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "光通信全线预告高增，订单能见度充足",
+      "link": "https://36kr.com/newsflashes/3903169691322245?f=rss",
+      "pubdate": "2026-07-20 15:18:29",
+      "contentSnippet": "近期，新易盛、天孚通信、光迅科技、长飞光纤、亨通光电、永鼎股份、光库科技、长芯博创、剑桥科技、德科立、东田微等光通信上市公司纷纷披露2026年上半年业绩预告。作为产业链的风向标，它",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "台积电将美国投资承诺增至2650亿美元，称AI需求和竞争压力推动扩产",
+      "link": "https://36kr.com/newsflashes/3903173412161415?f=rss",
+      "pubdate": "2026-07-20 15:13:19",
+      "contentSnippet": "台积电首席财务官黄仁昭表示，公司计划追加1000亿美元美国投资，将对美投资承诺总额提升至2650亿美元，主要受美国客户强劲需求以及来自英特尔、马斯克旗下Terafab等竞争对手的压",
+      "creator": "36氪",
+      "relevance": 7,
+      "source": "台积电",
+      "category": "行业动态"
+    },
+    {
+      "title": "月之暗面Kimi团队：算力紧缺，会员暂停开放",
+      "link": "https://36kr.com/newsflashes/3903168228706180?f=rss",
+      "pubdate": "2026-07-20 15:08:02",
+      "contentSnippet": "36氪获悉，7月19日，月之暗面Kimi发布关于算力紧缺与会员暂停开放的说明，过去48小时，用户请求量已大幅超出预估，并且逼近现有集群的承载极限。为了保障已有订阅用户的体验，Kim",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "Kimi K3 能帮助中国在AI领域超越美国吗？：直播问答",
+      "link": "https://www.bloomberg.com/sessions/2026-07-20/live-q-amp-a-can-moonshot-s-kimi-help-china-break-the-us-s-ai-lead",
+      "pubdate": "2026-07-20 13:41:01",
+      "contentSnippet": "彭博社记者将于7月20日下午3点（香港时间）/上午8点（英国夏令时）回答您关于中国力争引领AI竞赛的问题",
+      "creator": "Vlad Savov, Saritha Rai, Nectar Gan and Sunny Bangia",
+      "relevance": 9,
+      "source": "月之暗面",
+      "category": "行业动态"
+    },
+    {
+      "title": "普睿司曼与莫仕签署63亿美元数据中心光缆供应协议",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/prysmian-inks-6-3-billion-deal-with-molex-for-data-center-gear",
+      "pubdate": "2026-07-20 13:21:41",
+      "contentSnippet": "普睿司曼签署了一项价值高达55亿欧元（63亿美元）的协议，为科氏工业旗下的莫仕公司供应数据中心用光缆，以抓住人工智能基础设施建设带来的机遇。",
+      "creator": "Antonio Vanuzzo and Edwin Chan",
+      "relevance": 7,
+      "source": "Prysmian",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Moonshot 的 Kimi K3 可能更关乎记忆而非算力",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute",
+      "pubdate": "2026-07-20 12:50:13",
+      "contentSnippet": "2025年初DeepSeek R1发布时，英伟达市值单日蒸发近6000亿美元，市场担忧人工智能对算力的需求将低于预期。上周五Moonshot AI发布Kimi K3引发了类似反应，",
+      "creator": "Sunny Bangia",
+      "relevance": 9,
+      "source": "Moonshot AI",
+      "category": "模型发布"
+    },
+    {
+      "title": "鸟类观察论坛上的AI篡改图像危及研究",
+      "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+      "pubdate": "2026-07-20 12:00:45",
+      "contentSnippet": "专家警告称，观鸟平台上经过AI增强的照片日益增多，正在制造虚假目击记录，威胁着科学家所用工具的可信度",
+      "creator": "Patrick Greenfield",
+      "relevance": 6,
+      "source": "The Guardian",
+      "category": "安全监管"
+    },
+    {
+      "title": "Teleperformance 计划到 2027 年让全体 BPO 员工实现 AI 赋能",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027",
+      "pubdate": "2026-07-20 07:00:00",
+      "contentSnippet": "法国业务流程外包公司 Teleperformance SE 计划将人工智能嵌入其 50 万全体员工的日常工作流程中，加速采用这项正在推动该行业劳动力市场变革的技术。",
+      "creator": "Cliff Venzon",
+      "relevance": 7,
+      "source": "Teleperformance",
+      "category": "行业动态"
+    },
+    {
+      "title": "黄仁勋日本之行后的关注要点",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "pubdate": "2026-07-20 05:16:07",
+      "contentSnippet": "黄仁勋离开东京时，达成了覆盖日本整个科技生态系统的合作协议。",
+      "creator": "Kate Park",
+      "relevance": 8,
+      "source": "NVIDIA",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果的诉讼会阻碍OpenAI的硬件计划吗？",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "pubdate": "2026-07-20 03:24:45",
+      "contentSnippet": "在最新一期的Equity播客中，我们讨论了苹果的诉讼是否会给OpenAI备受关注的硬件计划及上市之路蒙上阴影。",
+      "creator": "Anthony Ha",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "行业动态"
+    }
+  ]
+}

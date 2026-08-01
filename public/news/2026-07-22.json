@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-22",
+  "items": [
+    {
+      "title": "算力超节点带火液冷，浸没式液冷崭露头角",
+      "link": "https://36kr.com/newsflashes/3906048926192770?f=rss",
+      "pubdate": "2026-07-22 15:58:26",
+      "contentSnippet": "随着算力新基建超节点的涌现，其背后的液冷技术引发了行业新一轮关注。记者近日在2026世界人工智能大会（WAIC 2026）采访发现，华为、中兴通讯、新华三、浪潮等知名服务器厂商超节",
+      "creator": "上证报",
+      "relevance": 6,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI平台可预测制备最佳量子点薄膜的溶剂组合",
+      "link": "https://36kr.com/newsflashes/3906040663020930?f=rss",
+      "pubdate": "2026-07-22 15:50:02",
+      "contentSnippet": "韩国首尔大学研究团队开发出一种基于人工智能（AI）的量子点发光二极管（QLED）制备工艺设计平台，可反向设计量子点薄膜制备条件，预测实现高性能量子点薄膜所需的最佳溶剂组合。将该技术",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "36氪",
+      "category": "技术论文"
+    },
+    {
+      "title": "OpenAI：ChatGPT Work和GPT-5.6今日起面向小型企业开放",
+      "link": "https://36kr.com/newsflashes/3906028912776583?f=rss",
+      "pubdate": "2026-07-22 15:46:01",
+      "contentSnippet": "OpenAI宣布推出面向小型企业的ChatGPT服务计划，ChatGPT Work和GPT-5.6今日起面向小型企业开放。（财联社）",
+      "creator": "36氪",
+      "relevance": 10,
+      "source": "OpenAI",
+      "category": "产品发布"
+    },
+    {
+      "title": "CoreWeave首席执行官：公司正在大规模部署AI基础设施",
+      "link": "https://36kr.com/newsflashes/3906020727673991?f=rss",
+      "pubdate": "2026-07-22 15:39:41",
+      "contentSnippet": "CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。（财联社）",
+      "creator": "36 氪",
+      "relevance": 9,
+      "source": "CoreWeave",
+      "category": "行业动态"
+    },
+    {
+      "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
+      "link": "https://36kr.com/newsflashes/3906014764340353?f=rss",
+      "pubdate": "2026-07-22 15:32:38",
+      "contentSnippet": "英伟达7月21日表示，AI云平台DeepInfra测试显示，Vera CPU相比其他CPU产品，在AI智能体工作负载下可实现最高2.2倍编排速度提升，并支持最高1.6倍更多智能体并",
+      "creator": "36 氪",
+      "relevance": 9,
+      "source": "英伟达",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta 正在测试一款面向缺乏想象力人士的AI睡前故事应用",
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "pubdate": "2026-07-22 07:55:10",
+      "contentSnippet": "Meta 的 StoryKit 应用仅在部分地区可用，该公司正在测试家长对其的反应。",
+      "creator": "Amanda Silberling",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "产品发布"
+    },
+    {
+      "title": "OpenAI 模型突破安全隔离并入侵了 Hugging Face",
+      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "pubdate": "2026-07-22 06:50:01",
+      "contentSnippet": "包括 GPT-5.6 Sol 在内的专注于网络安全的 AI 模型突破测试沙箱，利用零日漏洞，获得开放互联网访问权限，从而成功实施了攻击。",
+      "creator": "Lily Hay Newman, Dell Cameron",
+      "relevance": 9,
+      "source": "Wired - AI Latest",
+      "category": "安全监管"
+    },
+    {
+      "title": "新的 Gemini 3.5 Flash 模型更快更便宜但并未更智能",
+      "link": "https://aibusiness.com/generative-ai/new-gemini-3-5-flash-models-are-faster-cheaper-not-smarter",
+      "pubdate": "2026-07-22 05:31:59",
+      "contentSnippet": "更新后的模型旨在为企业提供更实惠的价格。新的网络模型旨在进行编排。",
+      "creator": "Esther Shittu",
+      "relevance": 9,
+      "source": "Google",
+      "category": "模型发布"
+    },
+    {
+      "title": "OpenAI 声称 Hugging Face 遭其自家预发布模型入侵",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "pubdate": "2026-07-22 04:56:55",
+      "contentSnippet": "OpenAI 出面承认对 Hugging Face 被入侵事件负责，称这是由于内部测试失控所致。",
+      "creator": "Russell Brandom",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "安全监管"
+    },
+    {
+      "title": "为什么研发数据需要纳入湖仓一体——以及为什么AI智能体需要它",
+      "link": "https://www.databricks.com/blog/why-rd-data-belongs-lakehouse-and-why-agents-need-it-there",
+      "pubdate": "2026-07-22 03:45:00",
+      "contentSnippet": "在由戴姆勒卡车和沃尔沃集团合资成立的cellcentric公司，我们正在开发...",
+      "creator": "Databricks",
+      "relevance": 8,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "Jack Dorsey 携 Buzz 挑战 Slack：面向团队与 AI 代理的群聊平台",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "pubdate": "2026-07-22 03:43:41",
+      "contentSnippet": "Buzz 是一款面向工作场所的群聊平台，将人类与他们的 AI 代理置于同一对话空间中，实现人机协作沟通。",
+      "creator": "Amanda Silberling",
+      "relevance": 9,
+      "source": "TechCrunch",
+      "category": "产品发布"
+    },
+    {
+      "title": "AI 与通用娱乐应用的崛起",
+      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "pubdate": "2026-07-22 03:39:30",
+      "contentSnippet": "过去十年间，流媒体平台通过垄断音乐、视频、播客或有声读物等单一格式展开竞争。如今，随着 AI 让内容的创作、组织和推荐变得更加便捷，这些界限正在模糊，推动 Spotify、Netf",
+      "creator": "Sarah Perez",
+      "relevance": 7,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "前英特尔CEO帕特·基辛格计划用光芯片为AI重启摩尔定律",
+      "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+      "pubdate": "2026-07-22 03:05:00",
+      "contentSnippet": "帕特·基辛格希望用微小的光束为更强大的人工智能铺平道路。",
+      "creator": "Joel Khalili",
+      "relevance": 8,
+      "source": "Wired",
+      "category": "行业动态"
+    },
+    {
+      "title": "数据中心预计到2035年用电量将增长4倍",
+      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "pubdate": "2026-07-22 02:06:38",
+      "contentSnippet": "到2033年新建的数据中心可能消耗与当今印度相当的用电量。",
+      "creator": "Tim De Chant",
+      "relevance": 7,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI 敦促企业使用其评分卡来衡量 AI 价值",
+      "link": "https://aibusiness.com/generative-ai/openai-urges-enterprises-use-its-scorecard-measure-worth-of-ai",
+      "pubdate": "2026-07-22 01:52:30",
+      "contentSnippet": "该工具推出之际，来自中国的低成本 AI 提供商对美国 AI 供应商施加的压力日益增大。",
+      "creator": "Graham Hope",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "Anthropic 的 15 亿美元版权和解获批；仅 350 名作者选择退出",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "pubdate": "2026-07-22 01:33:00",
+      "contentSnippet": "Anthropic 在最后一刻阻止作者退出 15 亿美元和解协议。",
+      "creator": "Ashley Belanger",
+      "relevance": 8,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "谷歌发布三款全新Gemini模型——但未推出3.5 Pro",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "pubdate": "2026-07-22 01:11:50",
+      "contentSnippet": "谷歌发布了Gemini 3.6 Flash、3.5 Flash-Lite和Flash Cyber，但Gemini 3.5 Pro的持续缺席引发了外界对其AI战略的新质疑。",
+      "creator": "Rebecca Bellan",
+      "relevance": 9,
+      "source": "Google",
+      "category": "模型发布"
+    },
+    {
+      "title": "圆桌论坛：夏天周而复始·VC3.0| 36氪WAVES2026新浪潮",
+      "link": "https://36kr.com/p/3905169127114368?f=rss",
+      "pubdate": "2026-07-22 01:05:17",
+      "contentSnippet": "36氪WAVES2026大会圆桌论坛实录。九合创投王啸、软银中国资本刘缨、创东方投资高宇辉三位顶尖VC合伙人，与36氪CEO冯大刚深度对话AI浪潮下的周期变化、创业投资新范式。核心",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "谷歌发布 Gemini 3.6 Flash 与网络安全 AI，并预告 3.5 Pro 及 Gemini 4",
+      "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "pubdate": "2026-07-22 00:58:25",
+      "contentSnippet": "今天发布了新的 3.6 和 3.5 模型，但谷歌已经在训练 Gemini 4。",
+      "creator": "Ryan Whitwam",
+      "relevance": 10,
+      "source": "Google",
+      "category": "模型发布"
+    },
+    {
+      "title": "谷歌 Gemini 3.6 Flash 旨在降低企业AI智能体代币成本",
+      "link": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
+      "pubdate": "2026-07-22 00:06:55",
+      "contentSnippet": "谷歌发布了 Gemini 3.6 Flash 与 3.5 Flash-Lite，两款新型主力模型旨在降低企业AI智能体的延迟与代币成本。在生产环境中运行自主软件智能体的经济性归结为",
+      "creator": "Ryan Daws",
+      "relevance": 10,
+      "source": "AI News",
+      "category": "模型发布"
+    },
+    {
+      "title": "阿里通义千问Qwen 3.8 Max发布，中国AI模型正追赶美国",
+      "link": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-max-shows-china-closing-on-u-s-models",
+      "pubdate": "2026-07-22 00:00:50",
+      "contentSnippet": "这款低成本、开源权重的模型以及其他中国模型，凭借一些中国模型提供商声称的出色性能，为企业提供了更多选择。",
+      "creator": "Esther Shittu",
+      "relevance": 9,
+      "source": "阿里巴巴",
+      "category": "模型发布"
+    }
+  ]
+}

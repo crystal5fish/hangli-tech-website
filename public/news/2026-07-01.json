@@ -1,0 +1,835 @@
+{
+  "date": "2026-07-01",
+  "items": [
+    {
+      "title": "部署零售AI以规模化个性化和客户洞察",
+      "link": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+      "pubdate": "2026-07-01 23:58:43",
+      "contentSnippet": "优化零售AI基础设施推动了个性化系统和实时客户洞察的成功部署。业界领导者正在用能够在实时会话中动态修改用户环境的数据管道取代静态的客户互动模式。静态布局和宽泛的分层规则已无法满足现",
+      "creator": "Ryan Daws",
+      "relevance": 9,
+      "source": "AI News",
+      "category": "行业动态"
+    },
+    {
+      "title": "我在谷歌工作，但我的8岁孩子基本不上网：我希望她学会有意识地使用AI",
+      "link": "https://www.businessinsider.com/ai-parenting-kids-critical-thinking-2026-7",
+      "pubdate": "2026-07-01 23:51:01",
+      "contentSnippet": "一位在谷歌从事AI解决方案实施工作的母亲，分享了她在养育8岁女儿过程中对科技与AI使用的深刻反思。她曾刻意让孩子远离屏幕和科技，但发现孩子模仿她使用ChatGPT的行为后，意识到单",
+      "creator": "Business Insider",
+      "relevance": 6,
+      "source": "Business Insider",
+      "category": "行业动态"
+    },
+    {
+      "title": "最前线｜光子跃迁发布个人智能影像生态，推出AI戒指等产品布局多设备协同",
+      "link": "https://36kr.com/p/3876758574018822?f=rss",
+      "pubdate": "2026-07-01 23:25:13",
+      "contentSnippet": "6月30日，智能影像公司光子跃迁在深圳举行影像技术发布会，发布个人智能影像生态，并展示了包括运动相机LEAPTIC Cube、AI戒指在内的多款产品及未来生态规划。光子跃迁表示，公",
+      "creator": "36氪",
+      "relevance": 7,
+      "source": "光子跃迁",
+      "category": "产品发布"
+    },
+    {
+      "title": "2026年你应该关注的25位AI工程师",
+      "link": "https://www.aiacceleratorinstitute.com/25-ai-engineers-you-should-be-following-in-2026/",
+      "pubdate": "2026-07-01 23:14:13",
+      "contentSnippet": "按实际工作领域分类的25位AI工程师名单，以及如何在不被信息淹没的情况下关注他们的实用建议。",
+      "creator": "Andrew Lovell",
+      "relevance": 8,
+      "source": "AI Accelerator Institute",
+      "category": "行业动态"
+    },
+    {
+      "title": "Venice AI 以6500万美元A轮融资跻身独角兽行列，其隐私优先的AI平台蓬勃发展",
+      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "pubdate": "2026-07-01 22:25:23",
+      "contentSnippet": "Venice AI 已实现盈利，CEO Erik Voorhees表示其年化经常性收入已超过7000万美元。",
+      "creator": "Ram Iyer",
+      "relevance": 9,
+      "source": "Venice AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Google 的智能代理助手 Gemini Spark 现已登陆 Mac",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "pubdate": "2026-07-01 22:20:19",
+      "contentSnippet": "Google 的 24/7 全天候智能代理助手 Gemini Spark 现已登陆 Mac，同时带来实时追踪和更多应用支持等改进。",
+      "creator": "Sarah Perez",
+      "relevance": 9,
+      "source": "Google",
+      "category": "产品发布"
+    },
+    {
+      "title": "Meta 效仿 SpaceX，寻求将过剩的 AI 算力转化为现金",
+      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "pubdate": "2026-07-01 21:43:07",
+      "contentSnippet": "Meta 正在制定云基础设施业务计划，销售 AI 算力和模型的访问权限。此举将使其与亚马逊云服务（AWS）、谷歌云和微软 Azure 等大型云服务提供商展开竞争。",
+      "creator": "Rebecca Bellan",
+      "relevance": 9,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "谷歌推出 Nano Banana Lite 2 扩展 AI 影像服务",
+      "link": "https://aibusiness.com/generative-ai/google-expands-ai-imaging-offerings-nano-banana-lite-2",
+      "pubdate": "2026-07-01 21:04:22",
+      "contentSnippet": "此次发布伴随着谷歌 Gemini Omni Flash 的更广泛可用性。",
+      "creator": "Scarlett Evans",
+      "relevance": 9,
+      "source": "Google",
+      "category": "产品发布"
+    },
+    {
+      "title": "下载精选：Anthropic 发布 Claude Science，以及加利福尼亚的碳肥计算",
+      "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "pubdate": "2026-07-01 20:10:00",
+      "contentSnippet": "这是今日版《下载》——我们每日发布的科技资讯简报，为您带来全球科技领域的最新动态。Claude Science 是 Anthropic 最新推出的旗舰产品。昨天，在一场面向制药企业",
+      "creator": "Thomas Macaulay",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "台湾拘留超微电脑员工，调查涉及向中国走私英伟达芯片",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/taiwan-detains-super-micro-workers-probing-smuggling-of-nvidia-chips-to-china",
+      "pubdate": "2026-07-01 20:02:08",
+      "contentSnippet": "台湾检察官本周早些时候突击搜查了美国超微电脑公司在当地的办公室，并拘留了该公司两名员工，原因是涉嫌向中国运送英伟达芯片。",
+      "creator": "Debby Wu, Yian Lee",
+      "relevance": 7,
+      "source": "Bloomberg Technology",
+      "category": "行业动态"
+    },
+    {
+      "title": "范式智能增资至约5.6亿",
+      "link": "https://36kr.com/newsflashes/3876538695184389?f=rss",
+      "pubdate": "2026-07-01 19:39:04",
+      "contentSnippet": "天眼查App显示，近日，范式智能发生工商变更，注册资本由约5.2亿人民币增至约5.6亿人民币。该公司成立于2014年9月，法定代表人为戴文渊，经营范围为技术开发、技术服务、技术咨询",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "范式智能",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Anthropic：Fable 5将于明天在Claude平台全球上线",
+      "link": "https://36kr.com/newsflashes/3876522131386372?f=rss",
+      "pubdate": "2026-07-01 19:22:13",
+      "contentSnippet": "Anthropic称，Fable 5将于明天在Claude平台全球上线。将继续与美国政府协调，扩大\"Glasswing\"计划下Mythos 5模型的开放范围，使更多美国国内及国际合",
+      "creator": "36 氪",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "模型发布"
+    },
+    {
+      "title": "日本应对劳动力短缺之策：为1000万台机器人打造国家级AI模型",
+      "link": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
+      "pubdate": "2026-07-01 19:00:00",
+      "contentSnippet": "日本的AI机器人计划已从讨论议题正式升级为国家战略。本周，日本政府确认了广为引用的数字：到2040年，在18个行业部署1000万台AI驱动的机器人，并在五年内提供高达1万亿日元（约",
+      "creator": "Dashveenjit Kaur",
+      "relevance": 9,
+      "source": "AI News",
+      "category": "行业动态"
+    },
+    {
+      "title": "Anthropic称美国在安全担忧后已解除对Fable和Mythos AI模型的出口管制",
+      "link": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+      "pubdate": "2026-07-01 18:07:20",
+      "contentSnippet": "Anthropic已恢复用户对其最强大的新一代AI模型Fable的访问权限。此前因美国政府担心该模型可能被滥用于严重网络攻击，导致了超过两周的服务中断。这家旧金山公司表示出口管制已",
+      "creator": "Robert Booth UK technology editor",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访",
+      "link": "https://36kr.com/p/3867992509125636?f=rss",
+      "pubdate": "2026-07-01 18:00:00",
+      "contentSnippet": "前安克CMO王时远创办穗升科技，推出AI Memory可穿戴硬件Memoket，仅11克，可将物理世界所听到的信息结构化后交由AI Agent处理，实现跨时间聚合和上下文串联，面向",
+      "creator": "黄楠",
+      "relevance": 9,
+      "source": "穗升科技",
+      "category": "产品发布"
+    },
+    {
+      "title": "Claude 帮助黑客找到几乎所有美国音乐节的门票生成漏洞",
+      "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+      "pubdate": "2026-07-01 18:00:00",
+      "contentSnippet": "一名研究人员发现，利用 Anthropic 的 Claude Opus 4.7，他可以入侵 Front Gate 的网站——该网站被从 Lollapalooza 到 Bonnaro",
+      "creator": "Andy Greenberg",
+      "relevance": 7,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "英格兰银行审查金融领域自主AI代理的监管规则",
+      "link": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+      "pubdate": "2026-07-01 18:00:00",
+      "contentSnippet": "英格兰银行正在审查现有规则是否能够涵盖自主AI代理在金融领域的应用，包括支付、交易、网络安全和运营等方面。副行长萨拉·布里登表示，现有的监管框架并非为能够在没有直接人类指令的情况下",
+      "creator": "Muhammad Zulhusni",
+      "relevance": 9,
+      "source": "AI News",
+      "category": "安全监管"
+    },
+    {
+      "title": "具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了",
+      "link": "https://www.qbitai.com/2026/07/441396.html",
+      "pubdate": "2026-07-01 17:33:05",
+      "contentSnippet": "全新的持续学习范式",
+      "creator": "henry",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发",
+      "link": "https://36kr.com/p/3874358072710407?f=rss",
+      "pubdate": "2026-07-01 17:20:00",
+      "contentSnippet": "感知纪元科技有限公司近日完成千万级天使轮融资，由松禾资本领投。公司定位于机器人触觉基础设施提供商，通过自研多模态电子皮肤、触觉感知硬件及AI算法，为机器人提供完整的触觉系统。创始人",
+      "creator": "黄楠",
+      "relevance": 8,
+      "source": "36氪",
+      "category": "投融资信息"
+    },
+    {
+      "title": "OceanBase湖库一体，重新定义AI数据库",
+      "link": "https://www.qbitai.com/2026/07/441386.html",
+      "pubdate": "2026-07-01 17:05:10",
+      "contentSnippet": "一套技术栈实现离在线统一",
+      "creator": "鹭羽",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "联合国警告：AI的快速传播可能加剧全球不平等",
+      "link": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+      "pubdate": "2026-07-01 17:00:32",
+      "contentSnippet": "专家组提出负责任AI开发的共享框架，全球AI采用不均加速发展。一份新的联合国报告警告说，人工智能的发展可能加剧全球不平等，并提出了如何负责任地开发AI的共享框架，因为全球对该技术的",
+      "creator": "Sanya Mansoor",
+      "relevance": 9,
+      "source": "联合国",
+      "category": "行业动态"
+    },
+    {
+      "title": "赤子城独家投资：4人创业团队「MobAI」，推出AI互动平台「Lunaverse Stories」 | 36氪首发",
+      "link": "https://36kr.com/p/3875622047805447?f=rss",
+      "pubdate": "2026-07-01 17:00:00",
+      "contentSnippet": "AI创业公司MobAI完成数百万元天使轮融资，由港股上市公司赤子城科技独家投资。其开发的AI互动叙事应用Lunaverse Stories已进入邀请制测试阶段，面向北美年轻女性用户",
+      "creator": "刘士武",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Anthropic部署Claude Sonnet 5，Fable和Mythos模型恢复",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+      "pubdate": "2026-07-01 16:47:12",
+      "contentSnippet": "在联邦出口管制审查结束后，Anthropic推出了Claude Sonnet 5，并恢复了对Fable和Mythos前沿模型的访问权限。这一决定标志着因6月12日美国政府出口管制指",
+      "creator": "Ryan Daws",
+      "relevance": 9,
+      "source": "AI News",
+      "category": "模型发布"
+    },
+    {
+      "title": "特斯拉致命车祸数据失踪案",
+      "link": "https://www.businessinsider.com/tesla-autopilot-failure-fatal-crash-missing-data-2026-7",
+      "pubdate": "2026-07-01 16:07:01",
+      "contentSnippet": "这篇深度调查报道详细回顾了2019年佛罗里达州一起特斯拉Autopilot致命车祸的来龙去脉。驾驶员启用Autopilot后分心捡手机，以62英里/小时的速度闯过停车标志，撞上一辆",
+      "creator": "David Kushner",
+      "relevance": 8,
+      "source": "Business Insider",
+      "category": "安全监管"
+    },
+    {
+      "title": "硅基流动递表港交所",
+      "link": "https://36kr.com/newsflashes/3876312441417736?f=rss",
+      "pubdate": "2026-07-01 15:48:55",
+      "contentSnippet": "36氪获悉，港交所文件显示，北京硅基流动科技股份有限公司向港交所提交上市申请书，联席保荐人为华泰国际、国泰海通。",
+      "creator": "36氪",
+      "relevance": 7,
+      "source": "硅基流动",
+      "category": "投融资信息"
+    },
+    {
+      "title": "高盛认为超大规模企业支出将持续提振欧洲股市",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-01/goldman-sees-hyperscaler-spend-further-benefiting-europe-video",
+      "pubdate": "2026-07-01 15:47:46",
+      "contentSnippet": "高盛首席全球股票策略师彼得·奥本海默表示，超大规模企业在支出上的加速增长将持续推动其他行业和地区的盈利增长，包括欧洲。他在彭博电视上发表上述言论。",
+      "creator": "Peter Oppenheimer",
+      "relevance": 6,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "Anthropic Claude模型正式登陆Microsoft Foundry",
+      "link": "https://36kr.com/newsflashes/3876296337354757?f=rss",
+      "pubdate": "2026-07-01 15:44:19",
+      "contentSnippet": "Anthropic当地时间6月29日宣布，Claude模型即日起正式在Microsoft Foundry（Azure AI Foundry）全面可用，企业用户可直接在Azure环境",
+      "creator": "36 氪",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
+      "link": "https://www.qbitai.com/2026/07/441246.html",
+      "pubdate": "2026-07-01 15:41:42",
+      "contentSnippet": "Taste，决定天花板。",
+      "creator": "Jay",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "谷歌发布全新AI创作工具，加速多模态内容生成",
+      "link": "https://36kr.com/newsflashes/3876293824737544?f=rss",
+      "pubdate": "2026-07-01 15:29:59",
+      "contentSnippet": "谷歌在近期举行的I/O开发者大会上宣布了一系列面向开发者的AI创作工具升级，旨在通过最新的Gemini模型家族，降低多媒体内容的生成门槛并提升效率。在视频和多模态创作领域，谷歌发布",
+      "creator": "36氪",
+      "relevance": 10,
+      "source": "谷歌",
+      "category": "模型发布"
+    },
+    {
+      "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
+      "link": "https://www.qbitai.com/2026/07/441237.html",
+      "pubdate": "2026-07-01 15:29:32",
+      "contentSnippet": "共同推进物理AI前沿技术探索。",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "Anthropic 推出 Claude Science AI 科研工作台",
+      "link": "https://36kr.com/newsflashes/3876290199089153?f=rss",
+      "pubdate": "2026-07-01 15:26:17",
+      "contentSnippet": "Anthropic于周二正式发布Claude Science，这是一款面向科学家的AI工作台，旨在将分散的科研工具整合至统一环境，让AI代理端到端运行分析，并由专门的审核代理检查引",
+      "creator": "36 氪",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "OpenAI据悉迎来重大技术突破：系统优化使模型推理成本减半",
+      "link": "https://36kr.com/newsflashes/3876288840331266?f=rss",
+      "pubdate": "2026-07-01 15:24:55",
+      "contentSnippet": "6月30日，据报道，OpenAI工程师在内部透露，公司已通过一系列全新的系统底层优化，成功将AI模型的推理（运行）成本降低了50%以上。（界面）",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了",
+      "link": "https://www.qbitai.com/2026/07/441225.html",
+      "pubdate": "2026-07-01 15:24:48",
+      "contentSnippet": "重写'AI如何反复推演世界'",
+      "creator": "思邈",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "技术论文"
+    },
+    {
+      "title": "Anthropic旗下Fable模型的出口管制料将于周二晚解除",
+      "link": "https://36kr.com/newsflashes/3876287566065923?f=rss",
+      "pubdate": "2026-07-01 15:23:37",
+      "contentSnippet": "美国商务部预计将于周二晚解除对Anthropic旗下Fable人工智能模型的出口管制。（新浪财经）",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "卡帕西、李飞飞、辛顿都投了的Transformer专用芯片，签下10亿美元大单",
+      "link": "https://www.qbitai.com/2026/07/441183.html",
+      "pubdate": "2026-07-01 15:15:29",
+      "contentSnippet": "已流片",
+      "creator": "衡宇",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "投融资信息"
+    },
+    {
+      "title": "伦敦风投公司 Tapestry VC 完成 8000 万美元第三期基金募集，专注投资欧洲连续创业者",
+      "link": "https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry/",
+      "pubdate": "2026-07-01 15:01:52",
+      "contentSnippet": "Tapestry VC 已完成 8000 万美元第三期基金的募集，将加倍押注欧洲的连续创业者，并预计即将到来的人工智能退出浪潮将催生新一代经验丰富的创始人。",
+      "creator": "Gené Teare",
+      "relevance": 7,
+      "source": "Tapestry VC",
+      "category": "投融资信息"
+    },
+    {
+      "title": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割",
+      "link": "https://www.qbitai.com/2026/07/441140.html",
+      "pubdate": "2026-07-01 14:26:06",
+      "contentSnippet": "四大互联网分别领投",
+      "creator": "henry",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Anthropic 称美国已解除对 Fable 5 AI 模型的限制",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video",
+      "pubdate": "2026-07-01 14:09:44",
+      "contentSnippet": "美国政府解除了对 Anthropic 的 Fable 5 人工智能模型的外国访问限制，为其更广泛的分销扫清障碍。Anthropic 表示已收到通知，商务部正在解除对 Mythos ",
+      "creator": "Bloomberg Technology",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "阿布扎比MGX募资490亿美元，打造史上规模最大的AI基金之一",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever",
+      "pubdate": "2026-07-01 14:00:00",
+      "contentSnippet": "MGX已募资490亿美元，打造有史以来规模最大的专注于人工智能交易的基金之一，使这家成立两年的阿布扎比公司跻身全球最具影响力的行业投资者行列。",
+      "creator": "Dinesh Nair",
+      "relevance": 9,
+      "source": "MGX",
+      "category": "投融资信息"
+    },
+    {
+      "title": "卖Token也不是稳赚不赔！硅基流动招股书来了",
+      "link": "https://www.qbitai.com/2026/07/441127.html",
+      "pubdate": "2026-07-01 13:52:09",
+      "contentSnippet": "AI推理时代的Token工厂",
+      "creator": "鱼羊",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "投融资信息"
+    },
+    {
+      "title": "华侨银行将年度技术支出提高至逾7.71亿美元",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/ocbc-to-raise-annual-tech-spending-to-more-than-771-million",
+      "pubdate": "2026-07-01 12:26:47",
+      "contentSnippet": "华侨银行计划将包括人工智能在内的年度技术支出提高至超过10亿新加坡元（7.71亿美元），一位高层管理人员表示。",
+      "creator": "Rthvika Suvarna, Chanyaporn Chanjaroen",
+      "relevance": 7,
+      "source": "华侨银行",
+      "category": "行业动态"
+    },
+    {
+      "title": "一条巨型光缆揭示爱尔兰的AI雄心与安全风险",
+      "link": "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk",
+      "pubdate": "2026-07-01 12:00:21",
+      "contentSnippet": "一条新的亚马逊跨大西洋光纤光缆象征着该国的科技经济地位，但也凸显了其长期缺乏国防开支的问题。",
+      "creator": "Alan Crawford, Jennifer Duggan, Olivia Fletcher",
+      "relevance": 6,
+      "source": "Bloomberg Technology",
+      "category": "行业动态"
+    },
+    {
+      "title": "Vertiv 在马来西亚开设工厂以满足AI数据中心电力需求",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/vertiv-opens-malaysia-plant-to-meet-ai-data-centers-power-needs",
+      "pubdate": "2026-07-01 12:00:00",
+      "contentSnippet": "美国数据中心设备制造商 Vertiv Holdings Co. 在马来西亚开设了一家工厂，突显了亚太地区AI基础设施建设的快速步伐。",
+      "creator": "Yuan Gao",
+      "relevance": 7,
+      "source": "Vertiv Holdings Co.",
+      "category": "行业动态"
+    },
+    {
+      "title": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型",
+      "link": "https://www.qbitai.com/2026/07/441124.html",
+      "pubdate": "2026-07-01 11:46:20",
+      "contentSnippet": "物理世界AI的下一步",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "Om AI联汇",
+      "category": "模型发布"
+    },
+    {
+      "title": "日本投资公司（JIC）的畑由香谈AI与战略性行业领域",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-01/japan-investment-corp-s-hata-on-ai-strategic-sectors-video",
+      "pubdate": "2026-07-01 11:34:37",
+      "contentSnippet": "日本投资公司（JIC）基金投资部高级董事总经理兼主管畑由香表示，随着日本将重心转向物理AI和深度技术，资本需求正在增长。她指出，日本的劳动力短缺加剧了对AI驱动解决方案的需求，使该",
+      "creator": "Bloomberg Technology",
+      "relevance": 8,
+      "source": "Japan Investment Corporation",
+      "category": "投融资信息"
+    },
+    {
+      "title": "特朗普解除对Anthropic的Mythos和Fable模型的限制",
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "pubdate": "2026-07-01 10:16:06",
+      "contentSnippet": "特朗普政府在AI政策制定上的反复无常，让整个行业的公司对未来模型发布的监管方向缺乏清晰认识。",
+      "creator": "Tim Fernholz",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "Wayve 以85亿美元估值启动8500万美元员工要约收购",
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "pubdate": "2026-07-01 10:04:40",
+      "contentSnippet": "Wayve 此次要约收购是AI初创公司利用员工要约收购作为吸引和留住人才的战略工具这一日益增长趋势的一部分。",
+      "creator": "Marina Temkin",
+      "relevance": 7,
+      "source": "TechCrunch AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "松下瞄准进一步AI增长，以创纪录估值为基础",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/panasonic-targets-further-ai-growth-to-build-on-record-valuation",
+      "pubdate": "2026-07-01 09:57:24",
+      "contentSnippet": "日本电子集团松下控股公司作为人工智能热潮的受益者，正重新吸引投资者的关注。",
+      "creator": "Reed Stevenson, Mari Kiyohara",
+      "relevance": 7,
+      "source": "Panasonic",
+      "category": "行业动态"
+    },
+    {
+      "title": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
+      "link": "https://www.qbitai.com/2026/07/441001.html",
+      "pubdate": "2026-07-01 09:22:28",
+      "contentSnippet": "“性价比模型”价格明降暗涨",
+      "creator": "克雷西",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "视频版Nano Banana来了！内置Gemini世界知识；原版香蕉出图仅需4秒",
+      "link": "https://www.qbitai.com/2026/07/440985.html",
+      "pubdate": "2026-07-01 09:11:39",
+      "contentSnippet": "Gemni 3.5 Pro到底啥时候来啊！！！",
+      "creator": "Jay",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "Anthropic 与白宫谈判后恢复 Fable 5 的访问权限",
+      "link": "https://www.businessinsider.com/anthropic-restores-fable-5-mythos-access-trump-white-house-talks-2026-6",
+      "pubdate": "2026-07-01 08:02:17",
+      "contentSnippet": "Anthropic 宣布其 Fable 5 AI 模型在政府争议后将重新回归。",
+      "creator": "Bloomberg/Bloomberg via Getty Images",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "美国解除Anthropic旗下Fable 5 AI模型出口限制",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model",
+      "pubdate": "2026-07-01 07:55:28",
+      "contentSnippet": "美国政府已解除对Anthropic PBC旗下Fable 5人工智能模型的外国访问限制，在初创公司解决了特朗普政府的安全顾虑后，该模型获准进行更广泛的全球分发。",
+      "creator": "Shirin Ghaffary, Maggie Eastland",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "特朗普政府解除对Anthropic的Mythos和Fable AI模型的出口管制",
+      "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "pubdate": "2026-07-01 07:23:04",
+      "contentSnippet": "白宫正在放松对Anthropic最先进AI模型的限制，几周前该政府曾命令该公司暂停外国国民的访问权限。",
+      "creator": "Hugo Lowell",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "微软计划裁员数千人，影响不到2.5%的员工",
+      "link": "https://www.businessinsider.com/microsoft-job-cuts-layoffs-sales-consulting-2026-6",
+      "pubdate": "2026-07-01 07:08:00",
+      "contentSnippet": "微软计划宣布新一轮裁员，预计影响数千个岗位，包括销售和咨询职位。此次裁员规模小于去年，裁员人数不到公司22万员工的2.5%。微软正大力削减成本，以加大在AI领域的投入。同时，华尔街",
+      "creator": "Ashley Stewart",
+      "relevance": 6,
+      "source": "Business Insider",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenClaw 终于登陆 Android 和 iOS 平台",
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "pubdate": "2026-07-01 05:53:28",
+      "contentSnippet": "这款免费开源的智能代理程序终于入侵你的手机。",
+      "creator": "Lucas Ropek",
+      "relevance": 9,
+      "source": "OpenClaw",
+      "category": "产品发布"
+    },
+    {
+      "title": "Claude Science：Anthropic 最新旗舰产品",
+      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "pubdate": "2026-07-01 05:50:04",
+      "contentSnippet": "周二，在面向制药高管、生物技术创始人及研究人员的活动中，Anthropic 发布了重大新产品 Claude Science，旨在像 Claude Code 支持软件工程一样，支持科",
+      "creator": "Grace Huckins",
+      "relevance": 10,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "债务与高风险押注助推韩国与台湾AI股票繁荣",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-30/debt-and-risky-bets-fuel-south-korea-and-taiwan-s-ai-stock-boom",
+      "pubdate": "2026-07-01 05:30:04",
+      "contentSnippet": "AI热潮推动了台湾和韩国股市的历史性上涨。但由于这些收益是由借贷资金和高风险押注推动的，接下来会发生什么？请收听Big Take Asia播客了解更多。（来源：彭博社）",
+      "creator": "Bloomberg",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "Anthropic 推出 Claude Science，进军科学应用领域",
+      "link": "https://aibusiness.com/generative-ai/with-claude-science-anthropic-targets-application",
+      "pubdate": "2026-07-01 05:27:58",
+      "contentSnippet": "这家AI供应商并非首家专注于科学领域的模型提供商。由于在科学领域使用AI存在挑战，它正在谨慎推进相关布局。",
+      "creator": "Esther Shittu",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "债务与高风险押注助推韩国与台湾的人工智能股票热潮",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-30/the-risky-debt-fueling-taiwan-and-korea-s-ai-stock-boom-big-take-asia-podcast",
+      "pubdate": "2026-07-01 05:11:15",
+      "contentSnippet": "在今天的Big Take Asia播客中，探讨了人工智能驱动的股市热潮如何吸引投资者在台湾和韩国这个全球最火热的市场反弹中承担巨大风险。",
+      "creator": "Naomi Ng, Rebecca Choong Wilkins",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "曾为DeepMind打造扑克AI的三位创始人，如今为量化对冲基金赚钱",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "pubdate": "2026-07-01 04:33:48",
+      "contentSnippet": "EquiLibre Technologies，一家由三位前DeepMind研究员创立的布拉格AI实验室，目前估值已超过5亿美元。",
+      "creator": "Anna Heim",
+      "relevance": 9,
+      "source": "EquiLibre Technologies",
+      "category": "行业动态"
+    },
+    {
+      "title": "Claude Sonnet 5：关于Anthropic新模型的一切须知",
+      "link": "https://www.techrepublic.com/article/news-claude-sonnet-5-everything-you-need-to-know/",
+      "pubdate": "2026-07-01 04:27:26",
+      "contentSnippet": "Claude Sonnet 5 带来了更强大的代理型AI功能、更低的定价以及更新的安全保护措施。以下是IT领导者需要了解的内容。",
+      "creator": "Matt Gonzales",
+      "relevance": 10,
+      "source": "TechRepublic",
+      "category": "模型发布"
+    },
+    {
+      "title": "在AI世界中，品味成为品牌的竞争优势",
+      "link": "https://www.businessinsider.com/ai-adoption-shifts-towards-long-term-strategies-leaders-reveal-2026-6",
+      "pubdate": "2026-07-01 04:18:58",
+      "contentSnippet": "在2026年戛纳国际创意节期间，Business Insider联合Bluefish AI举办了'AI营销人'圆桌讨论，Autodesk、Accenture Song、Adobe、",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "Business Insider",
+      "category": "行业动态"
+    },
+    {
+      "title": "SpaceX的AI热潮为孟菲斯居民带来福利：星链半价优惠",
+      "link": "https://www.businessinsider.com/spacex-half-price-starlink-memphis-residents-2026-6",
+      "pubdate": "2026-07-01 04:14:33",
+      "contentSnippet": "SpaceX向孟菲斯地区居民提供星链半价优惠，作为其AI基础设施（xAI的Colossus数据中心）在该地区扩张的社区回馈。Colossus数据中心于2024年启动，已成为全球最大",
+      "creator": "Business Insider",
+      "relevance": 7,
+      "source": "SpaceX",
+      "category": "行业动态"
+    },
+    {
+      "title": "新攻击方式表明AI浏览器为何是个坏主意",
+      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "pubdate": "2026-07-01 04:03:14",
+      "contentSnippet": "告诉大语言模型2+2=5就足以让其绕过安全护栏执行违禁指令。",
+      "creator": "Dan Goodin",
+      "relevance": 9,
+      "source": "Ars Technica",
+      "category": "安全监管"
+    },
+    {
+      "title": "Kimi估值升至315亿美元，ARR突破3亿美元",
+      "link": "https://36kr.com/p/3873626697470985?f=rss",
+      "pubdate": "2026-07-01 03:56:34",
+      "contentSnippet": "月之暗面Kimi上一轮200亿美元估值融资于近日完成交割，新一轮融资已经启动，投前估值涨至315亿美元。截至6月中旬，ARR（年度经常性收入）突破3亿美元。API收入已占Kimi整",
+      "creator": "36氪",
+      "relevance": 10,
+      "source": "36氪",
+      "category": "投融资信息"
+    },
+    {
+      "title": "研究发现：频繁使用AI聊天机器人的用户更易相信反疫苗谣言",
+      "link": "https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll",
+      "pubdate": "2026-07-01 03:51:07",
+      "contentSnippet": "民调发现，使用AI工具获取健康建议与相信疫苗虚假信息（如疫苗导致自闭症、麻疹疫苗比病毒本身更危险等）之间存在显著相关性",
+      "creator": "Nick Robins-Early",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI工具可以让CMO有更多时间专注于品味和判断，Reddit的Jim Squires表示",
+      "link": "https://www.businessinsider.com/reddit-jim-cfo-squires-cannes-lions-2026-6",
+      "pubdate": "2026-07-01 03:44:11",
+      "contentSnippet": "Reddit首席营销官Jim Squires在2026年戛纳国际创意节上接受CMO Insider采访时表示，CMO的角色已从管理营销产出演变为真正推动公司的业务相关性和业务增长。",
+      "creator": "Business Insider",
+      "relevance": 6,
+      "source": "Reddit",
+      "category": "行业动态"
+    },
+    {
+      "title": "比特币矿工成为电网宝贵资产：对话Luxor Technology COO Ethan Vera谈AI转型",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-30/bitcoin-miners-valuable-asset-for-electric-grid-vera-video",
+      "pubdate": "2026-07-01 03:39:34",
+      "contentSnippet": "Luxor Technology首席运营官Ethan Vera做客《Bloomberg Crypto》节目。许多矿工正将重心转向AI。更广泛地说，加密公司开始将围绕数字资产建立的基",
+      "creator": "Isabelle Lee",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "谷歌推出更快、更便宜的图像生成器 Nano Banana 2 Lite",
+      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "pubdate": "2026-07-01 03:02:38",
+      "contentSnippet": "谷歌正在更新其图像生成器，使其运行速度更快、成本更低，成为创作者制作AI内容时更有用的工具。",
+      "creator": "Lucas Ropek",
+      "relevance": 9,
+      "source": "Google",
+      "category": "模型发布"
+    },
+    {
+      "title": "Google 发布全新 Nano Banana 2 Lite 图像模型——速度最快、成本最低",
+      "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+      "pubdate": "2026-07-01 02:36:10",
+      "contentSnippet": "虽然生成效果可能略逊一筹，但 Nano Banana 2 Lite 图像仅需几秒即可完成生成。",
+      "creator": "Ryan Whitwam",
+      "relevance": 9,
+      "source": "Google",
+      "category": "模型发布"
+    },
+    {
+      "title": "我对凯莉·詹娜那则Meta眼镜广告的一些想法",
+      "link": "https://www.404media.co/meta-smart-glasses-starfire-kylie-jenner/",
+      "pubdate": "2026-07-01 02:19:17",
+      "contentSnippet": "Meta与凯莉·詹娜合作推出的新款Starfire AI眼镜，让我感到毛骨悚然。",
+      "creator": "Samantha Cole",
+      "relevance": 7,
+      "source": "404 Media",
+      "category": "产品发布"
+    },
+    {
+      "title": "Nvidia 竞争对手 Etched 估值达 50 亿美元，AI 芯片销售额达 10 亿美元",
+      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "pubdate": "2026-07-01 02:13:02",
+      "contentSnippet": "Nvidia AI 芯片竞争对手 Etched 表示，其芯片驱动的推理系统已签约合同金额达 10 亿美元。",
+      "creator": "Julie Bort",
+      "relevance": 9,
+      "source": "Etched",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Anthropic 发布 Claude Sonnet 5，作为运行 AI 代理的更经济方案",
+      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "pubdate": "2026-07-01 02:00:00",
+      "contentSnippet": "Anthropic 的 Claude Sonnet 5 带来了更强的代理能力、更低的价格和更高的安全性，将该模型定位为 Opus、GPT-5.5 和 Gemini Pro 的更经济",
+      "creator": "Rebecca Bellan",
+      "relevance": 10,
+      "source": "Anthropic",
+      "category": "模型发布"
+    },
+    {
+      "title": "Acti 将 AI 智能体直接集成到智能手机键盘中",
+      "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "pubdate": "2026-07-01 01:52:46",
+      "contentSnippet": "Acti 认为智能手机键盘是 AI 助手的下一个归宿。这家初创公司面向 iOS 和 Android 推出的新键盘可跨应用运行，让用户通过自然语言创建自定义 AI 驱动的快捷方式。",
+      "creator": "Sarah Perez",
+      "relevance": 9,
+      "source": "Acti",
+      "category": "产品发布"
+    },
+    {
+      "title": "SpaceX 的 Cursor：全新 iPhone 应用将 AI 编码代理带到移动端",
+      "link": "https://www.techrepublic.com/article/news-spacex-cursor-ai-coding-agents-iphone/",
+      "pubdate": "2026-07-01 01:26:06",
+      "contentSnippet": "Cursor 发布了 iPhone 和 iPad 的公开测试版，让付费订阅用户可以在移动设备上运行、监控和审查 AI 编码代理。",
+      "creator": "Kezia Jungco",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "产品发布"
+    },
+    {
+      "title": "Anthropic 的 Claude Science 押注工作流程而非新模型，以赢得科学家青睐",
+      "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "pubdate": "2026-07-01 01:00:00",
+      "contentSnippet": "Anthropic 的 Claude Science 是一个工作台，为科学家提供统一的计算研究环境，使他们无需在数据库、流水线和工具之间来回切换。",
+      "creator": "Rebecca Bellan",
+      "relevance": 8,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "Anthropic 发布 Claude Science，用于自动化科研",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research",
+      "pubdate": "2026-07-01 01:00:00",
+      "contentSnippet": "Anthropic PBC 正在发布一款新软件，旨在帮助科学家实现研究自动化，以期减少他们工作中繁琐重复的部分。",
+      "creator": "Rachel Metz, Shirin Ghaffary",
+      "relevance": 10,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "特朗普计划重新设计所有.gov网站，AI设计引发恐怖结果",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+      "pubdate": "2026-07-01 00:59:02",
+      "contentSnippet": "一年过去，国家设计工作室推迟更新政府网络标准的计划，特朗普政府推动的政府网站全面重新设计项目因过度依赖AI生成设计而引发诸多问题。",
+      "creator": "Ashley Belanger",
+      "relevance": 8,
+      "source": "Ars Technica",
+      "category": "行业动态"
+    },
+    {
+      "title": "SkillOpt：将智能体技能作为可训练参数",
+      "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "pubdate": "2026-07-01 00:50:02",
+      "contentSnippet": "AI智能体经常失败，因为它们的指令（或技能）是通过手动修改的，无法保证改进。了解SkillOpt如何将技能编辑转变为训练过程，使智能体行为更可靠，而无需改变模型权重。",
+      "creator": "Yifan Yang, Xuemei Gao, Qi Dai, Bei Liu, Kai Qiu, Dongdong Chen, Chong Luo",
+      "relevance": 9,
+      "source": "Microsoft Research",
+      "category": "技术论文"
+    },
+    {
+      "title": "Claude Tag 登陆 Slack，澳大利亚拥抱企业级 AI",
+      "link": "https://www.techrepublic.com/article/apac/",
+      "pubdate": "2026-07-01 00:47:43",
+      "contentSnippet": "Anthropic 已为 Slack 用户推出 Claude Tag，此时澳大利亚企业正成为全球这两款工具最活跃的用户群体之一。",
+      "creator": "Joseph Ofonagoro",
+      "relevance": 8,
+      "source": "TechRepublic",
+      "category": "产品发布"
+    },
+    {
+      "title": "OpenAI 为 AI 编码者推出新设备，形似迷你键盘",
+      "link": "https://www.businessinsider.com/openai-teases-codex-hardware-device-mini-keyboard-controller-2026-6",
+      "pubdate": "2026-07-01 00:26:30",
+      "contentSnippet": "OpenAI 在 X 平台上预告了一款名为 Codex Micro 的新硬件产品，专为其 AI 编码工具 Codex 设计。该设备由蒙特利尔键盘配件公司 Work Louder 联",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "产品发布"
+    },
+    {
+      "title": "施耐德以31亿美元收购工业AI公司Cognite",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-30/schneider-to-buy-industrial-ai-firm-cognite-for-3-1-billion",
+      "pubdate": "2026-07-01 00:05:40",
+      "contentSnippet": "施耐德电气以31亿美元全现金交易收购Cognite，旨在扩大其工业数据和AI软件业务，这是加速推动欧洲工厂现代化进程的一部分。",
+      "creator": "Chloe Meley, Frank Connelly",
+      "relevance": 7,
+      "source": "施耐德电气",
+      "category": "投融资信息"
+    },
+    {
+      "title": "开始使用 Nano Banana 2 Lite 和 Gemini Omni Flash 进行开发",
+      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "pubdate": "2026-07-01 00:02:40",
+      "contentSnippet": "DeepMind 发布了 Nano Banana 2 Lite 和 Gemini Omni Flash 新模型，邀请开发者开始使用这些模型进行应用构建和开发工作。",
+      "creator": "DeepMind",
+      "relevance": 9,
+      "source": "DeepMind",
+      "category": "模型发布"
+    }
+  ]
+}

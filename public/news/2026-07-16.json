@@ -1,0 +1,705 @@
+{
+  "date": "2026-07-16",
+  "items": [
+    {
+      "title": "是的，您现在可以通过命令行订购 DoorDash",
+      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "pubdate": "2026-07-16 23:38:55",
+      "contentSnippet": "DoorDash 正在开放 dd-cli 的限量测试版，这是一款命令行工具，可让开发者和 AI 智能体在终端中搜索商店、构建购物车并下单，这标志着软件设计正朝着面向 AI 智能体而",
+      "creator": "Sarah Perez",
+      "relevance": 7,
+      "source": "TechCrunch AI",
+      "category": "产品发布"
+    },
+    {
+      "title": "中国主导的AI国际组织拉拢全球南方国家抗衡美国",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-16/china-led-ai-body-enlists-global-south-states-to-rival-us",
+      "pubdate": "2026-07-16 23:28:02",
+      "contentSnippet": "包括俄罗斯在内的29个国家已加入中国主导的世界人工智能合作组织（WAICO），北京方面计划与美国争夺对新兴人工智能影响力的布局已初具规模。",
+      "creator": "Bloomberg News",
+      "relevance": 9,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "马斯克的xAI起诉涉嫌利用Grok制作儿童性虐待内容的用户",
+      "link": "https://www.theguardian.com/technology/2026/jul/16/elon-musk-xai-sue-user-grok-csam",
+      "pubdate": "2026-07-16 23:19:27",
+      "contentSnippet": "这是AI公司首次因用户涉嫌利用AI工具生成儿童虐待内容而提起诉讼的案件之一。埃隆·马斯克的人工智能初创公司xAI起诉了一名南卡罗来纳州男子，指控其滥用公司AI系统Grok制作儿童性",
+      "creator": "Reuters",
+      "relevance": 8,
+      "source": "The Guardian AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "前 DeepMind 研究员如何在产品推出前以 3 亿美元种子轮估值完成融资",
+      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "pubdate": "2026-07-16 23:02:00",
+      "contentSnippet": "安德鲁·戴（Andrew Dai）凭借十多年来参与构建世界上最具影响力的人工智能系统（包括后来推动 ChatGPT 发展的研究）的经验，阐述了他为何认为视觉 AI 是人工智能的下一",
+      "creator": "Maggie Nye",
+      "relevance": 9,
+      "source": "TechCrunch",
+      "category": "投融资信息"
+    },
+    {
+      "title": "脑植入物帮助瘫痪男子自主进食饮水",
+      "link": "https://www.theguardian.com/science/2026/jul/16/neural-bypass-brain-implant-paralysed-man-feed-himself-drink-from-cup",
+      "pubdate": "2026-07-16 23:00:41",
+      "contentSnippet": "通过'双神经旁路'技术和数月训练，一名在游泳事故中瘫痪六年的男子能够移动手臂和手，并感受到触觉，借助脑植入物绕过脊髓损伤，实现了自主进食和饮水。",
+      "creator": "Ian Sample Science editor",
+      "relevance": 8,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "特斯拉司机将事故归咎于自动驾驶，NTSB发现其油门踏板踩至100%",
+      "link": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
+      "pubdate": "2026-07-16 22:48:32",
+      "contentSnippet": "NTSB调查结果支持了埃隆·马斯克的说法，即驾驶员手动覆盖了FSD（全自动驾驶）系统。",
+      "creator": "Ashley Belanger",
+      "relevance": 6,
+      "source": "Ars Technica",
+      "category": "安全监管"
+    },
+    {
+      "title": "为什么 AMI Labs 的 Alexandre LeBrun 不愿称其 AI 为'AGI'或'超级智能'",
+      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "pubdate": "2026-07-16 22:40:00",
+      "contentSnippet": "当人工智能领域的每个人都在追逐'超级智能'时，Yann LeCun 的世界模型初创公司 AMI Labs 的 CEO Alexandre LeBrun 却对这个词不屑一顾。",
+      "creator": "Kate Park",
+      "relevance": 8,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "月之暗面即将推出的Kimi 3有望缩小与Anthropic Opus 4.8的差距",
+      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "pubdate": "2026-07-16 22:26:29",
+      "contentSnippet": "据英国《金融时报》报道，Kimi K3将成为中国最大的开源AI模型，参数量在2万亿到3万亿之间。",
+      "creator": "Dominic-Madori Davis",
+      "relevance": 9,
+      "source": "Moonshot",
+      "category": "模型发布"
+    },
+    {
+      "title": "苹果智能（Apple Intelligence）获准与阿里巴巴和百度合作在中国推出",
+      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "pubdate": "2026-07-16 21:17:59",
+      "contentSnippet": "这笔自去年起就传闻在筹备的交易，标志着苹果在关键市场的AI雄心迈出了重要一步。",
+      "creator": "Sarah Perez",
+      "relevance": 9,
+      "source": "Apple",
+      "category": "产品发布"
+    },
+    {
+      "title": "台积电业绩引发AI支出担忧，科技股拖累标普500走低",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-16/us-stock-futures-tumble-as-tsmc-s-results-revive-ai-concerns",
+      "pubdate": "2026-07-16 20:25:53",
+      "contentSnippet": "科技股周四拖累美国主要股指走低，因台积电（TSMC）业绩引发市场对人工智能（AI）支出前景的担忧。",
+      "creator": "Joel Leon",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "下载：OpenAI 发布 GPT-Red 超级黑客模型，美国热泵使用量上升",
+      "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "pubdate": "2026-07-16 20:10:00",
+      "contentSnippet": "这是今日《下载》周刊的内容，为您带来科技领域每日动态。OpenAI 构建了一个名为 GPT-Red 的大语言模型超级黑客，作为其其他模型的陪练伙伴，致力于提升模型安全性。",
+      "creator": "Thomas Macaulay",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "安全监管"
+    },
+    {
+      "title": "柏林、巴黎、伦敦：欧洲三大AI中心如何分化",
+      "link": "https://www.aiacceleratorinstitute.com/berlin-paris-london-how-europes-ai-hubs-are-diverging/",
+      "pubdate": "2026-07-16 19:31:47",
+      "contentSnippet": "欧洲的AI场景曾经常被视为一个整体叙事。而在2026年，柏林、巴黎和伦敦正各自走上截然不同的发展道路，三者之间的差距正在迅速扩大……",
+      "creator": "Andrew Lovell",
+      "relevance": 8,
+      "source": "AI Accelerator Institute",
+      "category": "行业动态"
+    },
+    {
+      "title": "中国与AI引领亚洲初创企业融资在Q2达到多年峰值",
+      "link": "https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/",
+      "pubdate": "2026-07-16 19:00:00",
+      "contentSnippet": "根据Crunchbase数据，2026年第二季度，投资者在整个亚洲的初创企业融资轮中投入了428亿美元。在中国74亿美元DeepSeek融资的引领下，这是三年多来最高的季度总额。",
+      "creator": "Joanna Glasner",
+      "relevance": 7,
+      "source": "Crunchbase News",
+      "category": "投融资信息"
+    },
+    {
+      "title": "推动AI支付标准化基金会正式成立",
+      "link": "https://aibusiness.com/agentic-ai/foundation-standardize-ai-payments",
+      "pubdate": "2026-07-16 18:55:56",
+      "contentSnippet": "这一新机构将管理x402支付协议，获得了包括Visa、万事达卡、谷歌和微软在内的40家成员支持。",
+      "creator": "Graham Hope",
+      "relevance": 9,
+      "source": "AI Business",
+      "category": "行业动态"
+    },
+    {
+      "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
+      "link": "https://www.qbitai.com/2026/07/451403.html",
+      "pubdate": "2026-07-16 18:51:10",
+      "contentSnippet": "还能让机器人边干边学",
+      "creator": "鹭羽",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
+      "link": "https://www.qbitai.com/2026/07/450896.html",
+      "pubdate": "2026-07-16 18:30:46",
+      "contentSnippet": "后训练中真机数据需求骤降60%",
+      "creator": "衡宇",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "模型发布"
+    },
+    {
+      "title": "我们的生物弹性研究方法",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "pubdate": "2026-07-16 17:30:42",
+      "contentSnippet": "Google DeepMind 和 Isomorphic Labs 正在分享我们关于生物弹性和 AI 模型的联合研究方法。",
+      "creator": "DeepMind",
+      "relevance": 8,
+      "source": "DeepMind",
+      "category": "行业动态"
+    },
+    {
+      "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+      "link": "https://36kr.com/p/3896586337978244?f=rss",
+      "pubdate": "2026-07-16 17:30:00",
+      "contentSnippet": "庞伯特推出全球首款多运动合一AI教练机器人Aura，集成AI Coach智能教练体系，搭载120fps双摄视觉模块Spotter（10Tops端侧算力），结合语言、语音大模型和体育",
+      "creator": "黄楠",
+      "relevance": 9,
+      "source": "庞伯特",
+      "category": "产品发布"
+    },
+    {
+      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
+      "link": "https://www.qbitai.com/2026/07/451379.html",
+      "pubdate": "2026-07-16 17:25:17",
+      "contentSnippet": "为破解具身智能行业发展瓶颈构建了新一代'进化底座'",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
+      "link": "https://www.qbitai.com/2026/07/451327.html",
+      "pubdate": "2026-07-16 17:13:01",
+      "contentSnippet": "文远知行作为Robotaxi第一股，正在孵化具身智能领域的首个「基建商」。文章类比英伟达（AI算力基础设施）和宁德时代（新能源基础设施）的发展路径，认为具身智能领域也将出现类似的基",
+      "creator": "贾浩楠",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "Neko Health 融资7亿美元，将AI身体扫描服务扩展至美国",
+      "link": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+      "pubdate": "2026-07-16 17:00:00",
+      "contentSnippet": "Neko Health 已融资7亿美元，将其AI身体扫描服务扩展至美国，首站于纽约开设诊所。该公司的预防性筛查服务融合了医学影像、血液检测、专有传感器及临床医生审查。此轮C轮融资由",
+      "creator": "Muhammad Zulhusni",
+      "relevance": 9,
+      "source": "AI News",
+      "category": "投融资信息"
+    },
+    {
+      "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
+      "link": "https://www.qbitai.com/2026/07/451084.html",
+      "pubdate": "2026-07-16 16:04:18",
+      "contentSnippet": "不要赌某个模型能通吃一切。",
+      "creator": "田, 晏林",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "AI制药正迎来关键一跃，资本巨头竞逐新赛道",
+      "link": "https://36kr.com/newsflashes/3897551464826760?f=rss",
+      "pubdate": "2026-07-16 15:54:22",
+      "contentSnippet": "7月初，明星人工智能（AI）企业Anthropic发布了面向科学家和制药企业的专属AI产品Claude Science，并宣布将启动自主药物研发项目。紧接着，国内AI制药企业英矽智",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "中信建投：继续关注半导体材料进口替代交易",
+      "link": "https://36kr.com/newsflashes/3897534416029572?f=rss",
+      "pubdate": "2026-07-16 15:37:02",
+      "contentSnippet": "36氪获悉，中信建投研报指出，当前AI通胀来到了材料端，而材料环节的标的更加分散，而且多数强势公司在日本，2025年下半年以来双边关系的紧张更有加速迹象。供给端进口替代，需求端AI",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "中信建投",
+      "category": "投融资信息"
+    },
+    {
+      "title": "一位失忆患者，揭开了AI记忆的误区",
+      "link": "https://www.qbitai.com/2026/07/451049.html",
+      "pubdate": "2026-07-16 15:34:14",
+      "contentSnippet": "记忆能够独立成层",
+      "creator": "闻乐",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果正寻求收购人工智能芯片业务",
+      "link": "https://36kr.com/newsflashes/3897524899989384?f=rss",
+      "pubdate": "2026-07-16 15:27:21",
+      "contentSnippet": "据熟悉苹果工作的人士表示，苹果正在寻找收购芯片公司以加强其构建用于运行人工智能的服务器芯片的努力。近几个月来，这家iPhone制造商与银行家们就可能的交易进行了交流。消息人士称，它",
+      "creator": "36 氪",
+      "relevance": 8,
+      "source": "苹果",
+      "category": "投融资信息"
+    },
+    {
+      "title": "英伟达首席执行官黄仁勋否认产品延期论，称维拉鲁宾将按计划向客户交付",
+      "link": "https://36kr.com/newsflashes/3897523789072004?f=rss",
+      "pubdate": "2026-07-16 15:26:13",
+      "contentSnippet": "针对有关制造问题可能导致产品延期的说法，英伟达创始人兼首席执行官黄仁勋表示，公司下一代人工智能加速计算系统已进入生产阶段，将按计划向客户交付。黄仁勋表示，维拉鲁宾硬件正按计划实现\"",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "英伟达",
+      "category": "行业动态"
+    },
+    {
+      "title": "Apache Spark 4.2 正式发布",
+      "link": "https://www.databricks.com/blog/introducing-apache-spark-42",
+      "pubdate": "2026-07-16 15:00:00",
+      "contentSnippet": "Apache Spark 4.2 将更多现代数据与 AI 技术栈整合到统一平台中，进一步强化其在数据处理和机器学习工作负载方面的核心能力。",
+      "creator": "Databricks",
+      "relevance": 8,
+      "source": "Databricks",
+      "category": "产品发布"
+    },
+    {
+      "title": "一句「哈哈」引发的苹果OpenAI窃密大战",
+      "link": "https://www.qbitai.com/2026/07/450921.html",
+      "pubdate": "2026-07-16 12:47:55",
+      "contentSnippet": "苹果怒斥：烂到骨子里",
+      "creator": "听雨",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "Applied Computing 希望为油气运营商提供覆盖整个工厂的 AI 模型",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "pubdate": "2026-07-16 12:00:00",
+      "contentSnippet": "Applied Computing 已获得 2000 万美元的 A 轮融资，用于为石油、天然气和石化行业构建基础 AI 模型。",
+      "creator": "Ram Iyer",
+      "relevance": 8,
+      "source": "TechCrunch AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "你可能错过的CUBE在RAISE峰会报道中的三个洞见",
+      "link": "https://siliconangle.com/2026/07/15/agentic-inference-reshapes-ai-infrastructure-raise-summit-raisesummit/",
+      "pubdate": "2026-07-16 11:37:38",
+      "contentSnippet": "代理推理正在重塑AI基础设施的重心。最初围绕扩展训练规模的竞赛已转向由不断扩大的上下文窗口、记忆增强推理以及持续为GPU提供数据需求所定义的新阶段。随着企业深入推进代理系统，存储已",
+      "creator": "Victoria Gayton",
+      "relevance": 9,
+      "source": "SiliconANGLE",
+      "category": "行业动态"
+    },
+    {
+      "title": "棕榈滩拒绝特朗普马阿拉歌俱乐部附近的数据中心项目",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-16/palm-beach-strikes-down-data-center-plan-after-local-backlash",
+      "pubdate": "2026-07-16 10:45:21",
+      "contentSnippet": "棕榈滩县委员们否决了一项建设数字基础设施枢纽的提案，该枢纽旨在容纳AI数据中心和仓库，投票结果与当地居民的强烈反对意见一致。",
+      "creator": "Erin Hudson and Andrew Oxford",
+      "relevance": 6,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "新AI路线图能否约束科技巨头？ | 菲奥娜·卡陶斯卡斯",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/16/will-the-new-ai-roadmap-keep-the-tech-giants-in-line",
+      "pubdate": "2026-07-16 10:00:10",
+      "contentSnippet": "还是它们会另辟蹊径？\n\n点击此处查看更多菲奥娜·卡陶斯卡斯的漫画\n\n继续阅读...",
+      "creator": "Fiona Katauskas",
+      "relevance": 6,
+      "source": "The Guardian AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "QumulusAI 直接上市：加速企业 AI 的新云服务发展",
+      "link": "https://siliconangle.com/2026/07/15/qumulusais-direct-listing-accelerating-neocloud-enterprise-ai/",
+      "pubdate": "2026-07-16 09:27:57",
+      "contentSnippet": "新云服务提供商 QumulusAI 今日宣布，将于周四通过直接上市方式在纳斯达克公开交易，股票代码为 QMLS。对于那些不熟悉这一流程的人而言，传统的首次公开募股耗时较长且需要投资",
+      "creator": "Zeus Kerravala",
+      "relevance": 9,
+      "source": "QumulusAI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "安东尼·阿尔巴尼斯的AI愿景氛围满分，但细节决定成败——还有一个明显的遗漏……",
+      "link": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/16/anthony-albanese-ai-vision-artificial-intelligence-omission",
+      "pubdate": "2026-07-16 08:05:38",
+      "contentSnippet": "澳大利亚总理安东尼·阿尔巴尼斯在悉尼大学阐述政府人工智能政策转向。他对AI监管的承诺受到欢迎，包括确保澳大利亚创作者保留对其作品控制权的法律，但演讲在政策细节上有所欠缺。评论指出其",
+      "creator": "David Pocock",
+      "relevance": 8,
+      "source": "The Guardian",
+      "category": "安全监管"
+    },
+    {
+      "title": "微软据报道正在培训销售人员贬低OpenAI和Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "pubdate": "2026-07-16 07:59:44",
+      "contentSnippet": "微软希望将其内部AI模型推销为比竞争对手模型更高效、更具成本效益的选择。",
+      "creator": "Lucas Ropek",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "Mira Murati 的 Thinking Machines 发布 Inkling，一款人人可访问的开源权重模型",
+      "link": "https://siliconangle.com/2026/07/15/mira-muratis-thinking-machines-drops-inkling-open-weights-model-anyone-can-access/",
+      "pubdate": "2026-07-16 07:51:06",
+      "contentSnippet": "Mira Murati 创立的 Thinking Machines Lab Inc. 今日发布了其首个基础模型 Inkling，向开发者提供完整开源权重，使其能够按需微调该模型。I",
+      "creator": "Mike Wheatley",
+      "relevance": 9,
+      "source": "Thinking Machines",
+      "category": "模型发布"
+    },
+    {
+      "title": "英伟达扩大与丰田的 AI 合作，推动智慧城市与工厂建设",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
+      "pubdate": "2026-07-16 07:00:00",
+      "contentSnippet": "英伟达将向丰田汽车提供其人工智能硬件和软件，用于驱动智慧城市、交通智能系统及汽车制造工厂，此举拓宽了始于自动驾驶汽车开发的十年合作伙伴关系。",
+      "creator": "Takashi Mochizuki",
+      "relevance": 9,
+      "source": "Nvidia",
+      "category": "行业动态"
+    },
+    {
+      "title": "Cadence 将其AI智能体从芯片扩展至电路板与封装设计，推出 AuraStack",
+      "link": "https://siliconangle.com/2026/07/15/cadence-extends-ai-agents-beyond-chips-aurastack-circuit-boards-packaging/",
+      "pubdate": "2026-07-16 06:30:52",
+      "contentSnippet": "集成电路与电子硬件设计公司 Cadence Design Systems 今日宣布推出一款全新人工智能智能体，专门辅助封装与系统设计——这一环节位于芯片定制生产之后，决定芯片与元件",
+      "creator": "Kyt Dotson",
+      "relevance": 9,
+      "source": "Cadence Design Systems",
+      "category": "产品发布"
+    },
+    {
+      "title": "智能体编排：企业AI组织面临的是部署问题而非平台问题——多数所谓的'智能体'实为聊天机器人",
+      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "pubdate": "2026-07-16 06:24:17",
+      "contentSnippet": "VentureBeat Pulse Research对101家企业的调研显示，企业智能体编排正在向模型提供商平台集中——Anthropic的Claude以40%的采用率遥遥领先，远",
+      "creator": "VentureBeat AI",
+      "relevance": 10,
+      "source": "VentureBeat",
+      "category": "行业动态"
+    },
+    {
+      "title": "初创公司融资5000万美元开发主权AI基础设施",
+      "link": "https://aibusiness.com/generative-ai/startup-banks-50-million-develop-sovereign-ai-infrastructure",
+      "pubdate": "2026-07-16 05:42:30",
+      "contentSnippet": "主权AI在全球蓬勃发展，但通常由美国科技巨头建设基础设施。",
+      "creator": "Graham Hope",
+      "relevance": 8,
+      "source": "AI Business",
+      "category": "投融资信息"
+    },
+    {
+      "title": "AWS在其Marketplace产品组合中新增AI辅助产品列表服务",
+      "link": "https://siliconangle.com/2026/07/15/aws-product-listing-service-enterprise-agents-ai-awsmarketplaceseries/",
+      "pubdate": "2026-07-16 05:26:22",
+      "contentSnippet": "上个月，AWS Marketplace的产品列表新增了基于AI的功能，以应对企业智能体持续增长的使用需求。亚马逊云服务(AWS)在Product Assistant聊天中推出了AI",
+      "creator": "Mark Albertson",
+      "relevance": 8,
+      "source": "AWS",
+      "category": "产品发布"
+    },
+    {
+      "title": "Perplexity AI 推出面向智能体的 Space Sandbox 沙盒平台",
+      "link": "https://aibusiness.com/agentic-ai/perplexity-ai-introduces-sandbox-for-agents",
+      "pubdate": "2026-07-16 04:48:12",
+      "contentSnippet": "该平台展示了这家搜索厂商如何演变其战略。",
+      "creator": "Esther Shittu",
+      "relevance": 9,
+      "source": "Perplexity AI",
+      "category": "产品发布"
+    },
+    {
+      "title": "建筑机器人初创公司 Monumental 融资 3200 万美元",
+      "link": "https://siliconangle.com/2026/07/15/construction-robot-startup-monumental-reels-32m/",
+      "pubdate": "2026-07-16 04:43:15",
+      "contentSnippet": "Monumental BV，一家运营砌砖机器人车队的荷兰初创公司，已筹集 3500 万美元资金。Khosla Ventures 领投了 B 轮投资，现有投资者 Plural 和 H",
+      "creator": "Maria Deutscher",
+      "relevance": 6,
+      "source": "Monumental",
+      "category": "投融资信息"
+    },
+    {
+      "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+      "link": "https://36kr.com/p/3896830362601351?f=rss",
+      "pubdate": "2026-07-16 03:47:14",
+      "contentSnippet": "面壁智能与三星手机达成合作，其自研MiniCPM系列端侧模型将搭载于三星数款旗舰机型上市。同日，包括Apple智能、华为小艺、vivo蓝心等在内的7款手机端侧生成式AI服务完成备案",
+      "creator": "邓咏仪",
+      "relevance": 9,
+      "source": "面壁智能",
+      "category": "行业动态"
+    },
+    {
+      "title": "在硬件法律纠纷中，OpenAI 发布一款售价230美元的 Codex 键盘",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "pubdate": "2026-07-16 03:41:38",
+      "contentSnippet": "OpenAI 正陷入与苹果公司关于硬件商业机密盗窃指控的法律纠纷中，与此同时发布了这款发光键盘，旨在与其智能编码应用 Codex 配合使用。",
+      "creator": "Lucas Ropek",
+      "relevance": 7,
+      "source": "OpenAI",
+      "category": "产品发布"
+    },
+    {
+      "title": "Emergent CEO 分享AI时代他看重的开发者特质",
+      "link": "https://www.businessinsider.com/emergent-ceo-vibe-coding-software-engineer-ai-2026-7",
+      "pubdate": "2026-07-16 03:34:43",
+      "contentSnippet": "Mukund Jha是AI应用构建平台Emergent的联合创始人兼CEO。他在与Business Insider的直播问答中分享了AI时代对开发者的新要求，表示正在寻找'充满干劲",
+      "creator": "Business Insider",
+      "relevance": 7,
+      "source": "Emergent",
+      "category": "行业动态"
+    },
+    {
+      "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+      "link": "https://36kr.com/p/3896755010963333?f=rss",
+      "pubdate": "2026-07-16 02:36:56",
+      "contentSnippet": "本文分析了网易《蛋仔派对》如何通过整合AI大模型（DeepSeek V4 Pro、GLM-5.2、Kimi K2.7 Code等）构建下一代AI原生UGC平台，推出行业首个'双子星",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "网易",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI并不比婴儿聪明——至少现在还没有",
+      "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+      "pubdate": "2026-07-16 02:30:00",
+      "contentSnippet": "婴儿是强大的学习机器，而AI的关键进展可能很快会从它们小小的大脑架构中找到灵感。",
+      "creator": "Will Knight",
+      "relevance": 8,
+      "source": "Wired",
+      "category": "行业动态"
+    },
+    {
+      "title": "Thinking Machines Lab的Inkling模型现已登陆Databricks",
+      "link": "https://www.databricks.com/blog/inkling-thinking-machines-lab-now-databricks",
+      "pubdate": "2026-07-16 02:30:00",
+      "contentSnippet": "我们非常兴奋地宣布，Databricks已成为Thinking Machines Lab (TML)的零日启动合作伙伴，其Inkling模型现已正式登陆Databricks平台。",
+      "creator": "Databricks AI",
+      "relevance": 9,
+      "source": "Databricks",
+      "category": "模型发布"
+    },
+    {
+      "title": "纽约对新建超大规模数据中心实施一年暂停令",
+      "link": "https://www.techrepublic.com/article/news-new-york-ai-data-center-moratorium/",
+      "pubdate": "2026-07-16 02:25:38",
+      "contentSnippet": "纽约州暂停发放新的超大规模数据中心许可证最长一年，在此期间将研究其对电网、水资源、纳税人和社区的影响。",
+      "creator": "Esther Shein",
+      "relevance": 7,
+      "source": "TechRepublic - AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "帮助非技术人员编程的初创公司CEO仍认为工程学位具有重要价值",
+      "link": "https://www.businessinsider.com/startup-ceo-emergent-sees-value-engineering-degrees-2026-7",
+      "pubdate": "2026-07-16 02:24:38",
+      "contentSnippet": "AI正在重新定义软件工程师的工作，并推动新一代公司的发展。vibe-coding初创公司Emergent的首席执行官接受Business Insider的Dan DeFrances",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "Emergent",
+      "category": "行业动态"
+    },
+    {
+      "title": "特朗普抨击纽约州数据中心暂停建设禁令",
+      "link": "https://www.theguardian.com/us-news/2026/jul/15/trump-new-york-datacenter-moratorium",
+      "pubdate": "2026-07-16 02:05:46",
+      "contentSnippet": "这位支持AI的总统发帖表示，纽约州长凯西·霍楚尔应立即废除这项为期一年的数据中心暂停建设政策。唐纳德·特朗普抨击纽约州长凯西·霍楚尔暂停建设大型新数据中心，这些资源密集型设施是支撑",
+      "creator": "Blake Montgomery in New York",
+      "relevance": 7,
+      "source": "The Guardian AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "Thinking Machines Lab 发布其首款模型",
+      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "pubdate": "2026-07-16 02:05:00",
+      "contentSnippet": "Inkling 是一个拥有 9750 亿参数的开源模型，经过训练可理解视频和音频。它可能帮助 Thinking Machines 在 Anthropic 和 OpenAI 等竞争对",
+      "creator": "Will Knight",
+      "relevance": 9,
+      "source": "Thinking Machines Lab",
+      "category": "模型发布"
+    },
+    {
+      "title": "Thinking Machines 加大押注，推出首个开放模型 Inkling，挑战'一刀切'式 AI",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "pubdate": "2026-07-16 02:04:06",
+      "contentSnippet": "这是该公司在公开视野之外建设 AI 基础设施一年半后的首个公开成果。",
+      "creator": "Connie Loizos",
+      "relevance": 9,
+      "source": "Thinking Machines",
+      "category": "模型发布"
+    },
+    {
+      "title": "穆拉蒂的思维机器公司发布首款AI模型供广泛使用",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use",
+      "pubdate": "2026-07-16 02:00:16",
+      "contentSnippet": "思维机器实验室发布了其首个AI模型，距离前OpenAI高管米拉·穆拉蒂创办这家人工智能初创公司已有一年多时间。",
+      "creator": "Shirin Ghaffary",
+      "relevance": 9,
+      "source": "Thinking Machines Lab",
+      "category": "模型发布"
+    },
+    {
+      "title": "支付宝不想做AI时代的配角",
+      "link": "https://36kr.com/p/3896720584738435?f=rss",
+      "pubdate": "2026-07-16 01:50:30",
+      "contentSnippet": "本文报道了支付宝上线22年来最大一次改版，推出AI版'阿宝'，以对话框取代传统菜单界面，用户可通过自然语言完成查账、缴费、领券、下单等一站式服务。文章同时分析了微信支付'AI专属卡",
+      "creator": "王晗玉",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "数据原生AI代理：为何代理必须迁移到你的数据",
+      "link": "https://www.databricks.com/blog/data-native-ai-agents-why-agents-must-move-your-data",
+      "pubdate": "2026-07-16 01:30:00",
+      "contentSnippet": "大多数企业AI试点项目都达到了同样的低标准：将LLM连接到你的数据，然后...",
+      "creator": "",
+      "relevance": 9,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI赋能的高等教育咨询服务",
+      "link": "https://www.databricks.com/blog/ai-enabled-advisory-services-higher-education",
+      "pubdate": "2026-07-16 01:30:00",
+      "contentSnippet": "问题：呼叫中心是高等教育中重要的学生支持工具。顾问...",
+      "creator": "hh",
+      "relevance": 8,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "Palantir首席技术官认为中国AI模型对美国构成经济风险",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-15/palantir-s-cto-sees-chinese-ai-models-posing-economic-risk-to-us",
+      "pubdate": "2026-07-16 01:29:03",
+      "contentSnippet": "Palantir Technologies Inc.首席技术官Shyam Sankar表示，中国通过未经授权使用硅谷AI开发者的工作成果，开发出了一批新型人工智能模型，对美国构成了",
+      "creator": "Tyler Kendall, Lorelei Smillie and Michael Shepard",
+      "relevance": 9,
+      "source": "Palantir",
+      "category": "行业动态"
+    },
+    {
+      "title": "认识 GPT-Red：OpenAI 为提升模型安全性而打造的 LLM 超级黑客",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "pubdate": "2026-07-16 01:09:37",
+      "contentSnippet": "OpenAI 打造了一款名为 GPT-Red 的 LLM 超级黑客，将其用作陪练伙伴，帮助其其他模型提升抵御网络攻击的能力。上周，该公司发布了其旗舰 LLM 的最新版本 GPT-5",
+      "creator": "Will Douglas Heaven",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "安全监管"
+    },
+    {
+      "title": "CIA称AI无人机让俄军士兵平均存活时间仅30分钟",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-15/cia-says-ai-drones-give-russian-troops-only-30-minutes-to-live",
+      "pubdate": "2026-07-16 01:09:35",
+      "contentSnippet": "美国中情局局长约翰·拉特克利夫周三表示，由于乌克兰使用人工智能攻击无人机，俄罗斯士兵在战场上的平均存活时间仅为20到30分钟。",
+      "creator": "Sonya Dymova",
+      "relevance": 6,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "黑客攻击揭示 AI 音乐生成器 Suno 抓取 YouTube 数据作为训练素材",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "pubdate": "2026-07-16 01:00:34",
+      "contentSnippet": "黑客利用一名员工的凭证获取了源代码，揭示了 Suno 如何抓取数十年音频数据用于 AI 模型训练。",
+      "creator": "Amanda Silberling",
+      "relevance": 9,
+      "source": "Suno",
+      "category": "安全监管"
+    },
+    {
+      "title": "Whatnot 收购 Shaped，助力实时直播购物推荐",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "pubdate": "2026-07-16 01:00:00",
+      "contentSnippet": "直播购物平台 Whatnot 收购了 AI 初创公司 Shaped，这是一家专注于实时推荐和搜索的机器学习公司。这笔交易将增强 Whatnot 的个性化和发现功能，助其拓展到新的产",
+      "creator": "Lauren Forristal",
+      "relevance": 8,
+      "source": "Whatnot",
+      "category": "投融资信息"
+    },
+    {
+      "title": "苹果智能(AI)扫清中国审批障碍，阿里巴巴与百度将为其提供AI功能支持",
+      "link": "https://www.techrepublic.com/article/news-apac-apple-intelligence-china-approval/",
+      "pubdate": "2026-07-16 00:55:37",
+      "contentSnippet": "苹果智能(AI)已扫清中国审批障碍，阿里巴巴的通义千问(Qwen)和百度将为中国大陆iPhone用户的AI功能提供支持。",
+      "creator": "Aminu Abdullahi",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "行业动态"
+    },
+    {
+      "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+      "link": "https://36kr.com/p/3896639400183687?f=rss",
+      "pubdate": "2026-07-16 00:30:35",
+      "contentSnippet": "首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区举行，展示了AI在文旅、运动、康养、宠物、购物等五大真实生活场景中的落地应用。活动包括OPC野生发布会、机甲徒步、AI网球挑战赛、场",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "微软修补创纪录数量的安全漏洞，归功于AI技术的应用",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "pubdate": "2026-07-16 00:20:18",
+      "contentSnippet": "微软每月发布的名为'补丁星期二'的安全修复程序，解决了公司全线产品中创纪录的570个安全漏洞，这得益于AI技术的发现与应用。",
+      "creator": "Zack Whittaker",
+      "relevance": 7,
+      "source": "TechCrunch",
+      "category": "安全监管"
+    },
+    {
+      "title": "Atlassian 将 Jira 发展为开发者和 AI 代理的编排中心",
+      "link": "https://siliconangle.com/2026/07/15/atlassian-evolves-jira-orchestration-hub-developers-ai-agents/",
+      "pubdate": "2026-07-16 00:00:47",
+      "contentSnippet": "Atlassian 公司今日宣布扩展 Jira 功能，推出多项更新，帮助开发者准备、分配和跟踪由人工智能代理执行的工作。公司新推出的 Jira Planner 可将不完整的项目思路",
+      "creator": "Kyt Dotson",
+      "relevance": 9,
+      "source": "Atlassian",
+      "category": "产品发布"
+    },
+    {
+      "title": "OpenAI 的首款品牌硬件是... 一款发光键盘？",
+      "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+      "pubdate": "2026-07-16 00:00:33",
+      "contentSnippet": "Codex Micro 旨在让你一目了然地监控多个智能体线程。",
+      "creator": "Kyle Orland",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "产品发布"
+    },
+    {
+      "title": "Perplexity 推出安全沙盒，让AI代理更安全更强大",
+      "link": "https://siliconangle.com/2026/07/15/perplexity-launches-secure-sandbox-make-ai-agents-secure-powerful/",
+      "pubdate": "2026-07-16 00:00:30",
+      "contentSnippet": "Perplexity AI 公司今日推出了一项新功能，旨在提升其当前代理型人工智能服务 Computer 的性能和安全性。该公司推出了SPACE，一个沙盒平台，旨在让AI代理充分发",
+      "creator": "Kyt Dotson",
+      "relevance": 9,
+      "source": "Perplexity",
+      "category": "产品发布"
+    }
+  ]
+}

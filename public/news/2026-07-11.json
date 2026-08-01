@@ -1,0 +1,435 @@
+{
+  "date": "2026-07-11",
+  "items": [
+    {
+      "title": "苹果因AI人才竞争起诉OpenAI",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video",
+      "pubdate": "2026-07-11 22:37:15",
+      "contentSnippet": "彭博科技主持人埃德·勒德洛表示，苹果对OpenAI的诉讼反映出AI人才和硬件领导地位的竞争日趋激烈，苹果指控前员工在OpenAI扩展其设备业务时不当窃取商业机密。他还表示，SK海力",
+      "creator": "Bloomberg Technology",
+      "relevance": 9,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI正在改写大型科技公司的组织架构图——看看哪些岗位受影响最大",
+      "link": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
+      "pubdate": "2026-07-11 22:31:00",
+      "contentSnippet": "新数据显示，软件工程师在大型科技公司的招聘中占比从2019年的46%上升至55%，而设计岗位招聘下降48%，产品管理下降39%，市场营销下降36%。AI正在重塑科技行业的人才结构，",
+      "creator": "Alistair Barr",
+      "relevance": 7,
+      "source": "Big Tech",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI 押注家庭市场，ChatGPT 深入千家万户",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "pubdate": "2026-07-11 22:13:00",
+      "contentSnippet": "据一则招聘信息显示，ChatGPT 正在招聘一位专门的产品经理，旨在为家庭、护理人员和老年人打造专属使用体验。",
+      "creator": "Jagmeet Singh",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
+      "link": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+      "pubdate": "2026-07-11 21:41:41",
+      "contentSnippet": "36氪获悉，7月10日，在D20全球设计院长峰会上，由大麦娱乐携手阿里Token Foundry事业部推出的全球首个潮玩创作者AI设计平台“妙呀”正式宣布开启公测。与此同时，“妙呀",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "阿里",
+      "category": "产品发布"
+    },
+    {
+      "title": "欧洲央行的Moulin认为人工智能可能加剧通胀波动",
+      "link": "https://36kr.com/newsflashes/3890739624540680?f=rss",
+      "pubdate": "2026-07-11 20:52:52",
+      "contentSnippet": "欧洲央行管委Emmanuel Moulin表示，人工智能对通胀的影响难以预测，而且可能导致价格波动加剧。由于人工智能同时作用于供需两方面的变量，因此对通胀的总体影响尤为难以预测。此",
+      "creator": "财联社",
+      "relevance": 6,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI：对其他公司的商业秘密不感兴趣，仍专注于打造创新技术",
+      "link": "https://36kr.com/newsflashes/3890734361377539?f=rss",
+      "pubdate": "2026-07-11 20:19:39",
+      "contentSnippet": "OpenAI回应苹果就硬件商业机密提起的诉讼，称对其他公司的商业秘密不感兴趣，OpenAI仍专注于打造创新技术。（财联社）",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "FansAI收购OPC公司新映科技",
+      "link": "https://36kr.com/newsflashes/3890728911354376?f=rss",
+      "pubdate": "2026-07-11 20:14:07",
+      "contentSnippet": "7月11日消息，AI内容和互动影视公司垚城智能（FansAI）宣布全资收购AI音乐应用新映科技，这是OPC领域目前少见的探索性并购案例。",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "FansAI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "为何福克斯是流媒体时代'最自律'的媒体娱乐公司",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-11/michael-wolf-on-why-ai-is-changing-the-value-of-content-video",
+      "pubdate": "2026-07-11 20:03:23",
+      "contentSnippet": "媒体资深人士 Michael Wolf 在艾伦公司年度太阳谷会议上探讨了重塑娱乐行业格局的重大交易。他解释了为什么免费广告支持内容成为流媒体战争中的隐形赢家，并深入分析了AI如何改",
+      "creator": "Bloomberg Technology",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "同事想要一个MacBook上的极客小众工具，Codex数分钟就搞定了",
+      "link": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "pubdate": "2026-07-11 20:02:01",
+      "contentSnippet": "商业内幕的AI记者使用OpenAI的Codex工具，仅用5分26秒就构建了一个多剪贴板管理应用，无需编写代码。OpenAI本周已将Codex合并到ChatGPT中。该工具可存储多个",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "产品发布"
+    },
+    {
+      "title": "AI“演员”蒂莉·诺伍德将出演电影。请就此打住吧 | 戴夫·席林",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie",
+      "pubdate": "2026-07-11 19:00:48",
+      "contentSnippet": "表演关乎跨越文化和社会鸿沟的人类连接。但在“蒂莉宇宙”中，我们不能对此抱太大期望。蒂莉·诺伍德是一名“AI演员”，即根本算不上真正演员的演员——只是一串数字像素和代码行，被设计成一",
+      "creator": "Dave Schilling",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "远离AI：哪些工作能让你在未来蓬勃发展？",
+      "link": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
+      "pubdate": "2026-07-11 19:00:47",
+      "contentSnippet": "专家表示，从教学、酒店到法律等行业，未来仍有发展机会。进入职场往往伴随着不确定性，但现在又多了一个问题：如何让我的职业不被AI取代？我们采访了多个行业的人士，了解他们认为AI将对职",
+      "creator": "Sarah Marsh",
+      "relevance": 7,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+      "link": "https://36kr.com/p/3889516712065799?f=rss",
+      "pubdate": "2026-07-11 17:00:00",
+      "contentSnippet": "具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产",
+      "creator": "欧雪",
+      "relevance": 8,
+      "source": "36氪",
+      "category": "投融资信息"
+    },
+    {
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "link": "https://www.qbitai.com/2026/07/447873.html",
+      "pubdate": "2026-07-11 13:30:11",
+      "contentSnippet": "神话级大模型驾驭宝典",
+      "creator": "henry",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "模型发布"
+    },
+    {
+      "title": "Meta因隐私问题弃用Muse图像AI功能，称其'未达预期'",
+      "link": "https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy",
+      "pubdate": "2026-07-11 13:07:41",
+      "contentSnippet": "Meta表示正在停用本周推出的一项AI功能，该功能允许用户利用公开的Instagram账户内容生成图像，因引发广泛隐私批评，包括来自好莱坞工会的强烈反对。Meta在声明中表示，其初",
+      "creator": "Reuters",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI 安全主管海德克在重组后离职",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+      "pubdate": "2026-07-11 10:15:21",
+      "contentSnippet": "据《连线》杂志报道，OpenAI 安全主管 Johannes Heidecke 在公司重组后决定离开这家人工智能公司。",
+      "creator": "Yi Wei Wong",
+      "relevance": 7,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI 安全负责人将离职",
+      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "pubdate": "2026-07-11 09:07:26",
+      "contentSnippet": "约翰内斯·海德克（Johannes Heidecke）离职之际，OpenAI 正试图进一步整合其研究与安全团队。",
+      "creator": "Maxwell Zeff",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta 在遭到强烈反对后移除 Instagram 上有争议的 AI 功能",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "pubdate": "2026-07-11 07:55:07",
+      "contentSnippet": "我们的初衷是提供一个有用的创意工具，并让人们能够控制自己的公开内容是否会以这种方式被引用。我们听到了反馈，认为这项功能未能达到预期，因此现已下架。",
+      "creator": "Lucas Ropek",
+      "relevance": 7,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "量子纠错可不断重新校准处理器",
+      "link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+      "pubdate": "2026-07-11 07:02:30",
+      "contentSnippet": "强化学习利用误差信息来调整控制算法。",
+      "creator": "John Timmer",
+      "relevance": 7,
+      "source": "Ars Technica",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果起诉OpenAI，指控人工智能公司窃取商业机密",
+      "link": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+      "pubdate": "2026-07-11 06:33:21",
+      "contentSnippet": "苹果于周五对OpenAI提起诉讼，指控该人工智能公司窃取其商业机密以打造自家硬件设备。诉讼称OpenAI挖走苹果员工，诱使他们交出机密材料、产品设计及其他严格保密的信息。",
+      "creator": "Dara Kerr",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果指控OpenAI在AI人才争夺战中采用不正当手段",
+      "link": "https://www.businessinsider.com/apple-accuses-openai-of-playing-dirty-in-the-ai-talent-wars-2026-7",
+      "pubdate": "2026-07-11 06:27:32",
+      "contentSnippet": "苹果指控OpenAI利用招聘过程窃取商业机密。这家AI巨头一直在从整个科技行业疯狂招聘数百名员工。苹果称OpenAI不仅通过招聘，还通过面试环节来获取机密信息，包括要求应聘者研究机",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "Business Insider",
+      "category": "行业动态"
+    },
+    {
+      "title": "SK海力士上市：押注AI打破芯片行业的盛衰周期",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+      "pubdate": "2026-07-11 05:52:56",
+      "contentSnippet": "韩国存储芯片制造商SK海力士刚刚完成了美国市场历史上规模最大的外国公司上市，首日股价飙升13%。",
+      "creator": "Maggie Eastland, Edward Ludlow, Yoolim Lee, Dina Bass",
+      "relevance": 7,
+      "source": "SK海力士",
+      "category": "投融资信息"
+    },
+    {
+      "title": "谷歌AI模型详解：Gemini、Veo、Nano Banana等",
+      "link": "https://www.techrepublic.com/article/news-google-ai-models-explained/",
+      "pubdate": "2026-07-11 05:36:10",
+      "contentSnippet": "了解谷歌主要AI模型的功能，包括Gemini、Veo、Imagen、Nano Banana、Gemma、Lyria、Chirp和Gemini Nano。",
+      "creator": "Matt Gonzales",
+      "relevance": 10,
+      "source": "Google",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果起诉OpenAI窃取商业秘密",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
+      "pubdate": "2026-07-11 05:04:13",
+      "contentSnippet": "苹果公司起诉OpenAI窃取商业秘密，指控这家人工智能初创公司及其硬件负责人协同策划，窃取有关即将推出的产品的信息。苹果称，OpenAI鼓励苹果员工分享与未来产品相关的信息、组件、",
+      "creator": "Bloomberg Technology",
+      "relevance": 9,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果起诉OpenAI涉嫌窃取商业机密",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "pubdate": "2026-07-11 05:00:29",
+      "contentSnippet": "苹果指控该不当行为由OpenAI的高层领导（包括一名长期前员工）指使。",
+      "creator": "Sarah Perez",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
+      "link": "https://36kr.com/newsflashes/3889804779731457?f=rss",
+      "pubdate": "2026-07-11 04:44:11",
+      "contentSnippet": "韩国芯片巨头SK海力士将于本周五登陆科技股云集的纳斯达克交易所，此举将为其打通一条强力全新融资渠道，方便全球投资者布局高速增长的人工智能基础设施赛道。这家全球第二大存储芯片厂商计划",
+      "creator": "36氪",
+      "relevance": 7,
+      "source": "SK海力士",
+      "category": "投融资信息"
+    },
+    {
+      "title": "苹果公司起诉OpenAI，指控其窃取硬件机密",
+      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "pubdate": "2026-07-11 04:44:05",
+      "contentSnippet": "这家iPhone制造商声称，OpenAI鼓励被挖来的员工带走保密演示文稿、秘密原型以及关键供应商细节。",
+      "creator": "Maxwell Zeff",
+      "relevance": 8,
+      "source": "Wired - AI Latest",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果起诉OpenAI窃取商业秘密——具有里程碑意义的案件",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
+      "pubdate": "2026-07-11 04:30:22",
+      "contentSnippet": "苹果公司起诉OpenAI窃取商业秘密，指控这家人工智能初创公司及其硬件负责人协同开展了一场系统性的行动，窃取了关于即将发布产品的信息。",
+      "creator": "Mark Gurman",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "东阳光：控股子公司签署130亿元至150亿元算力服务采购合同",
+      "link": "https://36kr.com/newsflashes/3889768614492931?f=rss",
+      "pubdate": "2026-07-11 04:10:37",
+      "contentSnippet": "36氪获悉，东阳光公告，公司控股子公司东莞东阳光云智算科技有限公司与某企业C公司签署《算力服务采购合同》，合同预计总金额区间为130亿元至150亿元(含税)。合同约定东阳光云智算负",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "东阳光",
+      "category": "行业动态"
+    },
+    {
+      "title": "Hugging Face CEO克莱姆·德朗格：开源AI比以往任何时候都更重要",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "pubdate": "2026-07-11 03:00:00",
+      "contentSnippet": "Hugging Face CEO克莱姆·德朗格表示，开源AI正在蓬勃发展。这家公司在近年来已发展成为类似AI领域的GitHub，AI开发者可以在此共享和下载开源模型及数据集，目前约",
+      "creator": "Rebecca Bellan, Theresa Loconsolo",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "智能代理营销技术栈始于数据层",
+      "link": "https://www.databricks.com/blog/agentic-marketing-stack-starts-data-layer",
+      "pubdate": "2026-07-11 03:00:00",
+      "contentSnippet": "关于AI现代化叙事的一个版本是这样的：先构建平台，然后...",
+      "creator": "Databricks",
+      "relevance": 7,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "研究发现AI小说因愚蠢拙劣而易被识破",
+      "link": "https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/",
+      "pubdate": "2026-07-11 02:32:21",
+      "contentSnippet": "ChatGPT使用了过多梦境桥段，而Gemini则不停地描述角色性格。",
+      "creator": "Matthew Gault",
+      "relevance": 7,
+      "source": "404 Media",
+      "category": "行业动态"
+    },
+    {
+      "title": "Claude Code 间谍活动揭露企业AI新风险",
+      "link": "https://www.techrepublic.com/article/news-anthropic-claude-code-ai-agent-governance-risk/",
+      "pubdate": "2026-07-11 02:17:27",
+      "contentSnippet": "Anthropic 的 AI 驱动间谍报告表明，企业需要对 AI 代理、MCP 连接器及企业数据访问实施更强有力的治理措施。",
+      "creator": "Tim Freestone",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "安全监管"
+    },
+    {
+      "title": "本周十大融资轮次：网络安全与AI基础设施领域两笔十亿美元级交易领跑",
+      "link": "https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/",
+      "pubdate": "2026-07-11 02:11:59",
+      "contentSnippet": "AI再次主导了本周的风险投资，在已公布的十大融资轮次中占据五席，其中包括两笔用于AI基础设施和网络安全的十亿美元级融资，领跑所有交易。",
+      "creator": "Marlize van Romburgh",
+      "relevance": 8,
+      "source": "Crunchbase News",
+      "category": "投融资信息"
+    },
+    {
+      "title": "SK海力士CEO预计存储芯片短缺将持续到2030年之后",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-chief-expects-memory-shortage-to-last-into-next-decade",
+      "pubdate": "2026-07-11 01:42:21",
+      "contentSnippet": "SK海力士首席执行官郭诺正表示，困扰计算机、汽车和设备市场的存储芯片短缺可能会持续到2030年之后。",
+      "creator": "Maggie Eastland, Yoolim Lee, Dina Bass",
+      "relevance": 7,
+      "source": "Bloomberg Technology",
+      "category": "行业动态"
+    },
+    {
+      "title": "新仪表盘工具助你监控Claude使用情况",
+      "link": "https://aibusiness.com/generative-ai/new-dashboard-tool-lets-you-monitor-claude-usage",
+      "pubdate": "2026-07-11 01:19:56",
+      "contentSnippet": "这家生成式AI供应商旨在应对其热门模型的过度依赖和滥用问题。",
+      "creator": "Graham Hope",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
+      "link": "https://www.qbitai.com/2026/07/447846.html",
+      "pubdate": "2026-07-11 01:18:11",
+      "contentSnippet": "四大方向，奖金直给",
+      "creator": "鹭羽",
+      "relevance": 6,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "SK海力士完成史上最大外国公司IPO融资265亿美元，被敦促在美建新厂",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "pubdate": "2026-07-11 01:17:12",
+      "contentSnippet": "AI芯片热潮刚刚催生了华尔街史上最大的时刻。如今，SK海力士和三星被要求在美国建厂。",
+      "creator": "Kate Park",
+      "relevance": 7,
+      "source": "TechCrunch AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Feature Views 功能简介",
+      "link": "https://www.databricks.com/blog/introducing-feature-views",
+      "pubdate": "2026-07-11 00:46:11",
+      "contentSnippet": "在理想世界中，机器学习特征只需构建一次。但对许多团队来说，特征工程往往需要重复劳动...",
+      "creator": "Databricks",
+      "relevance": 7,
+      "source": "Databricks",
+      "category": "产品发布"
+    },
+    {
+      "title": "SK海力士美国存托凭证飙升，260亿美元美国发行创纪录",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-adrs-surge-after-record-26-billion-us-offering-video",
+      "pubdate": "2026-07-11 00:35:58",
+      "contentSnippet": "SK海力士公司的美国存托凭证开盘价高于发行价，这家韩国存储芯片制造商通过美国上市筹集了265亿美元，创下外国公司在美最大规模上市纪录。该存托凭证周五在纽约开盘价为每股170美元，而",
+      "creator": "Bloomberg",
+      "relevance": 7,
+      "source": "SK海力士",
+      "category": "投融资信息"
+    },
+    {
+      "title": "亚当·莫塞里表示Instagram通过关闭\"烧代币的蠢事\"已\"控制住\"AI成本",
+      "link": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
+      "pubdate": "2026-07-11 00:28:37",
+      "contentSnippet": "Instagram CEO亚当·莫塞里表示，该部门已通过关闭\"愚蠢的AI项目\"来控制AI支出。他提到，削减AI成本并不困难，只需关掉那些\"烧代币的蠢事\"。莫塞里还讨论了代币消耗排行",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "美国放宽对阿联酋出口限制，为AI芯片销售打开大门",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
+      "pubdate": "2026-07-11 00:21:10",
+      "contentSnippet": "特朗普政府计划放宽对阿拉伯联合酋长国的出口限制，为这个海湾国家购买包括半导体在内的广泛先进技术扫清道路，这些技术是其提升人工智能雄心的关键所在。",
+      "creator": "Maggie Eastland, Ian King",
+      "relevance": 8,
+      "source": "美国",
+      "category": "安全监管"
+    },
+    {
+      "title": "AI 如何帮你摆脱家具配送烦恼",
+      "link": "https://www.businessinsider.com/sundays-furniture-delivery-cartage-ai-2026-7",
+      "pubdate": "2026-07-11 00:15:43",
+      "contentSnippet": "家具品牌 Sundays 借助 Cartage AI 的物流协调工具 Wilson，利用人工智能自动化处理货运报价、预订、追踪、承运商协调及配送异常处理等流程，Wilson 拥有独",
+      "creator": "Business Insider",
+      "relevance": 7,
+      "source": "Sundays",
+      "category": "行业动态"
+    },
+    {
+      "title": "SK集团会长崔泰源谈SK海力士美国上市、AI需求及美国投资计划",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-on-sk-hynix-debut-ai-demand-and-us-plans-video",
+      "pubdate": "2026-07-11 00:10:00",
+      "contentSnippet": "SK海力士母公司SK集团会长崔泰源表示，他们等待SK海力士在美国上市已久，并称这是'梦想成真'。这位韩国芯片制造商的负责人谈及筹集265亿美元——这是外国公司在美国最大规模的上市—",
+      "creator": "Bloomberg Technology",
+      "relevance": 8,
+      "source": "SK海力士",
+      "category": "行业动态"
+    }
+  ]
+}

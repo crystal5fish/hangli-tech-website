@@ -1,0 +1,195 @@
+export type NewsItem = {
+  title: string;
+  link: string;
+  pubdate: string;
+  contentSnippet: string;
+  creator: string;
+  relevance: number;
+  source: string;
+  category: "模型发布" | "产品发布" | "行业动态" | "投融资信息" | "安全监管" | "技术论文" | "其他";
+};
+
+// 此文件由 scripts/update-news.mjs 自动生成。
+export const newsDate = "2026-08-01";
+export const newsItems: NewsItem[] = [
+  {
+    "title": "韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%",
+    "link": "https://36kr.com/newsflashes/3920386651319944?f=rss",
+    "pubdate": "2026-08-01 12:00:25",
+    "contentSnippet": "在存储芯片需求旺盛的推动下，韩国7月出口同比飙升近63%至989.9亿美元，创历史第二高单月出口额，仅次于6月的1022亿美元。进口增长26.5%至685.6亿美元，贸易顺差达30",
+    "creator": "",
+    "source": "36氪",
+    "category": "投融资信息",
+    "relevance": 7
+  },
+  {
+    "title": "AI顶会现场，见到了一家美妆巨头",
+    "link": "https://www.qbitai.com/2026/08/464364.html",
+    "pubdate": "2026-08-01 10:52:18",
+    "contentSnippet": "欧莱雅把AI装进mei'zhuang'quan'lian'lu",
+    "creator": "听雨",
+    "source": "量子位",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+    "link": "https://36kr.com/p/3920241240419720?f=rss",
+    "pubdate": "2026-08-01 08:38:59",
+    "contentSnippet": "今日热点导览 字节跳动发布视频创作模型Seedance 2.5 长鑫科技市值突破4万亿 人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线 韩国KOSPI指数上涨18% An",
+    "creator": "",
+    "source": "36氪",
+    "category": "技术论文",
+    "relevance": 7
+  },
+  {
+    "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+    "link": "https://36kr.com/p/3919386961177985?f=rss",
+    "pubdate": "2026-07-31 23:23:43",
+    "contentSnippet": "文｜王欣逸 编辑｜张雨忻 一句话介绍 国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。 主动智能，指的是AI能在足够了",
+    "creator": "",
+    "source": "36氪",
+    "category": "投融资信息",
+    "relevance": 7
+  },
+  {
+    "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+    "link": "https://36kr.com/newsflashes/3919556554305154?f=rss",
+    "pubdate": "2026-07-31 20:59:06",
+    "contentSnippet": "36氪获悉，7月31日，国务院国资委党委召开扩大会议。会议强调，要指导中央企业主动对接和带头落实好国家政策，抓住重点、主动作为，充分发挥引领带动作用，更好助推经济持续向新向优向好发",
+    "creator": "",
+    "source": "36氪",
+    "category": "技术论文",
+    "relevance": 7
+  },
+  {
+    "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+    "link": "https://36kr.com/p/3910776673064073?f=rss",
+    "pubdate": "2026-07-31 18:27:38",
+    "contentSnippet": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲",
+    "creator": "",
+    "source": "36氪",
+    "category": "技术论文",
+    "relevance": 7
+  },
+  {
+    "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+    "link": "https://36kr.com/p/3919378312670857?f=rss",
+    "pubdate": "2026-07-31 18:01:34",
+    "contentSnippet": "大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截",
+    "creator": "",
+    "source": "36氪",
+    "category": "投融资信息",
+    "relevance": 7
+  },
+  {
+    "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+    "link": "https://www.qbitai.com/2026/07/464328.html",
+    "pubdate": "2026-07-31 17:11:32",
+    "contentSnippet": "开源项目GitHub狂揽8000+Star",
+    "creator": "思邈",
+    "source": "量子位",
+    "category": "技术论文",
+    "relevance": 7
+  },
+  {
+    "title": "开云的转折：在中国，做一个AI乐观派",
+    "link": "https://36kr.com/p/3919225763540611?f=rss",
+    "pubdate": "2026-07-31 16:58:59",
+    "contentSnippet": "作者 | 谢芸子 黄绎达 编辑 | 张帆 开云的转型初见成效。 7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。 更关",
+    "creator": "",
+    "source": "36氪",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
+    "link": "https://36kr.com/p/3919301778288261?f=rss",
+    "pubdate": "2026-07-31 16:40:43",
+    "contentSnippet": "文｜张子怡 编辑｜袁斯来 随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。 前不久，全球支付平台PingPong",
+    "creator": "",
+    "source": "36氪",
+    "category": "安全监管",
+    "relevance": 7
+  },
+  {
+    "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
+    "link": "https://36kr.com/p/3919112515956355?f=rss",
+    "pubdate": "2026-07-31 16:24:28",
+    "contentSnippet": "你的创业想法，值得被看见 有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。 我们发现，每位创业者关注的重点都",
+    "creator": "",
+    "source": "36氪",
+    "category": "技术论文",
+    "relevance": 7
+  },
+  {
+    "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
+    "link": "https://36kr.com/p/3919271016263303?f=rss",
+    "pubdate": "2026-07-31 16:12:09",
+    "contentSnippet": "文｜张子怡 编辑｜袁斯来 低空经济正从飞行器制造走向城市治理。 7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座",
+    "creator": "",
+    "source": "36氪",
+    "category": "技术论文",
+    "relevance": 7
+  },
+  {
+    "title": "米哈游蔡浩宇AI创业生变",
+    "link": "https://www.qbitai.com/2026/07/464169.html",
+    "pubdate": "2026-07-31 15:22:37",
+    "contentSnippet": "多个项目暂停，九成资源押向Agent",
+    "creator": "鹭羽",
+    "source": "量子位",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "姚顺雨拿50年数学难题成绩单，招人了",
+    "link": "https://www.qbitai.com/2026/07/464100.html",
+    "pubdate": "2026-07-31 14:54:57",
+    "contentSnippet": "AI for Science方向",
+    "creator": "一水",
+    "source": "量子位",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "学习强国做了个AI社区，两周铺进68座城市",
+    "link": "https://www.qbitai.com/2026/07/463727.html",
+    "pubdate": "2026-07-31 14:47:00",
+    "contentSnippet": "",
+    "creator": "量子位的朋友们",
+    "source": "量子位",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
+    "link": "https://36kr.com/p/3919137999957382?f=rss",
+    "pubdate": "2026-07-31 14:00:25",
+    "contentSnippet": "AI在企业端的快速渗透正在被持续验证。 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.",
+    "creator": "",
+    "source": "36氪",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "GPT-5.6今起大降价，最大幅度80%！",
+    "link": "https://www.qbitai.com/2026/07/463640.html",
+    "pubdate": "2026-07-31 11:01:21",
+    "contentSnippet": "Luna打骨折",
+    "creator": "听雨",
+    "source": "量子位",
+    "category": "模型发布",
+    "relevance": 7
+  },
+  {
+    "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
+    "link": "https://36kr.com/p/3917874427555457?f=rss",
+    "pubdate": "2026-07-31 09:52:24",
+    "contentSnippet": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将",
+    "creator": "",
+    "source": "36氪",
+    "category": "技术论文",
+    "relevance": 7
+  }
+];

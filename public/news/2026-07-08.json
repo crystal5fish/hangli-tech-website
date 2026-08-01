@@ -1,0 +1,525 @@
+{
+  "date": "2026-07-08",
+  "items": [
+    {
+      "title": "这些AI初创公司正以越来越快的速度增长营收",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "pubdate": "2026-07-08 23:41:06",
+      "contentSnippet": "有很多快速增长的人工智能初创公司，但据称有些公司的增长速度甚至更快。",
+      "creator": "Marina Temkin",
+      "relevance": 9,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "消息称中国将允许AI企业购买英伟达H200芯片",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says",
+      "pubdate": "2026-07-08 23:21:20",
+      "contentSnippet": "据The Information报道，中国计划允许顶尖人工智能公司从英伟达公司购买有限数量的H200芯片，这标志着该国正在放松对美国这项备受追捧的技术的限制。",
+      "creator": "Maggie Eastland, Ian King",
+      "relevance": 9,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "你很快就能在手机上使用 Claude Cowork",
+      "link": "https://aibusiness.com/agentic-ai/you-will-soon-use-claude-cowork-your-phone",
+      "pubdate": "2026-07-08 23:20:51",
+      "contentSnippet": "Cowork 向移动端和网页端的迁移展示了 AI 如何深入到人们的工作方式中。",
+      "creator": "Esther Shittu",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "史蒂夫·帕格柳卡称人工智能、制药和体育是重点投资领域",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/steve-pagliuca-says-ai-pharma-sports-are-key-investment-focus",
+      "pubdate": "2026-07-08 23:19:17",
+      "contentSnippet": "PagsGroup首席执行官斯蒂芬·帕格柳卡认为，包括人工智能和体育在内的一批成长型行业是长期投资的关键焦点。",
+      "creator": "Tim Leemaster, Michelle F Davis",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "投融资信息"
+    },
+    {
+      "title": "数据中心是定时炸弹。我们必须确保AI的收益大于成本 | Nicki Hutley",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
+      "pubdate": "2026-07-08 23:00:36",
+      "contentSnippet": "它们消耗大量能源和水资源，并释放出巨大热量。除了科技精英之外，这些投资究竟让谁受益了？我们时代的两大生存威胁——气候危机和人工智能——在澳大利亚乃至全球数据中心的爆炸式增长中交汇碰",
+      "creator": "Nicki Hutley",
+      "relevance": 8,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "法律AI公司估值已达12亿美元",
+      "link": "https://aibusiness.com/generative-ai/legal-ai-company-valued-1-2-billion",
+      "pubdate": "2026-07-08 22:08:54",
+      "contentSnippet": "法律领域已迎来众多旨在自动化核心法律功能的人工智能供应商的进入。",
+      "creator": "Graham Hope",
+      "relevance": 9,
+      "source": "AI Business",
+      "category": "投融资信息"
+    },
+    {
+      "title": "我们正生活在'ChatGPT传单疫情'中",
+      "link": "https://www.404media.co/we-are-living-in-a-chatgpt-flyer-pandemic/",
+      "pubdate": "2026-07-08 22:05:42",
+      "contentSnippet": "“嘿，如果这是你的传单，我不去，我不捐款，我不分享。别问我。”——杰森·科布勒",
+      "creator": "Jason Koebler",
+      "relevance": 6,
+      "source": "404 Media",
+      "category": "行业动态"
+    },
+    {
+      "title": "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+      "link": "https://www.qbitai.com/2026/07/446411.html",
+      "pubdate": "2026-07-08 21:29:44",
+      "contentSnippet": "华为联想都投了",
+      "creator": "思邈",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "具身智能\"高考\"难疯了！人类100分，最强模型12.8",
+      "link": "https://www.qbitai.com/2026/07/446363.html",
+      "pubdate": "2026-07-08 21:07:30",
+      "contentSnippet": "具身智能领域推出全新测评基准RoboDojo，被业界称为\"具身测评界的珠峰\"。在测试中人类得分100分，而当前最强AI模型仅得12.8分，反映出具身智能模型与人类能力之间的巨大差距",
+      "creator": "思邈",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "IMF称人工智能帮助抵消战争引发的经济放缓，但风险犹存",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/imf-sees-ai-surge-offset-war-oil-shock-and-keeps-growth-outlook",
+      "pubdate": "2026-07-08 21:00:00",
+      "contentSnippet": "国际货币基金组织（IMF）基本维持今年全球增长预测不变，称人工智能的繁荣帮助抵消了中东冲突带来的经济冲击。",
+      "creator": "Jorgelina Do Rosario",
+      "relevance": 7,
+      "source": "IMF",
+      "category": "行业动态"
+    },
+    {
+      "title": "贝索斯支持的初创公司：你的游戏数据可能是实现AGI的关键",
+      "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "pubdate": "2026-07-08 21:00:00",
+      "contentSnippet": "在实现通用人工智能（AGI）方面，大型语言模型并不具备所需的能力。ChatGPT和Claude等模型在文本处理上表现出色，但在理解事物如何在空间和时间中实际运动方面能力不足——而这",
+      "creator": "Rebecca Bellan, Theresa Loconsolo",
+      "relevance": 9,
+      "source": "General Intuition",
+      "category": "行业动态"
+    },
+    {
+      "title": "研究者称 AI 聊天机器人警告标签可能无法阻止幻觉",
+      "link": "https://www.techrepublic.com/article/news-ai-chatbot-warning-labels/",
+      "pubdate": "2026-07-08 19:48:44",
+      "contentSnippet": "2026年6月的一项研究综述发现，AI聊天机器人的警告标签可能无法为组织支持的AI顾问提供有效保障，这给IT、安全和合规团队带来了新的审计问题。",
+      "creator": "TechRepublic Staff",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "安全监管"
+    },
+    {
+      "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
+      "link": "https://36kr.com/p/3886403765596418?f=rss",
+      "pubdate": "2026-07-08 19:03:34",
+      "contentSnippet": "2026年，AI视频生成赛道已迈入全面爆发的成熟竞速期。文章深度横评了6款主流AI视频生成工具：字节跳动Seedance 2.0（即梦AI）、快手可灵3.0、阿里通义万相Wan 2",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发",
+      "link": "https://www.qbitai.com/2026/07/446356.html",
+      "pubdate": "2026-07-08 18:15:43",
+      "contentSnippet": "横跨淘天与ATH事业群，硬核少年技术节将在北京和杭州同步开幕，届时将发布四项AIGX（AI生成内容相关）硬核技术成果，展示了淘天集团在AI领域的最新进展。",
+      "creator": "量子位",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "我的患者用ChatGPT进行心理治疗。现在我也在使用 | Sarah Dargouth",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/08/chatgpt-ai-therapy",
+      "pubdate": "2026-07-08 18:00:26",
+      "contentSnippet": "我不能责怪我的患者转向其直截了当的评估。但它确实存在真正的风险——而照护可能需要人类特有的混乱。",
+      "creator": "Sarah Darghouth",
+      "relevance": 8,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "这位前 DeepMind 高管认为 AI 军备竞赛可能以灾难告终",
+      "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+      "pubdate": "2026-07-08 17:30:00",
+      "contentSnippet": "Verity Harding 告诉《连线》杂志，美国政府对待 AI 的民族主义态度表明，最坏的情况正在形成。",
+      "creator": "Joel Khalili",
+      "relevance": 8,
+      "source": "Wired",
+      "category": "行业动态"
+    },
+    {
+      "title": "您的AI劳动力已在运行。您能证明其产出吗？",
+      "link": "https://www.aiacceleratorinstitute.com/prove-what-your-workforce-is-producing/",
+      "pubdate": "2026-07-08 17:11:21",
+      "contentSnippet": "公司中的其他员工都有记录系统，而AI是第一个没有的。",
+      "creator": "AIAI",
+      "relevance": 9,
+      "source": "AI Accelerator Institute",
+      "category": "行业动态"
+    },
+    {
+      "title": "翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议",
+      "link": "https://www.qbitai.com/2026/07/446076.html",
+      "pubdate": "2026-07-08 16:55:30",
+      "contentSnippet": "崔添翼：这个方向很容易出成果",
+      "creator": "听雨",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "法国热门初创公司 ZML 发布免费产品，加速跨多 AI 芯片的推理速度",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "pubdate": "2026-07-08 16:00:00",
+      "contentSnippet": "ZML 是一家由图灵奖得主 Yann LeCun 背书的热门法国 AI 初创公司，现已发布 ZML/LLMD 软件，该软件可降低 AI 运行成本。",
+      "creator": "Anna Heim",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "产品发布"
+    },
+    {
+      "title": "中信建投：AI PCB需求放量，高阶升级趋势明确",
+      "link": "https://36kr.com/newsflashes/3886210565468419?f=rss",
+      "pubdate": "2026-07-08 15:57:43",
+      "contentSnippet": "36氪获悉，中信建投指出，算力需求正成为PCB行业最重要的结构性增量，推动AI场景PCB升级为高多层、高密度、高速、低损耗和高可靠的平台型产品。AI服务器架构从CPU平台转向GPU",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "中信建投",
+      "category": "行业动态"
+    },
+    {
+      "title": "阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式",
+      "link": "https://www.qbitai.com/2026/07/446069.html",
+      "pubdate": "2026-07-08 15:51:26",
+      "contentSnippet": "阿里在国际AI顶级会议上斩获最佳资源论文奖，提出了全新的Agent评测新范式，推动AI智能体评估体系发展。",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "阿里云",
+      "category": "技术论文"
+    },
+    {
+      "title": "三星开始量产用于英伟达Vera Rubin平台的先进固态硬盘",
+      "link": "https://36kr.com/newsflashes/3886204561125384?f=rss",
+      "pubdate": "2026-07-08 15:48:35",
+      "contentSnippet": "三星电子已开始量产其最先进的数据中心存储设备PM1763，该产品将用于英伟达即将推出的Vera Rubin平台。这款企业级固态硬盘采用最新的V-NAND闪存芯片和新研发的4纳米控制",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "三星",
+      "category": "行业动态"
+    },
+    {
+      "title": "高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座",
+      "link": "https://www.qbitai.com/2026/07/445946.html",
+      "pubdate": "2026-07-08 15:42:27",
+      "contentSnippet": "高德地图正式发布Phys AI Data，这是业内首个面向物理AI（Physical AI）训练与应用的一站式空间数据基座产品，旨在为自动驾驶、机器人、具身智能等物理AI领域提供高",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "高德地图",
+      "category": "产品发布"
+    },
+    {
+      "title": "智能伙伴 共创未来！WAIC 2026即将举行并首发主题片",
+      "link": "https://www.qbitai.com/2026/07/445904.html",
+      "pubdate": "2026-07-08 15:33:50",
+      "contentSnippet": "量子位的朋友们",
+      "creator": "量子位",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "Anthropic扩张美国纽约办公室，员工规模将翻番至1000人",
+      "link": "https://36kr.com/newsflashes/3886185435787523?f=rss",
+      "pubdate": "2026-07-08 15:28:09",
+      "contentSnippet": "据报道，美国人工智能公司Anthropic当地时间7月7日宣布，将租赁位于纽约曼哈顿哈德逊街330号的一栋16层办公楼，并计划今年将纽约员工规模扩大一倍至1000人。Anthrop",
+      "creator": "36 氪",
+      "relevance": 6,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "微软开始在部分软件中改用自研AI模型，减少对OpenAI和Anthropic依赖",
+      "link": "https://36kr.com/newsflashes/3886185002823686?f=rss",
+      "pubdate": "2026-07-08 15:25:43",
+      "contentSnippet": "微软公司寻求降低人工智能成本，正开始在Excel和Outlook等软件产品中以自研模型取代OpenAI和Anthropic的模型。据一位知情人士透露，这两款广泛使用的软件中，每周有",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "微软",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI芯片制造商SambaNova以110亿美元估值融资10亿美元，距上一轮巨额融资仅5个月",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "pubdate": "2026-07-08 15:16:00",
+      "contentSnippet": "AI芯片制造商SambaNova以110亿美元估值完成融资，数月前有传闻称英特尔试图以约16亿美元收购该公司。",
+      "creator": "Kate Park",
+      "relevance": 8,
+      "source": "TechCrunch AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "法律人工智能初创公司Norm Ai获1.2亿美元融资，估值12亿美元",
+      "link": "https://36kr.com/newsflashes/3886179597463552?f=rss",
+      "pubdate": "2026-07-08 15:14:13",
+      "contentSnippet": "Norm Ai周二表示，已在由Khosla Ventures领投的C轮融资中筹集了1.2亿美元，这家法律人工智能初创企业的估值达到12亿美元。（新浪财经）",
+      "creator": "36 氪",
+      "relevance": 8,
+      "source": "Norm Ai",
+      "category": "投融资信息"
+    },
+    {
+      "title": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
+      "link": "https://www.qbitai.com/2026/07/445883.html",
+      "pubdate": "2026-07-08 12:47:04",
+      "contentSnippet": "已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽",
+      "creator": "梦晨",
+      "relevance": 9,
+      "source": "DeepSeek",
+      "category": "行业动态"
+    },
+    {
+      "title": "Perplexity 正在悄悄打造一款AI编码工具，挑战Cursor和Claude Code",
+      "link": "https://www.businessinsider.com/perplexity-building-ai-coding-tool-take-on-cursor-and-openai-2026-7",
+      "pubdate": "2026-07-08 07:22:09",
+      "contentSnippet": "Perplexity正在开发一款内部代号为\"Teammate\"的AI编码工具，能够从头到尾构建软件。该工具自五月起已在内部使用，未来可能公开发布，这将使其直接与Cursor、Ant",
+      "creator": "Charles Rollet",
+      "relevance": 10,
+      "source": "Perplexity",
+      "category": "产品发布"
+    },
+    {
+      "title": "三星为英伟达Vera Rubin平台量产存储驱动器",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-07/samsung-mass-produces-storage-drives-for-nvidia-s-vera-rubin",
+      "pubdate": "2026-07-08 07:10:00",
+      "contentSnippet": "三星电子已开始量产其最先进的数据中心存储驱动器，该产品将用于英伟达即将推出的Vera Rubin平台。",
+      "creator": "Yoolim Lee",
+      "relevance": 8,
+      "source": "三星",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta 刚刚推出新的 AI 图像生成器 Muse Image，用户已因照片使用问题提出抗议",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "pubdate": "2026-07-08 06:18:10",
+      "contentSnippet": "这款新的图像生成模型有多种应用场景，包括广告、装饰以及创作者相关机会。",
+      "creator": "Lucas Ropek",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "产品发布"
+    },
+    {
+      "title": "芯片股因AI焦虑而下跌 | 收盘 2026年7月7日",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-07/the-close-7-7-2026-video",
+      "pubdate": "2026-07-08 06:13:28",
+      "contentSnippet": "彭博电视为您带来华尔街收盘钟声敲响前最后几分钟和几秒钟的最新新闻和分析。今日嘉宾包括：芝加哥期权交易所全球市场副总裁、衍生品市场情报主管Mandy Xu，TeraWulf董事长兼C",
+      "creator": "Bloomberg Technology",
+      "relevance": 6,
+      "source": "Bloomberg Technology",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta 默认允许使用Instagram照片生成AI图像，用户需主动选择退出",
+      "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+      "pubdate": "2026-07-08 05:59:29",
+      "contentSnippet": "作为Meta Muse图像模型部署的一部分，拥有公开账户的Instagram用户需要主动选择退出，才能阻止其内容被用于AI图像生成。",
+      "creator": "Reece Rogers",
+      "relevance": 8,
+      "source": "Meta",
+      "category": "安全监管"
+    },
+    {
+      "title": "OpenAI 首席未来学家即将离职",
+      "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "pubdate": "2026-07-08 05:30:00",
+      "contentSnippet": "约书亚·阿希亚姆在 OpenAI 从事 AI 安全研究近九年，并在马斯克诉奥特曼的庭审中出庭作证，令人印象深刻。",
+      "creator": "Maxwell Zeff",
+      "relevance": 7,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "TeraWulf CEO 对与 Anthropic 的数据中心协议充满期待",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-07/terawulf-ceo-on-anthropic-data-center-agreement-video",
+      "pubdate": "2026-07-08 05:07:49",
+      "contentSnippet": "TeraWulf 首席执行官 Paul Prager 表示，与 Anthropic 签署的为期20年的新租赁协议是对公司 AI 基础设施战略的重大信心投票。Prager 在彭博电视",
+      "creator": "Bloomberg Technology",
+      "relevance": 7,
+      "source": "TeraWulf",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果与博通延长芯片合作至2031年：这对AI意味着什么",
+      "link": "https://www.techrepublic.com/article/news-apple-broadcom-chip-deal-ai-hardware/",
+      "pubdate": "2026-07-08 04:51:36",
+      "contentSnippet": "苹果和博通延长了芯片合作伙伴关系至2031年，AI硬件需求增加对供应商、定价和设备成本带来了压力。",
+      "creator": "David Curry",
+      "relevance": 7,
+      "source": "TechRepublic",
+      "category": "行业动态"
+    },
+    {
+      "title": "为什么开源AI的崛起并未伤害到Anthropic……至少目前如此",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "pubdate": "2026-07-08 04:04:32",
+      "contentSnippet": "开源模型的成功并非以牺牲前沿实验室为代价。相反，它们似乎各自占据了同一生命周期中的两个不同阶段。",
+      "creator": "Russell Brandom",
+      "relevance": 8,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "微软加入AI降本潮流，更加依赖自家模型",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "pubdate": "2026-07-08 03:58:20",
+      "contentSnippet": "微软成为最新一家削减AI支出的硅谷巨头。",
+      "creator": "Lucas Ropek",
+      "relevance": 9,
+      "source": "Microsoft",
+      "category": "行业动态"
+    },
+    {
+      "title": "Discord 承认 AI 审核错误导致用户因无害图片被误封",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "pubdate": "2026-07-08 03:28:38",
+      "contentSnippet": "该公司确认该问题自5月以来一直影响用户账户，在其团队识别并修复问题之前，上周末又有200名用户被误封。",
+      "creator": "Lauren Forristal",
+      "relevance": 8,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "BC省考虑就大规模枪击事件对OpenAI采取法律行动",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-07/bc-eyes-legal-action-against-openai-in-wake-of-mass-shooting",
+      "pubdate": "2026-07-08 02:48:56",
+      "contentSnippet": "不列颠哥伦比亚省正在探讨对OpenAI采取法律行动，原因是OpenAI未能就2月在坦布勒里奇镇发生的大规模枪击事件前ChatGPT上出现的威胁向当局发出警告。",
+      "creator": "Jessica Kim",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "安全监管"
+    },
+    {
+      "title": "AI芯片抛售潮席卷全球市场 | Bloomberg Tech 2026年7月7日",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-07/bloomberg-tech-7-07-2026-video",
+      "pubdate": "2026-07-08 02:28:12",
+      "contentSnippet": "彭博社的Ed Ludlow分析了三星因存储芯片需求激增而实现的季度利润增长，以及为何这仍未能令投资者满意。此外，亚马逊重返债券市场，计划筹集至少250亿美元用于AI基础设施投资；S",
+      "creator": "Bloomberg Technology",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资 | 36氪首发",
+      "link": "https://36kr.com/p/3885413484163074?f=rss",
+      "pubdate": "2026-07-08 02:07:53",
+      "contentSnippet": "太空算力赛道新玩家星际原点航天科技（上海）有限公司完成种子轮和天使轮两轮融资，累计规模数千万元，由九合创投、梅花创投、上海科创集团策源基金等投资。公司专注于太空算力卫星，计划将GP",
+      "creator": "阿至",
+      "relevance": 8,
+      "source": "36氪",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Meta 在聊天机器人和 Instagram 中推出全新 AI 图像生成模型",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-07/meta-debuts-new-ai-image-generation-model-inside-chatbot-instagram",
+      "pubdate": "2026-07-08 02:00:00",
+      "contentSnippet": "Meta Platforms Inc. 推出了一款全新的人工智能图像生成模型，这是自一年前该公司斥资数十亿美元重建由首席AI官 Alexandr Wang 领导的AI实验室以来的首",
+      "creator": "Kurt Wagner",
+      "relevance": 10,
+      "source": "Meta",
+      "category": "模型发布"
+    },
+    {
+      "title": "Omnigent 中的上下文策略：利用会话状态更好地管理 AI 智能体",
+      "link": "https://www.databricks.com/blog/contextual-policies-omnigent-using-session-state-better-govern-ai-agents",
+      "pubdate": "2026-07-08 01:42:58",
+      "contentSnippet": "我们最近推出了 Omnigent，这是一个用于 AI 智能体的开源元框架。它可以让开发者通过会话状态为 AI 智能体应用细粒度的上下文策略，实现更优的治理和控制。",
+      "creator": "Databricks",
+      "relevance": 10,
+      "source": "Databricks",
+      "category": "产品发布"
+    },
+    {
+      "title": "工具与子代理：构建高效AI代理，避免过度工程化",
+      "link": "https://machinelearningmastery.com/tools-vs-subagents-building-effective-ai-agents-without-over-engineering/",
+      "pubdate": "2026-07-08 01:04:55",
+      "contentSnippet": "工具执行代码。探讨如何使用工具与子代理架构构建高效AI代理，避免过度工程化。",
+      "creator": "Bala Priya C",
+      "relevance": 9,
+      "source": "Machine Learning Mastery",
+      "category": "行业动态"
+    },
+    {
+      "title": "上市前夜｜套现十几亿后，他把矿卡开向港股",
+      "link": "https://36kr.com/p/3885318981366023?f=rss",
+      "pubdate": "2026-07-08 00:32:12",
+      "contentSnippet": "本文聚焦于易控智驾在港交所上市前夜的商业故事，讲述了创始人蓝水生从游戏出海套现十几亿后转型进入矿区无人驾驶领域，公司经过11轮融资后以18C特专科技公司身份上市，分析了其财务数据、",
+      "creator": "彭孝秋",
+      "relevance": 6,
+      "source": "易控智驾",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Claude Cowork 扩展至移动端和网页端",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "pubdate": "2026-07-08 00:27:18",
+      "contentSnippet": "通过此次更新，用户可以在办公桌前启动任务，在手机上获取状态更新，之后即使笔记本电脑处于关闭状态，也能随时取回完成的输出结果。",
+      "creator": "Rebecca Bellan",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "The Neuron 推出面向日常职场人士的人工智能培训平台",
+      "link": "https://www.techrepublic.com/article/news-neuron-academy-ai-training-preview/",
+      "pubdate": "2026-07-08 00:20:25",
+      "contentSnippet": "The Neuron Academy 于7月7日推出，提供自定进度的AI课程，帮助希望更自信地使用ChatGPT、Claude和Gemini的职场专业人士。",
+      "creator": "Liz Ticong",
+      "relevance": 8,
+      "source": "TechRepublic",
+      "category": "产品发布"
+    },
+    {
+      "title": "微软在部分应用中用自研AI取代OpenAI和Anthropic模型",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps",
+      "pubdate": "2026-07-08 00:19:46",
+      "contentSnippet": "微软公司为降低AI成本，开始在其Excel和Outlook等软件产品中，用自研模型取代OpenAI和Anthropic的模型。",
+      "creator": "Brody Ford",
+      "relevance": 9,
+      "source": "Bloomberg Technology",
+      "category": "行业动态"
+    },
+    {
+      "title": "面对美国出口管制，中国DeepSeek计划自研芯片",
+      "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "pubdate": "2026-07-08 00:14:53",
+      "contentSnippet": "计划尚处于早期阶段，但目标是减少对英伟达和华为的依赖。",
+      "creator": "Samuel Axon",
+      "relevance": 9,
+      "source": "DeepSeek",
+      "category": "行业动态"
+    },
+    {
+      "title": "合上电脑吧！Anthropic 将 Claude Cowork 智能体带到手机上",
+      "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "pubdate": "2026-07-08 00:00:00",
+      "contentSnippet": "Claude Cowork 现在即使在关闭笔记本电脑后也能继续处理任务。这是向智能手机控制智能体这一更大趋势迈进的一部分。",
+      "creator": "Reece Rogers",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "产品发布"
+    }
+  ]
+}

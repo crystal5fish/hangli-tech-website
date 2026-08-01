@@ -1,0 +1,515 @@
+{
+  "date": "2026-07-03",
+  "items": [
+    {
+      "title": "如何在 AI 智能体控制你之前控制它们",
+      "link": "https://www.aiacceleratorinstitute.com/how-to-control-ai-agents-before-they-control-you-2/",
+      "pubdate": "2026-07-03 23:00:53",
+      "contentSnippet": "我花了大量时间思考这个问题，更重要的是，在 2Q AI 构建智能体系统时亲身实践。以下是一些真实事件、真实的架构故障分析，以及一个防止 AI 智能体失控的实用框架……",
+      "creator": "Sunondo Ghosh",
+      "relevance": 9,
+      "source": "AI Accelerator Institute",
+      "category": "安全监管"
+    },
+    {
+      "title": "如果我们不再需要工作，生活会变成什么样？一次思想实验的尝试",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/04/ai-disruption-dystopia-dont-need-to-work-capitalism-free-time",
+      "pubdate": "2026-07-03 23:00:33",
+      "contentSnippet": "AI承诺带来的富足代表着一个巨大而根本的机遇——一个重新与古老的生活之道建立联系的机会。长久以来，人类一直梦想着摆脱劳役的生活，将时间主要用于休闲、学习和愉悦。如今AI已经到来，如",
+      "creator": "Brigid Delaney",
+      "relevance": 7,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "Google DeepMind与A24宣布首次研究合作",
+      "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "pubdate": "2026-07-03 22:25:43",
+      "contentSnippet": "Google DeepMind与知名娱乐公司A24宣布建立首次研究合作伙伴关系，双方将共同探索前沿研究在创意领域的应用可能性。",
+      "creator": "hh",
+      "relevance": 8,
+      "source": "DeepMind",
+      "category": "行业动态"
+    },
+    {
+      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+      "link": "https://www.qbitai.com/2026/07/442567.html",
+      "pubdate": "2026-07-03 20:17:37",
+      "contentSnippet": "单词数也是风险问题？！",
+      "creator": "克雷西",
+      "relevance": 9,
+      "source": "Claude",
+      "category": "模型发布"
+    },
+    {
+      "title": "AI智能体正在制造新的企业安全缺口",
+      "link": "https://www.techrepublic.com/article/news-ai-agents-enterprise-security-gap/",
+      "pubdate": "2026-07-03 19:30:52",
+      "contentSnippet": "一周内五起独立的安全事件披露都指向同一个漏洞：AI智能体的权限问题，而非AI智能体的能力问题，才是企业尚未解决的安全挑战。本文首发于TechRepublic。",
+      "creator": "Tim Freestone",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "行业动态"
+    },
+    {
+      "title": "大型科技公司派员工到现场帮助客户使用AI",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-03/microsoft-amazon-send-workers-to-their-customers-to-help-with-ai",
+      "pubdate": "2026-07-03 19:02:01",
+      "contentSnippet": "微软、亚马逊效仿AI公司，创建'前沿部署'工程师团队，将技术人员派驻客户现场，协助企业更好地利用AI技术。",
+      "creator": "Rebecca Torrence",
+      "relevance": 8,
+      "source": "Bloomberg Technology",
+      "category": "行业动态"
+    },
+    {
+      "title": "武田与英矽智能签署6亿美元AI药物发现协议",
+      "link": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+      "pubdate": "2026-07-03 18:00:00",
+      "contentSnippet": "武田药品已与总部位于香港的英矽智能达成战略合作，将AI应用于这家日本制药公司的早期药物发现领域。双方未透露合作涉及的具体治疗领域或疾病靶点。该协议使武田能够使用英矽智能的Pharm",
+      "creator": "Muhammad Zulhusni",
+      "relevance": 9,
+      "source": "AI News",
+      "category": "投融资信息"
+    },
+    {
+      "title": "安联首席投资官苏弗兰质疑欧洲'AI红利'前景",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-03/allianz-s-subran-has-doubts-over-europe-s-ai-dividend-video",
+      "pubdate": "2026-07-03 16:09:59",
+      "contentSnippet": "安联首席投资官兼首席经济学家卢多维奇·苏弗兰表示，没有足够证据表明AI交易处于'泡沫'区域。他在法国普罗旺斯艾克斯经济论坛上对彭博社的卡罗琳·科南表示，由于半导体需求，新兴市场股票",
+      "creator": "Bloomberg",
+      "relevance": 6,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "证监会同意宇树科技科创板IPO注册，宇树科技成为\"具身智能第一股\"",
+      "link": "https://36kr.com/p/3879158039834629?f=rss",
+      "pubdate": "2026-07-03 16:06:38",
+      "contentSnippet": "证监会网站显示，同意宇树科技首次公开发行股票注册。宇树科技成为全球首家在IPO前实现人形机器人规模化盈利的企业，将成为A股\"人形机器人第一股\"。从IPO申请获受理到注册生效仅用时1",
+      "creator": "王倚轩",
+      "relevance": 8,
+      "source": "宇树科技",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta打算出售富余算力引发科技股回落，业内人士：算力租赁市场并未降温",
+      "link": "https://36kr.com/newsflashes/3879154055262217?f=rss",
+      "pubdate": "2026-07-03 15:59:33",
+      "contentSnippet": "科技巨头Meta（脸书）打算出售富余算力的消息，引发AI算力过剩恐慌，全球科技股普遍回落，A股存储、光模块、PCB（印制电路板）、MLCC（多层片式陶瓷电容器）等热门科技股纷纷下跌",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "韩国考虑动用5万亿韩元增量税收推进自主AI模型开发",
+      "link": "https://36kr.com/newsflashes/3879140914753795?f=rss",
+      "pubdate": "2026-07-03 15:46:11",
+      "contentSnippet": "韩国经济日报（Korea Economic Daily）援引未具名政府官员报道称，韩国正考虑利用半导体繁荣带来的约5万亿韩元增量税收，为自主人工智能（AI）模型开发提供资金。报道称",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "link": "https://www.qbitai.com/2026/07/442452.html",
+      "pubdate": "2026-07-03 15:35:58",
+      "contentSnippet": "量子位报道，AI在仅使用28个GPU的情况下，成功发现4种人类此前完全未知的全新超导体材料，效率超越人类过去100年的超导体发现史。这一成果展示了AI Agent在材料科学领域的巨",
+      "creator": "衡宇",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "核电小型堆发展提速，算力中心供电或有新突破",
+      "link": "https://36kr.com/newsflashes/3879130252636162?f=rss",
+      "pubdate": "2026-07-03 15:35:21",
+      "contentSnippet": "在算力负荷持续暴涨的情况下，风光等电源供电短板凸显，核电小型模块化反应堆（小型堆）配套AI算力中心有望成为数据中心零碳稳定供电新选择。当前国内外都在加快推动小型堆发展，多位能源核能",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "Windsor：市场误判了AI算力需求",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-03/windsor-market-has-mistaken-demand-for-ai-compute-video",
+      "pubdate": "2026-07-03 15:17:34",
+      "contentSnippet": "半导体板块在第三季度开盘时遭遇了近一个月来最糟糕的两日连跌。费城证券交易所半导体指数在经历了有史以来最佳季度（涨幅达88%）后，于7月2日下跌了6%。Radio Free Mobi",
+      "creator": "Bloomberg Technology",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+      "link": "https://www.qbitai.com/2026/07/442447.html",
+      "pubdate": "2026-07-03 15:12:27",
+      "contentSnippet": "量子位的朋友们",
+      "creator": "量子位",
+      "relevance": 9,
+      "source": "百度智能云",
+      "category": "模型发布"
+    },
+    {
+      "title": "AI工厂在电力设备市场创造赢家和输家",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-03/ai-factories-create-winners-and-losers-in-power-equipment-market",
+      "pubdate": "2026-07-03 14:15:00",
+      "contentSnippet": "新一代AI工厂正迫使电力设备公司重新考虑其投资组合，以竞相从预计每年价值超过2000亿美元的市场中获利。",
+      "creator": "Chloe Meley, Marilen Martin",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI交易正在失去其关键信号之一",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+      "pubdate": "2026-07-03 14:13:43",
+      "contentSnippet": "在市场对投入人工智能领域的巨额资金能否获得回报日益感到不安之际，该行业每单位使用量的价格正在逐步走低。",
+      "creator": "Jan-Patrick Barnert, Michael Msika",
+      "relevance": 6,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "link": "https://www.qbitai.com/2026/07/442311.html",
+      "pubdate": "2026-07-03 13:24:06",
+      "contentSnippet": "第三方测评超越OpenAI最强旗舰GPT-5.6 Sol",
+      "creator": "一水",
+      "relevance": 9,
+      "source": "涌生智能",
+      "category": "行业动态"
+    },
+    {
+      "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+      "link": "https://www.qbitai.com/2026/07/442167.html",
+      "pubdate": "2026-07-03 11:36:19",
+      "contentSnippet": "7月17-7月20，WAIC 2026将聚焦算力议题，探讨超节点与光互连技术能否突破单芯片的物理极限。",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "3000%的奖金但日益扩大的财富鸿沟：韩国应对AI芯片繁荣",
+      "link": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom",
+      "pubdate": "2026-07-03 10:34:40",
+      "contentSnippet": "在芯片制造商三星电子和SK海力士的推动下，韩国正经历财富激增，但谁有权分享这些利润的问题也随之而来。当韩国最引人注目的离婚案上月再次开庭时，律师们争论的不仅是婚姻关系的破裂，还有某",
+      "creator": "Raphael Rashid（首尔报道）",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "“不要扼杀音乐”：阿尔巴尼斯总理最爱的乐队恳求他阻止AI公司窃取他们的作品",
+      "link": "https://www.theguardian.com/music/2026/jul/03/dont-kill-music-anthony-albaneses-favourite-bands-beg-pm-to-stop-ai-companies-from-stealing-their-work",
+      "pubdate": "2026-07-03 09:33:50",
+      "contentSnippet": "一项与政府达成的潜在协议将允许国际科技公司挖掘澳大利亚音乐家的创意作品。总理最喜欢的一些艺术家向《卫报》讲述了他们的感受。大型科技公司要求放宽澳大利亚版权法，允许它们抓取澳大利亚的",
+      "creator": "Steph Harmon",
+      "relevance": 8,
+      "source": "The Guardian",
+      "category": "安全监管"
+    },
+    {
+      "title": "铠侠向AI数据中心发运下一代闪存样品，抢占竞争先机",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/kioxia-ships-samples-of-newest-flash-memory-for-ai-data-centers",
+      "pubdate": "2026-07-03 07:53:47",
+      "contentSnippet": "铠侠控股公司已开始向AI数据中心运营商发送其下一代闪存芯片样品，力图在这一利润丰厚的业务中抢占先机，与竞争对手展开角逐。",
+      "creator": "Takashi Mochizuki, Mari Kiyohara",
+      "relevance": 8,
+      "source": "Kioxia",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta AI负责人称其即将推出的AI模型已追平OpenAI旗舰模型",
+      "link": "https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7",
+      "pubdate": "2026-07-03 07:52:04",
+      "contentSnippet": "Meta超级智能部门负责人Alexandr Wang在内部全员大会上表示，Meta代号为'Watermelon'的下一代AI模型已在关键基准测试中追平OpenAI的GPT-5.5旗",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "马克·扎克伯格告诉员工，AI代理的进展没有他希望的那么快",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "pubdate": "2026-07-03 07:38:10",
+      "contentSnippet": "在一次内部会议上，据报道Meta CEO表示AI开发工作的进展没有预期那么快。",
+      "creator": "Lucas Ropek",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "蓬勃发展的AI芯片贸易巩固了香港作为中国门户的地位",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china",
+      "pubdate": "2026-07-03 07:30:00",
+      "contentSnippet": "香港已成为高科技产品进出中国的重要通道，在全球人工智能热潮的推动下，它成为价值2万亿美元的亚洲贸易网络中的一个关键节点。",
+      "creator": "Nectar Gan, James Mayger",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "中国量化基金吸引数十亿资金，AI碾压人类交易员",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders",
+      "pubdate": "2026-07-03 07:00:00",
+      "contentSnippet": "中国的量化基金大受欢迎，投资者资金蜂拥而至。",
+      "creator": "Charlie Zhu, Dingmin Zhang, Zheng Li",
+      "relevance": 6,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "特朗普称希望设立AI护栏，但'越少越好'",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/trump-says-he-wants-ai-guardrails-but-as-little-as-possible",
+      "pubdate": "2026-07-03 06:21:44",
+      "contentSnippet": "美国总统唐纳德·特朗普表示，人工智能技术需要一定的标准规范，但希望避免繁琐的限制措施，以免妨碍美国企业与中国竞争。",
+      "creator": "Courtney Subramanian",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "安全监管"
+    },
+    {
+      "title": "马克·扎克伯格在内部全员大会上表示，AI智能体技术进展比预期更慢",
+      "link": "https://www.businessinsider.com/zuckerberg-said-metas-ai-progress-has-been-slower-than-expected-2026-7",
+      "pubdate": "2026-07-03 06:13:00",
+      "contentSnippet": "马克·扎克伯格告诉员工，Meta的\"超级智能之旅\"正在按计划进行，但需要时间。Meta正在将其AI训练计划改为自愿参与，此前发生信息泄露并引发员工反弹。首席技术官安德鲁·博斯沃思也",
+      "creator": "Louis Grasse/Reuters",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "谷歌 Nano Banana 2 Lite 揭示 AI 图像未来的五大趋势",
+      "link": "https://www.techrepublic.com/article/news-google-nano-banana-2-lite-ai-image-generation/",
+      "pubdate": "2026-07-03 05:42:59",
+      "contentSnippet": "谷歌的 Nano Banana 2 Lite 展示了更快、更经济的 AI 图像生成技术如何重塑创意工作流程和商业工具。",
+      "creator": "Matt Gonzales",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "产品发布"
+    },
+    {
+      "title": "Crusoe 洽谈融资30亿美元，估值或将翻三倍",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value",
+      "pubdate": "2026-07-03 05:14:49",
+      "contentSnippet": "数据中心新贵 Crusoe 已与 Meta Platforms Inc. 和 Oracle Corp. 等公司签订协议，提供人工智能算力。据知情人士透露，该公司正在洽谈一轮约30亿",
+      "creator": "Bailey Lipschultz, Rebecca Torrence, Edward Ludlow",
+      "relevance": 8,
+      "source": "Crusoe",
+      "category": "投融资信息"
+    },
+    {
+      "title": "微软押注人类专家以规模化扩展AI",
+      "link": "https://aibusiness.com/generative-ai/microsoft-frontier-company-humans-scale-ai",
+      "pubdate": "2026-07-03 04:58:10",
+      "contentSnippet": "微软Frontier公司是最新例证，表明人类专家对于实现人工智能投资回报至关重要。",
+      "creator": "Esther Shittu",
+      "relevance": 9,
+      "source": "Microsoft",
+      "category": "行业动态"
+    },
+    {
+      "title": "Jersey Mike's IPO 说明AI炒作已变得多么离谱",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "pubdate": "2026-07-03 04:11:59",
+      "contentSnippet": "出于好奇，我查看了Jersey Mike's的IPO文件。一家三明治店按理说没必要提及AI。但你猜怎么着。",
+      "creator": "Julie Bort",
+      "relevance": 6,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "软件开发者为其最新用户——AI 智能体——重新思考应用设计",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-02/software-developers-rethink-apps-for-their-newest-users-ai-agents",
+      "pubdate": "2026-07-03 04:00:02",
+      "contentSnippet": "调整范围从重新思考定价和权限到彻底改造设计",
+      "creator": "Dina Bass",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "智能手表血糖革命解析",
+      "link": "https://www.techrepublic.com/article/news-smartwatch-blood-sugar-revolution-explained/",
+      "pubdate": "2026-07-03 03:27:33",
+      "contentSnippet": "智能手表可能彻底改变血糖追踪方式，但当今的进步依赖于连续血糖监测仪（CGM）、人工智能以及受监管的健康技术集成。",
+      "creator": "Matt Gonzales",
+      "relevance": 6,
+      "source": "TechRepublic",
+      "category": "行业动态"
+    },
+    {
+      "title": "36氪 AI 工具测评，正在找第一批「抢跑者」",
+      "link": "https://36kr.com/p/3878412963508486?f=rss",
+      "pubdate": "2026-07-03 03:27:23",
+      "contentSnippet": "36氪正在组建AI工具测评社群「抢跑营」，招募深度使用AI工具的用户共享真实使用经验。社群提供深度资料、圈子氛围、平台资源支持和商业化项目对接，旨在打破AI工具使用中的信息茧房，让",
+      "creator": "36氪",
+      "relevance": 7,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI 的下一个挑战不在模型，而在组织",
+      "link": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
+      "pubdate": "2026-07-03 03:02:35",
+      "contentSnippet": "AWS 投资10亿美元于嵌入式AI工程师，反映出企业正从关注模型选择转向专注于让AI真正投入实际工作，这一更广泛的行业趋势正在形成。",
+      "creator": "Liz Hughes",
+      "relevance": 8,
+      "source": "AI Business",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta 悄然推出'氛围编码'游戏应用 Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "pubdate": "2026-07-03 02:44:02",
+      "contentSnippet": "Meta 悄然推出了 Pocket，这是一款实验性 AI 应用，让用户通过文本提示即可生成和分享互动迷你游戏。",
+      "creator": "Sarah Perez",
+      "relevance": 9,
+      "source": "TechCrunch",
+      "category": "产品发布"
+    },
+    {
+      "title": "ElevenLabs 洽谈收购要约，估值达 220 亿美元",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/elevenlabs-in-talks-for-tender-offer-at-22-billion-valuation",
+      "pubdate": "2026-07-03 02:35:41",
+      "contentSnippet": "据知情人士透露，ElevenLabs 已与投资者进行初步洽谈，计划通过二次发售让员工出售股份，此举将使这家人工智能初创公司的估值达到约 220 亿美元。",
+      "creator": "Natasha Mascarenhas, Yazhou Sun",
+      "relevance": 10,
+      "source": "ElevenLabs",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Anthropic 正与三星洽谈定制新芯片",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "pubdate": "2026-07-03 02:31:09",
+      "contentSnippet": "该消息发布约一周前，OpenAI 宣布与博通合作推出自家定制 AI 芯片。",
+      "creator": "Lucas Ropek",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI监管、安全漏洞与行业变革定义本周科技动态",
+      "link": "https://www.techrepublic.com/article/ai-oversight-security-flaws-and-industry-shifts-define-this-week-in-tech/",
+      "pubdate": "2026-07-03 02:14:09",
+      "contentSnippet": "查看每日科技内参6月29日至7月2日期间您错过的精彩内容。本文《AI监管、安全漏洞与行业变革定义本周科技动态》首发于TechRepublic。",
+      "creator": "TechRepublic Staff",
+      "relevance": 7,
+      "source": "TechRepublic",
+      "category": "行业动态"
+    },
+    {
+      "title": "微软组建6000人AI部署团队",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-02/microsoft-s-6-000-person-ai-push-video",
+      "pubdate": "2026-07-03 02:14:02",
+      "contentSnippet": "微软正在组建一支6000人的AI部署团队，帮助企业实施人工智能。彭博科技联合主持人Ed Ludlow解释了这一举措如何效仿Palantir首创并由AWS采纳的前沿部署工程师模式，以",
+      "creator": "Bloomberg Technology",
+      "relevance": 9,
+      "source": "Microsoft",
+      "category": "行业动态"
+    },
+    {
+      "title": "被 SpaceX 收购后，Cursor 能否继续成为 OpenAI 和 Anthropic 模型的开放平台？",
+      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "pubdate": "2026-07-03 02:01:20",
+      "contentSnippet": "Cursor 希望在被 SpaceX 收购后继续提供第三方 AI 模型，这考验着前沿 AI 实验室之间的合作关系。",
+      "creator": "Maxwell Zeff",
+      "relevance": 8,
+      "source": "Wired",
+      "category": "投融资信息"
+    },
+    {
+      "title": "特斯拉交付量飙升25% | 彭博科技 2026年7月2日",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-02/bloomberg-tech-7-02-2026-video",
+      "pubdate": "2026-07-03 01:57:19",
+      "contentSnippet": "彭博社的埃德·拉德洛报道了OpenAI正在进行早期讨论、拟向美国政府提供5%股权的消息。此外，特斯拉交付量同比增长25%，大幅超出华尔街预期。微软商业业务CEO还讨论了该科技巨头计",
+      "creator": "Bloomberg Technology",
+      "relevance": 8,
+      "source": "彭博社",
+      "category": "行业动态"
+    },
+    {
+      "title": "就业报告显示劳动力市场降温 | 公开权益 2026年7月2日",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-02/open-interest-7-2-2026-video",
+      "pubdate": "2026-07-03 01:41:44",
+      "contentSnippet": "与丹尼·伯格一起抢先了解美国交易日动态。美国6月招聘速度大幅放缓，华尔街评估后续走向。纳斯达克反弹，Meta重塑全球AI竞赛格局，OpenAI据称考虑向美国政府提供5%股份。白宫国",
+      "creator": "Bloomberg Technology",
+      "relevance": 7,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "美国首次使用核反应堆为英伟达AI芯片供电",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-02/nuclear-reactor-powers-nvidia-ai-chip-in-us-first-video",
+      "pubdate": "2026-07-03 01:35:04",
+      "contentSnippet": "加利福尼亚州的核能初创公司Valar Atomics利用先进反应堆发电，成功为英伟达AI芯片供电。虽然仅产生了少量电力，但这是美国首次使用新一代反应堆实现这一目标。在Valar的W",
+      "creator": "Bloomberg Technology",
+      "relevance": 8,
+      "source": "Valar Atomics",
+      "category": "行业动态"
+    },
+    {
+      "title": "Autodesk首席营销官Dara Treseder详解公司为何斥资3.5亿美元投入AI培训",
+      "link": "https://www.businessinsider.com/autodesk-cmo-dara-treseder-cannes-lions-2026-7",
+      "pubdate": "2026-07-03 01:26:55",
+      "contentSnippet": "Autodesk正投入3.5亿美元用于培训和相关工具，以帮助人们学习如何使用人工智能，该公司首席营销官Dara Treseder在2026年戛纳国际创意节上接受采访时表示。Tres",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "Autodesk",
+      "category": "行业动态"
+    },
+    {
+      "title": "当买家通过大语言模型做决策时，Bobcat 的 Laura Ness Owens 更加关注客户体验",
+      "link": "https://www.businessinsider.com/bobcat-cmo-laura-ness-owens-cannes-lions-2026-7",
+      "pubdate": "2026-07-03 01:16:53",
+      "contentSnippet": "Bobcat（一家紧凑型建筑和园林机械制造商）的首席营销官 Laura Ness Owens 表示，她希望能在客户搜索信息的地方与他们相遇。过去，客户旅程可能从搜索和公司官网开始。",
+      "creator": "Business Insider",
+      "relevance": 6,
+      "source": "Bobcat",
+      "category": "行业动态"
+    },
+    {
+      "title": "本周十大融资轮次：AI、能源和生物技术领跑",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/",
+      "pubdate": "2026-07-03 01:12:50",
+      "contentSnippet": "美国初创公司在缩短的假日周期间以稳定速度宣布了大规模融资轮次，其中能源和AI领域领先。总部位于休斯顿的能源初创公司Joulent获得了最大的一轮融资，为17.5亿美元的战略融资。",
+      "creator": "Joanna Glasner",
+      "relevance": 6,
+      "source": "Crunchbase News",
+      "category": "投融资信息"
+    },
+    {
+      "title": "将AI从实验阶段推向实际影响需回答的三个问题",
+      "link": "https://www.databricks.com/blog/3-questions-answer-take-ai-experimentation-impact",
+      "pubdate": "2026-07-03 01:04:19",
+      "contentSnippet": "企业开始看到AI在业务中的潜力。如今，60%的企业...",
+      "creator": "Databricks",
+      "relevance": 8,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "震惊硅谷的中国初创公司再出手：推出定价低于美国竞品的AI编程工具",
+      "link": "https://www.businessinsider.com/z-ai-zcode-ai-coding-tool-chinese-startup-lower-cost-2026-7",
+      "pubdate": "2026-07-03 00:57:08",
+      "contentSnippet": "中国热门AI初创公司Z.ai发布了AI编程工具ZCode，与Cursor、GitHub Copilot、Claude Code和Codex等产品展开竞争。ZCode可接入其他前沿模",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "Z.ai",
+      "category": "产品发布"
+    },
+    {
+      "title": "推动AI领先者的基础设施战略内幕",
+      "link": "https://www.databricks.com/blog/inside-infrastructure-strategies-propelling-ai-leaders",
+      "pubdate": "2026-07-03 00:47:56",
+      "contentSnippet": "AI的采用正开始转化为现实世界的回报。但随着努力的加速，...",
+      "creator": "Databricks",
+      "relevance": 9,
+      "source": "Databricks",
+      "category": "行业动态"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "date": "2026-07-13",
+  "items": [
+    {
+      "title": "Anthropic 开始为印度本地化 Claude 定价，印度是其美国之后的最大市场",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "pubdate": "2026-07-13 23:34:59",
+      "contentSnippet": "印度的 Claude 用户开始看到以印度卢比计价的订阅计划。",
+      "creator": "Jagmeet Singh",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "Sunrun为太阳能用户提供每月数百美元的AI算力计划",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/sunrun-offers-solar-users-hundreds-per-month-in-compute-program",
+      "pubdate": "2026-07-13 23:21:25",
+      "contentSnippet": "Sunrun公司正在试点一项计划，利用屋顶太阳能和电池装置产生的电力为家庭计算系统提供能源以支持人工智能运算，客户每月可赚取数百美元。据首席执行官Mary Powell介绍。",
+      "creator": "Will Wade, Mark Chediak",
+      "relevance": 7,
+      "source": "Sunrun",
+      "category": "行业动态"
+    },
+    {
+      "title": "Sunrun 将家庭转变为AI计算中心的实验",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-13/sunrun-s-experiment-to-turn-homes-into-ai-hubs-video",
+      "pubdate": "2026-07-13 23:20:12",
+      "contentSnippet": "Sunrun CEO Mary Powell 在接受《开放利益》采访时解释了该公司如何利用太阳能和电池将家庭转变为AI计算中心。她表示，房主每月可通过托管AI计算节点赚取数百美元，",
+      "creator": "Bloomberg Technology",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "2026年财富500强企业正在使用的15款AI工具",
+      "link": "https://www.aiacceleratorinstitute.com/the-15-ai-tools-fortune-500-companies-are-using-in-2026/",
+      "pubdate": "2026-07-13 23:15:09",
+      "contentSnippet": "采纳率调查只是噪音。以下是2026年财富500强企业内部实际运行的15款AI工具，按排名列出，并附有每款工具背后的数据支撑。",
+      "creator": "Andrew Lovell",
+      "relevance": 9,
+      "source": "AI Accelerator Institute",
+      "category": "行业动态"
+    },
+    {
+      "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
+      "link": "https://www.qbitai.com/2026/07/449327.html",
+      "pubdate": "2026-07-13 23:15:01",
+      "contentSnippet": "一款专为AI Agent打造的搜索工具登顶Product Hunt排行榜，据称能够大幅节省Token消耗，同时搜索结果更精准，由量子位报道。",
+      "creator": "闻乐",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "如今，防御者也开始利用提示注入技术",
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "pubdate": "2026-07-13 23:06:34",
+      "contentSnippet": "上下文炸弹技术诱骗黑客代理在造成危害前自行关闭。",
+      "creator": "Dan Goodin",
+      "relevance": 9,
+      "source": "Ars Technica",
+      "category": "安全监管"
+    },
+    {
+      "title": "AI芯片巨头台积电与SK海力士分道扬镳",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-13/tsmc-and-sk-hynix-pull-in-different-directions-video",
+      "pubdate": "2026-07-13 23:01:32",
+      "contentSnippet": "台积电股价飙升，而SK海力士下跌——这两家关键的AI芯片公司为何走向不同方向？Tom Mackenzie为您解读。（来源：彭博社）",
+      "creator": "Tom Mackenzie",
+      "relevance": 9,
+      "source": "彭博社",
+      "category": "行业动态"
+    },
+    {
+      "title": "工党能拯救我们免受AI风险吗？– 播客",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/jul/13/can-labor-save-us-from-the-risks-of-ai-full-story-podcast",
+      "pubdate": "2026-07-13 23:00:51",
+      "contentSnippet": "AI革命已经来临，随之而来的是对它将很快取代许多人工岗位的担忧。澳大利亚政府正在努力应对这一多层次颠覆，但改革进展缓慢，需在监管与AI投资机遇之间权衡。总理将发表重要讲话阐述政府对",
+      "creator": "Reged Ahmad",
+      "relevance": 8,
+      "source": "The Guardian AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "谷歌将告知你哪些广告由AI生成",
+      "link": "https://www.techrepublic.com/article/news-google-ai-ad-disclosure-labels/",
+      "pubdate": "2026-07-13 22:46:09",
+      "contentSnippet": "谷歌正在Search、YouTube和Discover上的广告中添加AI披露标签，但第三方AI的使用仍有赖于广告商的自行申报。",
+      "creator": "Aminu Abdullahi",
+      "relevance": 7,
+      "source": "Google",
+      "category": "安全监管"
+    },
+    {
+      "title": "Waze 新增 AI 驱动功能及个性化更新",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "pubdate": "2026-07-13 22:18:16",
+      "contentSnippet": "部分新功能由谷歌 Gemini AI 助手提供支持，这反映了这家科技巨头正更广泛地将 Gemini 集成到其产品中，同时也让 Waze 更好地与 Apple Maps 等竞争对手抗",
+      "creator": "Aisha Malik",
+      "relevance": 8,
+      "source": "Waze",
+      "category": "产品发布"
+    },
+    {
+      "title": "这些是你发给我们最糟糕的ChatGPT海报",
+      "link": "https://www.404media.co/these-are-the-worst-chatgpt-flyers-youve-sent-us/",
+      "pubdate": "2026-07-13 22:01:35",
+      "contentSnippet": "欢迎来到AI生成海报的耻辱堂。",
+      "creator": "Jason Koebler",
+      "relevance": 8,
+      "source": "404 Media",
+      "category": "行业动态"
+    },
+    {
+      "title": "Tokenmaxxing 实际上是有益的",
+      "link": "https://aibusiness.com/responsible-ai/tokenmaxxing-is-actually-good",
+      "pubdate": "2026-07-13 21:45:54",
+      "contentSnippet": "Tokenmaxxing 揭示了一个关键问题：企业将 AI 预算浪费在重复建设上，而非创造价值。",
+      "creator": "AI Business",
+      "relevance": 7,
+      "source": "AI Business",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta旗下Muse图像关键功能被取消",
+      "link": "https://aibusiness.com/generative-ai/key-feature-meta-s-muse-image-axed",
+      "pubdate": "2026-07-13 21:23:24",
+      "contentSnippet": "此举是在遭到Instagram用户、隐私倡导者及一家工会的批评后做出的。",
+      "creator": "Graham Hope",
+      "relevance": 8,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果失败的造车项目据称塑造了M7 AI芯片",
+      "link": "https://www.techrepublic.com/article/news-apple-car-project-m7-ai-chips/",
+      "pubdate": "2026-07-13 21:22:49",
+      "contentSnippet": "苹果失败的造车项目据称塑造了其神经引擎、未来的M7芯片以及更强大的AI服务器基础设施计划。",
+      "creator": "Kezia Jungco",
+      "relevance": 8,
+      "source": "Apple",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果诉讼威胁扰乱 OpenAI 与 iPhone 竞争的计划",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone",
+      "pubdate": "2026-07-13 20:32:47",
+      "contentSnippet": "苹果公司对 OpenAI 提起的诉讼，指控其系统性地窃取苹果的知识产权，这可能会在案件解决之前很久就扰乱这家 AI 公司的设备野心。",
+      "creator": "Mark Gurman",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "《下载》今日资讯：捐精者上限与人工智能世界模型",
+      "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "pubdate": "2026-07-13 20:10:00",
+      "contentSnippet": "这是《下载》今日版——我们的工作日通讯，为您带来科技领域每日要闻。欧洲生育医学团体表示，捐精者需要设定上限。47岁的Ties van der Meer不知道自己有多少个兄弟姐妹。他",
+      "creator": "Thomas Macaulay",
+      "relevance": 6,
+      "source": "MIT Technology Review",
+      "category": "行业动态"
+    },
+    {
+      "title": "英特尔投资50亿欧元扩建爱尔兰工厂，参与AI芯片竞赛",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/intel-invests-5-billion-in-irish-hub-to-keep-up-in-ai-chip-race",
+      "pubdate": "2026-07-13 20:02:40",
+      "contentSnippet": "英特尔公司正投资50亿欧元（57亿美元）扩建其在爱尔兰的工厂，这家芯片制造商试图在人工智能浪潮中重拾其制造主导地位。",
+      "creator": "Olivia Fletcher",
+      "relevance": 8,
+      "source": "英特尔",
+      "category": "行业动态"
+    },
+    {
+      "title": "纽约护士被AI取代：\"每个关心医疗质量的病人都应感到担忧\"",
+      "link": "https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai",
+      "pubdate": "2026-07-13 20:00:47",
+      "contentSnippet": "代表蒙特菲奥雷医院12名被解雇护士的工会表示，公司违反了他们在罢工中刚赢得的合同。玛丽莲·舒勒在纽约市布朗克斯区的蒙特菲奥雷医院担任利用审查护士长达39年，帮助阅读患者病历并与保险",
+      "creator": "Michael Sainato",
+      "relevance": 7,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+      "link": "https://www.qbitai.com/2026/07/449311.html",
+      "pubdate": "2026-07-13 19:59:57",
+      "contentSnippet": "浪潮信息发布CPU原生液冷整机柜及多模融合超节点，单柜可承载4万AI Agent，同时探索大模型协同答题技术，推动AI基础设施升级。",
+      "creator": "克雷西",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "ChatGPT 升级版语音模式捕捉真实对话中的不完美之处",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/chatgpt-s-voice-mode-can-handle-the-um-and-oh-of-real-conversations",
+      "pubdate": "2026-07-13 19:02:00",
+      "contentSnippet": "OpenAI 聊天机器人现在说话和交谈更像真人了",
+      "creator": "Austin Carr",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "产品发布"
+    },
+    {
+      "title": "欢迎来到「秀给我看」时代：Sapphire Ventures 的 Anders Ranum 谈如何区分胜出的AI初创公司与其他公司",
+      "link": "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/",
+      "pubdate": "2026-07-13 19:00:52",
+      "contentSnippet": "为了解机构资本如何应对AI在公开市场软件倍数与私募市场估值之间的差距，Crunchbase News近日专访了Sapphire Ventures合伙人Anders Ranum，他分",
+      "creator": "Judy Rider",
+      "relevance": 8,
+      "source": "Sapphire Ventures",
+      "category": "投融资信息"
+    },
+    {
+      "title": "模拟万物，大致如此：世界模型的承诺与局限",
+      "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "pubdate": "2026-07-13 19:00:51",
+      "contentSnippet": "专家们解释了世界模型的工作原理、能力范围以及尚未解决的难题。",
+      "creator": "Samuel Axon",
+      "relevance": 9,
+      "source": "Ars Technica",
+      "category": "行业动态"
+    },
+    {
+      "title": "华盛顿欲阻止中国利用美国AI模型进行训练",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc",
+      "pubdate": "2026-07-13 19:00:21",
+      "contentSnippet": "Anthropic和OpenAI关于「对抗性蒸馏」的警告，正在硅谷重新点燃一场最古老的辩论。",
+      "creator": "Maggie Eastland",
+      "relevance": 9,
+      "source": "Bloomberg",
+      "category": "安全监管"
+    },
+    {
+      "title": "AI代理爬虫现在需要获得许可：以下是如何获取许可的方法",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+      "pubdate": "2026-07-13 19:00:00",
+      "contentSnippet": "AI代理爬虫，即代表等待答案的用户实时抓取页面的机器人，将从9月15日起默认被部分网站屏蔽。Cloudflare于7月1日宣布了这一变化，此后的相关报道大多聚焦于Google。更有",
+      "creator": "Dashveenjit Kaur",
+      "relevance": 8,
+      "source": "AI News",
+      "category": "行业动态"
+    },
+    {
+      "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
+      "link": "https://36kr.com/p/3893473722514181?f=rss",
+      "pubdate": "2026-07-13 18:47:38",
+      "contentSnippet": "深圳光之跃迁科技有限公司（Lumisition Robotics）完成近五千万元天使轮融资，由正轩领投。公司成立于2026年2月，聚焦消费级四足机器人市场，瞄准欧美家庭、户外运动爱",
+      "creator": "乔钰杰",
+      "relevance": 7,
+      "source": "光之跃迁",
+      "category": "投融资信息"
+    },
+    {
+      "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
+      "link": "https://36kr.com/p/3893445208717826?f=rss",
+      "pubdate": "2026-07-13 18:39:18",
+      "contentSnippet": "Om AI联汇CEO赵天成博士深度访谈，探讨其VLX系列模型——全球首个面向物理AI的端侧流式多模态模型系列的技术架构、商业逻辑与行业洞察。文章详述了Om AI从2019年创业至今",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "Om AI联汇",
+      "category": "模型发布"
+    },
+    {
+      "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
+      "link": "https://36kr.com/p/3885232033378308?f=rss",
+      "pubdate": "2026-07-13 18:37:39",
+      "contentSnippet": "零差云控（深圳）科技股份有限公司近日完成C++轮融资数亿元，由同创伟业领投、国泰君安创新投资跟投，老股东华控基金追加投资。公司专注于高可靠、高精度机器人关节模组的研发与制造，其人形",
+      "creator": "黄楠",
+      "relevance": 7,
+      "source": "零差云控",
+      "category": "投融资信息"
+    },
+    {
+      "title": "研究人员担忧AI可能导致人类技能退化",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/ai-risks-never-skilling-new-research-on-loss-of-critical-thinking-skills",
+      "pubdate": "2026-07-13 18:30:01",
+      "contentSnippet": "我们是否会见证一代高风险行业的专家，他们从未真正建立起专业知识？",
+      "creator": "Jo Constantz",
+      "relevance": 9,
+      "source": "Bloomberg Technology",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果6500亿美元涨势由逃离AI抛售潮的交易员推动",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff",
+      "pubdate": "2026-07-13 18:13:17",
+      "contentSnippet": "投资者正纷纷重返苹果公司，因为对人工智能支出的担忧情绪令芯片制造商和云计算巨头的股票承压。",
+      "creator": "Ryan Vlastelica",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta路易斯安那州数据中心总投资将突破2500亿美元",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag",
+      "pubdate": "2026-07-13 17:30:00",
+      "contentSnippet": "Meta Platforms Inc.已承诺对其位于路易斯安那州的大型数据中心园区再投入400亿美元，使其在该场地的总投资预期超过2500亿美元，该公司正持续扩张其人工智能计算基础",
+      "creator": "Riley Griffin",
+      "relevance": 7,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
+      "link": "https://www.qbitai.com/2026/07/449156.html",
+      "pubdate": "2026-07-13 17:27:19",
+      "contentSnippet": "本文来自WAIC世界人工智能大会的思想者论坛，探讨在AI赛道竞争白热化的背景下，业界如何深入拆解和分析AI最底层的核心技术基础设施，包括硬件、算力、芯片等底层支撑体系，反思行业发展",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
+      "link": "https://www.qbitai.com/2026/07/449150.html",
+      "pubdate": "2026-07-13 16:28:04",
+      "contentSnippet": "量子位的朋友们",
+      "creator": "量子位",
+      "relevance": 8,
+      "source": "西门子",
+      "category": "行业动态"
+    },
+    {
+      "title": "招商证券：海外科技波动加大，关注国产算力机会",
+      "link": "https://36kr.com/newsflashes/3892799853410823?f=rss",
+      "pubdate": "2026-07-13 15:31:32",
+      "contentSnippet": "36氪获悉，招商证券策略报告指出，近期A股波动率加大，一定程度上是海外科技高波动向A股的映射，韩国市场的杠杆与美股Meta的表述造成市场剧烈波动。产业层面，建议关注国产算力的最新催",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "招商证券",
+      "category": "行业动态"
+    },
+    {
+      "title": "今年1-5月，我国云计算设备、半导体设备出口金额累计同比分别大增114.4%、91.5%",
+      "link": "https://36kr.com/newsflashes/3892797787208449?f=rss",
+      "pubdate": "2026-07-13 15:23:31",
+      "contentSnippet": "当下，人工智能发展如火如荼，从上游算力中心建设，到下游终端硬件扎堆面市，相关制造企业订单激增。面对AI终端产品快速迭代的需求，时效就意味着市场和利润。数据显示，今年1-5月，我国云",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "中信建投：计算机板块半年报预告陆续披露，AI算力硬件持续高景气",
+      "link": "https://36kr.com/newsflashes/3892794471643912?f=rss",
+      "pubdate": "2026-07-13 15:16:09",
+      "contentSnippet": "36氪获悉，中信建投证券研报指出，A股计算机板块半年报预告与海外模型迭代共同验证AI产业链景气度延续：一方面，AI服务器、智算基础设施等硬件链条业绩弹性突出，软件及AI应用企业也开",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "中信建投",
+      "category": "行业动态"
+    },
+    {
+      "title": "WAIC'26探展召集令！和量子位一起逛展、直播、聊AI",
+      "link": "https://www.qbitai.com/2026/07/448923.html",
+      "pubdate": "2026-07-13 15:00:18",
+      "contentSnippet": "WAIC 2026 世界人工智能大会即将开幕，量子位发出探展召集令，邀请大家一起逛展、直播、探讨人工智能最新发展动态。",
+      "creator": "量子位的朋友们",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "Claude Code砸的坑，蚂蚁安全在尝试填上",
+      "link": "https://www.qbitai.com/2026/07/448925.html",
+      "pubdate": "2026-07-13 14:53:56",
+      "contentSnippet": "最新开源两大安全框架",
+      "creator": "鹭羽",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "安全监管"
+    },
+    {
+      "title": "GPT-5.6刚发布，OpenAI安全主管就跑路了？？",
+      "link": "https://www.qbitai.com/2026/07/448825.html",
+      "pubdate": "2026-07-13 14:10:36",
+      "contentSnippet": "OpenAI推出GPT-5.6后，安全主管宣布离职，这是两年内离开的第六位安全团队核心成员。",
+      "creator": "听雨",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证",
+      "link": "https://www.qbitai.com/2026/07/448824.html",
+      "pubdate": "2026-07-13 14:07:00",
+      "contentSnippet": "CNCF（云原生计算基金会）正式发布了招商银行AI调度平台的生产案例，该平台基于范式团队开源的HAMi技术，已通过生产级验证，标志着云原生AI调度技术在金融行业的关键突破。",
+      "creator": "量子位",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "link": "https://www.qbitai.com/2026/07/436498.html",
+      "pubdate": "2026-07-13 13:33:28",
+      "contentSnippet": "180家企业携成果入驻",
+      "creator": "量子位的朋友们",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "澳大利亚电台播放最热门的歌曲是生成式AI的作品吗？",
+      "link": "https://www.theguardian.com/music/2026/jul/13/josh-fawaz-like-a-prayer-song-is-it-ai-radio",
+      "pubdate": "2026-07-13 12:03:36",
+      "contentSnippet": "Josh Fawaz的歌曲，对《Like a Prayer》的翻唱，引发了关于生成式AI如何在音乐中使用以及是否应该被声明的质疑。一位澳大利亚制作人在短短几个月内从默默无闻的艺术家",
+      "creator": "Caitlin Cassidy",
+      "relevance": 8,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "共同探索未知：我和我的傻瓜AI男友——播客",
+      "link": "https://www.theguardian.com/news/audio/2026/jul/13/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend-podcast",
+      "pubdate": "2026-07-13 12:00:37",
+      "contentSnippet": "我认为聊天机器人在一个体面的社会中毫无立足之地，并且对AI这个话题普遍感到排斥。但我能被诱惑吗？本文作者Lauren Oyler通过亲身尝试，探讨了AI聊天机器人在人际关系中的角色",
+      "creator": "Lauren Oyler",
+      "relevance": 9,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI可治理性的动力学模型",
+      "link": "https://blog.eleuther.ai/dynamical-models-of-ai-governability/",
+      "pubdate": "2026-07-13 08:00:00",
+      "contentSnippet": "一个关于构建未来AI的AI劳动力最终是合作还是非合作的玩具动力学模型：揭示盆边界所在位置、当前证据表明我们处于哪一侧，以及什么能告诉我们正走在正确的道路上。",
+      "creator": "EleutherAI",
+      "relevance": 9,
+      "source": "EleutherAI",
+      "category": "安全监管"
+    },
+    {
+      "title": "负责OpenAI AI安全的高管接连离职",
+      "link": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+      "pubdate": "2026-07-13 04:24:48",
+      "contentSnippet": "OpenAI安全系统负责人Johannes Heidecke离职，成为近年来离开该公司安全与对齐团队的又一位高管。文章回顾了自2020年以来八位离开OpenAI安全领导岗位的核心人",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "安全监管"
+    }
+  ]
+}

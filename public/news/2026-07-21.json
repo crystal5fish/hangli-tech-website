@@ -1,0 +1,415 @@
+{
+  "date": "2026-07-21",
+  "items": [
+    {
+      "title": "美国因知识产权盗窃威胁制裁中国AI模型",
+      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "pubdate": "2026-07-21 23:37:05",
+      "contentSnippet": "美国财政部长斯科特·贝森特表示，美国可能因涉嫌知识产权盗窃而制裁中国的开源AI模型，此举扩大了特朗普政府遏制中国AI发展的行动。",
+      "creator": "Rebecca Bellan",
+      "relevance": 9,
+      "source": "TechCrunch",
+      "category": "安全监管"
+    },
+    {
+      "title": "2026年AI与身份安全现状报告",
+      "link": "https://www.aiacceleratorinstitute.com/the-2026-state-of-ai-and-identity-report/",
+      "pubdate": "2026-07-21 23:09:44",
+      "contentSnippet": "最新研究显示，AI采用与身份安全之间的差距正在扩大。本报告探讨了领先企业如何管理这些问题。",
+      "creator": "AIAI",
+      "relevance": 8,
+      "source": "AI Accelerator Institute",
+      "category": "行业动态"
+    },
+    {
+      "title": "英伟达欲掌控AI数据中心内每一颗芯片",
+      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "pubdate": "2026-07-21 23:00:00",
+      "contentSnippet": "英伟达的Vera Rubin平台将CPU和GPU整合到单一系统中，体现了该公司日益增长的雄心——为AI基础设施的每一层提供算力。",
+      "creator": "Lauren Goode",
+      "relevance": 9,
+      "source": "Wired - AI Latest",
+      "category": "行业动态"
+    },
+    {
+      "title": "音乐流媒体平台 Deezer 称每日上传内容中超50%为AI生成",
+      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "pubdate": "2026-07-21 21:27:42",
+      "contentSnippet": "Deezer 表示，6月份该平台每天上传的AI生成曲目超过9万首。",
+      "creator": "Ivan Mehta",
+      "relevance": 7,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "Halliday 新款智能眼镜摒弃摄像头",
+      "link": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
+      "pubdate": "2026-07-21 21:00:00",
+      "contentSnippet": "Halliday G2 眼镜可以聆听并总结你的工作会议内容——全程无需视频参与。",
+      "creator": "Boone Ashworth",
+      "relevance": 7,
+      "source": "Halliday",
+      "category": "产品发布"
+    },
+    {
+      "title": "AI老虎机效应：为什么生成式信息流破坏深度工作以及如何找回专注力",
+      "link": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
+      "pubdate": "2026-07-21 20:50:06",
+      "contentSnippet": "你打开一个生成式AI工具，期待快速提升效率。十分钟后，你仍然坐在那里，第四次优化提示词。你开始的任务早已不知去向。听起来熟悉吗？2026年的知识工作者越来越多地遇到这种情况。一旦你",
+      "creator": "Bazoom",
+      "relevance": 8,
+      "source": "AI News",
+      "category": "行业动态"
+    },
+    {
+      "title": "下载：中国AI令白宫分裂，以及创纪录的版权赔偿",
+      "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "pubdate": "2026-07-21 20:10:00",
+      "contentSnippet": "这是今日《下载》版块的资讯，我们的工作日通讯为您提供科技领域每日动态。中国的AI模型让特朗普的AI团队内部陷入激烈争论。上周末，特朗普总统的数位现任和前任AI顾问公开抨击该国领先的",
+      "creator": "Thomas Macaulay",
+      "relevance": 9,
+      "source": "MIT Technology Review",
+      "category": "行业动态"
+    },
+    {
+      "title": "谷歌为受监管企业将气隙隔离Gemini引入印度",
+      "link": "https://www.techrepublic.com/article/news-air-gapped-gemini-apac-india/",
+      "pubdate": "2026-07-21 19:26:50",
+      "contentSnippet": "谷歌在印度的气隙隔离Gemini部署使受监管组织能够更好地控制敏感AI工作负载，但访问、更新、合规性和可审计性仍需仔细审视。",
+      "creator": "TechRepublic Staff",
+      "relevance": 9,
+      "source": "Google",
+      "category": "产品发布"
+    },
+    {
+      "title": "以材料科学创新推动下一代AI发展",
+      "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "pubdate": "2026-07-21 18:37:34",
+      "contentSnippet": "关于AI的讨论通常聚焦于算法、算力或对新建半导体工厂和超大规模数据中心的大额投资。但在每一项进步的背后，还有另一层使它们成为可能的创新：先进材料。每一代AI新技术都需要更强的处理能",
+      "creator": "Christine McGuiness and Devang Khariwala",
+      "relevance": 8,
+      "source": "MIT Technology Review",
+      "category": "行业动态"
+    },
+    {
+      "title": "Gritt 携 3400 万美元走出隐身模式，用机器人建造太阳能电站——然后，一切皆有可能",
+      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "pubdate": "2026-07-21 18:00:00",
+      "contentSnippet": "Gritt 正在走出隐身模式，获得了 3400 万美元的资金，计划用自动化技术完成建筑工地上最艰巨的任务。",
+      "creator": "Tim Fernholz",
+      "relevance": 7,
+      "source": "Gritt",
+      "category": "投融资信息"
+    },
+    {
+      "title": "百时美施贵宝购入英伟达AI系统，加速药物发现与开发",
+      "link": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+      "pubdate": "2026-07-21 18:00:00",
+      "contentSnippet": "百时美施贵宝正在购买一台基于英伟达Vera Rubin架构构建的DGX SuperPOD，以支持其药物发现和开发业务中的人工智能应用。该制药公司表示，它将成为第一家获得基于Vera",
+      "creator": "Muhammad Zulhusni",
+      "relevance": 9,
+      "source": "AI News",
+      "category": "行业动态"
+    },
+    {
+      "title": "美国陆军正在快速消耗其AI代币",
+      "link": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+      "pubdate": "2026-07-21 17:30:00",
+      "contentSnippet": "美国陆军成员收到一封邮件，告知他们正在快速消耗AI代币，需要限制使用。",
+      "creator": "Vittoria Elliott",
+      "relevance": 8,
+      "source": "Wired",
+      "category": "行业动态"
+    },
+    {
+      "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+      "link": "https://www.qbitai.com/2026/07/456026.html",
+      "pubdate": "2026-07-21 17:30:00",
+      "contentSnippet": "在WAIC（世界人工智能大会）上，重磅成果公布——上海市教育算力专区正式开启试运行，标志着AI算力基础设施在教育领域的重要布局落地。",
+      "creator": "量子位的朋友们",
+      "relevance": 7,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan",
+      "link": "https://www.qbitai.com/2026/07/456021.html",
+      "pubdate": "2026-07-21 17:21:55",
+      "contentSnippet": "WAIC世界人工智能大会公布重磅成果，智爱赛思宣布全面升级，并面向科研领域发布专属Token计划，为科研用户提供定制化AI算力与服务支持。",
+      "creator": "量子位",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力",
+      "link": "https://www.qbitai.com/2026/07/455998.html",
+      "pubdate": "2026-07-21 17:15:50",
+      "contentSnippet": "在WAIC世界人工智能大会上，仪电智算云作为重要成果亮相，展示其在国家人工智能应用中试基地建设中提供的全栈服务能力，涵盖算力调度、数据管理、模型训练推理等AI基础设施服务。",
+      "creator": "量子位的朋友们",
+      "relevance": 8,
+      "source": "仪电智算云",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta与英伟达联手布局AI材料供应链",
+      "link": "https://36kr.com/newsflashes/3904619619174275?f=rss",
+      "pubdate": "2026-07-21 16:00:25",
+      "contentSnippet": "社交媒体巨头Meta与芯片制造商英伟达周一宣布，共同参与一家英国AI初创公司的材料发现项目，旨在为半导体行业寻找新型制造材料。该初创公司此前已获得亚马逊创始人杰夫·贝佐斯和英国政府",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "Meta",
+      "category": "投融资信息"
+    },
+    {
+      "title": "「月泉仿生」获数亿元融资，仿生拉压体灵巧手万台量产、订单过亿｜36氪首发",
+      "link": "https://36kr.com/p/3899174356387718?f=rss",
+      "pubdate": "2026-07-21 16:00:00",
+      "contentSnippet": "月泉仿生已完成数亿元Pre-A+轮融资，由长发基金、华控基金等联合投资。资金将用于团队建设、核心产品技术研发及产能提升，推动超仿生神经骨骼肌肉机器人研发，打造「大脑-身体-环境」一",
+      "creator": "胡香赟",
+      "relevance": 7,
+      "source": "36氪",
+      "category": "投融资信息"
+    },
+    {
+      "title": "中国开源权重模型价格低廉，华盛顿正在权衡其代价",
+      "link": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
+      "pubdate": "2026-07-21 16:00:00",
+      "contentSnippet": "本月评估中国开源权重模型的企业面临一个与基准测试无关的问题：使用这些模型在一年后是否依然顺利？月之暗面（Moonshot AI）的Kimi K3于7月16日发布，成为迄今为止最大的",
+      "creator": "Dashveenjit Kaur",
+      "relevance": 9,
+      "source": "AI News",
+      "category": "安全监管"
+    },
+    {
+      "title": "贝莱德拟发行超120亿美元债券，为Meta得州数据中心提供融资",
+      "link": "https://36kr.com/newsflashes/3904618999039875?f=rss",
+      "pubdate": "2026-07-21 15:58:50",
+      "contentSnippet": "据报道，贝莱德计划发行超过120亿美元债券，为Meta位于美国得州埃尔帕索的数据中心园区提供融资。这些债券预计将于下周初定价。知情人士称，这些债券是由一家控股公司发行的，该公司持有",
+      "creator": "36 氪",
+      "relevance": 6,
+      "source": "贝莱德",
+      "category": "投融资信息"
+    },
+    {
+      "title": "微软与AMD扩大合作，将在Azure部署下一代AI芯片",
+      "link": "https://36kr.com/newsflashes/3904609584694912?f=rss",
+      "pubdate": "2026-07-21 15:44:16",
+      "contentSnippet": "超微半导体正扩大与微软的战略合作伙伴关系。根据协议，这家软件公司将在其Azure云平台上部署AMD的下一代人工智能芯片和处理器。两家公司周一表示，微软将部署AMD的Helios机架",
+      "creator": "36 氪",
+      "relevance": 9,
+      "source": "AMD",
+      "category": "行业动态"
+    },
+    {
+      "title": "使用AI创建你的发票，仅需20美元",
+      "link": "https://www.techrepublic.com/article/ai-invoice-maker-lifetime-subscription/",
+      "pubdate": "2026-07-21 15:38:42",
+      "contentSnippet": "使用AI创建、定制和导出你的发票，仅需19.99美元",
+      "creator": "TechRepublic Academy",
+      "relevance": 6,
+      "source": "TechRepublic",
+      "category": "产品发布"
+    },
+    {
+      "title": "罗博特科：未从任何客户处获得CPO延迟的消息",
+      "link": "https://36kr.com/newsflashes/3904613359388549?f=rss",
+      "pubdate": "2026-07-21 15:38:06",
+      "contentSnippet": "36氪获悉，7月20日，罗博特科在电话会议上表示，公司关注到市场上关于CPO延迟的各类传言，但作为设备端，公司未从任何客户处获得CPO延迟的消息。从核心客户给出的具体、明确的需求预",
+      "creator": "36 氪",
+      "relevance": 6,
+      "source": "罗博特科",
+      "category": "行业动态"
+    },
+    {
+      "title": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
+      "link": "https://www.qbitai.com/2026/07/455979.html",
+      "pubdate": "2026-07-21 13:44:29",
+      "contentSnippet": "阿里云旗下AI编程助手Qoder上线全新安全能力，为每位用户配备专属安全工程师，帮助开发者在编码过程中实时检测和修复安全漏洞，提升代码安全性。",
+      "creator": "量子位的朋友们",
+      "relevance": 8,
+      "source": "阿里",
+      "category": "产品发布"
+    },
+    {
+      "title": "Anthropic 里程碑式的 15 亿美元版权和解获批",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "pubdate": "2026-07-21 08:12:24",
+      "contentSnippet": "最终批准解决了一个案件，但并未解决使用受版权保护作品训练 AI 模型这一更广泛的问题。",
+      "creator": "Kirsten Korosec",
+      "relevance": 8,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "伯纳姆任命纳拉扬为首位出席内阁的英国AI大臣",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet",
+      "pubdate": "2026-07-21 06:55:39",
+      "contentSnippet": "英国新任首相安迪·伯纳姆任命卡尼什卡·纳拉扬为人工智能大臣，这一职务首次被提升至出席首相内阁会议的高度。",
+      "creator": "Ellen Milligan and Mark Bergen",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "安全监管"
+    },
+    {
+      "title": "特朗普新任AI专员已辞职",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "pubdate": "2026-07-21 06:21:04",
+      "contentSnippet": "自大卫·萨克斯（David Sacks）辞去AI专员一职后，AI标准与创新中心（CAISI）的主管职位便成了\"旋转门\"，频繁换人。",
+      "creator": "Julie Bort",
+      "relevance": 7,
+      "source": "TechCrunch AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "Oracle信用风险因AI债务负担焦虑飙升至近18年新高",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst",
+      "pubdate": "2026-07-21 05:58:54",
+      "contentSnippet": "由于市场对甲骨文公司在人工智能领域的巨额投资能否获得回报的疑虑加剧，周一甲骨文公司债务违约保护成本升至多年新高，同时其现有债券遭到抛售。",
+      "creator": "Caleb Mutua",
+      "relevance": 6,
+      "source": "Oracle",
+      "category": "行业动态"
+    },
+    {
+      "title": "随着野火几乎全年困扰美国，消防无人机正在研发中",
+      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "pubdate": "2026-07-21 05:55:52",
+      "contentSnippet": "加州与XPRIZE竞赛测试无人机能否早期阻止野火蔓延。",
+      "creator": "Jeremy Hsu",
+      "relevance": 7,
+      "source": "Ars Technica",
+      "category": "行业动态"
+    },
+    {
+      "title": "人形机器人初创公司 Agility Robotics 拒绝'投币式员工'",
+      "link": "https://www.businessinsider.com/agility-robotics-humanoid-ai-talent-bidding-wars-salary-compensation-2026-7",
+      "pubdate": "2026-07-21 05:30:39",
+      "contentSnippet": "人形机器人初创公司 Agility Robotics 在硅谷开设新研发中心以招募顶尖工程师，其联合创始人表示公司不会卷入AI和机器人领域的人才竞价战，拒绝'投币式员工'。该公司开发",
+      "creator": "Business Insider",
+      "relevance": 6,
+      "source": "Agility Robotics",
+      "category": "行业动态"
+    },
+    {
+      "title": "谷歌正研发新款AI芯片，旨在提升Gemini运行效率",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "pubdate": "2026-07-21 05:21:15",
+      "contentSnippet": "据报道，谷歌母公司Alphabet正在研发一款新型AI芯片，旨在让Gemini模型运行得更加高效。",
+      "creator": "Lucas Ropek",
+      "relevance": 9,
+      "source": "Google",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI最重要的协议正变得更易使用",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "pubdate": "2026-07-21 04:50:40",
+      "contentSnippet": "在新系统下，该协议将在服务器端采用更宽松的\"无状态\"会话ID方法，类似于大多数普通网站的工作方式。",
+      "creator": "Russell Brandom",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "特朗普政府首席AI安全主任任职三个月后离职",
+      "link": "https://www.businessinsider.com/top-trump-ai-safety-director-chris-fall-leaves-3-months-2026-7",
+      "pubdate": "2026-07-21 03:46:20",
+      "contentSnippet": "特朗普政府首席AI安全官员克里斯·福尔在任职仅三个月后离职。福尔曾担任AI标准与创新中心（CAISI）主任，该中心隶属商务部，负责前沿AI模型的自愿审查流程及商业AI测试与研究。他",
+      "creator": "Business Insider",
+      "relevance": 7,
+      "source": "Business Insider",
+      "category": "安全监管"
+    },
+    {
+      "title": "OpenAI 惧怕开源权重模型，美国该不该害怕？",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "pubdate": "2026-07-21 03:33:25",
+      "contentSnippet": "关于禁止中国制造的开源权重大语言模型的讨论，揭示了将人工智能转化为商业模式的挑战。",
+      "creator": "Tim Fernholz",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "安全监管"
+    },
+    {
+      "title": "初创公司启动芯片材料开发代工厂",
+      "link": "https://aibusiness.com/generative-ai/startup-launches-foundry-develop-materials-chips",
+      "pubdate": "2026-07-21 03:16:44",
+      "contentSnippet": "包括英伟达、Meta和三星在内的创始成员旨在减少对芯片中使用的稀有材料的依赖。",
+      "creator": "Graham Hope",
+      "relevance": 7,
+      "source": "AI Business",
+      "category": "行业动态"
+    },
+    {
+      "title": "旧金山命令苹果和谷歌移除13款AI脱衣应用",
+      "link": "https://www.techrepublic.com/article/news-apple-google-remove-ai-nudify-apps/",
+      "pubdate": "2026-07-21 02:31:19",
+      "contentSnippet": "旧金山给苹果和谷歌28天时间处理13款涉嫌AI脱衣应用，引发对应用商店管控和AI治理的质疑。",
+      "creator": "Joseph Ofonagoro",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "安全监管"
+    },
+    {
+      "title": "摩根士丹利成为华尔街AI债务交易头号银行",
+      "link": "https://36kr.com/p/3903710346790535?f=rss",
+      "pubdate": "2026-07-21 02:22:28",
+      "contentSnippet": "摩根士丹利已崛起为华尔街构建人工智能（AI）繁荣背后融资架构的主导力量，设计了新的债务和股权融资模式，为数据中心的大规模建设输送数百亿美元资金。",
+      "creator": "36氪",
+      "relevance": 7,
+      "source": "摩根士丹利",
+      "category": "行业动态"
+    },
+    {
+      "title": "将文档分类扩展到10万+标签",
+      "link": "https://www.databricks.com/blog/scaling-document-classification-100k-labels",
+      "pubdate": "2026-07-21 02:15:00",
+      "contentSnippet": "在Databricks，数千客户构建生产工作负载，将自由格式文本映射到超过10万个类别标签。",
+      "creator": "Databricks",
+      "relevance": 7,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "WAIC上，AI开始接管人类的欲望",
+      "link": "https://36kr.com/p/3903687507904387?f=rss",
+      "pubdate": "2026-07-21 02:06:08",
+      "contentSnippet": "2026年世界人工智能大会（WAIC）上，AI在核心展区之外的地下一层创新展区中，开始向下接管人类最隐秘的本能：情欲、控制欲、对失去的遗憾、对孤独的恐惧等。文章介绍了仿生人形机器人",
+      "creator": "刘思洁、张薇",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
+      "link": "https://36kr.com/p/3903761449617027?f=rss",
+      "pubdate": "2026-07-21 01:12:42",
+      "contentSnippet": "青心意创发布首款智能机器人产品Amoo，身高80cm，拟人双足，无棱角毛绒全包覆。同时发布自研Dino OS系统，采用Infra、Brain、Module三层架构，独创\"双脑闭环\"",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "青心意创",
+      "category": "产品发布"
+    },
+    {
+      "title": "聪明人如何评价中国火爆的Kimi K3 AI新模型",
+      "link": "https://www.businessinsider.com/smart-people-saying-chinas-hot-new-kimi-k3-ai-model-2026-7",
+      "pubdate": "2026-07-21 00:59:54",
+      "contentSnippet": "中国AI初创公司Moonshot AI发布了Kimi K3，这是一款强大的开源权重AI系统，据称是全球最大的开源权重AI模型。该模型在编程和智能体任务等基准测试中超越了Anthro",
+      "creator": "Business Insider",
+      "relevance": 10,
+      "source": "Moonshot AI",
+      "category": "模型发布"
+    },
+    {
+      "title": "OpenAI 董事长预测企业将不再担忧 AI 代币费用",
+      "link": "https://www.businessinsider.com/openai-chair-predicts-companies-stop-worrying-ai-tokens-price-2026-7",
+      "pubdate": "2026-07-21 00:25:11",
+      "contentSnippet": "OpenAI 董事长 Bret Taylor 在接受 CNBC 采访时表示，随着 AI 市场逐渐成熟，企业对 AI 代币（token）成本的担忧将在一年内消失。他预测未来企业将转向",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "行业动态"
+    }
+  ]
+}

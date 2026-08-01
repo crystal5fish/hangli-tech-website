@@ -1,0 +1,515 @@
+{
+  "date": "2026-07-18",
+  "items": [
+    {
+      "title": "月之暗面有望最快6个月内赴港上市",
+      "link": "https://36kr.com/newsflashes/3900806713951873?f=rss",
+      "pubdate": "2026-07-18 23:45:39",
+      "contentSnippet": "36氪获悉，月之暗面已通知投资者调整公司架构并筹备赴港IPO，有望最快在6个月内完成上市。7月16日，月之暗面发布全球参数规模最大的开源模型Kimi K3，在Code Arena上",
+      "creator": "36 氪",
+      "relevance": 8,
+      "source": "月之暗面",
+      "category": "投融资信息"
+    },
+    {
+      "title": "阅读18家旨在颠覆约会应用和社交网络的初创公司的融资演讲稿，它们已筹集了数百万美元",
+      "link": "https://www.businessinsider.com/dating-app-social-network-startup-read-pitch-decks-used-2024-10",
+      "pubdate": "2026-07-18 23:40:07",
+      "contentSnippet": "新一代社交、专业网络和约会初创公司正在兴起。风投和天使投资人正在资助其中一些有前景的初创公司。以下是18家初创公司在融资或收购过程中使用的演讲稿。文章提到多个AI驱动的初创公司，如",
+      "creator": "iStock; Rebecca Zisser/BI",
+      "relevance": 6,
+      "source": "Business Insider",
+      "category": "投融资信息"
+    },
+    {
+      "title": "滴滴WAIC分享：AI升级出行体验，释放服务消费新潜力",
+      "link": "https://36kr.com/newsflashes/3900834871805827?f=rss",
+      "pubdate": "2026-07-18 23:34:25",
+      "contentSnippet": "7月17日，在2026世界人工智能大会（WAIC）上，滴滴集团AI应用负责人刘佳奇发表演讲，介绍滴滴如何用AI重构出行新体验。她介绍，“AI小滴”能通过对自然语言理解，满足乘客个性",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "滴滴",
+      "category": "行业动态"
+    },
+    {
+      "title": "大型科技公司财报季与资本支出螺旋",
+      "link": "https://www.businessinsider.com/big-tech-spending-capex-earnings-season-memory-prices-ai-2026-7",
+      "pubdate": "2026-07-18 22:00:01",
+      "contentSnippet": "大型科技公司财报季即将开启，但最关键的指标不是利润或收入，而是各公司在AI数据中心上的资本支出。谷歌、亚马逊、微软和Meta今年计划支出超过7000亿美元。然而，由于内存芯片价格飙",
+      "creator": "Alistair Barr",
+      "relevance": 9,
+      "source": "Business Insider",
+      "category": "行业动态"
+    },
+    {
+      "title": "英国科技倡导者对伯纳姆废除科技部门的计划感到震惊",
+      "link": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
+      "pubdate": "2026-07-18 21:42:43",
+      "contentSnippet": "英国首相安迪·伯纳姆计划废除政府科技部门（科学、创新与技术部），此举引发议员、白厅官员和科技专家的强烈反弹。议员和行业专家表示，在人工智能和经济发展的关键时期，这一重组将浪费宝贵时",
+      "creator": "Kiran Stacey",
+      "relevance": 6,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "link": "https://www.qbitai.com/2026/07/454040.html",
+      "pubdate": "2026-07-18 21:23:21",
+      "contentSnippet": "机器人真正具备了干活的完整能力",
+      "creator": "梦晨",
+      "relevance": 7,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "首届世界人工智能大会·学术正式亮相",
+      "link": "https://36kr.com/newsflashes/3900588780095104?f=rss",
+      "pubdate": "2026-07-18 20:30:59",
+      "contentSnippet": "依托世界人工智能大会（WAIC）八年深厚积淀打造的首届世界人工智能大会·学术（WAIC-Academic，简称WAICA）18日上午正式亮相。这是一个由中国发起、面向世界的开放学术",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "世界人工智能大会（WAIC）",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI能否修复预先授权——还是会让情况更糟？",
+      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "pubdate": "2026-07-18 19:18:25",
+      "contentSnippet": "政府正在试点一个利用AI进行保险覆盖决策的项目。",
+      "creator": "Joshua Cohen, Undark Magazine",
+      "relevance": 7,
+      "source": "Ars Technica",
+      "category": "行业动态"
+    },
+    {
+      "title": "控制大型语言模型中的推理工作量",
+      "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "pubdate": "2026-07-18 19:16:09",
+      "contentSnippet": "大型语言模型如何学习低、中、高强度的推理模式",
+      "creator": "Sebastian Raschka, PhD",
+      "relevance": 10,
+      "source": "Sebastian Raschka",
+      "category": "技术论文"
+    },
+    {
+      "title": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
+      "link": "https://www.qbitai.com/2026/07/454003.html",
+      "pubdate": "2026-07-18 19:04:51",
+      "contentSnippet": "量子位的朋友们",
+      "creator": "量子位",
+      "relevance": 6,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "让VLA更懂接触，优理奇UniTac让机器人拥有'触觉想象力'",
+      "link": "https://www.qbitai.com/2026/07/453897.html",
+      "pubdate": "2026-07-18 18:55:47",
+      "contentSnippet": "入选ECCV 2026",
+      "creator": "henry",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "技术论文"
+    },
+    {
+      "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+      "link": "https://www.qbitai.com/2026/07/453889.html",
+      "pubdate": "2026-07-18 18:12:52",
+      "contentSnippet": "全面演进为赋能千行百业的新型数字基础设施",
+      "creator": "梦晨",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "谷歌新 Gemini 费率如何运作及如何跟踪使用情况",
+      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "pubdate": "2026-07-18 18:00:00",
+      "contentSnippet": "现在谷歌已经改变了其使用配额的统计方式，你可能无法像以前那样获得那么多AI回复了。",
+      "creator": "David Nield",
+      "relevance": 8,
+      "source": "Google",
+      "category": "产品发布"
+    },
+    {
+      "title": "提示注入攻击正在挫败AI黑客代理",
+      "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "pubdate": "2026-07-18 17:00:00",
+      "contentSnippet": "“上下文炸弹”技术通过诱骗恶意AI代理在造成危害之前自行关闭，从而有效挫败攻击。",
+      "creator": "Dan Goodin, Ars Technica",
+      "relevance": 8,
+      "source": "Wired",
+      "category": "安全监管"
+    },
+    {
+      "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
+      "link": "https://36kr.com/p/3900439867147909?f=rss",
+      "pubdate": "2026-07-18 16:53:35",
+      "contentSnippet": "阶跃星辰董事长印奇在WAIC 2026开幕式主论坛发表主题演讲，回顾15年AI创业历程，指出2026年模型能力正跨越关键临界点，AI已从连续执行数秒任务进阶到能独立工作数十小时，行",
+      "creator": "36氪",
+      "relevance": 10,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "妙啊！无人机直连卫星传Token",
+      "link": "https://www.qbitai.com/2026/07/453789.html",
+      "pubdate": "2026-07-18 16:17:18",
+      "contentSnippet": "世界人工智能大会最高奖",
+      "creator": "十三",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
+      "link": "https://www.qbitai.com/2026/07/453705.html",
+      "pubdate": "2026-07-18 15:20:19",
+      "contentSnippet": "本地大模型规模化商用破局",
+      "creator": "量子位的朋友们",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "中国加入AI时代智能手机变革浪潮",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era",
+      "pubdate": "2026-07-18 13:45:30",
+      "contentSnippet": "中兴通讯首次展示了合作设计的搭载内置AI服务的智能手机系列，加入越来越多以人工智能为核心重新构想移动设备的中国公司行列。",
+      "creator": "Bloomberg News",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "link": "https://www.qbitai.com/2026/07/436498.html",
+      "pubdate": "2026-07-18 13:33:28",
+      "contentSnippet": "180家企业携成果入驻",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "Neil Rimer 认为 AI 资金正在回流",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "pubdate": "2026-07-18 12:47:25",
+      "contentSnippet": "与联合创立 Index Ventures 的风险投资人 Neil Rimer 预测，AI 在硅谷创造的巨额财富将不得不被重新分配，无论是自愿还是非自愿。",
+      "creator": "Connie Loizos",
+      "relevance": 7,
+      "source": "Index Ventures",
+      "category": "行业动态"
+    },
+    {
+      "title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
+      "link": "https://www.qbitai.com/2026/07/453641.html",
+      "pubdate": "2026-07-18 11:41:17",
+      "contentSnippet": "3500亿估值曝光",
+      "creator": "听雨",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "投融资信息"
+    },
+    {
+      "title": "中国否认非法窃取外国AI技术的指控",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
+      "pubdate": "2026-07-18 10:59:20",
+      "contentSnippet": "中国驳斥了关于其蒸馏外国技术的指控，此前包括Anthropic PBC在内的美国公司声称中国竞争对手非法提取美国顶级模型的结果以提升自身能力。",
+      "creator": "Bloomberg News",
+      "relevance": 7,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "Vertu 希望高管为 AI 代理支付 6,880 美元——以下是它的实际表现",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "pubdate": "2026-07-18 06:55:09",
+      "contentSnippet": "从 AI 工作流程到电池续航和安全，以下是每天使用 Vertu 豪华折叠屏手机的真实体验。",
+      "creator": "Jagmeet Singh",
+      "relevance": 9,
+      "source": "Vertu",
+      "category": "产品发布"
+    },
+    {
+      "title": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
+      "link": "https://www.qbitai.com/2026/07/453467.html",
+      "pubdate": "2026-07-18 06:32:47",
+      "contentSnippet": "万亿Token调用量验证",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "PPIO",
+      "category": "产品发布"
+    },
+    {
+      "title": "Databricks 估值达 1880 亿美元，延续其作为 AI 领域最受欢迎转型典范的辉煌",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "pubdate": "2026-07-18 06:12:56",
+      "contentSnippet": "Databricks 已将自身重塑为一家 AI 公司，并发布了关于开源权重 AI 模型在编程领域节省成本的研究。",
+      "creator": "Julie Bort",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Zoom 的「请勿录制我」破解之道",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "pubdate": "2026-07-18 05:20:47",
+      "contentSnippet": "如果每一次会议、茶水间闲聊乃至约会都被转录和总结，又有谁会真正去阅读这些内容呢？",
+      "creator": "Connie Loizos",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "微软'Project Perception'项目或将在AI安全领域挑战Anthropic的Mythos",
+      "link": "https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/",
+      "pubdate": "2026-07-18 04:23:36",
+      "contentSnippet": "据报道，微软正在开发Project Perception，这是一款成本更低的AI安全工具，将使用多种模型来识别企业漏洞。",
+      "creator": "David Curry",
+      "relevance": 9,
+      "source": "TechRepublic - AI",
+      "category": "产品发布"
+    },
+    {
+      "title": "Agility Robotics 在特斯拉后院插旗，于弗里蒙特开设新培训中心",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "pubdate": "2026-07-18 04:19:49",
+      "contentSnippet": "Agility 正在加利福尼亚州弗里蒙特为其 Digit 机器人开设一个新的培训中心，该地正是特斯拉总部所在地。",
+      "creator": "Tim Fernholz",
+      "relevance": 7,
+      "source": "Agility Robotics",
+      "category": "行业动态"
+    },
+    {
+      "title": "英伟达拓展物理AI布局，涵盖机器人与边缘AI更新",
+      "link": "https://aibusiness.com/robotics/nvidia-physical-ai-push-robotics-edge-ai-updates",
+      "pubdate": "2026-07-18 04:12:21",
+      "contentSnippet": "这家芯片制造商正在充实其物理AI生态系统，涵盖基础模型、边缘硬件以及软件、开发者工具和工业合作伙伴关系。",
+      "creator": "Scarlett Evans",
+      "relevance": 9,
+      "source": "Nvidia",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI驱动内存紧缺冲击印度智能手机市场",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "pubdate": "2026-07-18 04:09:27",
+      "contentSnippet": "印度智能手机市场放缓凸显了AI热潮如何重塑消费电子行业，从定价、需求到企业战略无不受到影响。",
+      "creator": "Jagmeet Singh",
+      "relevance": 7,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "神玑公司首次参加世界人工智能大会，发布睿动具身智能开发平台",
+      "link": "https://36kr.com/newsflashes/3899667446613640?f=rss",
+      "pubdate": "2026-07-18 03:46:51",
+      "contentSnippet": "36氪获悉，7月17日，2026世界人工智能大会正式开幕，蔚来芯片子公司安徽神玑技术有限公司首次独立参展。除了展出神玑NX9031芯片和车载域控外，还在会展期间推出睿动具身智能开发",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "神玑公司",
+      "category": "产品发布"
+    },
+    {
+      "title": "惠科股份：拟出资40亿元设立全资子公司投建先进封装及测试项目",
+      "link": "https://36kr.com/newsflashes/3899663098333057?f=rss",
+      "pubdate": "2026-07-18 03:42:26",
+      "contentSnippet": "36氪获悉，惠科股份公告，公司于2026年7月17日与杭绍临空经济一体化发展示范区绍兴片区管理委员会就开展惠科先进封装及测试项目签署《先进封装及测试项目合作协议》，拟出资40亿元设",
+      "creator": "36 氪",
+      "relevance": 6,
+      "source": "惠科股份",
+      "category": "行业动态"
+    },
+    {
+      "title": "本周十大融资轮：夏季低迷不再，资金仍流向人工智能",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/",
+      "pubdate": "2026-07-18 03:30:17",
+      "contentSnippet": "本周融资方面并非假日周，一大批以人工智能为主的公司完成了大额融资。其中最大的一笔是面向企业AI初创公司Fireworks AI的15亿美元融资，以及送餐和配送服务商Wonder的D",
+      "creator": "Joanna Glasner",
+      "relevance": 9,
+      "source": "Fireworks AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "IDC：2030年全球活跃Agent数量或将超过22亿个",
+      "link": "https://36kr.com/newsflashes/3899647452677769?f=rss",
+      "pubdate": "2026-07-18 03:26:31",
+      "contentSnippet": "IDC预发布《DAA研究报告》，系统解析DAA（Daily Active Agents，日活智能体数）指标。报告显示，全球活跃Agent数量2025年为2860万个，预计2026年",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "IDC",
+      "category": "行业动态"
+    },
+    {
+      "title": "科技构建于AI之上，金融守护利润率",
+      "link": "https://www.databricks.com/blog/tech-builds-ai-finance-protects-margin",
+      "pubdate": "2026-07-18 03:26:20",
+      "contentSnippet": "询问一家科技公司的首席财务官本季度的利润率情况，你会得到...",
+      "creator": "hh",
+      "relevance": 8,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "国科微：拟定增募资不超过50.61亿元，用于端侧AI芯片研发及产业化项目等",
+      "link": "https://36kr.com/newsflashes/3899639438280323?f=rss",
+      "pubdate": "2026-07-18 03:18:22",
+      "contentSnippet": "36氪获悉，国科微公告，公司拟向不超过35名特定投资者发行股票，募集资金总额不超过50.61亿元，扣除发行费用后用于新一代AI视觉处理芯片及解决方案研发与产业化项目、媒体交互AI芯",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "国科微",
+      "category": "投融资信息"
+    },
+    {
+      "title": "据华尔街日报报道，SpaceX正洽谈向五角大楼出售算力",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-in-talks-to-sell-computing-power-to-pentagon-wsj-says",
+      "pubdate": "2026-07-18 03:16:20",
+      "contentSnippet": "据《华尔街日报》周五报道，SpaceX正与美国国防部洽谈出售算力事宜，这是埃隆·马斯克旗下火箭、卫星及人工智能综合企业集团达成的又一项基础设施交易。",
+      "creator": "Eric Johnson",
+      "relevance": 6,
+      "source": "SpaceX",
+      "category": "行业动态"
+    },
+    {
+      "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
+      "link": "https://36kr.com/p/3899556701128578?f=rss",
+      "pubdate": "2026-07-18 02:51:22",
+      "contentSnippet": "7月17日，2026世界人工智能大会在上海开场。森博科技董事长于林义在WAIC现场接受36氪专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+      "link": "https://36kr.com/p/3899597215745664?f=rss",
+      "pubdate": "2026-07-18 02:45:58",
+      "contentSnippet": "36氪发布'2026年最受投资人关注人工智能/具身智能企业50'榜单。文章指出，中国具身智能市场规模2026年有望突破万亿关口，上半年融资总额达935亿元，投融资事件达322起。但",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "什么是 Moonshot AI？为什么中国的新模型正在震撼市场",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets",
+      "pubdate": "2026-07-18 02:04:09",
+      "contentSnippet": "中国初创公司 Moonshot AI 于7月17日发布了一款新的人工智能模型，该模型以其强大的能力引起全球关注，同时导致全球股市剧烈动荡。",
+      "creator": "Bloomberg News",
+      "relevance": 9,
+      "source": "Moonshot AI",
+      "category": "模型发布"
+    },
+    {
+      "title": "苹果重大诉讼可能扰乱OpenAI的IPO计划",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "pubdate": "2026-07-18 01:45:46",
+      "contentSnippet": "苹果上周五对OpenAI提起了商业秘密诉讼，态度强硬。诉状指控OpenAI存在一系列不当行为，涉及首席硬件官，并声称超过400名前苹果员工现任职于OpenAI。OpenAI迄今的回",
+      "creator": "Theresa Loconsolo",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "业界精英热议中国热门AI新秀Kimi K3",
+      "link": "https://www.businessinsider.com/smart-people-saying-chinas-hot-new-kimi-k3-ai-model-2026-7",
+      "pubdate": "2026-07-18 01:25:25",
+      "contentSnippet": "中国AI初创公司Moonshot AI发布了Kimi K3，号称全球最大的开源权重AI系统。该模型在多个基准测试中表现优异，在Arena前端编程排行榜上位列第一，超越所有美国领先模",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "Moonshot AI",
+      "category": "模型发布"
+    },
+    {
+      "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
+      "link": "https://www.qbitai.com/2026/07/453352.html",
+      "pubdate": "2026-07-18 01:09:14",
+      "contentSnippet": "作者在参观WAIC 2026后指出，国产AI芯片面临的真正挑战并非来自英伟达的GPU，而是需要构建完整的生态系统，从芯片设计到软件栈再到应用落地，发布芯片只是拿到了入场券。",
+      "creator": "思邈",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "Moonshot AI 发布全球最大开源模型",
+      "link": "https://www.techrepublic.com/article/news-moonshot-ai-kimi-k3-largest-open-source-model-apac/",
+      "pubdate": "2026-07-18 00:56:33",
+      "contentSnippet": "Moonshot AI 的 2.8 万亿参数模型 Kimi K3 提升了中国开源模型的雄心，同时也引发了重大基础设施和成本问题",
+      "creator": "Kezia Jungco",
+      "relevance": 10,
+      "source": "TechRepublic",
+      "category": "模型发布"
+    },
+    {
+      "title": "习近平呼吁推进开源AI：'中国准备更加开放'",
+      "link": "https://www.businessinsider.com/xi-jinping-open-source-ai-us-competition-openai-anthropic-models-2026-7",
+      "pubdate": "2026-07-18 00:47:49",
+      "contentSnippet": "中国国家主席习近平在上海世界人工智能大会上发表讲话，呼吁推动开源AI发展，表示'中国准备更加开放'。他提出四项观察，首先倡导'开放原则'，鼓励开源、开放、协作和共享。文章对比了中国",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "习近平",
+      "category": "行业动态"
+    },
+    {
+      "title": "给AI发工号、定岗位、做绩效，数字员工终于能落地了",
+      "link": "https://www.qbitai.com/2026/07/453245.html",
+      "pubdate": "2026-07-18 00:40:47",
+      "contentSnippet": "面壁智能开源StaffDeck，为AI数字员工提供工号管理、岗位设定和绩效考核等全生命周期管理工具，推动数字员工真正落地应用。",
+      "creator": "思邈",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "Meta 正与 Anthropic 洽谈出租算力",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports",
+      "pubdate": "2026-07-18 00:40:15",
+      "contentSnippet": "据知情人士透露，Meta Platforms Inc. 正在与 Anthropic PBC 进行早期谈判，计划从其数据中心向 Anthropic 租赁算力。这为这家社交媒体巨头围绕",
+      "creator": "Kurt Wagner and Shirin Ghaffary",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？",
+      "link": "https://www.qbitai.com/2026/07/453246.html",
+      "pubdate": "2026-07-18 00:24:49",
+      "contentSnippet": "每个Token背后，都是一次开源协作",
+      "creator": "闻乐",
+      "relevance": 7,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "中国AI初创公司发布海量开源权重模型Kimi K3",
+      "link": "https://aibusiness.com/foundation-models/moonshot-ai-releases-kimi-k3",
+      "pubdate": "2026-07-18 00:22:42",
+      "contentSnippet": "Kimi K3 为企业提供了2.8万亿参数的开源模型。但对于美国公司而言，决定是否使用它颇为复杂。",
+      "creator": "Esther Shittu",
+      "relevance": 9,
+      "source": "Moonshot AI",
+      "category": "模型发布"
+    },
+    {
+      "title": "旧金山责令苹果和谷歌从应用商店下架AI脱衣应用",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "pubdate": "2026-07-18 00:10:05",
+      "contentSnippet": "官方估计苹果和谷歌可能从AI脱衣应用中赚取了数百万美元的费用。",
+      "creator": "Ashley Belanger",
+      "relevance": 8,
+      "source": "Ars Technica",
+      "category": "安全监管"
+    },
+    {
+      "title": "Bunkerhill 融资5500万美元，将自主AI扩展至医疗系统",
+      "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "pubdate": "2026-07-18 00:00:30",
+      "contentSnippet": "Bunkerhill Health 已筹集5500万美元，用于扩展其自主AI平台 Carebricks。该公司今日宣布完成B轮融资，红杉资本、Felicis、Optum Ventu",
+      "creator": "Ryan Daws",
+      "relevance": 9,
+      "source": "Bunkerhill Health",
+      "category": "投融资信息"
+    }
+  ]
+}

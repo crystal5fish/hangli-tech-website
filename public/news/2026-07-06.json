@@ -1,0 +1,425 @@
+{
+  "date": "2026-07-06",
+  "items": [
+    {
+      "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+      "link": "https://36kr.com/p/3883591654895873?f=rss",
+      "pubdate": "2026-07-06 23:53:03",
+      "contentSnippet": "北京治真治合科技有限公司旗下产品APTSell（AI Power To Sales）定位为AI版首席销售官（CSO），通过四类协同Agent（行为Agent、项目Agent、Rev",
+      "creator": "吴思瑾",
+      "relevance": 9,
+      "source": "APTSell",
+      "category": "投融资信息"
+    },
+    {
+      "title": "肯塔基州新建AI数据中心将与Anthropic签订20年协议为其提供算力支持",
+      "link": "https://www.businessinsider.com/anthropic-terawulf-data-center-lease-hawesville-kentucky-2026-7",
+      "pubdate": "2026-07-06 23:48:43",
+      "contentSnippet": "Anthropic与TeraWulf签署了一份为期20年的租约，在肯塔基州Hawesville建设一座全新的AI数据中心。该租约预计在初始期内产生约190亿美元的合同收入。该数据中",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "Reddit 正利用大语言模型解决大语言模型带来的问题",
+      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "pubdate": "2026-07-06 23:22:08",
+      "contentSnippet": "在AI时代，平台别无选择，只能以火攻火，用AI手段来清除AI产生的垃圾信息。",
+      "creator": "Amanda Silberling",
+      "relevance": 8,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "将集成架构转向无头架构",
+      "link": "https://www.aiacceleratorinstitute.com/shifting-your-integration-architecture/",
+      "pubdate": "2026-07-06 23:19:52",
+      "contentSnippet": "探讨无头集成架构的含义，如何与低代码平台平衡使用，以及在 Claude Code 中利用 Tray 作为 MCP 服务的实时构建演示。",
+      "creator": "AIAI",
+      "relevance": 7,
+      "source": "AI Accelerator Institute",
+      "category": "行业动态"
+    },
+    {
+      "title": "芯片股在人工智能交易复苏中反弹",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-06/chip-stocks-rally-in-ai-trade-revival-after-plunge-video",
+      "pubdate": "2026-07-06 23:11:31",
+      "contentSnippet": "芯片制造商的反弹提振了股市，逢低买入者涌入场内，市场猜测推动牛市的人工智能交易还有进一步上涨空间。加拿大皇家银行资本市场美国股票策略主管Lori Calvasina讨论了人工智能对",
+      "creator": "Lori Calvasina",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI 与 Databricks 在 DAIS 2026 大会：让企业 AI 成为现实",
+      "link": "https://www.databricks.com/blog/openai-and-databricks-dais-2026-making-enterprise-ai-real",
+      "pubdate": "2026-07-06 23:04:20",
+      "contentSnippet": "Data + AI Summit 2026 汇聚了超过 32,000 名现场参会者，举办了数百场会议和产品发布……",
+      "creator": "Databricks",
+      "relevance": 8,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "英国监管机构警告：在金融服务领域跟上AI应用步调面临\"军备竞赛\"",
+      "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+      "pubdate": "2026-07-06 22:17:42",
+      "contentSnippet": "英国金融行为监管局官员主张扩大监管机构权力，数百万民众正利用该技术进行个人财务决策。",
+      "creator": "Martin Arnold",
+      "relevance": 7,
+      "source": "Ars Technica",
+      "category": "安全监管"
+    },
+    {
+      "title": "Gemini Spark 应用连接功能先行上线，企业管控措施尚未就绪",
+      "link": "https://www.techrepublic.com/article/news-gemini-spark-app-integrations/",
+      "pubdate": "2026-07-06 22:01:22",
+      "contentSnippet": "Google Gemini Spark 的新应用连接功能将 AI 智能体引入文件、应用和 MCP 服务器，给 IT 团队带来了新的治理问题。",
+      "creator": "TechRepublic Staff",
+      "relevance": 9,
+      "source": "Google",
+      "category": "产品发布"
+    },
+    {
+      "title": "据报道，Anthropic 正与三星洽谈定制 AI 芯片",
+      "link": "https://www.techrepublic.com/article/news-anthropic-samsung-custom-ai-chip/",
+      "pubdate": "2026-07-06 21:37:39",
+      "contentSnippet": "据报道，Anthropic 正在与三星就定制 AI 芯片进行早期谈判，AI 公司纷纷寻求降低计算成本并减少对英伟达硬件的依赖。",
+      "creator": "David Curry",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "行业动态"
+    },
+    {
+      "title": "上市前夜 | 哈工大在读博士以百亿市值冲港股IPO，创始三人只剩一人",
+      "link": "https://36kr.com/p/3883708118921480?f=rss",
+      "pubdate": "2026-07-06 21:13:02",
+      "contentSnippet": "本文聚焦珞石机器人在港股的IPO进程。珞石机器人主营工业机器人、柔性协作机器人和具身智能机器人三条业务线，其中具身智能机器人收入两年暴增16倍，从2023年的276万元增至2025",
+      "creator": "彭孝秋",
+      "relevance": 6,
+      "source": "珞石机器人",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Station F 加速崛起，成为欧洲最热门 AI 初创公司的发射台",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "pubdate": "2026-07-06 21:00:00",
+      "contentSnippet": "由法国亿万富翁泽维尔·尼尔创立的巴黎初创企业中心 Station F 正在筹备新一期的 F/ai 加速器计划，以巩固其作为有前途的 AI 初创公司腾飞跳板的地位。",
+      "creator": "Anna Heim",
+      "relevance": 7,
+      "source": "Station F",
+      "category": "行业动态"
+    },
+    {
+      "title": "人工智能监控正在全面升级——这将阻碍社会进步 | Bruce Schneier和Jon Penney",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/06/ai-surveillance-policy",
+      "pubdate": "2026-07-06 20:00:02",
+      "contentSnippet": "这些系统很快将能够追踪我们的公共和私人生活。但我们可以通过政策选择来拒绝它。在不久的将来，人工智能驱动的监控系统将能够追踪我们在公共场合所做的一切，以及我们私下所做的大部分事情。如",
+      "creator": "Bruce Schneier and Jon Penney",
+      "relevance": 8,
+      "source": "The Guardian",
+      "category": "安全监管"
+    },
+    {
+      "title": "AI Agent中工具选择的完整指南",
+      "link": "https://machinelearningmastery.com/the-complete-guide-to-tool-selection-in-ai-agents/",
+      "pubdate": "2026-07-06 19:33:55",
+      "contentSnippet": "你使用五个工具构建一个Agent。",
+      "creator": "Shittu Olumide",
+      "relevance": 10,
+      "source": "Machine Learning Mastery",
+      "category": "行业动态"
+    },
+    {
+      "title": "监管机构呼吁：增强城市监管机构权力，保护英国消费者免受AI风险",
+      "link": "https://www.theguardian.com/business/2026/jul/06/boost-city-regulators-powers-protect-uk-consumers-ai-cyber-crime-fraud-watchdog",
+      "pubdate": "2026-07-06 19:11:05",
+      "contentSnippet": "英国金融行为监管局（FCA）发布里程碑式审查报告，研究AI将如何从2030年起重塑金融服务。报告警告称，AI放大了网络犯罪和欺诈风险，并敦促部长们加强城市监管机构的权力，以保护消费",
+      "creator": "Kalyeena Makortoff Banking correspondent",
+      "relevance": 7,
+      "source": "The Guardian AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "研究发现AI在从堕胎到气候等议题上改变用户草稿的原意",
+      "link": "https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds",
+      "pubdate": "2026-07-06 19:00:03",
+      "contentSnippet": "研究人员表示，AI工具的微小改动可能迅速传播，并在长期内改变公众舆论。专家称，AI工具正在扭曲关于从堕胎到气候变化等敏感政治话题的在线信息，其方式可能逐渐积累并重塑长期公众舆论。牛",
+      "creator": "Robert Booth UK technology editor",
+      "relevance": 8,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "中国的AI伴侣规定：北京真正想要的是什么",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+      "pubdate": "2026-07-06 19:00:00",
+      "contentSnippet": "AI伴侣听起来反乌托邦，但它已成为关于生成式AI风险广泛讨论中的一条常见线索。它本质上是一种对话代理，旨在维持与用户的持续个人关系，具有记忆和稳定的人格，使其在不同会话之间保持一致",
+      "creator": "Dashveenjit Kaur",
+      "relevance": 9,
+      "source": "AI News",
+      "category": "安全监管"
+    },
+    {
+      "title": "跨境电商风向转变：新生代不再只拼价格，开始争\"定价权\"丨最前线",
+      "link": "https://36kr.com/p/3883561480876297?f=rss",
+      "pubdate": "2026-07-06 18:43:23",
+      "contentSnippet": "亚马逊与福布斯中国联合发布\"2026福布斯中国新生代跨境电商30人评选\"，30位入选者平均年龄仅35岁。文章报道了新生代跨境电商创业者从价格战转向技术驱动的定价权争夺，涵盖昂听EL",
+      "creator": "欧雪",
+      "relevance": 7,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "存储芯片制造商SK海力士启动280亿美元美国上市进程",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-06/memory-chipmaker-sk-hynix-starts-marketing-us-listing",
+      "pubdate": "2026-07-06 18:36:48",
+      "contentSnippet": "SK海力士于周一正式启动了其美国上市的营销流程，这家韩国芯片制造商希望借此抓住投资者对蓬勃发展的存储芯片行业日益高涨的需求。",
+      "creator": "Subrat Patnaik",
+      "relevance": 6,
+      "source": "SK Hynix",
+      "category": "投融资信息"
+    },
+    {
+      "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
+      "link": "https://www.qbitai.com/2026/07/444721.html",
+      "pubdate": "2026-07-06 18:33:45",
+      "contentSnippet": "阿里巴巴与清华大学联合提出的极简方案大幅刷新了扩散模型推理速度纪录，该论文成功入选ICML杰出论文。扩散模型是当前生成式AI领域的核心技术之一，该工作通过创新方法显著降低了推理成本",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "技术论文"
+    },
+    {
+      "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
+      "link": "https://36kr.com/p/3883456791163138?f=rss",
+      "pubdate": "2026-07-06 18:26:34",
+      "contentSnippet": "深度报道分析了2025—2026年AI技术浪潮下中国互联网大厂（携程、美团、百度、阿里、腾讯等）的大规模裁员潮。文章通过林越、苍述、李川等多位被裁员工的亲身经历，揭示了AI Cod",
+      "creator": "任彩茹",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
+      "link": "https://www.qbitai.com/2026/07/444043.html",
+      "pubdate": "2026-07-06 17:54:19",
+      "contentSnippet": "字节跳动、宇树科技、BAT等40余位产品负责人将齐聚2026奇点智能产品大会，大会最新最全日程正式公布，涵盖AI产品创新、智能硬件等前沿议题。",
+      "creator": "量子位的朋友们",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "蔚来世界模型OTA升级，70万用户无人被留在旧版本",
+      "link": "https://www.qbitai.com/2026/07/443868.html",
+      "pubdate": "2026-07-06 17:41:04",
+      "contentSnippet": "把世界模型用活了",
+      "creator": "贾浩楠",
+      "relevance": 8,
+      "source": "蔚来",
+      "category": "产品发布"
+    },
+    {
+      "title": "联想控股发起成立中国中文信息学会产学研创新生态工作委员会",
+      "link": "https://www.qbitai.com/2026/07/443869.html",
+      "pubdate": "2026-07-06 17:39:36",
+      "contentSnippet": "联想控股发起成立中国中文信息学会产学研创新生态工作委员会，旨在推动中文信息处理技术的产学研融合与创新生态建设。",
+      "creator": "量子位的朋友们",
+      "relevance": 7,
+      "source": "联想控股",
+      "category": "行业动态"
+    },
+    {
+      "title": "真·QQ飞车！「电动版F1」上海开赛，Gemini在线解说",
+      "link": "https://www.qbitai.com/2026/07/443867.html",
+      "pubdate": "2026-07-06 17:35:00",
+      "contentSnippet": "现实版《飞驰人生 3》",
+      "creator": "Jay",
+      "relevance": 6,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "link": "https://www.qbitai.com/2026/07/443863.html",
+      "pubdate": "2026-07-06 17:28:52",
+      "contentSnippet": "OpenSquilla发布0.5.0 Preview版本，集成多模型后在DRACO双榜中登顶，对比名单中包含最新旗舰模型Fable 5。",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "模型发布"
+    },
+    {
+      "title": "模型不是企业的护城河，那什么才是？",
+      "link": "https://www.qbitai.com/2026/07/443842.html",
+      "pubdate": "2026-07-06 16:17:34",
+      "contentSnippet": "大模型越来越强，为什么企业没有跟着变强",
+      "creator": "十三",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "中信建投：算力硬件高波动期，等待财报指引落地",
+      "link": "https://36kr.com/newsflashes/3883384178487296?f=rss",
+      "pubdate": "2026-07-06 15:52:33",
+      "contentSnippet": "36氪获悉，中信建投研报表示，Meta宣布出售部分过剩算力资源，市场初期反应偏向负面，担忧此举是否预示着AI算力需求见顶或行业景气度下行。但从行业供需格局来看，AI算力需求的中长期",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "字节Seedance，正在占领好莱坞",
+      "link": "https://www.qbitai.com/2026/07/443665.html",
+      "pubdate": "2026-07-06 15:49:13",
+      "contentSnippet": "美国电影人：好东西不问出处",
+      "creator": "听雨",
+      "relevance": 9,
+      "source": "字节跳动",
+      "category": "行业动态"
+    },
+    {
+      "title": "「不过是烟雾弹」：被选为AI数据中心的苏格兰村庄，希望变成了恐惧",
+      "link": "https://www.theguardian.com/technology/2026/jul/06/scotland-lanarkshire-village-ai-datacentre",
+      "pubdate": "2026-07-06 15:00:06",
+      "contentSnippet": "拉纳克郡当地居民越发怀疑，他们在这项大型开发项目所谓的利好上被误导了",
+      "creator": "Aisha Down",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "揭秘：苏格兰标志性AI项目无法实现可再生能源承诺",
+      "link": "https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy",
+      "pubdate": "2026-07-06 15:00:05",
+      "contentSnippet": "《卫报》独家调查发现，英国政府与开发商私下承认，位于苏格兰拉纳克郡的AI数据中心项目在电力供应方面存在严重问题。该项目由美国公司CoreWeave与苏格兰公司DataVita共同建",
+      "creator": "Aisha Down",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "英国的AI增长区是什么？这些计划可行还是‘完全胡说八道’？",
+      "link": "https://www.theguardian.com/technology/2026/jul/06/britain-ai-growth-zones-explainer",
+      "pubdate": "2026-07-06 15:00:05",
+      "contentSnippet": "《卫报》调查了英国政府建设未来AI基础设施的计划，发现其中一些计划——即AI增长区（政府支持企业建设500MW及以上规模的大型AI数据中心集群的区域）——用消息人士的话说，最好情况",
+      "creator": "Aisha Down",
+      "relevance": 8,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "英伟达AI服务器延迟报告致亚洲科技股下跌",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding",
+      "pubdate": "2026-07-06 13:52:07",
+      "contentSnippet": "亚洲科技股大幅下跌，原因是有报道称英伟达公司的下一代AI服务器机架系统因制造困难被推迟超过一年。",
+      "creator": "Abhishek Vishnoi, Sangmi Cha",
+      "relevance": 8,
+      "source": "Bloomberg Technology",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI 对就业的冲击已波及爱尔兰科技行业",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption",
+      "pubdate": "2026-07-06 12:00:26",
+      "contentSnippet": "该国通过吸引美国跨国公司曾受益于就业热潮，但一些岗位正以AI效率的名义被削减。",
+      "creator": "Olivia Fletcher",
+      "relevance": 6,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "我不想让美国科技大佬做我的赞助人——这就是为什么艺术家必须在AI时代捍卫我们的版权 | Anna Funder",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/06/authors-writers-copyright-australia-ai-artificial-intelligence-anna-funder",
+      "pubdate": "2026-07-06 11:35:48",
+      "contentSnippet": "美国公司希望通过人工智能大发横财，它们希望我国的创意产品能够免费或以极低价格供其使用。作者与一群靠出售创意作品为生的人前往堪培拉，指出他们的书籍、歌曲、艺术作品等已被未经同意且未付",
+      "creator": "Anna Funder",
+      "relevance": 6,
+      "source": "The Guardian",
+      "category": "安全监管"
+    },
+    {
+      "title": "中国想解决机器人领域最难的问题——制造灵巧的双手",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+      "pubdate": "2026-07-06 08:31:18",
+      "contentSnippet": "开发'具身智能'的竞赛聚焦于制造灵巧的双手，以将人形机器人从噱头转变为有用的产品。人类双手——灵活、布满神经、是人体最灵活的部分——异常复杂。许多大多数人不经思考就能完成的任务，从",
+      "creator": "Amy Hawkins in Beijing",
+      "relevance": 8,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "在硅谷打拼数十年后，一位前苹果和亚马逊工程师在55岁时创办了AI芯片公司",
+      "link": "https://www.businessinsider.com/former-apple-amazon-engineer-starts-ai-chip-company-50s-transxform-2026-7",
+      "pubdate": "2026-07-06 08:00:01",
+      "contentSnippet": "55岁的Stephen Huang在硅谷从事芯片设计数十年后，于2024年创办AI芯片初创公司Tranxform AI，专注于开发能效更高的AI处理器，用于在大型数据中心之外运行A",
+      "creator": "Stephen Huang/Tranxform",
+      "relevance": 7,
+      "source": "Business Insider",
+      "category": "行业动态"
+    },
+    {
+      "title": "千禧一代的三星工会领袖：260亿美元奖金胜利化为苦涩",
+      "link": "https://www.bloomberg.com/news/features/2026-07-05/samsung-s-ai-bonus-deal-a-short-lived-victory-for-millennial-union-leader",
+      "pubdate": "2026-07-06 06:00:20",
+      "contentSnippet": "摒弃老派劳工意识形态，新一代科技工作者因AI热潮而分裂。",
+      "creator": "Yoolim Lee",
+      "relevance": 6,
+      "source": "Samsung",
+      "category": "行业动态"
+    },
+    {
+      "title": "现代汽车在世界杯上展示人形机器人，推进机器人业务",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push",
+      "pubdate": "2026-07-06 05:40:49",
+      "contentSnippet": "现代汽车公司在2026年世界杯上展示了其Atlas人形机器人，在这项全球最盛大的足球赛事上彰显其技术进步，这家韩国汽车制造商正加紧准备量产和工厂部署。",
+      "creator": "Hyonhee Shin, Gabrielle Coppola",
+      "relevance": 6,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "Waymo 称部分机器出租车在旧金山国庆日交通拥堵中电量耗尽，被迫拖走",
+      "link": "https://www.businessinsider.com/waymo-stalled-cars-independence-day-traffic-san-francisco-2026-7",
+      "pubdate": "2026-07-06 05:38:10",
+      "contentSnippet": "旧金山国庆日庆祝活动期间，部分 Waymo 自动驾驶汽车在严重交通拥堵中电量耗尽，被迫拖走。社交媒体显示这些车辆在拥堵中瘫痪，加剧了交通堵塞。Waymo 表示「极端交通拥堵」干扰了",
+      "creator": "Business Insider",
+      "relevance": 7,
+      "source": "Waymo",
+      "category": "行业动态"
+    },
+    {
+      "title": "英国外交大臣库珀警告：人工智能构成十年最大安全挑战",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-05/ai-poses-biggest-security-challenge-of-decade-uk-s-cooper-warns",
+      "pubdate": "2026-07-06 05:30:00",
+      "contentSnippet": "英国外交大臣将警告称，世界必须紧急制定防护措施以遏制人工智能所带来的威胁。",
+      "creator": "Tom Rees",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "安全监管"
+    },
+    {
+      "title": "AI若无全球规则，将给人类带来‘广岛’式威胁 —— 库珀警告",
+      "link": "https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper",
+      "pubdate": "2026-07-06 03:00:34",
+      "contentSnippet": "独家报道：英国外交大臣警告人工智能、气候危机、非正常移民和外国干涉的综合风险。Yvette Cooper警告称，如果各国政府不同意限制人工智能的发展方式，AI将给人类带来‘广岛’式",
+      "creator": "Kiran Stacey Policy editor",
+      "relevance": 7,
+      "source": "The Guardian AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "亚马逊将停止接受 Mechanical Turk 的新客户",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "pubdate": "2026-07-06 01:43:36",
+      "contentSnippet": "这可能是亚马逊 Mechanical Turk 的最后时光。",
+      "creator": "Anthony Ha",
+      "relevance": 7,
+      "source": "Amazon",
+      "category": "行业动态"
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "date": "2026-07-14",
+  "items": [
+    {
+      "title": "Chamath Palihapitiya 表示，企业财报季CFO可能因AI代币滥用面临冲击",
+      "link": "https://www.businessinsider.com/chamath-palihapitiya-cfo-tokenmaxxing-shock-2026-7",
+      "pubdate": "2026-07-14 23:57:38",
+      "contentSnippet": "亿万富翁风险投资家 Chamath Palihapitiya 警告称，企业鼓励员工大量使用AI代币（tokenmaxxing）可能导致运营成本超支，甚至引发财报不及预期。他指出，M",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "Chamath Palihapitiya",
+      "category": "行业动态"
+    },
+    {
+      "title": "AWS与Bluesight联合打造医院340B合规AI解决方案",
+      "link": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+      "pubdate": "2026-07-14 23:54:39",
+      "contentSnippet": "亚马逊云服务（AWS）详细介绍了Bluesight如何开发Prism——一个AI层，能在其产品套件中连接医院药房与合规数据。据AWS供应商声明，Prism Assistant fo",
+      "creator": "Ryan Daws",
+      "relevance": 8,
+      "source": "AI News",
+      "category": "产品发布"
+    },
+    {
+      "title": "纽约州暂停所有新建数据中心项目",
+      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "pubdate": "2026-07-14 23:17:59",
+      "contentSnippet": "纽约州成为首个暂停批准大型数据中心的州，州长凯西·霍楚尔认为，人工智能驱动的建设热潮不应以高昂的电价、水资源供应或地方自治权为代价。",
+      "creator": "Tim De Chant",
+      "relevance": 8,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "纽约禁止数据中心建设一年，震动AI行业",
+      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "pubdate": "2026-07-14 23:06:28",
+      "contentSnippet": "纽约的数据中心暂停令可能成为反AI运动的蓝图。",
+      "creator": "Ashley Belanger",
+      "relevance": 8,
+      "source": "Ars Technica",
+      "category": "安全监管"
+    },
+    {
+      "title": "零售财务团队如何利用Agentic AI保护全渠道利润",
+      "link": "https://www.databricks.com/blog/how-retail-finance-teams-are-using-agentic-ai-protect-omni-channel-margins",
+      "pubdate": "2026-07-14 23:00:00",
+      "contentSnippet": "询问零售首席财务官（CFO）本季度利润情况时，你总会得到一个来之不易的答案……",
+      "creator": "Databricks",
+      "relevance": 9,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "Reflection 与 Nebius 签署 10 亿美元算力交易",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "pubdate": "2026-07-14 22:37:48",
+      "contentSnippet": "Reflection AI 已签署一项价值 10 亿美元的协议，以获得 Nebius 的算力。Reflection 成立于 2024 年，正在开发开源 AI 技术。",
+      "creator": "Rebecca Bellan",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "真正的 AI 竞赛或许已不再前沿",
+      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "pubdate": "2026-07-14 22:24:53",
+      "contentSnippet": "Hugging Face CEO Clem Delangue 表示，出于成本、可访问性和所有权考虑，企业越来越倾向于使用开放模型。如果大多数生产级 AI 最终都运行在开放模型上，前",
+      "creator": "Rebecca Bellan",
+      "relevance": 9,
+      "source": "Hugging Face",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta投资500亿美元建设5GW路易斯安那AI超算集群",
+      "link": "https://aibusiness.com/generative-ai/cost-to-build-meta-louisiana-ai-supercluster-hits-50-billion",
+      "pubdate": "2026-07-14 22:16:25",
+      "contentSnippet": "在全球大规模AI数据中心支出热潮中，该项目是规模最大的之一。",
+      "creator": "Graham Hope",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "Spotify 借助类 ChatGPT 音乐助手扩展其 AI 布局",
+      "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "pubdate": "2026-07-14 22:06:47",
+      "contentSnippet": "Spotify 正在推出一项全新的人工智能对话功能，让 Premium 订阅用户可通过与应用聊天来发现音乐、播客、有声书等内容。",
+      "creator": "Sarah Perez",
+      "relevance": 9,
+      "source": "Spotify",
+      "category": "产品发布"
+    },
+    {
+      "title": "苹果在 Siri AI 推出前发布 watchOS 27 公测版",
+      "link": "https://www.techrepublic.com/article/news-watchos-27-public-beta-siri-ai/",
+      "pubdate": "2026-07-14 22:02:45",
+      "contentSnippet": "苹果的 watchOS 27 公测版加入了 Siri AI、更智能的健身功能、健康更新以及单手控制功能，但部分 iPhone 将无法体验关键功能。",
+      "creator": "Liz Ticong",
+      "relevance": 7,
+      "source": "Apple",
+      "category": "产品发布"
+    },
+    {
+      "title": "Superhuman 的新自动草稿功能让我几乎喜欢上 AI 回复",
+      "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "pubdate": "2026-07-14 22:00:00",
+      "contentSnippet": "Superhuman 最新的 AI 邮件起草功能是其迄今为止最具说服力的功能，在我们的测试中，生成的回复通常几乎不需要编辑。",
+      "creator": "Ivan Mehta",
+      "relevance": 9,
+      "source": "TechCrunch",
+      "category": "产品发布"
+    },
+    {
+      "title": "Mistral AI 发布用于机器人导航的视觉模型",
+      "link": "https://aibusiness.com/generative-ai/mistral-ai-unveils-vision-model-robot-navigation",
+      "pubdate": "2026-07-14 21:46:55",
+      "contentSnippet": "该模型使用单个 RGB 摄像头和自然语言指令，帮助机器人在陌生环境中导航。",
+      "creator": "Scarlett Evans",
+      "relevance": 9,
+      "source": "AI Business",
+      "category": "模型发布"
+    },
+    {
+      "title": "AI让游戏克隆变得前所未有的简单",
+      "link": "https://www.404media.co/ai-made-cloning-games-easier-than-ever/",
+      "pubdate": "2026-07-14 21:20:54",
+      "contentSnippet": "Vibecoding使得在短短几小时内就能制作出一款廉价的视频游戏山寨版成为可能。",
+      "creator": "Nicole Carpenter",
+      "relevance": 8,
+      "source": "404 Media",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI 将 ChatGPT Work 引入办公任务：IT团队需关注的3项安全检查",
+      "link": "https://www.techrepublic.com/article/news-chatgpt-work-security-checks/",
+      "pubdate": "2026-07-14 21:07:27",
+      "contentSnippet": "OpenAI 的 ChatGPT Work 可跨连接应用、文件、网站和桌面软件运行。IT 团队应在扩展访问权限前审查权限设置、审批规则和审计可见性。",
+      "creator": "TechRepublic Staff",
+      "relevance": 9,
+      "source": "TechRepublic - AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "别再切换AI工具了——这个终身优惠将GPT-4o等多个模型整合在一处",
+      "link": "https://www.techrepublic.com/article/chatplayground-ai/",
+      "pubdate": "2026-07-14 21:00:24",
+      "contentSnippet": "在一个统一平台上集成GPT-4o、Claude、Gemini等多个顶级模型，现仅需60美元。",
+      "creator": "TechRepublic Academy",
+      "relevance": 8,
+      "source": "TechRepublic - AI",
+      "category": "产品发布"
+    },
+    {
+      "title": "阻断慢燃攻击：Omnigent 中的上下文安全策略",
+      "link": "https://www.databricks.com/blog/blocking-slow-burn-attacks-contextual-policies-omnigent",
+      "pubdate": "2026-07-14 20:47:28",
+      "contentSnippet": "逐次判断智能体行为是不够的。本文展示了如何通过一种现实可行的方法来阻断针对AI智能体的慢燃攻击。",
+      "creator": "Databricks",
+      "relevance": 8,
+      "source": "Databricks",
+      "category": "安全监管"
+    },
+    {
+      "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+      "link": "https://www.qbitai.com/2026/07/448475.html",
+      "pubdate": "2026-07-14 20:36:48",
+      "contentSnippet": "一手实测这就奉上",
+      "creator": "一水",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "安东尼·阿尔巴尼斯承诺加快数据中心审批以促进AI投资",
+      "link": "https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment",
+      "pubdate": "2026-07-14 20:30:25",
+      "contentSnippet": "澳大利亚总理阿尔巴尼斯将宣布澳大利亚成为全球首个将AI带来的经济、社会、国家安全和环境问题纳入单一国家框架的国家。联邦政府将推出AI项目（包括数据中心）的快速审批流程，以增强投资者",
+      "creator": "Tom McIlroy Political editor",
+      "relevance": 8,
+      "source": "The Guardian",
+      "category": "安全监管"
+    },
+    {
+      "title": "下载：Claude 的内部运作机制与世界模型的未来",
+      "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "pubdate": "2026-07-14 20:10:00",
+      "contentSnippet": "这是今日版《下载》——我们的工作日通讯，为您提供科技世界的每日要闻。Anthropic 的最新 AI 发现揭示了什么——以及没有揭示什么。当 Anthropic 上周宣布其找到了观",
+      "creator": "Thomas Macaulay",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "36氪首发 | 浙大系桌面CNC团队获商汤国香、首形科技等近亿元天使轮，要用AI技术降低制造门槛",
+      "link": "https://36kr.com/p/3894935854677249?f=rss",
+      "pubdate": "2026-07-14 19:34:12",
+      "contentSnippet": "桌面级CNC（数控机床）企业「奇塑科技」于近期完成近亿元人民币天使轮融资。本轮融资由商汤国香、首形科技、全新世、奇绩创坛共同投资。奇塑科技自研AI CAM系统，利用AI技术重构CN",
+      "creator": "张子怡",
+      "relevance": 8,
+      "source": "奇塑科技",
+      "category": "投融资信息"
+    },
+    {
+      "title": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
+      "link": "https://www.qbitai.com/2026/07/449863.html",
+      "pubdate": "2026-07-14 19:05:51",
+      "contentSnippet": "B站（哔哩哔哩）举办的AI创造公开赛正式推出投币榜功能，该赛事单月参赛人数已突破5000人，反映了AI创作内容在年轻用户群体中的持续升温。",
+      "creator": "量子位的朋友们",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
+      "link": "https://www.qbitai.com/2026/07/449850.html",
+      "pubdate": "2026-07-14 19:04:17",
+      "contentSnippet": "一套模型，三个世界",
+      "creator": "贾浩楠",
+      "relevance": 7,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "预示人们为何向ChatGPT分享秘密的聊天机器人",
+      "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "pubdate": "2026-07-14 18:00:00",
+      "contentSnippet": "20世纪60年代，麻省理工学院教授约瑟夫·魏泽鲍姆创建了一个名为ELIZA的聊天机器人。人们与它的对话为后来出现的聊天机器人开创了先例。",
+      "creator": "Sarah Ciston, David M. Berry, Anthony C. Hay, Mark C. Marino, Peter Millican, Jeff Shrager, Arthur I. Schwarz, Peggy Weil",
+      "relevance": 8,
+      "source": "Wired",
+      "category": "行业动态"
+    },
+    {
+      "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
+      "link": "https://36kr.com/p/3894821059918855?f=rss",
+      "pubdate": "2026-07-14 17:38:00",
+      "contentSnippet": "空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。公",
+      "creator": "欧雪",
+      "relevance": 9,
+      "source": "36氪",
+      "category": "投融资信息"
+    },
+    {
+      "title": "DOGE 将人工智能用于住房政策，但政府拒绝透露具体方式",
+      "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+      "pubdate": "2026-07-14 17:00:00",
+      "contentSnippet": "针对一项公共记录请求，美国住房和城市发展部（HUD）以援引一项根本不存在的特权为由，拒绝公开有关DOGE使用人工智能的文件。",
+      "creator": "Vittoria Elliott",
+      "relevance": 8,
+      "source": "Wired",
+      "category": "安全监管"
+    },
+    {
+      "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
+      "link": "https://36kr.com/p/3893976502287618?f=rss",
+      "pubdate": "2026-07-14 16:46:41",
+      "contentSnippet": "通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投后估值达150亿元。融资将用于大小脑融合技术突破、全自主人形机器人规模化部署",
+      "creator": "黄楠",
+      "relevance": 7,
+      "source": "逐际动力",
+      "category": "投融资信息"
+    },
+    {
+      "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
+      "link": "https://36kr.com/newsflashes/3894694607961350?f=rss",
+      "pubdate": "2026-07-14 15:38:10",
+      "contentSnippet": "近期，全球AI链股票共振下跌。海外市场中，日经225指数、韩国综合指数等均有明显回调，韩美半导体、三星电机、三井金属、SK海力士、三星电子、康宁、ARM等均有明显回撤。7月13日，",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "科学家开发出芯片堆叠新工艺",
+      "link": "https://36kr.com/newsflashes/3894675140672521?f=rss",
+      "pubdate": "2026-07-14 15:19:23",
+      "contentSnippet": "韩国工业技术研究所和浦项科技大学科学家开发出一项新工艺，能稳定堆叠10余片超薄半导体芯片，由此实现了约4倍于商用高带宽存储器（HBM）的集成密度。这一突破有望缓解人工智能（AI）面",
+      "creator": "36氪",
+      "relevance": 7,
+      "source": "36氪",
+      "category": "行业动态"
+    },
+    {
+      "title": "Ed Husic表示，为造福AI公司而削弱版权将背叛工党精神",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail",
+      "pubdate": "2026-07-14 13:40:52",
+      "contentSnippet": "工党议员表示'公平工作得到公平报酬'是澳大利亚工党的创始原则，媒体工会呼吁对AI使用创意作品制定更严格的新规定。工党议员Ed Husic表示，任何为了造福AI公司而削弱版权法的举动",
+      "creator": "Josh Butler",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "安全监管"
+    },
+    {
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "link": "https://www.qbitai.com/2026/07/436498.html",
+      "pubdate": "2026-07-14 13:33:28",
+      "contentSnippet": "180家企业携成果入驻",
+      "creator": "量子位的朋友们",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先",
+      "link": "https://www.qbitai.com/2026/07/449842.html",
+      "pubdate": "2026-07-14 13:13:56",
+      "contentSnippet": "量子位的朋友们",
+      "creator": "量子位",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资",
+      "link": "https://www.qbitai.com/2026/07/449836.html",
+      "pubdate": "2026-07-14 12:06:40",
+      "contentSnippet": "爱诗科技宣布完成29.8亿元C轮融资，产业资本与全球资本共同参与加注，彰显市场对AI视频生成领域的持续看好。",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "爱诗科技",
+      "category": "投融资信息"
+    },
+    {
+      "title": "高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景",
+      "link": "https://www.qbitai.com/2026/07/449568.html",
+      "pubdate": "2026-07-14 11:46:35",
+      "contentSnippet": "高德地图发布了通用世界模型工坊ABot-World Studio，宣称仅需单张NVIDIA RTX 5090显卡即可生成小时级别的实时交互式视频和3D场景，大幅降低了世界模型构建的",
+      "creator": "量子位",
+      "relevance": 9,
+      "source": "高德地图",
+      "category": "产品发布"
+    },
+    {
+      "title": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品",
+      "link": "https://www.qbitai.com/2026/07/449566.html",
+      "pubdate": "2026-07-14 11:34:50",
+      "contentSnippet": "Agent携上百个Skills助我当大导演",
+      "creator": "梦瑶",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "已然富有且成功，上一波科技赢家为何再次卷土重来？",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "pubdate": "2026-07-14 10:46:42",
+      "contentSnippet": "他们再次撸起袖子，似乎是出于害怕错过AI的决定性时刻，以及赚更多钱的不可抗拒的诱惑——而且可能多得多。",
+      "creator": "Connie Loizos",
+      "relevance": 7,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "Uber产品负责人谈酒店、无人驾驶出租车以及为何公司不想'满足所有人'",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "pubdate": "2026-07-14 08:45:00",
+      "contentSnippet": "Uber首席产品官Sachin Kansal向TechCrunch介绍了公司在金融服务方面的雄心、与Waymo日益复杂的关系、新的AV Labs数据运营，以及AI如何开始以乘客和司",
+      "creator": "Connie Loizos",
+      "relevance": 7,
+      "source": "Uber",
+      "category": "行业动态"
+    },
+    {
+      "title": "视频生成初创公司 PixVerse 融资 4.39 亿美元，估值飙升至 20 亿美元以上",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "pubdate": "2026-07-14 08:00:00",
+      "contentSnippet": "凭借这笔资金，该公司旨在扩展其世界模型产品，并覆盖更多地区的客户。",
+      "creator": "Ivan Mehta",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Hermes 智能体开发商 Nous Research 正进行融资谈判，估值达 15 亿美元",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "pubdate": "2026-07-14 07:31:18",
+      "contentSnippet": "该公司正筹集至少 7500 万美元，由 Robot 领投，USV 及其他知名投资者大力参与。",
+      "creator": "Ivan Mehta, Marina Temkin",
+      "relevance": 9,
+      "source": "Nous Research",
+      "category": "投融资信息"
+    },
+    {
+      "title": "艾伦·图灵最大的AI假设可能错了",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "pubdate": "2026-07-14 07:12:35",
+      "contentSnippet": "一本新书称，AI建立在一个可追溯至艾伦·图灵1950年著名论文的有缺陷假设之上。彼得·J·丹宁认为，人类智能中最关键的部分——包括常识、直觉、文化和实践技能——无法编码到计算机中。",
+      "creator": "ScienceDaily",
+      "relevance": 9,
+      "source": "ScienceDaily",
+      "category": "行业动态"
+    },
+    {
+      "title": "Siri AI 正成为苹果的全能工具",
+      "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+      "pubdate": "2026-07-14 05:39:09",
+      "contentSnippet": "苹果改造后的 Siri 不仅仅是语音助手，它现在已成为 iPhone 用户体验的支柱。你现在可以通过 iOS 27 公测版体验。",
+      "creator": "Reece Rogers",
+      "relevance": 9,
+      "source": "Apple",
+      "category": "产品发布"
+    },
+    {
+      "title": "萨提亚·纳德拉向使用AI的公司发出惊人警告",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "pubdate": "2026-07-14 04:59:00",
+      "contentSnippet": "在所有关于AI潜在负面影响的激烈辩论中，有一个担忧最让硅谷的AI爱好者们焦虑不安——那些销售专有模型的巨型AI实验室在某些方面正扮演着特洛伊木马的角色。",
+      "creator": "Julie Bort",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "先是微软，现在又是苹果：山姆·奥特曼不断与科技巨头分手",
+      "link": "https://www.businessinsider.com/openai-lawsuit-apple-microsoft-history-sam-altman-2026-7",
+      "pubdate": "2026-07-14 04:36:06",
+      "contentSnippet": "OpenAI CEO 山姆·奥特曼在过去几年与微软和苹果达成了重要合作协议，但如今这两段关系都以破裂告终。微软与OpenAI已基本分道扬镳，苹果则对OpenAI提起诉讼，指控其挖角",
+      "creator": "Business Insider",
+      "relevance": 7,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "企业应如何回应经济学家的人工智能风险信函",
+      "link": "https://aibusiness.com/generative-ai/how-enterprises-should-respond-economists-ai-risk-letter",
+      "pubdate": "2026-07-14 04:16:25",
+      "contentSnippet": "随着这封信的发布，政策可能即将发生变化，企业应尝试提前应对。",
+      "creator": "Esther Shittu",
+      "relevance": 8,
+      "source": "AI Business",
+      "category": "安全监管"
+    },
+    {
+      "title": "苹果起诉OpenAI，前工程师涉嫌利用漏洞窃取商业机密",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "pubdate": "2026-07-14 03:17:51",
+      "contentSnippet": "OpenAI被指控与前苹果员工合谋窃取商业机密。",
+      "creator": "Ashley Belanger",
+      "relevance": 7,
+      "source": "Ars Technica",
+      "category": "安全监管"
+    },
+    {
+      "title": "Palantir联合创始人Joe Lonsdale谈AI投资热潮",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-13/palantir-co-founder-lonsdale-on-the-ai-investment-boom-video",
+      "pubdate": "2026-07-14 02:34:47",
+      "contentSnippet": "AI正推动风险投资进入新时代。Palantir联合创始人兼8VC管理合伙人Joe Lonsdale讨论了该公司创纪录的15亿美元基金、初创公司融资轮次为何越来越大，以及他在下一代防",
+      "creator": "Bloomberg Technology",
+      "relevance": 8,
+      "source": "Palantir",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Lonsdale 建议放弃专利以避免中国获取知识产权",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/lonsdale-suggests-forgoing-patents-to-avoid-china-taking-ip",
+      "pubdate": "2026-07-14 02:32:18",
+      "contentSnippet": "8VC 创始人 Joe Lonsdale 周一告诉彭博电视，中国正在积极侵占美国人工智能和生命科学初创公司开发的知识产权。",
+      "creator": "Lizette Chapman",
+      "relevance": 6,
+      "source": "8VC",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果诉讼或扰乱OpenAI挑战iPhone的计划",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-13/apple-s-lawsuit-could-disrupt-openai-bid-to-rival-iphone-video",
+      "pubdate": "2026-07-14 02:32:02",
+      "contentSnippet": "苹果起诉OpenAI系统性地窃取其知识产权，这一诉讼可能会在案件解决前很久就扰乱这家AI公司的设备雄心。彭博社的马克·古尔曼与埃德·卢德洛在《彭博科技》节目中进行了讨论。（来源：彭",
+      "creator": "Bloomberg Technology",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI抛售潮、苹果与OpenAI之争及国防科技未来 | Bloomberg Tech 2026年7月13日",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-13/bloomberg-tech-7-13-2026-video",
+      "pubdate": "2026-07-14 02:28:07",
+      "contentSnippet": "彭博社Ed Ludlow解析了为何韩国AI引发的股市暴跌于周一蔓延至美国市场，导致SK海力士美国存托凭证在第二个交易日下跌。此外，苹果与OpenAI的AI竞争进入法庭，苹果对Cha",
+      "creator": "Bloomberg",
+      "relevance": 9,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "苹果起诉OpenAI窃取商业机密：诉状中最令人震惊的指控",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "pubdate": "2026-07-14 02:22:10",
+      "contentSnippet": "苹果对OpenAI提起的商业机密诉讼中包含了各种指控，从员工开玩笑说未经授权访问苹果系统，到求职者被要求携带苹果硬件参加面试等。以下是诉状中最引人注目的指控。",
+      "creator": "Sarah Perez",
+      "relevance": 8,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "中国科技巨头齐聚人形机器人与具身智能领域",
+      "link": "https://aibusiness.com/robotics/chinese-tech-vendors-converge-humanoid-robotics-embodied-ai",
+      "pubdate": "2026-07-14 02:15:24",
+      "contentSnippet": "中国正竞相在快速增长的领域中抢占一席之地。",
+      "creator": "Scarlett Evans",
+      "relevance": 8,
+      "source": "AI Business",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta 加倍押注路易斯安那州 AI 数据中心",
+      "link": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+      "pubdate": "2026-07-14 02:08:09",
+      "contentSnippet": "Meta 宣布将其位于路易斯安那州里奇兰教区的 AI 数据中心（代号 Hyperion）计算能力扩展至 5 吉瓦，项目总成本超过 500 亿美元。该项目为当地教师带来了高达 5 万",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "Anthropic最新AI发现揭示了什么——以及没有揭示什么",
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "pubdate": "2026-07-14 02:00:00",
+      "contentSnippet": "这篇故事最初出现在《算法》——我们的AI周报中。Anthropic——目前全球最具价值的AI公司，估值近1万亿美元——以发表奇特而高深的研究而闻名。它正在研究AI模型是否能感受到疼",
+      "creator": "James O'Donnell",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "帕兰提尔CEO称AI最大问题是并非人人都能借此致富",
+      "link": "https://www.businessinsider.com/palantir-ceo-ai-wealth-inequality-problem-job-losses-2026-7",
+      "pubdate": "2026-07-14 01:54:48",
+      "contentSnippet": "帕兰提尔CEO亚历克斯·卡普表示，AI将大幅提升顶尖阶层的财富，但普通人的收益微乎其微，造成巨大的财富差距。他还批评了AI行业过度炒作的现象，称实验室负责人告诉人们'你的生活会变得",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "Palantir",
+      "category": "行业动态"
+    },
+    {
+      "title": "微软研究发现AI编码助手使Pull Request数量提升24%",
+      "link": "https://www.techrepublic.com/article/news-ai-coding-agents-microsoft-pull-requests/",
+      "pubdate": "2026-07-14 01:00:16",
+      "contentSnippet": "微软一项研究发现，命令行AI编码助手与更多合并的Pull Request相关，但采用率和审查能力对结果产生了影响。",
+      "creator": "TechRepublic Staff",
+      "relevance": 9,
+      "source": "TechRepublic - AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta 在用户同意争议后下架 Muse Image Instagram 功能",
+      "link": "https://www.techrepublic.com/article/news-meta-scraps-muse-image-feature-after-launch/",
+      "pubdate": "2026-07-14 00:48:39",
+      "contentSnippet": "Meta 在推出 Muse Image 功能数日后，因用户同意、隐私及使用公开 Instagram 照片等问题引发强烈反对，最终下架了该功能。",
+      "creator": "Kezia Jungco",
+      "relevance": 8,
+      "source": "Meta",
+      "category": "产品发布"
+    },
+    {
+      "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+      "link": "https://36kr.com/p/3893815451417347?f=rss",
+      "pubdate": "2026-07-14 00:34:05",
+      "contentSnippet": "36氪独家获悉，字节跳动正探索进入自动驾驶领域，由Seed旗下周畅的世界模型团队负责。字节有意布局无人物流场景，隶属于火山引擎汽车行业线。目前项目处于早期筹备状态，字节已向头部自动",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "字节跳动",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI 应该帮你逃脱杀妻罪责吗？",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "pubdate": "2026-07-14 00:31:23",
+      "contentSnippet": "完全以用户意志为导向的AI世界实际是什么样的？",
+      "creator": "Russell Brandom",
+      "relevance": 8,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    }
+  ]
+}

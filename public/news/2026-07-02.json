@@ -1,0 +1,665 @@
+{
+  "date": "2026-07-02",
+  "items": [
+    {
+      "title": "Meta 或计划出售 AI 算力以应对基础设施成本上升",
+      "link": "https://www.techrepublic.com/article/news-meta-ai-compute-cloud-business/",
+      "pubdate": "2026-07-02 23:47:29",
+      "contentSnippet": "Meta 据报正在探索一项云业务，出售过剩的 AI 算力，此举可能抵消数据中心成本，并对新一代云服务提供商构成挑战。",
+      "creator": "David Curry",
+      "relevance": 9,
+      "source": "TechRepublic - AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "利用 AI 实现卓越运营",
+      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "pubdate": "2026-07-02 23:37:08",
+      "contentSnippet": "精益六西格玛和业务流程管理（BPM）等框架最初受到关注，是因为它们承诺在混乱中带来清晰——一种将混乱、庞大的运营变得有序的结构化方法。精益六西格玛强调统计严谨性和质量控制；BPM则",
+      "creator": "MIT Technology Review Insights",
+      "relevance": 8,
+      "source": "MIT Tech Review",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI 提议将其5%的股权捐赠给美国主权财富基金",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "pubdate": "2026-07-02 23:20:51",
+      "contentSnippet": "据报道，OpenAI CEO Sam Altman提议将公司5%的股权捐赠给美国主权财富基金，重新引发了关于让公众分享AI热潮带来的财务收益的讨论。",
+      "creator": "Russell Brandom",
+      "relevance": 7,
+      "source": "OpenAI",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI竞赛引发交易拥挤新担忧",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-02/ai-race-fuels-new-fears-of-crowded-trading-video",
+      "pubdate": "2026-07-02 23:20:04",
+      "contentSnippet": "周四亚洲半导体股票大跌，追随华尔街科技股跌势，此前Meta Platforms Inc.计划开展一项业务，出售AI计算能力访问权限，引发了对产能过剩的担忧。Humilis Inve",
+      "creator": "Bloomberg",
+      "relevance": 6,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "中国Kling AI融资20亿美元，拓展AI视频业务",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
+      "pubdate": "2026-07-02 23:18:47",
+      "contentSnippet": "中国Kling AI已获得首轮20亿美元风险投资，这家从快手科技分拆出来的公司正寻求扩张其视频AI业务。",
+      "creator": "Zheping Huang",
+      "relevance": 9,
+      "source": "Kling AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "特朗普促使OpenAI向美国提供5%股份，远低于桑德斯的目标",
+      "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "pubdate": "2026-07-02 23:12:25",
+      "contentSnippet": "内部人士称，山姆·奥尔特曼正在与特朗普政府进行积极谈判。",
+      "creator": "Ashley Belanger",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "安全监管"
+    },
+    {
+      "title": "NVIDIA BioNeMo助力Anthropic Claude Science加速科研",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+      "pubdate": "2026-07-02 22:38:01",
+      "contentSnippet": "Anthropic Claude Science现已集成NVIDIA BioNeMo Agent工具包，以加速计算生命科学研究。Anthropic已推出Claude Science",
+      "creator": "Ryan Daws",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "Anthropic 与三星洽谈定制 AI 芯片合作事宜",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4",
+      "pubdate": "2026-07-02 22:12:29",
+      "contentSnippet": "据知情人士透露，Anthropic PBC 正在与三星电子商讨合作事宜，拟由三星为其制造定制人工智能芯片。",
+      "creator": "Amy Thomson",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "微软斥资25亿美元成立自家AI部署公司",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "pubdate": "2026-07-02 21:53:00",
+      "contentSnippet": "微软紧随亚马逊、OpenAI和Anthropic的脚步，成立了新的AI部署集团。",
+      "creator": "Russell Brandom",
+      "relevance": 9,
+      "source": "Microsoft",
+      "category": "行业动态"
+    },
+    {
+      "title": "微软调动6000名员工帮助客户采纳AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/microsoft-mobilizes-6-000-workers-to-help-customers-adopt-ai",
+      "pubdate": "2026-07-02 21:00:00",
+      "contentSnippet": "微软公司正在组建一个拥有6000名员工的新组织，帮助企业在部署人工智能方面完成技术和战略工作。",
+      "creator": "Brody Ford, Edward Ludlow",
+      "relevance": 9,
+      "source": "Bloomberg Technology",
+      "category": "行业动态"
+    },
+    {
+      "title": "教AI与涡轮机共舞",
+      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "pubdate": "2026-07-02 20:51:44",
+      "contentSnippet": "人工智能或许通过聊天机器人和图像生成器俘获了公众的想象力，但其最具深远意义的应用场景正远离面向消费者的工具，悄然展开。在那些物理基础设施、运营连续性和安全性至关重要的行业中，AI正",
+      "creator": "MIT Technology Review Insights",
+      "relevance": 7,
+      "source": "MIT Tech Review",
+      "category": "行业动态"
+    },
+    {
+      "title": "韩国AI板块暴跌拖累新兴市场股市至三周低点",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-ai-rout-drags-emerging-stocks-to-three-week-low",
+      "pubdate": "2026-07-02 20:27:25",
+      "contentSnippet": "在美国就业数据弱于预期的背景下，投资者减少了对美联储将于本月加息的押注，多数发展中国家货币周四上涨。与此同时，韩国人工智能相关股票的暴跌拖累新兴市场股市跌至三周低点。",
+      "creator": "David Feliba, Ray Ndlovu",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "没错，我们现在用OpenClaw约会了",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "pubdate": "2026-07-02 20:00:00",
+      "contentSnippet": "Ben Guez的私信里「有一堆潜在的国际妻子候选人」，这要归功于他使用OpenClaw、Claude代码和Instagram试验设置的一个自动化脚本。",
+      "creator": "Amanda Silberling",
+      "relevance": 8,
+      "source": "OpenClaw",
+      "category": "行业动态"
+    },
+    {
+      "title": "微软将 MCP 工具描述标记为隐藏的 AI 智能体攻击路径",
+      "link": "https://www.techrepublic.com/article/news-microsoft-mcp-tool-risk/",
+      "pubdate": "2026-07-02 19:48:30",
+      "contentSnippet": "微软警告称，被篡改的 MCP 工具描述可以引导 AI 智能体通过经授权的工具调用泄露敏感数据。",
+      "creator": "TechRepublic Staff",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "安全监管"
+    },
+    {
+      "title": "英伟达为GPU采购提供融资支持，并从云计算收入中抽取一定比例分成",
+      "link": "https://36kr.com/newsflashes/3877951264239877?f=rss",
+      "pubdate": "2026-07-02 19:36:01",
+      "contentSnippet": "据报道，英伟达为GPU采购提供融资支持，并从云计算收入中抽取一定比例分成。（财联社）",
+      "creator": "36 氪",
+      "relevance": 9,
+      "source": "英伟达",
+      "category": "行业动态"
+    },
+    {
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "link": "https://www.qbitai.com/2026/07/442134.html",
+      "pubdate": "2026-07-02 19:28:36",
+      "contentSnippet": "与社区共同推进自演进智能体生态发展",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "谷歌AI建设导致2025年用电量增长37%",
+      "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "pubdate": "2026-07-02 19:15:49",
+      "contentSnippet": "谷歌试图在AI数据中心排放与清洁能源努力之间寻求平衡。",
+      "creator": "Jeremy Hsu",
+      "relevance": 7,
+      "source": "Ars Technica",
+      "category": "行业动态"
+    },
+    {
+      "title": "恒生指数公司联同数码港推出主题指数探索计划，促进以人工智能驱动指数创新",
+      "link": "https://36kr.com/newsflashes/3877929435082752?f=rss",
+      "pubdate": "2026-07-02 19:13:48",
+      "contentSnippet": "36氪获悉，恒生指数公司与数码港于2026年6月30日宣布推出主题指数探索计划，与创科公司共同开发人工智能解决方案，加快主题指数的设计流程。本次计划为指数创新实验室第二阶段项目。实",
+      "creator": "36氪",
+      "relevance": 7,
+      "source": "恒生指数公司",
+      "category": "行业动态"
+    },
+    {
+      "title": "埃隆·马斯克否认SpaceX AI设备报道，星链战略疑问日益增多",
+      "link": "https://www.techrepublic.com/article/news-spacex-ai-device-report/",
+      "pubdate": "2026-07-02 19:12:09",
+      "contentSnippet": "埃隆·马斯克否认了一份关于SpaceX向投资者展示AI设备原型的报道，但星链与xAI之间的联系使得IT团队有理由关注平台风险。",
+      "creator": "TechRepublic Staff",
+      "relevance": 7,
+      "source": "TechRepublic",
+      "category": "行业动态"
+    },
+    {
+      "title": "Crunchbase数据：2026年上半年全球初创企业投资达创纪录5100亿美元，AI热潮加速融资与退出",
+      "link": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+      "pubdate": "2026-07-02 19:00:47",
+      "contentSnippet": "投资者在刚刚结束的季度中向全球初创企业注入了超过2000亿美元，使2026年第二季度成为有记录以来第二高的季度。我们的数据显示，随着IPO和并购的强势回归，第二季度创下了近年来风险",
+      "creator": "Gené Teare",
+      "relevance": 8,
+      "source": "Crunchbase News",
+      "category": "投融资信息"
+    },
+    {
+      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+      "link": "https://www.qbitai.com/2026/07/442047.html",
+      "pubdate": "2026-07-02 18:56:23",
+      "contentSnippet": "霸榜OpenR ou",
+      "creator": "闻乐",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "模型发布"
+    },
+    {
+      "title": "AI布道时代已终结，欢迎进入评估时代",
+      "link": "https://www.aiacceleratorinstitute.com/the-age-of-ai-evangelism-is-over-welcome-to-the-evaluation-era/",
+      "pubdate": "2026-07-02 18:55:07",
+      "contentSnippet": "透明度评分持续下降，用户自述式语句的幻觉率高达94%，基准测试表现仍无法预测实际应用效果。AI的能力与组织实际可验证性之间的鸿沟，如今已成为值得解决的关键问题……",
+      "creator": "Andrew Lovell",
+      "relevance": 9,
+      "source": "AI Accelerator Institute",
+      "category": "行业动态"
+    },
+    {
+      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
+      "link": "https://www.qbitai.com/2026/07/442048.html",
+      "pubdate": "2026-07-02 18:45:31",
+      "contentSnippet": "量子位资讯：科大讯飞举办智能交互生态发布会，宣布三大平台同步升级，展示了其在人工智能领域，特别是智能交互技术方面的最新进展与生态布局。",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "科大讯飞",
+      "category": "产品发布"
+    },
+    {
+      "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
+      "link": "https://www.qbitai.com/2026/07/442037.html",
+      "pubdate": "2026-07-02 18:29:03",
+      "contentSnippet": "7月17日至7月20日",
+      "creator": "量子位的朋友们",
+      "relevance": 7,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+      "link": "https://www.qbitai.com/2026/07/442030.html",
+      "pubdate": "2026-07-02 18:24:32",
+      "contentSnippet": "和人并肩工作",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "产品发布"
+    },
+    {
+      "title": "清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
+      "link": "https://36kr.com/p/3877863381741577?f=rss",
+      "pubdate": "2026-07-02 18:07:44",
+      "contentSnippet": "可立点科技完成战略融资，由力合科创领投。公司聚焦AI+机器人养老场景，围绕银发群体布局家庭陪伴与院内康复两大产品线，已推出面向居家养老场景的主动陪伴机器人和与华西医院联合研发的GR",
+      "creator": "乔钰杰",
+      "relevance": 7,
+      "source": "36氪",
+      "category": "投融资信息"
+    },
+    {
+      "title": "软银集团拟发行新一轮公司债，发行总额上限达1.5万亿日元",
+      "link": "https://36kr.com/newsflashes/3877860822315264?f=rss",
+      "pubdate": "2026-07-02 18:04:00",
+      "contentSnippet": "软银集团7月2日向监管机构提交披露文件，计划发行新一轮针对个人或机构投资者的公司债券，发行总额度上限最高达1.5万亿日元。本次大规模募资计划主要用于偿还即将到期的既有债务、优化集团",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "软银集团",
+      "category": "投融资信息"
+    },
+    {
+      "title": "企业因成本过高正在限制员工使用AI",
+      "link": "https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/",
+      "pubdate": "2026-07-02 18:00:09",
+      "contentSnippet": "来自亚马逊、Adobe、Atlassian、花旗等公司的消息和泄露信息揭示了AI领域的真实状况：随着成本失控飙升，企业正试图限制AI的使用。",
+      "creator": "Joseph Cox",
+      "relevance": 9,
+      "source": "404 Media",
+      "category": "行业动态"
+    },
+    {
+      "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
+      "link": "https://36kr.com/p/3877830625046535?f=rss",
+      "pubdate": "2026-07-02 17:33:33",
+      "contentSnippet": "聚焦通用空中智能的硅羽科技（SPARO）半年内已连续完成四轮数亿元融资，由耀途资本、锦秋基金、阿里巴巴、弘毅投资、普洛斯隐山资本、云时资本等投资。公司由前大疆高级顾问科学家、香港大",
+      "creator": "欧雪",
+      "relevance": 7,
+      "source": "硅羽科技",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Meta 开始为智能眼镜功能收取订阅费。欢迎来到消费科技新时代",
+      "link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
+      "pubdate": "2026-07-02 17:30:00",
+      "contentSnippet": "你购买了硬件。现在你需要订阅才能获得\"扩展访问权限\"，使用最先进的功能。",
+      "creator": "Julian Chokkattu",
+      "relevance": 7,
+      "source": "Wired",
+      "category": "产品发布"
+    },
+    {
+      "title": "专访美图 CEO 吴欣鸿：做 AI 产品，是一场难以提前策划的游戏",
+      "link": "https://36kr.com/p/3877112973733895?f=rss",
+      "pubdate": "2026-07-02 16:30:00",
+      "contentSnippet": "本文是对美图公司CEO吴欣鸿的深度专访。他分享了美图依靠AI产品实现全球扩张的战略，2025年净利润达9.65亿元同比增长64.7%，AI重构的影像与设计产品收入占比从35%提升至",
+      "creator": "周鑫雨",
+      "relevance": 9,
+      "source": "美图",
+      "category": "行业动态"
+    },
+    {
+      "title": "钉钉A1录音卡入选Gartner AI可穿戴设备报告",
+      "link": "https://www.qbitai.com/2026/07/442024.html",
+      "pubdate": "2026-07-02 16:03:00",
+      "contentSnippet": "AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正的企业级 AI 协作平台",
+      "creator": "梦晨",
+      "relevance": 7,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "SAP 限制招聘和差旅以资助「重大」AI 布局",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push",
+      "pubdate": "2026-07-02 15:45:57",
+      "contentSnippet": "SAP SE 表示将削减招聘和差旅以节省成本，这家欧洲最大的软件公司正投入更多资源用于开发人工智能技术并抵御新竞争对手。",
+      "creator": "Christina Kyriasoglou",
+      "relevance": 9,
+      "source": "SAP SE",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI「正在早期谈判向美国政府出让5%股份」",
+      "link": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+      "pubdate": "2026-07-02 15:31:15",
+      "contentSnippet": "据报道，OpenAI正与美国政府进行早期谈判，拟出让ChatGPT开发商5%的股份，以缓和人工智能公司与特朗普政府之间的关系。CEO山姆·奥特曼认为，让美国公众持有公司股份是分享A",
+      "creator": "Lauren Almeida",
+      "relevance": 7,
+      "source": "OpenAI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
+      "link": "https://www.qbitai.com/2026/07/441786.html",
+      "pubdate": "2026-07-02 14:23:10",
+      "contentSnippet": "其中AI短剧平台业务ARR超过7亿美元",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "训练世界模型，开始从人类的肌肉和脑子里偷师了",
+      "link": "https://www.qbitai.com/2026/07/441725.html",
+      "pubdate": "2026-07-02 13:44:25",
+      "contentSnippet": "具身智能数采迎来了新范式",
+      "creator": "思邈",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "印度科技大亨自掏3000万美元打造微软Office的AI替代品",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "pubdate": "2026-07-02 13:30:00",
+      "contentSnippet": "Neo是Bhavin Turakhia的第五个创业项目，也是他最新涉足企业软件领域的尝试。这一次，他正借助AI向微软Office和谷歌应用发起挑战。",
+      "creator": "Jagmeet Singh",
+      "relevance": 8,
+      "source": "TechCrunch",
+      "category": "投融资信息"
+    },
+    {
+      "title": "前高盛分析师创办的AI初创公司据悉融资2200万美元",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/former-goldman-analyst-s-ai-startup-is-said-to-raise-22-million",
+      "pubdate": "2026-07-02 11:19:24",
+      "contentSnippet": "据知情人士透露，人工智能投资研究公司 LinqAlpha Inc. 即将完成2200万美元的A轮融资。",
+      "creator": "Manuel Baigorri",
+      "relevance": 8,
+      "source": "Bloomberg Technology",
+      "category": "投融资信息"
+    },
+    {
+      "title": "马斯克与奥尔特曼案法官聘请调解人解决AI巨头之争",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/musk-altman-judge-enlists-mediator-to-resolve-ai-titans-battle",
+      "pubdate": "2026-07-02 10:33:47",
+      "contentSnippet": "负责审理埃隆·马斯克与萨姆·奥尔特曼及其旗下两家AI初创公司之间法律纠纷的法官，已聘请调解人来解决这一争端。",
+      "creator": "Peter Blumberg",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI公司是否在逃避法律制裁？| Fiona Katauskas",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/02/are-ai-companies-getting-away-with-crime",
+      "pubdate": "2026-07-02 08:57:28",
+      "contentSnippet": "它们正将窃取知识产权变成一门艺术。点击此处查看更多Fiona Katauskas的漫画。",
+      "creator": "Fiona Katauskas",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "我们如何在 Databricks AI 中保持 GPU 的可靠性",
+      "link": "https://www.databricks.com/blog/how-we-keep-gpus-reliable-across-databricks-ai",
+      "pubdate": "2026-07-02 07:00:00",
+      "contentSnippet": "分布式GPU训练已成为整个行业的常规操作。团队现在训练...",
+      "creator": "Databricks",
+      "relevance": 8,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "新型BioShocking攻击可诱骗AI浏览器泄露凭证",
+      "link": "https://www.techrepublic.com/article/news-bioshocking-ai-browsers-leak-credentials/",
+      "pubdate": "2026-07-02 05:58:09",
+      "contentSnippet": "LayerX发现，BioShocking攻击可以通过将恶意提示伪装成游戏规则，诱骗AI浏览器泄露凭证。",
+      "creator": "Kezia Jungco",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "安全监管"
+    },
+    {
+      "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+      "link": "https://36kr.com/p/3877109751803904?f=rss",
+      "pubdate": "2026-07-02 05:21:17",
+      "contentSnippet": "由清华大学助理教授李一鸣（前英伟达Vision & Robotics研究员）创立的「厘清智能」完成数亿元种子轮融资，投资方包括顺为资本、红杉中国、高瓴创投、峰瑞资本等多家知名机构及",
+      "creator": "周鑫雨",
+      "relevance": 9,
+      "source": "厘清智能",
+      "category": "投融资信息"
+    },
+    {
+      "title": "美国首家利用先进反应堆发电为英伟达AI芯片供电的核能公司",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/nvidia-ai-chip-gets-power-from-valar-s-nuclear-reactor",
+      "pubdate": "2026-07-02 05:14:39",
+      "contentSnippet": "加州核能初创公司Valar Atomics利用一座先进反应堆发电，为英伟达公司的一款AI芯片供电。虽然产生的电量微乎其微，但这标志着美国首次有下一代反应堆实现这一目标。",
+      "creator": "Will Wade",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "一只杠杆ETF正在重塑全球顶级AI内存股的交易格局",
+      "link": "https://www.bloomberg.com/news/features/2026-07-01/how-a-13-billion-leveraged-etf-drives-volatility-in-a-key-ai-memory-stock",
+      "pubdate": "2026-07-02 05:00:20",
+      "contentSnippet": "一只追踪SK海力士的香港基金规模已变得如此庞大，以至于它开始反过来影响其原本追踪的那只股票的走势。",
+      "creator": "Charlotte Yang, Sangmi Cha",
+      "relevance": 7,
+      "source": "SK海力士",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI资金与焦虑正驱动本轮选举周期",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/anthropic-splits-from-pack-in-race-to-shape-first-ai-election-big-take-podcas",
+      "pubdate": "2026-07-02 04:50:27",
+      "contentSnippet": "AI正在选民中引发焦虑，AI资金正在资助候选人，AI正在生成竞选广告。在今天的Big Take播客中，探讨首届AI选举如何映射我们时代的焦虑。",
+      "creator": "David Gura, Rachael Lewis-Krisky",
+      "relevance": 8,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "播客：AI代币末日来临",
+      "link": "https://www.404media.co/podcast-the-ai-tokenpocalypse-is-here/",
+      "pubdate": "2026-07-02 04:40:59",
+      "contentSnippet": "公司如何消耗其AI代币；以及Etsy、eBay和亚马逊上泛滥的AI生成假花。",
+      "creator": "Joseph Cox",
+      "relevance": 7,
+      "source": "404 Media",
+      "category": "行业动态"
+    },
+    {
+      "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
+      "link": "https://36kr.com/p/3877060559433984?f=rss",
+      "pubdate": "2026-07-02 04:30:37",
+      "contentSnippet": "航墨科技完成近亿元天使轮融资，由中投万方、三贤科技、北航天汇等投资。公司成立于2022年，核心团队来自北航机器人所，专注于智能变刚度关节技术及消费级智能外骨骼的研发落地。核心产品F",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "航墨科技",
+      "category": "投融资信息"
+    },
+    {
+      "title": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
+      "link": "https://36kr.com/p/3877057215393793?f=rss",
+      "pubdate": "2026-07-02 04:27:00",
+      "contentSnippet": "硅基光子企业灵动芯光完成数千万元天使++轮融资，由磐霖资本领投、同方投资与深天使合作的子基金汇泽天诚跟投。公司致力于硅基光子集成芯片设计与应用，核心技术为芯片间光互联（光I/O）技",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "灵动芯光",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Anthropic 与白宫谈判后恢复 Fable 5 的访问权限",
+      "link": "https://www.businessinsider.com/anthropic-restores-fable-5-mythos-access-trump-white-house-talks-2026-6",
+      "pubdate": "2026-07-02 04:24:30",
+      "contentSnippet": "Anthropic 于周三宣布，在与特朗普政府达成协议后，已恢复其最强大的公开可用 AI 模型 Fable 5 的访问权限。此前，美国政府发布出口管制令，要求 Anthropic ",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "安全监管"
+    },
+    {
+      "title": "联合国警告：AI快速蔓延可能加剧全球不平等",
+      "link": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+      "pubdate": "2026-07-02 03:17:11",
+      "contentSnippet": "联合国一份新报告警告称，人工智能的发展可能加剧全球不平等，并提出了一个负责任开发AI的共享框架，因为全球范围内对该技术的采用和投资正不均衡地加速。联合国秘书长安东尼奥·古特雷斯在周",
+      "creator": "Sanya Mansoor",
+      "relevance": 8,
+      "source": "The Guardian AI",
+      "category": "安全监管"
+    },
+    {
+      "title": "阿什顿·库彻离开 Sound Ventures，与摩根·贝勒共同创立新风投公司",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "pubdate": "2026-07-02 02:47:22",
+      "contentSnippet": "Sound Ventures 以其在领先的AI实验室中集中、高确信度的投资而建立了声誉，而库彻的新基金则似乎在追逐这些公司之下的层面——即支撑它们的底层基础设施和能源。",
+      "creator": "Marina Temkin",
+      "relevance": 8,
+      "source": "Ashton Kutcher",
+      "category": "投融资信息"
+    },
+    {
+      "title": "零售商纷纷借助AI打击顾客退货欺诈",
+      "link": "https://www.businessinsider.com/return-fraud-ai-retail-happy-returns-optoro-2026-6",
+      "pubdate": "2026-07-02 02:33:11",
+      "contentSnippet": "零售商和软件合作伙伴正利用AI技术来检测和阻止退货欺诈行为。随着退货量持续增长，约9%的退货存在欺诈行为，企业借助AI分析大量退货数据、识别异常模式、进行行为风险评分，从而加快合法",
+      "creator": "Getty Images",
+      "relevance": 6,
+      "source": "Business Insider",
+      "category": "行业动态"
+    },
+    {
+      "title": "超越仪表盘：决策执行平台正式发布",
+      "link": "https://www.databricks.com/blog/beyond-dashboards-introducing-decision-execution-platforms",
+      "pubdate": "2026-07-02 02:20:00",
+      "contentSnippet": "图1：Databricks Forward Deployed Engineering团队推出的决策执行平台，旨在超越传统仪表盘，将数据洞察直接转化为可执行的决策行动。",
+      "creator": "hh",
+      "relevance": 6,
+      "source": "Databricks",
+      "category": "产品发布"
+    },
+    {
+      "title": "现在你可以对AI的不良行为发出警报了",
+      "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+      "pubdate": "2026-07-02 02:10:00",
+      "contentSnippet": "你是否担心你的AI聊天机器人试图制造炸弹或泄露你的个人信息？现在有一个网站可以处理这个问题。",
+      "creator": "Will Knight",
+      "relevance": 8,
+      "source": "Wired",
+      "category": "安全监管"
+    },
+    {
+      "title": "科学家让AI模仿112位公众人物，结果令人震惊：一个'可怕'的警告",
+      "link": "https://www.404media.co/untitled-28/",
+      "pubdate": "2026-07-02 02:00:53",
+      "contentSnippet": "研究人员发现，人们认为AI模仿者比真正的政治家更真实、连贯且相关，这引发了关于公众欺骗潜在风险的严重警报。",
+      "creator": "Becky Ferreira",
+      "relevance": 9,
+      "source": "404 Media",
+      "category": "安全监管"
+    },
+    {
+      "title": "Cloudflare 新政策推动 AI 公司为出版商内容付费",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "pubdate": "2026-07-02 01:48:37",
+      "contentSnippet": "Cloudflare 给予 AI 公司截至9月15日的期限，要求其将用于搜索的网络爬虫与用于 AI 训练和 AI 代理的网络爬虫分开，否则许多出版商网站将默认屏蔽其访问。",
+      "creator": "Sarah Perez",
+      "relevance": 8,
+      "source": "Cloudflare",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta 计划构建云业务以出售多余AI算力 | Bloomberg Tech 2026年7月1日",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-tech-7-01-2026-video",
+      "pubdate": "2026-07-02 01:02:22",
+      "contentSnippet": "彭博社记者 Ed Ludlow 解读了 Meta 计划构建自有云基础设施业务，旨在向客户出售AI计算能力和模型的访问权限。此外，特朗普政府解除了对 Anthropic 的 Fabl",
+      "creator": "Bloomberg Technology",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "速腾聚创在天津成立新科技公司",
+      "link": "https://36kr.com/newsflashes/3876853167370501?f=rss",
+      "pubdate": "2026-07-02 00:58:58",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，天津速腾聚创科技有限公司成立，法定代表人为朱百柱，注册资本500万人民币，经营范围包括人工智能硬件销售、智能机器人销售、人工智能应用软件开发、智",
+      "creator": "36氪",
+      "relevance": 6,
+      "source": "速腾聚创",
+      "category": "行业动态"
+    },
+    {
+      "title": "在促使特朗普进行安全测试后，Anthropic AI模型获全球发布",
+      "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "pubdate": "2026-07-02 00:44:18",
+      "contentSnippet": "美国解除对Anthropic先进Fable和Mythos模型的限制。",
+      "creator": "Ashley Belanger",
+      "relevance": 9,
+      "source": "Ars Technica",
+      "category": "安全监管"
+    },
+    {
+      "title": "Anthropic 发布 Sonnet 5，同时解除 Fable 5 与 Mythos 5 使用限制",
+      "link": "https://aibusiness.com/generative-ai/restrictions-fable-5-mythos-5-lifted-anthropic-launches-sonnet-5",
+      "pubdate": "2026-07-02 00:33:53",
+      "contentSnippet": "这些强大模型的发布表明，企业需要以开放心态对待不同的AI系统，并将治理机制纳入模型选择考量。",
+      "creator": "Esther Shittu",
+      "relevance": 10,
+      "source": "AI Business",
+      "category": "模型发布"
+    },
+    {
+      "title": "德勤数字马克·辛格：拥抱 AI 转型的 CMO 更有可能成为未来的 CEO",
+      "link": "https://www.businessinsider.com/deloitte-digital-mark-singer-cmo-cannes-lions-2026-7",
+      "pubdate": "2026-07-02 00:32:30",
+      "contentSnippet": "德勤数字首席营销官马克·辛格表示，如今营销工作已无既定套路可循。成功的CMO必须兼具企业家精神，并能从容应对模糊不清的局面。辛格指出，这需要的不仅是尝试新事物的勇气，还要坦然接受并",
+      "creator": "Business Insider",
+      "relevance": 7,
+      "source": "Deloitte Digital",
+      "category": "行业动态"
+    },
+    {
+      "title": "优必选超仿生机器人首发订单破万，最高售价99万元｜最前线",
+      "link": "https://36kr.com/p/3876811895992327?f=rss",
+      "pubdate": "2026-07-02 00:32:20",
+      "contentSnippet": "优必选在2026年度全球发布会上推出全尺寸超仿生人形机器人'优世界'U1系列（含U1 Lite、U1 Pro、U1 Ultra三款），售价11.98万至99万元，全渠道订单累计突破",
+      "creator": "黄楠",
+      "relevance": 8,
+      "source": "优必选",
+      "category": "产品发布"
+    },
+    {
+      "title": "成为Anthropic政治秘密武器的工程师",
+      "link": "https://www.businessinsider.com/everything-we-know-about-tom-brown-anthropic-white-house-2026-7",
+      "pubdate": "2026-07-02 00:31:52",
+      "contentSnippet": "Anthropic联合创始人Tom Brown在白宫关于AI模型Fable 5和Mythos 5的出口限制谈判中扮演了关键调解角色，这位低调的工程师负责公司算力战略，从OpenAI",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "Alex Karp 猛烈抨击AI实验室：'这些模型被完全不负责任地过度推销了'",
+      "link": "https://www.businessinsider.com/alexander-karp-criticizes-ai-companies-token-costs-2026-7",
+      "pubdate": "2026-07-02 00:07:41",
+      "contentSnippet": "Palantir CEO Alex Karp 在接受 CNBC 采访时猛烈抨击AI实验室，称AI市场'出了大问题'。他表示AI模型被过度推销，企业领导者私下抱怨'我花钱买token",
+      "creator": "Business Insider",
+      "relevance": 8,
+      "source": "Palantir",
+      "category": "行业动态"
+    },
+    {
+      "title": "Anthropic 新增安全措施以重获特朗普政府青睐",
+      "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+      "pubdate": "2026-07-02 00:00:00",
+      "contentSnippet": "政府已解除了对 Anthropic 的 Fable 5 和 Mythos 5 AI 模型的限制——但附带了条件。",
+      "creator": "Hugo Lowell",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "安全监管"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-12",
+  "items": [
+    {
+      "title": "苹果 M6、M7 和 M8 芯片揭示 AI 如何重塑公司",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro",
+      "pubdate": "2026-07-12 22:00:01",
+      "contentSnippet": "另外：新款 Apple Pencil 即将推出。",
+      "creator": "Mark Gurman",
+      "relevance": 9,
+      "source": "Bloomberg Technology",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI、Meta、SpaceXAI 竞相开发更具成本效益的 AI 模型",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models",
+      "pubdate": "2026-07-12 22:00:00",
+      "contentSnippet": "三家知名人工智能开发商在过去一周发布了新模型。它们都承诺更为先进，但最大的即时卖点可能不在于它们能做什么，而在于它们收费有多低。",
+      "creator": "Lorelei Smillie, Rachel Metz",
+      "relevance": 9,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+      "link": "https://36kr.com/p/3892222176574211?f=rss",
+      "pubdate": "2026-07-12 21:47:23",
+      "contentSnippet": "Anthropic官方发文澄清Claude Code\"变笨\"真相：用户误将模型选择与Effort（努力度）设置混淆。3月因默认Effort从high降至medium导致大量用户感觉",
+      "creator": "元宇",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "行业动态"
+    },
+    {
+      "title": "近百名玩家涌入具身数据: 一年融资44.7亿，谁能真靠\"卖数据\"赚钱？",
+      "link": "https://36kr.com/p/3892027841362694?f=rss",
+      "pubdate": "2026-07-12 18:16:07",
+      "contentSnippet": "本文全面梳理了具身数据行业的现状，包括97家国内具身数据玩家的分布、四种主流数据采集技术路线（真机遥操、无本体采集、仿真合成、互联网视频蒸馏）、玩家分类（独立数据服务商、国资平台、",
+      "creator": "林方舟",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "追逐新技能、回归基础、推动集体行动：软件工程师如何适应AI时代",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+      "pubdate": "2026-07-12 18:00:15",
+      "contentSnippet": "软件工程曾是2022年美国收入最高的职业之一，但AI的出现扰乱了这一领域，导致多次裁员和就业不足。一位化名为Matt的软件工程师每天通勤四小时，利用这段时间亲自编写代码来保持技能熟",
+      "creator": "Varsha Bansal",
+      "relevance": 8,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "科学家的副业？利用AI和量子计算生成新型多肽",
+      "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "pubdate": "2026-07-12 18:00:00",
+      "contentSnippet": "研究人员拼凑资金和时间，展示了量子计算如何帮助开发药物，以服务于医疗资源不足的人群并对抗罕见疾病。",
+      "creator": "Isabella Ward",
+      "relevance": 7,
+      "source": "Wired",
+      "category": "行业动态"
+    },
+    {
+      "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
+      "link": "https://www.qbitai.com/2026/07/448034.html",
+      "pubdate": "2026-07-12 16:29:46",
+      "contentSnippet": "从采集触觉，到对齐触觉，再到使用触觉",
+      "creator": "一水",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "智谱创始人称前沿AI应对所有人保持开放",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+      "pubdate": "2026-07-12 14:59:51",
+      "contentSnippet": "中国AI实验室智谱的创始人表示，前沿人工智能应保持广泛可及性，而非由少数人控制，他就关于日益强大的模型所带来的风险的日益激烈的争论发表了看法。",
+      "creator": "Charlie Zhu, Zheping Huang, Ying Tian, Haze Fan",
+      "relevance": 9,
+      "source": "智谱",
+      "category": "行业动态"
+    },
+    {
+      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "link": "https://www.qbitai.com/2026/07/447914.html",
+      "pubdate": "2026-07-12 09:14:50",
+      "contentSnippet": "为了帮你看清具身数据行业，我们总结了以下十个行业现状",
+      "creator": "梦瑶",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事",
+      "link": "https://36kr.com/p/3891132709206784?f=rss",
+      "pubdate": "2026-07-12 03:28:29",
+      "contentSnippet": "智谱创始人唐杰发布主题为《巨浪已来》的内部信，回顾公司从GLM-130B到GLM-5.2的发展历程，宣布将战略重心转向长程任务能力（Long Horizon Task）、完全自治的",
+      "creator": "周鑫雨",
+      "relevance": 10,
+      "source": "智谱",
+      "category": "行业动态"
+    },
+    {
+      "title": "Instagram 最新 AI 工具上线不到一周即被撤下",
+      "link": "https://www.businessinsider.com/instagram-ai-feature-public-profile-opt-out-privacy-deepfake-backlash-2026-7",
+      "pubdate": "2026-07-12 00:40:51",
+      "contentSnippet": "Meta 推出了基于 Muse Image 模型的 AI 图像生成工具，允许用户根据 Instagram 公开帖子生成 AI 图像。由于用户和娱乐团体对隐私及深度伪造风险的强烈反对",
+      "creator": "Anna Barclay",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "产品发布"
+    },
+    {
+      "title": "腾讯洽购Manus？知情人士：腾讯仍将保留少数股东地位",
+      "link": "https://36kr.com/newsflashes/3890964192852482?f=rss",
+      "pubdate": "2026-07-12 00:13:27",
+      "contentSnippet": "7月11日，有消息称腾讯正在洽谈成为通用AI Agent公司Manus的最大股东，据该消息，由腾讯牵头的中方资本组团以约20亿美元估值从Meta手中回购Manus的全部股权。记者向",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "腾讯",
+      "category": "投融资信息"
+    }
+  ]
+}

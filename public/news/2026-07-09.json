@@ -1,0 +1,735 @@
+{
+  "date": "2026-07-09",
+  "items": [
+    {
+      "title": "AWS GraphRAG 部署将药物研发周期缩短87%",
+      "link": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+      "pubdate": "2026-07-09 23:43:09",
+      "contentSnippet": "最近的一项 AWS GraphRAG 部署将制药环境中的药物研发周期缩短了87%。这一加速是通过将之前分离的专有数据库整合为统一的、可查询的知识图谱实现的。历史上，每次迭代的初始数",
+      "creator": "Ryan Daws",
+      "relevance": 9,
+      "source": "AWS",
+      "category": "行业动态"
+    },
+    {
+      "title": "Uber CTO 将顶级AI工程师嵌入HR、财务和法务部门，发现更高效的AI构建方式",
+      "link": "https://www.businessinsider.com/uber-cto-bets-on-agentic-pods-make-ai-more-efficient-2026-7",
+      "pubdate": "2026-07-09 23:24:02",
+      "contentSnippet": "Uber 首席技术官 Praveen Neppalli Naga 表示，公司正在通过\"Agentic Pods\"模式在全公司范围内部署AI代理。过去两个月，Uber 已将30名最精",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "Uber",
+      "category": "行业动态"
+    },
+    {
+      "title": "我们不需要AI生成的假动物视频。真实的动物就在那里，而且它们真的很可爱 | 丽贝卡·肖",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/10/ai-videos-fake-animals-real-ones-are-cute",
+      "pubdate": "2026-07-09 23:00:55",
+      "contentSnippet": "我无法对生成式AI创造的东西感到欣喜。请给我那些由复杂的人写的书、由可爱的笨蛋画的画、由有感受力的人创作的歌曲。生成式AI已经走得太远了。我有很多理由不喜欢生成式AI日益增长的使用",
+      "creator": "Rebecca Shaw",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "反对AI数据中心的斗争很重要——但这只是起点 | Bruce Schneier 和 Nathan E Sanders",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics",
+      "pubdate": "2026-07-09 23:00:54",
+      "contentSnippet": "AI公司希望捕获整个行业创造的价值。这种财富和权力的集中是社会最大的风险。反对AI数据中心已成为美国政治中的一个主要主题，令人惊讶的是——这并不按党派划分。我们赞赏人们就任何问题展",
+      "creator": "Bruce Schneier and Nathan E Sanders",
+      "relevance": 8,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "Anthropic 的新 Claude 功能正在悄悄地向你推销 AI",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "pubdate": "2026-07-09 22:53:09",
+      "contentSnippet": "Claude 的全新 Reflect 仪表盘不仅能直观展示你如何使用 AI，还会潜移默化地强化你对 Anthropic 聊天机器人的日常依赖程度。",
+      "creator": "Sarah Perez",
+      "relevance": 9,
+      "source": "Anthropic",
+      "category": "产品发布"
+    },
+    {
+      "title": "Anthropic、OpenAI 和 SpaceX 的IPO规模超越过去25年科技退出总和",
+      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "pubdate": "2026-07-09 22:51:00",
+      "contentSnippet": "三大AI公司即将进行的IPO所创造的价值，将超过2000年以来所有美国风投支持的退出案例总和。",
+      "creator": "Russell Brandom",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "谷歌新默认AI训练设置向澳大利亚发出警示",
+      "link": "https://www.techrepublic.com/article/google-ai-training-australia-apac/",
+      "pubdate": "2026-07-09 21:49:22",
+      "contentSnippet": "谷歌新的默认AI训练设置影响了澳大利亚的工作场所。了解如何管理数据隐私以及Google搜索、Google Lens和Google翻译的使用。",
+      "creator": "Joseph Ofonagoro",
+      "relevance": 8,
+      "source": "Google",
+      "category": "行业动态"
+    },
+    {
+      "title": "加州免费乘坐Waymo？这要感谢监管上的小插曲",
+      "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
+      "pubdate": "2026-07-09 21:31:00",
+      "contentSnippet": "州级机构的延迟可能导致公司新款Ojai车型在几个月内提供免费机器人出租车服务。",
+      "creator": "Aarian Marshall",
+      "relevance": 7,
+      "source": "Waymo",
+      "category": "行业动态"
+    },
+    {
+      "title": "浏览数据表明，LinkedIn和X充斥着AI垃圾信息",
+      "link": "https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/",
+      "pubdate": "2026-07-09 21:22:11",
+      "contentSnippet": "一家人工智能检测公司发现，用户在日常浏览中实际看到的AI生成内容数量惊人地高。",
+      "creator": "Jason Koebler",
+      "relevance": 7,
+      "source": "404 Media",
+      "category": "行业动态"
+    },
+    {
+      "title": "纽约AI生态：你需要了解的25家关键企业",
+      "link": "https://www.aiacceleratorinstitute.com/new-yorks-ai-scene-the-25-companies-you-need-to-know/",
+      "pubdate": "2026-07-09 21:00:44",
+      "contentSnippet": "纽约的AI公司正在将人工智能融入这座城市已有的产业中：交易大厅、医院病历、合规部门。这份包含从Hugging Face到Dataminr等25家企业的名单，展示了这一趋势的实际面貌",
+      "creator": "Andrew Lovell",
+      "relevance": 9,
+      "source": "AI Accelerator Institute",
+      "category": "行业动态"
+    },
+    {
+      "title": "Character.AI 进军微短剧领域，推出自有剧集，但有一个转折",
+      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "pubdate": "2026-07-09 21:00:00",
+      "contentSnippet": "这一巧妙的转折充分利用了该公司的核心产品，用户可以与剧中的角色聊天、提问，甚至参与不同故事情节的角色扮演。",
+      "creator": "Ivan Mehta",
+      "relevance": 8,
+      "source": "Character.AI",
+      "category": "产品发布"
+    },
+    {
+      "title": "流行的开源 AI 开发者工具 Ollama 融资 6500 万美元，用户数接近 900 万",
+      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "pubdate": "2026-07-09 21:00:00",
+      "contentSnippet": "由 Benchmark 支持的 Ollama 在 GitHub 上已获得 176,000 颗星和近 17,000 个 Fork，帮助开发者轻松在个人电脑上运行 AI。",
+      "creator": "Julie Bort",
+      "relevance": 9,
+      "source": "Ollama",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
+      "link": "https://www.qbitai.com/2026/07/447508.html",
+      "pubdate": "2026-07-09 20:18:17",
+      "contentSnippet": "已经出现泛化涌现",
+      "creator": "衡宇",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "模型发布"
+    },
+    {
+      "title": "《下载》：核能里程碑，以及中国紧盯英伟达芯片",
+      "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "pubdate": "2026-07-09 20:10:00",
+      "contentSnippet": "这是今日版《下载》——我们的工作日通讯，为您提供科技世界的每日要闻。美国四座核反应堆达成重大里程碑——Casey Crownhart 我真的很期待7月4日，不仅仅是因为我喜欢泳池边",
+      "creator": "Thomas Macaulay",
+      "relevance": 6,
+      "source": "MIT科技评论",
+      "category": "行业动态"
+    },
+    {
+      "title": "南丹·尼勒卡尼卸任 Fundamentum 普通合伙人，该公司同期启动第三期 2 亿美元基金",
+      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "pubdate": "2026-07-09 20:00:00",
+      "contentSnippet": "尼勒卡尼仍担任 Fundamentum 的主要锚定投资者，随着公司扩大领导团队，将重点瞄准印度的人工智能和金融科技初创企业。",
+      "creator": "Jagmeet Singh",
+      "relevance": 6,
+      "source": "TechCrunch AI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "自研焊接具身大脑模型，以\"智能焊工\"切入工业制造具身智能赛道，「昇视唯盛」完成数亿元B轮融资",
+      "link": "https://36kr.com/p/3887871679347208?f=rss",
+      "pubdate": "2026-07-09 19:48:49",
+      "contentSnippet": "聚焦工业制造领域的具身智能机器人企业「昇视唯盛」正式宣布完成数亿元B轮融资，由上海半导体产投、金桥基金领投。公司自研焊接专属具身智能大脑模型，基于多模态大模型架构训练，投喂千万级产",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "昇视唯盛",
+      "category": "投融资信息"
+    },
+    {
+      "title": "一个2800万美元的失误催生了爱沙尼亚的AI「故障发现器」",
+      "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+      "pubdate": "2026-07-09 18:01:30",
+      "contentSnippet": "一个措辞错误让政府损失了数百万美元。如今爱沙尼亚正利用AI在法案生效前发现法律漏洞，并推动国家更多领域的自动化。",
+      "creator": "Chris Stokel-Walker",
+      "relevance": 8,
+      "source": "爱沙尼亚",
+      "category": "行业动态"
+    },
+    {
+      "title": "NHS人工智能血液检测或可减少侵入性子宫癌检查",
+      "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+      "pubdate": "2026-07-09 18:00:00",
+      "contentSnippet": "英国多家NHS医院正准备使用人工智能驱动的血液检测，在实施侵入性检查之前，帮助评估因疑似子宫癌而转诊的女性。据《卫报》报道，英格兰每年约有9万名绝经后女性因出现大量出血而被全科医生",
+      "creator": "Muhammad Zulhusni",
+      "relevance": 8,
+      "source": "AI News",
+      "category": "行业动态"
+    },
+    {
+      "title": "Waymo未来几周将在美国四个新城市推出无人驾驶出租车服务",
+      "link": "https://36kr.com/newsflashes/3887625331063560?f=rss",
+      "pubdate": "2026-07-09 15:44:53",
+      "contentSnippet": "Waymo周三宣布，将在未来几周内陆续在美国四个新城市推出无人驾驶出租车服务，进一步巩固其在本土市场对特斯拉和Zoox的领先优势。新增服务城市分别为圣迭戈、拉斯维加斯、佛罗里达州坦",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "Waymo",
+      "category": "行业动态"
+    },
+    {
+      "title": "美国银行转向支持OpenAI，提供5.2亿美元信贷额度争取IPO承销资格",
+      "link": "https://36kr.com/newsflashes/3887604638693892?f=rss",
+      "pubdate": "2026-07-09 15:34:51",
+      "contentSnippet": "7月8日消息，据报道，美国银行近日向OpenAI提供5.2亿美元信贷额度，使OpenAI可动用的信贷额度增至逾50亿美元。据悉，美国银行此前曾拒绝向OpenAI放贷，此次转变部分受",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
+      "link": "https://www.qbitai.com/2026/07/446778.html",
+      "pubdate": "2026-07-09 15:34:25",
+      "contentSnippet": "李开复笑着回应了",
+      "creator": "Jay",
+      "relevance": 7,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta将在艾伯塔省投建130亿加元数据中心",
+      "link": "https://36kr.com/newsflashes/3887604088093192?f=rss",
+      "pubdate": "2026-07-09 15:31:16",
+      "contentSnippet": "Meta于周三宣布，将在加拿大艾伯塔省中部兴建一座超大型数据中心，这也是该公司在加拿大落地的首个算力基地，用以快速扩充算力储备，支撑全球人工智能产业爆发式增长。Meta表示，这座装",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "智谱：配售新H股，所得款项总额预期约314.1亿港元",
+      "link": "https://36kr.com/newsflashes/3887616358300168?f=rss",
+      "pubdate": "2026-07-09 15:27:51",
+      "contentSnippet": "36氪获悉，智谱在港交所公告，根据一般授权配售新H股，每股配售股份的配售价为1588港元。假设所有配售股份获悉数配售予承配人，配售事项所得款项总额预期约为314.1亿港元，而配售事",
+      "creator": "36 氪",
+      "relevance": 8,
+      "source": "智谱",
+      "category": "投融资信息"
+    },
+    {
+      "title": "英特尔专利曝光新型XBM内存架构，拟绕开HBM硅中介层降低AI内存成本",
+      "link": "https://36kr.com/newsflashes/3887599984835077?f=rss",
+      "pubdate": "2026-07-09 15:18:07",
+      "contentSnippet": "7月8日消息，英特尔一项近日公开的专利申请显示，公司正研发名为XBM（Cross-Batch Memory）的新型高带宽内存架构，旨在通过取消HBM所需的硅中介层、采用UCIe互连",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "英特尔",
+      "category": "行业动态"
+    },
+    {
+      "title": "SpaceX AI与Cursor发布面向法律、金融场景的Grok AI模型",
+      "link": "https://36kr.com/newsflashes/3887598091614725?f=rss",
+      "pubdate": "2026-07-09 15:15:12",
+      "contentSnippet": "SpaceXAI发布了一款名为Grok 4.5的新型人工智能模型，该模型是与AI编程初创公司Cursor合作打造的，旨在缩小与Anthropic和OpenAI等竞争对手的差距。Gr",
+      "creator": "36 氪",
+      "relevance": 10,
+      "source": "SpaceX AI",
+      "category": "模型发布"
+    },
+    {
+      "title": "MasTec斥16.5亿美元收购Superior，拓展AI数据中心业务",
+      "link": "https://36kr.com/newsflashes/3887596641352456?f=rss",
+      "pubdate": "2026-07-09 15:07:48",
+      "contentSnippet": "美国基础设施工程与建设公司MasTec宣布，将以约16.5亿美元收购电气承包商Superior Group，交易采用现金加股票方式，预计7月中下旬完成。MasTec首席执行官表示，",
+      "creator": "36 氪",
+      "relevance": 6,
+      "source": "MasTec",
+      "category": "投融资信息"
+    },
+    {
+      "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+      "link": "https://www.qbitai.com/2026/07/446658.html",
+      "pubdate": "2026-07-09 14:29:30",
+      "contentSnippet": "为了安全的通用人工智能（AGI）。",
+      "creator": "henry",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
+      "link": "https://www.qbitai.com/2026/07/446568.html",
+      "pubdate": "2026-07-09 13:47:05",
+      "contentSnippet": "视频生成的下一站，或是机器人大脑",
+      "creator": "十三",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "模型发布"
+    },
+    {
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "link": "https://www.qbitai.com/2026/07/436498.html",
+      "pubdate": "2026-07-09 13:33:28",
+      "contentSnippet": "180家企业携成果入驻",
+      "creator": "量子位的朋友们",
+      "relevance": 10,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "获联合国机构点赞！天立启鸣\"AI+教育\"方案入选AI for Good",
+      "link": "https://www.qbitai.com/2026/07/446562.html",
+      "pubdate": "2026-07-09 11:56:06",
+      "contentSnippet": "天立启鸣的AI+教育解决方案获得联合国机构认可，成功入选AI for Good项目，致力于通过\"一生一案\"模式书写优质教育新篇章。",
+      "creator": "量子位的朋友们",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "世界模型首次迎来\"小时级\"生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
+      "link": "https://www.qbitai.com/2026/07/446548.html",
+      "pubdate": "2026-07-09 11:39:41",
+      "contentSnippet": "蚂蚁灵波（Ant Lingbo）开源了LingBot-World 2.0世界模型，首次实现小时级别的世界模型生成能力，并支持AI原生的多人交互场景，大幅降低了世界模型在游戏、虚拟空",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "蚂蚁灵波",
+      "category": "模型发布"
+    },
+    {
+      "title": "蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！",
+      "link": "https://www.qbitai.com/2026/07/446458.html",
+      "pubdate": "2026-07-09 11:19:15",
+      "contentSnippet": "蚂蚁集团旗下灵波团队正式开源LingBot-Video，这是全球首个面向具身智能（Embodied AI）领域的视频基础模型，将为机器人等具身智能应用提供强大的视频理解和生成能力，",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "蚂蚁灵波",
+      "category": "模型发布"
+    },
+    {
+      "title": "从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路",
+      "link": "https://www.qbitai.com/2026/07/446435.html",
+      "pubdate": "2026-07-09 10:32:01",
+      "contentSnippet": "量子位报道，量化派从餐饮后厨领域切入，正在构建物理世界基础模型，发展物理AI，走售卖能力的技术路线，将AI能力商业化落地。",
+      "creator": "量子位的朋友们",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI成本压力促使西太平洋银行引导员工'合理'使用模型",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/ai-costs-lead-westpac-to-prod-staff-toward-sensible-model-use",
+      "pubdate": "2026-07-09 07:42:05",
+      "contentSnippet": "西太平洋银行正在加强人工智能成本监控力度，这家澳大利亚贷款机构密切追踪全公司的AI代币使用量，并将简单任务路由至成本更低的模型处理。",
+      "creator": "Richard Henderson",
+      "relevance": 8,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta的Muse Image或正是中小企业所需",
+      "link": "https://aibusiness.com/generative-ai/meta-s-muse-image-might-what-smbs-need",
+      "pubdate": "2026-07-09 06:47:14",
+      "contentSnippet": "Meta的新AI图像生成模型使用户能够在社交媒体巨头的平台上创建具有竞争力的广告内容。",
+      "creator": "Esther Shittu",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "模型发布"
+    },
+    {
+      "title": "Lovable 据报道正洽谈将估值翻倍至132亿美元",
+      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "pubdate": "2026-07-09 06:41:33",
+      "contentSnippet": "据 Sifted 报道，这轮3亿美元融资预计由 Menlo Ventures 领投。",
+      "creator": "Marina Temkin",
+      "relevance": 8,
+      "source": "Lovable",
+      "category": "投融资信息"
+    },
+    {
+      "title": "英伟达竞争对手 Positron 洽谈融资，估值达 50 亿美元",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation",
+      "pubdate": "2026-07-09 06:32:47",
+      "contentSnippet": "AI 芯片初创公司 Positron 正在洽谈分两阶段融资约 7.5 亿美元，这是众多寻求与英伟达公司竞争的公司浪潮中的一部分。",
+      "creator": "Natasha Mascarenhas, Dina Bass",
+      "relevance": 9,
+      "source": "Positron",
+      "category": "投融资信息"
+    },
+    {
+      "title": "怀疑学生用AI作弊，常春藤教授下令进行线下期末考试；成绩骤降50%",
+      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "pubdate": "2026-07-09 05:42:44",
+      "contentSnippet": "教授表示：AI作弊将导致'一个失败的社会'。",
+      "creator": "Nate Anderson",
+      "relevance": 8,
+      "source": "Ars Technica",
+      "category": "行业动态"
+    },
+    {
+      "title": "MNTN CEO：我们正在美国过度建设数据中心",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-08/mntn-ceo-skeptical-of-meta-s-cloud-ambitions-video",
+      "pubdate": "2026-07-09 05:17:13",
+      "contentSnippet": "广告技术公司MNTN的首席执行官Mark Douglas讨论了Meta据报道计划从广告业务扩展到云基础设施的雄心。Douglas对Meta能否与AWS和Google Cloud等成",
+      "creator": "Bloomberg Technology",
+      "relevance": 7,
+      "source": "MNTN",
+      "category": "行业动态"
+    },
+    {
+      "title": "Google 的深度伪造检测系统用于揭穿 McConnell 骗局图片",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "pubdate": "2026-07-09 04:37:03",
+      "contentSnippet": "本周早些时候，一张图片似乎显示肯塔基州参议员 Mitch McConnell 躺在医院病床上，身上插满管子，处于极度痛苦状态。结果发现这是一张 AI 生成的伪造图片。",
+      "creator": "Russell Brandom",
+      "relevance": 8,
+      "source": "Google",
+      "category": "行业动态"
+    },
+    {
+      "title": "我构建了一个自我进化的人工智能，你也可以做到",
+      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "pubdate": "2026-07-09 04:09:21",
+      "contentSnippet": "利用AI构建AI的实验表明，未来并非只属于前沿实验室。",
+      "creator": "Will Knight",
+      "relevance": 9,
+      "source": "Wired",
+      "category": "行业动态"
+    },
+    {
+      "title": "诉讼：男子使用Grok制作7000张继女性图像后开枪自杀",
+      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+      "pubdate": "2026-07-09 03:56:37",
+      "contentSnippet": "更多年轻女孩起诉X公司涉及Grok的儿童性虐待材料；X被指控包庇儿童性犯罪者。",
+      "creator": "Ashley Belanger",
+      "relevance": 9,
+      "source": "xAI",
+      "category": "安全监管"
+    },
+    {
+      "title": "AI热潮可能导致廉价安卓手机涨价",
+      "link": "https://www.techrepublic.com/article/news-budget-android-phones-memory-prices-ai/",
+      "pubdate": "2026-07-09 03:53:57",
+      "contentSnippet": "根据Omdia的分析，DRAM和NAND内存价格上涨正迫使安卓手机制造商削减配置、提高售价，并重新审视廉价智能手机的市场策略。",
+      "creator": "Aminu Abdullahi",
+      "relevance": 6,
+      "source": "TechRepublic",
+      "category": "行业动态"
+    },
+    {
+      "title": "澳大利亚最新AI招聘数据打破招聘冻结论调",
+      "link": "https://www.techrepublic.com/article/ai-hiring-data-undercuts-hiring-freezes-autralia-apac/",
+      "pubdate": "2026-07-09 03:42:58",
+      "contentSnippet": "美国最新数据显示，大规模AI投资带来的是岗位增长而非削减——这挑战了那些将AI预算与招聘冻结挂钩的澳大利亚企业。",
+      "creator": "Joseph Ofonagoro",
+      "relevance": 7,
+      "source": "TechRepublic",
+      "category": "行业动态"
+    },
+    {
+      "title": "新AI招聘数据削弱了澳大利亚招聘冻结的依据",
+      "link": "https://www.techrepublic.com/article/ai-hiring-data-undercuts-hiring-freezes-australia-apac/",
+      "pubdate": "2026-07-09 03:42:58",
+      "contentSnippet": "美国新数据表明，大力投资AI促进了就业增长而非裁员——这挑战了将AI预算与招聘冻结挂钩的澳大利亚企业。",
+      "creator": "Joseph Ofonagoro",
+      "relevance": 7,
+      "source": "TechRepublic",
+      "category": "行业动态"
+    },
+    {
+      "title": "英伟达与Hugging Face合作开发开源机器人模型",
+      "link": "https://aibusiness.com/generative-ai/nvidia-hugging-face-collaborate-open-source-robot-models",
+      "pubdate": "2026-07-09 03:35:56",
+      "contentSnippet": "此举被视为支持物理AI的可及性与部署，同时也进一步巩固了英伟达在该领域已然强大的地位。",
+      "creator": "Scarlett Evans",
+      "relevance": 9,
+      "source": "Nvidia",
+      "category": "行业动态"
+    },
+    {
+      "title": "SpaceXAI 发布 Grok 4.5，马斯克称其为“Opus 级别模型”",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "pubdate": "2026-07-09 03:30:16",
+      "contentSnippet": "埃隆·马斯克的科技公司于周三发布了最新版本的 Grok，承诺提供更便宜、更高效的人工智能模型替代方案。",
+      "creator": "Lucas Ropek",
+      "relevance": 9,
+      "source": "TechCrunch",
+      "category": "模型发布"
+    },
+    {
+      "title": "Meta 将在加拿大建造首个数据中心，扩大全球布局",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet",
+      "pubdate": "2026-07-09 03:30:00",
+      "contentSnippet": "Meta Platforms Inc. 将投资约100亿美元在加拿大建设首个数据中心，以扩大其基础设施规模，支持其人工智能发展目标。",
+      "creator": "Riley Griffin, Robert Tuttle, Iain Boekhoff",
+      "relevance": 8,
+      "source": "Meta",
+      "category": "行业动态"
+    },
+    {
+      "title": "澳大利亚企业中被忽视的AI安全漏洞",
+      "link": "https://www.techrepublic.com/article/ai-security-gap-australia-apac/",
+      "pubdate": "2026-07-09 03:20:42",
+      "contentSnippet": "新的全球安全研究揭示了企业内未受监控的AI代理权限如何被利用——而围绕人类员工构建的澳大利亚身份治理体系，根本无法捕捉这类威胁。",
+      "creator": "Joseph Ofonagoro",
+      "relevance": 9,
+      "source": "TechRepublic",
+      "category": "安全监管"
+    },
+    {
+      "title": "这家初创公司认为机器人技术即将迎来它的ChatGPT时刻",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "pubdate": "2026-07-09 03:19:15",
+      "contentSnippet": "General Intuition 正押注数百万小时的视频游戏数据可以训练物理AI的基础模型，从而用最少的真实世界数据构建更智能的机器人。",
+      "creator": "Rebecca Bellan",
+      "relevance": 9,
+      "source": "TechCrunch AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta Muse Image 解析：关于全新 AI 图像模型你需要了解的一切",
+      "link": "https://www.techrepublic.com/article/news-meta-muse-image-explained/",
+      "pubdate": "2026-07-09 02:48:11",
+      "contentSnippet": "Meta Muse Image 将 AI 图像生成功能带到 Instagram、WhatsApp 和 Meta AI。以下是用户需要了解的功能和隐私信息。",
+      "creator": "Matt Gonzales",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "模型发布"
+    },
+    {
+      "title": "美国银行对OpenAI态度大转弯，提供5.2亿美元信贷额度",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-08/bofa-makes-u-turn-on-openai-provides-520m-credit-line-video",
+      "pubdate": "2026-07-09 02:43:23",
+      "contentSnippet": "据消息人士透露，美国银行（Bank of America）对OpenAI的态度发生逆转：在最初拒绝向这家AI公司提供贷款后，如今正为其提供5.2亿美元的信贷额度。彭博社的Sridh",
+      "creator": "Bloomberg Technology",
+      "relevance": 7,
+      "source": "OpenAI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "OpenAI 新模型 GPT-5.6 即将提前发布",
+      "link": "https://www.techrepublic.com/article/news-openai-gpt-5-6-us-security-review/",
+      "pubdate": "2026-07-09 02:39:52",
+      "contentSnippet": "OpenAI 在完成美国安全审查后将推出 GPT-5.6，这为企业 AI 访问、安全保障和治理带来了新的考量。",
+      "creator": "Kezia Jungco",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "模型发布"
+    },
+    {
+      "title": "高速推理需求惊人：SambaNova CEO畅谈AI芯片市场",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-08/ai-chip-startup-sambanova-reaches-11-billion-valuation-video",
+      "pubdate": "2026-07-09 02:39:11",
+      "contentSnippet": "AI芯片初创公司SambaNova以110亿美元估值成功融资10亿美元，凸显了投资者对AI相关基础设施需求持续增长的坚定信心。SambaNova CEO Rodrigo Liang",
+      "creator": "Bloomberg Technology",
+      "relevance": 9,
+      "source": "SambaNova",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Lerer Hippeau 看到第二代AI初创公司崛起",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-08/lerer-hippeau-seeing-second-generation-of-ai-startups-video",
+      "pubdate": "2026-07-09 02:34:16",
+      "contentSnippet": "AI正在主导风险投资领域，OpenAI、Anthropic和xAI吸引了全球资金的巨大份额。Lerer Hippeau管理合伙人Eric Hippeau做客《Bloomberg T",
+      "creator": "Bloomberg Technology",
+      "relevance": 9,
+      "source": "Lerer Hippeau",
+      "category": "投融资信息"
+    },
+    {
+      "title": "科技市场动荡；OpenAI 获美国银行信贷额度 | Bloomberg Tech 2026年7月8日",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-08/bloomberg-tech-7-08-2026-video",
+      "pubdate": "2026-07-09 02:30:38",
+      "contentSnippet": "彭博社 Ed Ludlow 解读了受美伊紧张局势影响而动荡的科技市场，避险情绪重燃推动油价上涨。此外，OpenAI 从美国银行获得了5.2亿美元的信贷额度，而这家 ChatGPT ",
+      "creator": "Bloomberg Technology",
+      "relevance": 8,
+      "source": "OpenAI",
+      "category": "投融资信息"
+    },
+    {
+      "title": "Google Photos 新增 AI '视频混剪' 工具",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "pubdate": "2026-07-09 02:30:00",
+      "contentSnippet": "该功能可以执行诸如应用电影级重新照明来提亮暗光片段、将普通背景替换为有趣的场景、或为视频添加艺术风格等操作。",
+      "creator": "Aisha Malik",
+      "relevance": 7,
+      "source": "Google",
+      "category": "产品发布"
+    },
+    {
+      "title": "OpenAI 新语音模型让你可以随时插话",
+      "link": "https://www.businessinsider.com/openai-new-voice-model-gpt-live-2026-7",
+      "pubdate": "2026-07-09 02:29:05",
+      "contentSnippet": "OpenAI 发布新更新，让聊天机器人不再尴尬。公司推出 GPT-Live 语音模型，支持全双工对话，AI 可在用户说话时同步倾听并回应，如发出「嗯」「好的」等声音，无需等待停顿。",
+      "creator": "OpenAI",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "模型发布"
+    },
+    {
+      "title": "这位CEO认为视频游戏比互联网更适合作为AI训练数据的原因",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "pubdate": "2026-07-09 01:47:55",
+      "contentSnippet": "在实现通用人工智能（AGI）方面，大型语言模型并不具备所需的能力。ChatGPT和Claude等模型在文本处理上表现出色，但在理解事物如何在时空中实际移动方面能力不足——这是产生能",
+      "creator": "Theresa Loconsolo",
+      "relevance": 9,
+      "source": "General Intuition",
+      "category": "行业动态"
+    },
+    {
+      "title": "SpaceXAI 与 Cursor 联合推出适用于编程和金融任务的 Grok AI 模型",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
+      "pubdate": "2026-07-09 01:31:10",
+      "contentSnippet": "SpaceXAI 发布了一款与 AI 编程初创公司 Cursor 合作构建的新型人工智能模型，旨在更擅长金融、法律和编程任务，这是埃隆·马斯克的公司为追赶 Anthropic PB",
+      "creator": "Carmen Arroyo",
+      "relevance": 9,
+      "source": "SpaceXAI",
+      "category": "模型发布"
+    },
+    {
+      "title": "三星计划于2028年前推出浮动数据中心",
+      "link": "https://www.techrepublic.com/article/news-samsung-floating-ai-data-center/",
+      "pubdate": "2026-07-09 01:29:04",
+      "contentSnippet": "三星重工计划在2028年前将浮动AI数据中心商业化，以应对电力、土地和冷却限制对AI基础设施带来的压力。",
+      "creator": "Aminu Abdullahi",
+      "relevance": 9,
+      "source": "三星",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta为可追踪情绪并监测服药情况的AI设备申请专利",
+      "link": "https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/",
+      "pubdate": "2026-07-09 01:26:42",
+      "contentSnippet": "想象一下，一款可穿戴设备记录您一天的每一刻，并根据您的情绪提出建议。",
+      "creator": "Matthew Gault",
+      "relevance": 8,
+      "source": "404 Media",
+      "category": "行业动态"
+    },
+    {
+      "title": "Meta 希望其AI眼镜看起来不那么令人毛骨悚然，但其AI战略却另有暗示",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "pubdate": "2026-07-09 01:11:18",
+      "contentSnippet": "Meta正在增加一项新的保护措施，以防止人们使用其AI眼镜秘密录制他人。但这一更新正值该公司继续扩大其AI产品收集和使用个人数据的范围之际。",
+      "creator": "Sarah Perez",
+      "relevance": 9,
+      "source": "Meta",
+      "category": "安全监管"
+    },
+    {
+      "title": "OpenAI 发布全新语音模型，实现更自然的实时对话",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "pubdate": "2026-07-09 01:00:00",
+      "contentSnippet": "OpenAI 表示其新语音模式可以同时进行听说，这是实时翻译的关键能力。",
+      "creator": "Ivan Mehta",
+      "relevance": 9,
+      "source": "OpenAI",
+      "category": "产品发布"
+    },
+    {
+      "title": "谷歌更新 Android Bench，引入新 LLM，但 Gemini 仍落后",
+      "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "pubdate": "2026-07-09 00:39:48",
+      "contentSnippet": "Android Bench 正在发展，开发者可以帮助指导这一过程。",
+      "creator": "Ryan Whitwam",
+      "relevance": 8,
+      "source": "Google",
+      "category": "行业动态"
+    },
+    {
+      "title": "在 Databricks 百万行级代码库上对编程智能体进行基准评测",
+      "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "pubdate": "2026-07-09 00:30:51",
+      "contentSnippet": "在 Databricks，随着我们积极采用AI编程智能体，我们构建软件的方式正在快速变化……",
+      "creator": "Databricks",
+      "relevance": 9,
+      "source": "Databricks",
+      "category": "行业动态"
+    },
+    {
+      "title": "EmTech AI 2026: AI平台的崛起",
+      "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "pubdate": "2026-07-09 00:26:10",
+      "contentSnippet": "麻省理工科技评论主办的EmTech AI 2026大会聚焦人工智能平台的崛起，探讨AI技术如何从单一模型演变为集成化平台生态，以及这一趋势对行业格局、企业战略和技术发展的深远影响。",
+      "creator": "麻省理工科技评论编辑",
+      "relevance": 9,
+      "source": "MIT Technology Review",
+      "category": "行业动态"
+    },
+    {
+      "title": "Prime Intellect 完成1.3亿美元A轮融资，助力企业构建自主AI智能体",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "pubdate": "2026-07-09 00:22:38",
+      "contentSnippet": "Prime Intellect 成立于2024年，其目标是让各类组织能够训练自己的智能体系统，而无需依赖前沿AI实验室。",
+      "creator": "Marina Temkin",
+      "relevance": 9,
+      "source": "Prime Intellect",
+      "category": "投融资信息"
+    },
+    {
+      "title": "地产AI进入落地战，深度智联又甩出一张牌",
+      "link": "https://36kr.com/p/3886709249241349?f=rss",
+      "pubdate": "2026-07-09 00:05:55",
+      "contentSnippet": "深度智联发布'地产模数通'企业专属大模型一体机及克而瑞地产AI分析师'小瑞'等AI产品，采用三层架构设计，覆盖拿地可研、财务测算、政策解读等16类不动产核心业务场景，并配备FDE前",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "深度智联",
+      "category": "产品发布"
+    },
+    {
+      "title": "SpaceX AI将于明日向公众开放Grok4.5",
+      "link": "https://36kr.com/p/3886678879727880?f=rss",
+      "pubdate": "2026-07-09 00:01:28",
+      "contentSnippet": "马斯克表示，SpaceX AI将于明日向公众开放Grok4.5。",
+      "creator": "36氪",
+      "relevance": 9,
+      "source": "SpaceX",
+      "category": "产品发布"
+    },
+    {
+      "title": "独家：EdVisorly 获1330万美元A轮融资，用AI解决繁琐的大学转学流程",
+      "link": "https://news.crunchbase.com/venture/edtech-university-ai-platform-funding-edvisorly/",
+      "pubdate": "2026-07-09 00:00:15",
+      "contentSnippet": "总部位于洛杉矶的初创公司 EdVisorly 独家向 Crunchbase News 表示，已获得1330万美元的A轮融资，用于扩展其AI原生平台，该平台能够自动化拖慢大学录取流程",
+      "creator": "Judy Rider",
+      "relevance": 9,
+      "source": "EdVisorly",
+      "category": "投融资信息"
+    },
+    {
+      "title": "中国AI模型进步引发美国网络安全焦虑",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-08/chinese-ai-models-advance-causing-us-cybersecurity-anxiety",
+      "pubdate": "2026-07-09 00:00:02",
+      "contentSnippet": "前沿人工智能的全球市场正在发展演变。",
+      "creator": "Lorelei Smillie, Patrick Howell O'Neill",
+      "relevance": 9,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "Flint：面向AI时代的可视化语言",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+      "pubdate": "2026-07-09 00:00:00",
+      "contentSnippet": "简短的表单规格易于编写，但往往产生平淡无奇的结果。Flint是一种开源可视化语言，提供了一条中间路径，让AI代理能够通过紧凑、人类可编辑的规格创建富有表现力的图表。",
+      "creator": "Chenglong Wang, Alper Sarikaya, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "relevance": 9,
+      "source": "Microsoft Research",
+      "category": "产品发布"
+    }
+  ]
+}

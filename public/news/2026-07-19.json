@@ -1,0 +1,275 @@
+{
+  "date": "2026-07-19",
+  "items": [
+    {
+      "title": "AI工作焦虑加剧，但有些人类技能机器无法取代",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/20/ai-job-worries-human-skills-machines-cant-replace",
+      "pubdate": "2026-07-19 23:00:31",
+      "contentSnippet": "随着人工智能进入职场，担心被淘汰的恐惧正成为日益加剧的焦虑来源。保持与他人的紧密联系将有所帮助。",
+      "creator": "Gaynor Parkin and Dave Winsborough",
+      "relevance": 6,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "《奥德赛》导演克里斯托弗·诺兰称AI是显而易见的「特洛伊木马」",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "pubdate": "2026-07-19 22:52:08",
+      "contentSnippet": "「所有人都知道希腊人就在里面。」——克里斯托弗·诺兰以特洛伊木马比喻AI，警告其潜藏的巨大风险。",
+      "creator": "Anthony Ha",
+      "relevance": 7,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "为什么苹果对OpenAI的诉讼未提及乔尼·艾维；天才吧启用AI录音",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix",
+      "pubdate": "2026-07-19 22:00:01",
+      "contentSnippet": "此外，该公司正尝试在天才吧预约服务中启用AI录音功能。",
+      "creator": "Mark Gurman",
+      "relevance": 8,
+      "source": "Apple",
+      "category": "行业动态"
+    },
+    {
+      "title": "非营利组织 Current AI 正加速构建面向所有人的 AI 万维网",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "pubdate": "2026-07-19 22:00:00",
+      "contentSnippet": "Current AI 是一家致力于构建不忽视任何文化的 AI 的非营利组织，其在多设备、AI 聊天等领域取得了令人瞩目的进展。",
+      "creator": "Kate Park",
+      "relevance": 9,
+      "source": "TechCrunch",
+      "category": "行业动态"
+    },
+    {
+      "title": "大型科技公司需证明AI支出合理性，投资者纷纷抛售股票",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
+      "pubdate": "2026-07-19 21:00:00",
+      "contentSnippet": "在上周芯片股暴跌以及科技股更广泛抛售之后，压力正积聚在人工智能领域最大的支出者身上，他们需要向那些手指悬停在卖出键上、越来越焦躁不安的交易者证明其支出的合理性。",
+      "creator": "Jeran Wittenstein and Ryan Vlastelica",
+      "relevance": 7,
+      "source": "Bloomberg",
+      "category": "行业动态"
+    },
+    {
+      "title": "澳大利亚新规将限制政府使用自动化AI决策",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+      "pubdate": "2026-07-19 20:00:27",
+      "contentSnippet": "根据澳大利亚一项新国家计划，政府各部门和机构在自动化决策中使用AI将受到严格限制。阿尔巴尼斯政府正在应对人工智能的快速增长和数据中心建设热潮，高级部长们已开始制定新规则，以确保政府",
+      "creator": "Tom McIlroy Political editor",
+      "relevance": 9,
+      "source": "The Guardian",
+      "category": "安全监管"
+    },
+    {
+      "title": "围观WAIC模型「读心术」！现场火火火火火",
+      "link": "https://www.qbitai.com/2026/07/455031.html",
+      "pubdate": "2026-07-19 19:55:52",
+      "contentSnippet": "主观世界模型",
+      "creator": "Jay",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
+      "link": "https://www.qbitai.com/2026/07/454932.html",
+      "pubdate": "2026-07-19 19:50:28",
+      "contentSnippet": "奇异摩尔首次亮相WAIC 2026",
+      "creator": "Jay",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……",
+      "link": "https://www.qbitai.com/2026/07/454802.html",
+      "pubdate": "2026-07-19 19:43:25",
+      "contentSnippet": "还得是AI圈春晚",
+      "creator": "Jay",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议",
+      "link": "https://www.qbitai.com/2026/07/454791.html",
+      "pubdate": "2026-07-19 19:24:04",
+      "contentSnippet": "量子位的朋友们",
+      "creator": "量子位",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "阿里巴巴通义千问发布旗舰AI模型预览版",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
+      "pubdate": "2026-07-19 19:02:09",
+      "contentSnippet": "阿里巴巴集团控股有限公司发布了其旗舰模型Qwen3.8 Max的预览版，据称该模型可与领先的前沿AI模型相媲美，仅次于Anthropic公司的Fable 5。",
+      "creator": "Bloomberg News",
+      "relevance": 10,
+      "source": "阿里巴巴",
+      "category": "模型发布"
+    },
+    {
+      "title": "AI能否拥有意识？",
+      "link": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+      "pubdate": "2026-07-19 19:00:25",
+      "contentSnippet": "专家认为这至少是可能的。我们迫切需要制定一个计划来应对伦理影响。今年1月，AI公司Anthropic为其最先进的大语言模型Claude发布了一份新章程，其中写道：\"我们陷入了一个困",
+      "creator": "William MacAskill and Lucius Caviola",
+      "relevance": 9,
+      "source": "The Guardian AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "当AI开始赌球会发生什么？",
+      "link": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+      "pubdate": "2026-07-19 18:00:01",
+      "contentSnippet": "Obside公司CTO设计了一项新颖的AI基准测试：让ChatGPT、Gemini、Claude、Grok、Mistral、DeepSeek和Kimi等主流AI模型在世界杯比赛中利",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "Business Insider",
+      "category": "行业动态"
+    },
+    {
+      "title": "商汤大装置与国信数算达成战略合作，共建全国一体化算力网试验场",
+      "link": "https://www.qbitai.com/2026/07/454771.html",
+      "pubdate": "2026-07-19 17:40:18",
+      "contentSnippet": "积极响应全国一体化算力网建设部署",
+      "creator": "量子位的朋友们",
+      "relevance": 8,
+      "source": "量子位",
+      "category": "行业动态"
+    },
+    {
+      "title": "危！GPT-5.6会自动删文件，AI初创老板痛失整台Mac",
+      "link": "https://www.qbitai.com/2026/07/454689.html",
+      "pubdate": "2026-07-19 17:39:02",
+      "contentSnippet": "黎曼动力正式发布Rienmann-1.0",
+      "creator": "衡宇",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "安全监管"
+    },
+    {
+      "title": "看了20万小时「人类干活实录」，机器人悟了",
+      "link": "https://www.qbitai.com/2026/07/454592.html",
+      "pubdate": "2026-07-19 16:32:36",
+      "contentSnippet": "黎曼动力正式发布Riemann-1.0",
+      "creator": "一水",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "模型发布"
+    },
+    {
+      "title": "不换模型，效果提升104%！上海AI Lab让Harness也能自进化了",
+      "link": "https://www.qbitai.com/2026/07/454441.html",
+      "pubdate": "2026-07-19 15:00:47",
+      "contentSnippet": "Harness本身也可以被搜索、验证和迭代",
+      "creator": "Jay",
+      "relevance": 9,
+      "source": "量子位",
+      "category": "技术论文"
+    },
+    {
+      "title": "月之暗面在中国AI突破后计划六个月内上市",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
+      "pubdate": "2026-07-19 13:31:31",
+      "contentSnippet": "月之暗面AI已告知投资者，公司正准备最快在六个月内上市，其最新模型颠覆了业界对中国人工智能能力的认知并引发科技股震荡，公司借此机会进军资本市场。",
+      "creator": "Bloomberg News",
+      "relevance": 8,
+      "source": "月之暗面",
+      "category": "投融资信息"
+    },
+    {
+      "title": "纽约大都会队驳回对比赛中使用AI的担忧，此前奥塔维诺提出指控",
+      "link": "https://www.theguardian.com/sport/2026/jul/18/mets-andy-green-ai-strategy-mlb-compliance-ottavino-report",
+      "pubdate": "2026-07-19 04:33:01",
+      "contentSnippet": "纽约大都会队临时主教练安迪·格林表示球队完全遵守美国职业棒球大联盟关于人工智能使用的相关规定，此前有报道称亚当·奥塔维诺指控该队在比赛中使用AI进行投球策略决策。MLB最近已对教练",
+      "creator": "The Guardian",
+      "relevance": 6,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "反AI数据中心抗议者在美国各地举行示威",
+      "link": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "pubdate": "2026-07-19 04:31:37",
+      "contentSnippet": "由保守派非营利组织'人类优先'组织的全国性抗议活动在美国各地展开，反对AI数据中心的建设。抗议者于周六在肯尼沃斯等地集会，表达对AI数据中心带来的环境破坏、电费上涨、水资源消耗和生",
+      "creator": "Business Insider",
+      "relevance": 7,
+      "source": "Business Insider",
+      "category": "行业动态"
+    },
+    {
+      "title": "ANU被指控对学生使用AI作弊反应'歇斯底里'，各大学争相'保障'考试评估安全",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
+      "pubdate": "2026-07-19 04:00:09",
+      "contentSnippet": "澳大利亚国立大学一名学者指责该校对学生使用AI作弊的反应'歇斯底里'，各高等教育机构正急于恢复评估的可信度。但另一位同事警告称，如果教育严谨性得不到恢复，澳大利亚正面临将'国家智力",
+      "creator": "Krishani Dhanji",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "阿尔巴尼斯关于AI的演讲是个良好开端。现在澳大利亚必须直面这些更大的问题 | 朱丽安·舒尔茨",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/18/albaneses-ai-speech-was-a-good-start-now-australia-must-confront-these-bigger-questions",
+      "pubdate": "2026-07-19 04:00:07",
+      "contentSnippet": "总理的愿景必须超越数据中心和版权问题，直面能力、安全和公共利益等更大议题",
+      "creator": "Julianne Schultz",
+      "relevance": 7,
+      "source": "The Guardian",
+      "category": "行业动态"
+    },
+    {
+      "title": "Kimi：威胁还是隐患？",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "pubdate": "2026-07-19 02:51:07",
+      "contentSnippet": "中国公司 Moonshot AI 本周发布了新版本的 Kimi 模型，引发了关于'全面 AI 共产主义'的担忧。",
+      "creator": "Anthony Ha",
+      "relevance": 9,
+      "source": "Moonshot AI",
+      "category": "模型发布"
+    },
+    {
+      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+      "link": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "pubdate": "2026-07-19 01:30:23",
+      "contentSnippet": "7月18日，在2026世界人工智能大会（WAIC）上，腾讯面向具身智能与智能体领域带来多项产品技术升级发布。具身智能方面发布全栈方案贯穿云底座、模型层、平台层与应用层；智能体领域推",
+      "creator": "36氪",
+      "relevance": 10,
+      "source": "腾讯",
+      "category": "产品发布"
+    },
+    {
+      "title": "腾讯云智能体硬件生态提速，首款接入WorkBuddy AI记忆眼镜发布",
+      "link": "https://36kr.com/newsflashes/3900906468984713?f=rss",
+      "pubdate": "2026-07-19 01:00:06",
+      "contentSnippet": "7月17日，在2026世界人工智能大会（WAIC）期间，腾讯云WorkBuddy与李未可科技宣布达成战略生态合作，并发布首款接入WorkBuddy的X-AI记忆眼镜。这也是Work",
+      "creator": "36 氪",
+      "relevance": 9,
+      "source": "腾讯云",
+      "category": "产品发布"
+    },
+    {
+      "title": "认识杨植霖：中国备受瞩目的新AI模型Kimi K3背后的CEO兼创始人",
+      "link": "https://www.businessinsider.com/who-is-yang-zhilin-ceo-founder-moonshot-ai-kimi-k3-2026-7",
+      "pubdate": "2026-07-19 00:02:43",
+      "contentSnippet": "杨植霖是Moonshot AI（月之暗面）的CEO兼联合创始人，其公司推出的开源权重模型Kimi K3本周引起硅谷轰动，编程和代理能力可与OpenAI、Anthropic等领先美国",
+      "creator": "Business Insider",
+      "relevance": 9,
+      "source": "Moonshot AI",
+      "category": "行业动态"
+    },
+    {
+      "title": "国家数据局：全国已建成高质量数据集12万个",
+      "link": "https://36kr.com/newsflashes/3900807486293892?f=rss",
+      "pubdate": "2026-07-19 00:00:00",
+      "contentSnippet": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1",
+      "creator": "36氪",
+      "relevance": 8,
+      "source": "国家数据局",
+      "category": "行业动态"
+    }
+  ]
+}

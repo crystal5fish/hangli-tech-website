@@ -101,6 +101,7 @@ export default function Home() {
             <a href="#about">关于航理</a>
             <a href="#method">四步方法</a>
             <a href="#workshop">创新工作坊</a>
+            <a href="/industry-news/">行业资讯</a>
           </nav>
           <a className="nav-contact" href={`mailto:${contactEmail}`}>
             开始一次对话 <span aria-hidden="true">↗</span>
