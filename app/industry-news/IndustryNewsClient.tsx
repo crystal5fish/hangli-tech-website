@@ -35,10 +35,32 @@ export default function IndustryNewsClient({ items, date }: { items: NewsItem[];
   }, [archiveDates]);
 
   useEffect(() => {
-    fetch("/news/index.json", { cache: "no-store" })
-      .then((response) => response.ok ? response.json() : Promise.reject())
-      .then((data) => setArchiveDates(data.dates?.length ? data.dates : [date]))
-      .catch(() => setArchiveDates([date]));
+    let cancelled = false;
+
+    async function loadLatestArchive() {
+      try {
+        const indexResponse = await fetch("/news/index.json", { cache: "no-store" });
+        if (!indexResponse.ok) throw new Error("资讯索引读取失败");
+        const indexData = await indexResponse.json();
+        const dates: string[] = indexData.dates?.length ? indexData.dates : [date];
+        if (cancelled) return;
+        setArchiveDates(dates);
+
+        const latestDate = dates[0];
+        if (!latestDate || latestDate === date) return;
+        const latestResponse = await fetch(`/news/${latestDate}.json`, { cache: "no-store" });
+        if (!latestResponse.ok) throw new Error("最新资讯读取失败");
+        const latestData = await latestResponse.json();
+        if (cancelled) return;
+        setActiveDate(latestData.date);
+        setActiveItems(latestData.items);
+      } catch {
+        if (!cancelled) setArchiveDates([date]);
+      }
+    }
+
+    loadLatestArchive();
+    return () => { cancelled = true; };
   }, [date]);
 
   async function loadDate(nextDate: string) {
