@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Palantir 军事领域大模型与 AI 应用研究：场景、产品架构、解决方案、商业模式、技术实现与趋势。">
+  <title>Palantir 军事 AI 研究｜航利科技专题</title>
+  <!--
+    Assumptions
+    1. 这是供航利科技网站后续整合的独立研究专题，不冒充 Palantir 官方材料。
+    2. 读者包括军事爱好者、国防科技从业者与产业研究人员，采用“可读正文 + 可核验证据”的双层结构。
+    3. 视觉延续用户模板的白底、黑灰、强章节编号；母题是从“传感器到决策”的数据链路。
+    4. 全文仅依据公开资料，不含涉密信息；合同上限不等同于确定收入。
+  -->
+  <style>
+    :root{
+      --paper:#f2f0e9;--surface:#faf9f4;--ink:#171916;--muted:#666a63;--line:#cfd0c8;
+      --army:#66705a;--army-dark:#3e4738;--signal:#d66b31;--signal-soft:#f1d7c7;
+      --serif:"Songti SC","STSong","Noto Serif CJK SC",serif;
+      --sans:"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+      --mono:"SFMono-Regular",Consolas,"Liberation Mono",monospace;
+    }
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.75}
+    a{color:inherit;text-underline-offset:3px}.shell{max-width:1440px;margin:auto;padding:0 34px}.topbar{height:64px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;position:relative;z-index:10}
+    .brand{font-size:13px;letter-spacing:.16em;font-weight:700}.brand span{color:var(--muted);font-weight:400}.subject{display:flex;align-items:center;gap:9px;font:11px var(--mono);color:var(--muted)}.subject img{width:18px;height:18px}.stamp{font:11px var(--mono);color:var(--muted);border:1px solid var(--line);padding:5px 9px}
+    .hero{min-height:760px;display:grid;grid-template-columns:1.22fr .78fr;gap:60px;align-items:center;padding:84px 0 92px;border-bottom:1px solid var(--line)}
+    .kicker{font:12px var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--signal);margin-bottom:30px}.hero h1{font-family:var(--serif);font-size:clamp(48px,6.5vw,96px);line-height:.99;letter-spacing:-.045em;margin:0;max-width:880px}
+    .hero h1 em{font-style:normal;color:var(--army)}.deck{font-size:20px;max-width:710px;color:#454941;margin:30px 0 0}.meta{display:flex;gap:25px;margin-top:42px;font:12px var(--mono);color:var(--muted)}
+    .decision-loop{position:relative;width:min(100%,420px);aspect-ratio:1;border:1px solid var(--ink);border-radius:50%;display:grid;place-items:center;margin:auto}.decision-loop:before,.decision-loop:after{content:"";position:absolute;border:1px solid var(--line);border-radius:50%;pointer-events:none}.decision-loop:before{inset:14%}.decision-loop:after{inset:29%}
+    .loop-center{text-align:center;z-index:1;background:var(--paper);padding:14px 18px}.loop-center strong{display:block;font:700 44px/1.05 var(--serif);letter-spacing:.04em}.loop-center span{display:block;margin-top:8px;font:10px/1.2 var(--mono);letter-spacing:.12em;color:var(--muted);white-space:nowrap}.orbit{position:absolute;z-index:2;background:var(--paper);border:1px solid var(--line);padding:6px 10px;font:10px/1.2 var(--mono);letter-spacing:.06em;white-space:nowrap}.o1{top:4%;left:50%;transform:translateX(-50%)}.o2{right:2%;top:50%;transform:translateY(-50%)}.o3{bottom:4%;left:50%;transform:translateX(-50%)}.o4{left:2%;top:50%;transform:translateY(-50%)}
+    .layout{display:grid;grid-template-columns:250px 1fr;gap:70px}.side{position:sticky;top:20px;height:calc(100vh - 40px);padding:50px 0;align-self:start;border-right:1px solid var(--line)}.side h2{font:11px var(--mono);letter-spacing:.18em;color:var(--muted);margin:0 0 22px}.side a{display:block;text-decoration:none;font-size:13px;padding:7px 22px 7px 0;color:var(--muted);transition:.2s}.side a:hover,.side a.active{color:var(--ink);transform:translateX(5px)}.side .progress{height:2px;background:var(--line);margin:28px 28px 0 0}.side .progress i{display:block;height:100%;width:0;background:var(--signal)}
+    main{min-width:0}.chapter{padding:100px 0;border-bottom:1px solid var(--line);scroll-margin-top:16px}.chapter-head{display:grid;grid-template-columns:74px 1fr;gap:18px;align-items:start;margin-bottom:48px}.num{font:12px var(--mono);color:var(--signal);padding-top:12px}.chapter h2{font:700 clamp(34px,4vw,58px)/1.12 var(--serif);letter-spacing:-.025em;margin:0}.lead{font:20px/1.8 var(--serif);max-width:900px;margin:0 0 48px}.callout{border-left:3px solid var(--signal);padding:2px 0 2px 24px;margin:35px 0;font-family:var(--serif);font-size:24px;line-height:1.55}.small{font-size:13px;color:var(--muted)}
+    .executive{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--ink);border-bottom:1px solid var(--ink)}.executive article{padding:28px 26px;border-right:1px solid var(--line)}.executive article:last-child{border-right:0}.executive b{font:11px var(--mono);color:var(--signal)}.executive h3{font:700 23px var(--serif);margin:12px 0}.executive p{font-size:14px;color:var(--muted);margin:0}
+    .thesis{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:42px 0}.thesis article{background:var(--surface);border:1px solid var(--line);padding:30px}.thesis h3{font:700 24px var(--serif);margin:0 0 10px}.thesis p{margin:0;color:#4c5049}.not{border-top:4px solid var(--muted)!important}.is{border-top:4px solid var(--army)!important}
+    .stack{border:1px solid var(--ink);background:var(--surface)}.layer{display:grid;grid-template-columns:180px 1fr 180px;gap:20px;align-items:center;padding:22px 26px;border-bottom:1px solid var(--line)}.layer:last-child{border-bottom:0}.layer b{font:700 18px var(--serif)}.layer p{margin:0;font-size:14px;color:var(--muted)}.layer code{font:11px var(--mono);color:var(--army-dark);text-align:right}.layer.ai{background:var(--army-dark);color:#fff}.layer.ai p,.layer.ai code{color:#dfe4d9}
+    .timeline{position:relative;margin:40px 0}.timeline:before{content:"";position:absolute;left:104px;top:0;bottom:0;width:1px;background:var(--line)}.event{display:grid;grid-template-columns:80px 1fr;gap:50px;padding:0 0 34px}.year{font:12px var(--mono);color:var(--signal);text-align:right}.event div:last-child{position:relative}.event div:last-child:before{content:"";position:absolute;width:9px;height:9px;border-radius:50%;background:var(--paper);border:2px solid var(--army);left:-55px;top:8px}.event h3{font:700 20px var(--serif);margin:0}.event p{margin:5px 0;color:var(--muted);font-size:14px}
+    .filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:28px}.filters button{font:12px var(--mono);border:1px solid var(--line);background:transparent;padding:9px 14px;cursor:pointer;color:var(--muted)}.filters button.on{background:var(--ink);color:white;border-color:var(--ink)}
+    .scenarios{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}.scenario{background:var(--surface);border:1px solid var(--line);padding:26px;min-height:235px;transition:.2s}.scenario:hover{border-color:var(--army);transform:translateY(-2px)}.scenario.hidden{display:none}.scenario .tag{font:10px var(--mono);letter-spacing:.12em;color:var(--signal)}.scenario h3{font:700 24px var(--serif);margin:11px 0 8px}.scenario p{font-size:14px;color:var(--muted);margin:0 0 18px}.flow{font:11px var(--mono);color:var(--army-dark);border-top:1px solid var(--line);padding-top:14px}
+    .cases{width:100%;border-collapse:collapse;font-size:14px}.cases th{text-align:left;font:11px var(--mono);letter-spacing:.08em;color:var(--muted);border-bottom:1px solid var(--ink);padding:12px 10px}.cases td{vertical-align:top;border-bottom:1px solid var(--line);padding:18px 10px}.cases td:first-child{font-family:var(--serif);font-weight:700}.status{font:10px var(--mono);padding:4px 7px;border:1px solid var(--army);color:var(--army-dark);white-space:nowrap}.value{font:12px var(--mono);color:var(--signal)}
+    .money{display:grid;grid-template-columns:1.15fr .85fr;gap:22px}.metric{background:var(--ink);color:white;padding:35px}.metric small{font:11px var(--mono);color:#b9bcb5}.metric strong{display:block;font:700 clamp(48px,6vw,80px) var(--serif);margin:12px 0}.metric p{color:#c7cac3;font-size:14px}.bars{background:var(--surface);border:1px solid var(--line);padding:30px}.bar{margin:21px 0}.bar label{display:flex;justify-content:space-between;font:12px var(--mono)}.bar i{display:block;height:9px;background:var(--army);margin-top:8px}.bar:nth-child(2) i{background:var(--signal)}
+    .gtm{display:grid;grid-template-columns:repeat(4,1fr);margin-top:28px}.gtm article{border-top:1px solid var(--ink);padding:24px 22px 10px 0;margin-right:20px}.gtm b{font:11px var(--mono);color:var(--signal)}.gtm h3{font:700 20px var(--serif);margin:9px 0}.gtm p{font-size:13px;color:var(--muted)}
+    .pipeline{display:grid;grid-template-columns:repeat(6,1fr);gap:0;margin:34px 0}.node{border:1px solid var(--line);border-right:0;padding:20px 14px;min-height:145px;background:var(--surface)}.node:last-child{border-right:1px solid var(--line)}.node b{font:11px var(--mono);color:var(--signal)}.node h3{font:700 17px var(--serif);margin:9px 0}.node p{font-size:12px;color:var(--muted);margin:0}.node.human{background:var(--army-dark);color:white}.node.human p{color:#dfe4d9}
+    .risk-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:15px}.risk{border-top:2px solid var(--ink);padding:22px 4px}.risk h3{font:700 21px var(--serif);margin:0 0 8px}.risk p{font-size:14px;color:var(--muted);margin:0}.risk .mitigation{display:block;margin-top:13px;color:var(--army-dark);font-size:13px}
+    .signals{counter-reset:sig}.signal-row{display:grid;grid-template-columns:64px 1fr 150px;gap:20px;padding:24px 0;border-top:1px solid var(--line);align-items:start}.signal-row:before{counter-increment:sig;content:"0" counter(sig);font:11px var(--mono);color:var(--signal)}.signal-row h3{font:700 21px var(--serif);margin:0}.signal-row p{font-size:14px;color:var(--muted);margin:5px 0}.signal-row aside{font:11px var(--mono);color:var(--army-dark);text-align:right}
+    .verdict{background:var(--army-dark);color:white;padding:52px;margin-top:45px}.verdict h3{font:700 34px var(--serif);margin:0 0 14px}.verdict p{color:#dfe4d9;max-width:900px}.verdict ul{columns:2;padding-left:20px;color:#eef0eb}.verdict li{margin:8px 24px 8px 0}
+    .sources{font-size:13px}.sources ol{padding-left:22px}.sources li{margin:12px 0;color:var(--muted)}.sources a{color:var(--ink)}footer{padding:48px 0 70px;display:flex;justify-content:space-between;font:11px var(--mono);color:var(--muted)}
+    .notice{background:var(--signal-soft);border:1px solid #ddb494;padding:18px 22px;font-size:13px;margin:30px 0}
+    @media(max-width:980px){.hero{grid-template-columns:1fr}.decision-loop{width:min(82vw,350px);margin-top:54px}.layout{grid-template-columns:1fr}.side{display:none}.executive,.gtm{grid-template-columns:1fr 1fr}.pipeline{grid-template-columns:repeat(3,1fr)}.node:nth-child(3){border-right:1px solid var(--line)}.money{grid-template-columns:1fr}}
+    @media(max-width:650px){.shell{padding:0 20px}.hero{padding:64px 0 82px;min-height:auto}.hero h1{font-size:48px}.decision-loop{width:min(70vw,270px);margin-top:56px}.loop-center strong{font-size:36px}.orbit{font-size:9px;padding:5px 7px}.chapter{padding:68px 0}.chapter-head{grid-template-columns:44px 1fr}.executive,.thesis,.scenarios,.risk-grid,.gtm{grid-template-columns:1fr}.pipeline{grid-template-columns:1fr}.node{border-right:1px solid var(--line);border-bottom:0}.node:last-child{border-bottom:1px solid var(--line)}.layer{grid-template-columns:1fr}.layer code{text-align:left}.cases{display:block;overflow-x:auto}.signal-row{grid-template-columns:42px 1fr}.signal-row aside{grid-column:2;text-align:left}.verdict{padding:30px 24px}.verdict ul{columns:1}.meta{flex-direction:column;gap:5px}.topbar .stamp{display:none}}
+    @media print{.side,.filters{display:none}.layout{display:block}.hero{min-height:auto}.chapter{break-inside:avoid}.scenario{break-inside:avoid}body{background:white}}
+  </style>
+</head>
+<body>
+  <header class="shell topbar"><a class="brand" href="/research/" aria-label="返回航理科技专题研究">航理科技 <span>／专题研究 001</span></a><div class="subject"><img alt="Palantir 标志" src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMTExMTExIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UGFsYW50aXI8L3RpdGxlPjxwYXRoIGQ9Ik0yMC4xNDcgMThMMTIgMjEuMTc4IDMuODUzIDE4IDIuNSAyMC4zNDMgMTIgMjRsOS41LTMuNjU3TDIwLjE0NyAxOHpNMTIgMGE5LjUgOS41IDAgMSAwIDAgMTkgOS41IDkuNSAwIDAgMCAwLTE5em0wIDE2LjA3OGE2LjU2OCA2LjU2OCAwIDEgMSAwLTEzLjEzNiA2LjU2OCA2LjU2OCAwIDAgMSAwIDEzLjEzNnoiLz48L3N2Zz4="><span>研究对象</span></div><div class="stamp">PUBLIC SOURCES · 2026.08</div></header>
+  <section class="shell hero">
+    <div><div class="kicker">Defense AI Research · Vol. 01</div><h1>从数据到决策：<em>Palantir</em> 如何重塑军事 AI</h1><p class="deck">一份围绕军事场景、产品体系、技术架构、商业路径与治理边界的公开资料研究。重点回答：大模型究竟位于作战系统的哪一层，以及 Palantir 真正交付的是什么。</p><div class="meta"><span>研究日期 2026-08-01</span><span>公开资料版</span><span>阅读约 25 分钟</span></div></div>
+    <div class="decision-loop" aria-label="决策闭环示意"><span class="orbit o1">SENSE 感知</span><span class="orbit o2">DECIDE 决策</span><span class="orbit o3">ACT 行动</span><span class="orbit o4">LEARN 复盘</span><div class="loop-center"><strong>闭环</strong><span>DATA → DECISION</span></div></div>
+  </section>
+  <div class="shell layout">
+    <nav class="side" aria-label="报告目录"><h2>CONTENTS / 目录</h2><a href="#summary">00 执行摘要</a><a href="#position">01 产品定位</a><a href="#architecture">02 产品架构</a><a href="#path">03 发展路径</a><a href="#capability">04 产品能力</a><a href="#business">05 商业模式</a><a href="#technology">06 技术实现</a><a href="#trend">07 发展趋势</a><a href="#sources">资料来源</a><div class="progress"><i></i></div></nav>
+    <main>
+      <section class="chapter" id="summary"><div class="chapter-head"><span class="num">00</span><h2>执行摘要</h2></div><p class="lead">Palantir 的核心竞争力不是“训练出最强军用大模型”，而是把模型放进一个能够接入真实数据、理解任务语义、遵守权限、部署到机密网络并留下审计轨迹的作战软件系统。</p>
+        <div class="executive"><article><b>核心判断 01</b><h3>平台，而非单模型</h3><p>Gotham/Foundry 处理数据与业务语义，AIP 编排模型和智能体，Apollo 管理跨云、机密与边缘部署。</p></article><article><b>核心判断 02</b><h3>从参谋辅助切入</h3><p>情报融合、态势感知、计划生成、后勤与战备是当前更成熟的落点；高风险行动仍强调人在回路。</p></article><article><b>核心判断 03</b><h3>赢家控制“决策闭环”</h3><p>军事 AI 的护城河来自数据权限、任务本体、工作流嵌入、部署运维与组织采用，而不只是模型参数。</p></article></div>
+        <div class="notice"><strong>阅读边界：</strong>本文只讨论公开披露的军事与国防场景，不推断涉密能力；“合同上限”“潜在机会”不等同于确定收入，供应商案例数字均明确标注口径。</div>
+      </section>
+
+      <section class="chapter" id="position"><div class="chapter-head"><span class="num">01</span><h2>产品定位</h2></div><p class="lead">Palantir 将自己置于“作战数据与决策操作系统”的位置：向上连接指挥员、分析员与任务应用，向下连接传感器、业务系统、模型、云与边缘节点。</p>
+        <div class="thesis"><article class="not"><h3>它不只是</h3><p>聊天机器人、情报搜索框、数据看板、单点识别模型，或只在中心云运行的 SaaS。</p></article><article class="is"><h3>它更接近</h3><p>一个可配置的任务平台：将分散数据变成可操作对象，再把 AI 建议嵌入有权限、有审计、有人类批准的流程。</p></article></div>
+        <div class="callout">大模型把“使用软件”变成“用任务语言调动软件”；Ontology 则把语言重新锚定到真实世界的单位、装备、地点、任务与权限。</div>
+        <p><strong>目标用户：</strong>战略与战区指挥机构、情报分析员、目标工作组、后勤和战备部门、软件工厂、盟军联合司令部，以及需要在受控环境交付应用的传统与新兴国防承包商。</p>
+        <p><strong>核心目标：</strong>缩短从数据到决策、从传感器到效应、从需求到应用上线的周期，同时保持跨密级访问控制、操作可追溯与多方协同。</p>
+      </section>
+
+      <section class="chapter" id="architecture"><div class="chapter-head"><span class="num">02</span><h2>产品架构</h2></div><p class="lead">四个基础平台加一组任务解决方案，形成从数据底座到前线应用的纵向栈。Maven、Vantage、TITAN 不是孤立产品，而是这套栈在不同军事任务中的产品化形态。</p>
+        <div class="stack">
+          <div class="layer"><b>任务应用层</b><p>Maven Smart System、Army Vantage、TITAN、Mission Manager，以及客户和生态伙伴构建的任务应用。</p><code>C2 / ISR / READINESS</code></div>
+          <div class="layer ai"><b>AIP · AI 层</b><p>接入大模型、传统机器学习与智能体；用任务对象、工具调用、护栏和人工审批把模型能力变成可控工作流。</p><code>LLM / AGENT / GUARDRAIL</code></div>
+          <div class="layer"><b>Gotham / Foundry</b><p>整合异构数据、构建数据血缘和 Ontology，把“表和字段”映射为任务中的人、物、地、事与关系。</p><code>DATA / ONTOLOGY / APP</code></div>
+          <div class="layer"><b>Apollo · 交付层</b><p>对连接、断连、隔离网络和战术边缘环境进行持续部署、版本控制、健康监测与合规变更。</p><code>DEPLOY / UPDATE / OPERATE</code></div>
+          <div class="layer"><b>基础设施层</b><p>商业云、政府云、机密网络、本地数据中心、车载/舰载/前沿计算节点与第三方模型生态。</p><code>CLOUD → AIR-GAP → EDGE</code></div>
+        </div>
+        <p class="small">分析提示：Gotham 与 Foundry 的能力边界正在被 AIP 和行业解决方案重新包装；军事采购往往以任务系统或企业协议呈现，而不是简单购买单个软件 SKU。</p>
+      </section>
+
+      <section class="chapter" id="path"><div class="chapter-head"><span class="num">03</span><h2>发展路径</h2></div><p class="lead">Palantir 的国防路线经历了“情报数据融合 → 陆军企业数据平台 → AI 加持的联合指挥与目标链 → 企业级采购框架与盟军扩张”。</p>
+        <div class="timeline">
+          <div class="event"><span class="year">2003–</span><div><h3>从反恐与情报分析起步</h3><p>Gotham 围绕多源数据融合、关联分析与细粒度权限建立早期壁垒。</p></div></div>
+          <div class="event"><span class="year">2018</span><div><h3>Army Vantage 扩展到全军经营与战备</h3><p>从人员与战备可视化，延伸到财务、后勤、合同与企业数据平台。</p></div></div>
+          <div class="event"><span class="year">2023</span><div><h3>AIP 将生成式 AI 接入任务工作流</h3><p>重点不在聊天，而在模型访问真实数据、调用工具和执行受控动作。</p></div></div>
+          <div class="event"><span class="year">2024</span><div><h3>Maven 与 TITAN 进入规模化阶段</h3><p>Maven 原型合同上限 4.8 亿美元；TITAN 第三阶段 1.784 亿美元、10 台原型。</p></div></div>
+          <div class="event"><span class="year">2025</span><div><h3>NATO、英国与美国陆军框架扩张</h3><p>NATO 采购 MSS；美国陆军整合 75 份合同为最长十年的企业协议；英国宣布防务 AI 战略合作。</p></div></div>
+          <div class="event"><span class="year">2026</span><div><h3>从使用平台转向部队自建 AI 工作流</h3><p>美国陆军公开组织 Vantage Edge 竞赛，让军人用 AIP 工具构建生产级工作流；NATO 将 MSS 继续嵌入演习内容生成与控制。</p></div></div>
+        </div>
+      </section>
+
+      <section class="chapter" id="capability"><div class="chapter-head"><span class="num">04</span><h2>产品能力与军事场景</h2></div><p class="lead">覆盖范围从“打仗”延伸到“准备打仗、维持作战和复盘训练”。选择下方类别，可查看相应场景。</p>
+        <div class="filters" role="group" aria-label="场景筛选"><button class="on" data-filter="all">全部场景</button><button data-filter="combat">作战</button><button data-filter="intel">情报</button><button data-filter="support">保障</button><button data-filter="build">建设</button></div>
+        <div class="scenarios">
+          <article class="scenario" data-cat="intel combat"><span class="tag">01 · ISR / TARGETING</span><h3>情报融合与目标工作</h3><p>聚合卫星、航空、地面、开源与历史数据；对实体和关系去重关联，支持目标发现、优先级排序、协同研判与证据追溯。</p><div class="flow">多源传感器 → 实体解析 → 模型辅助 → 分析员确认 → 目标工作流</div></article>
+          <article class="scenario" data-cat="combat"><span class="tag">02 · C2 / CJADC2</span><h3>联合全域指挥与态势感知</h3><p>建立跨军种共同态势图，把兵力、任务、威胁、气象与后勤状态放在统一任务语义中，支持计划比较与动态重规划。</p><div class="flow">联合作战数据 → 共同图景 → 方案比较 → 指挥员决策</div></article>
+          <article class="scenario" data-cat="combat intel"><span class="tag">03 · TACTICAL EDGE</span><h3>战术边缘与 TITAN</h3><p>在机动地面站就近处理来自太空、高空、航空和地面层的传感器数据，降低回传依赖与分析员认知负担，缩短传感器到射手链路。</p><div class="flow">前沿数据 → 边缘 AI/ML → 目标提名 → 火力 C2</div></article>
+          <article class="scenario" data-cat="support"><span class="tag">04 · LOGISTICS</span><h3>战备、后勤与供应链</h3><p>整合库存、维修、人员、运输、合同和财务数据，发现缺口、预测需求、优化调拨并追踪装备与部队可用度。</p><div class="flow">业务系统 → 战备对象 → 风险预警 → 资源配置</div></article>
+          <article class="scenario" data-cat="build support"><span class="tag">05 · FORCE MANAGEMENT</span><h3>兵力与资源管理</h3><p>支持人员、编制、训练、预算和采购的企业级分析。Army Vantage 是从战场之外建立组织数据能力的典型入口。</p><div class="flow">人员/财务/合同 → 企业数据产品 → 领导决策</div></article>
+          <article class="scenario" data-cat="build"><span class="tag">06 · SOFTWARE ECOSYSTEM</span><h3>软件工厂与模型生态</h3><p>让部队开发者和承包商在受控环境快速构建应用、接入第三方模型、发布组件，并通过 Apollo 向不同密级与边缘环境持续交付。</p><div class="flow">需求 → 低代码/SDK → 安全测试 → 多环境部署</div></article>
+          <article class="scenario" data-cat="build combat"><span class="tag">07 · TRAINING</span><h3>演习设计与训练控制</h3><p>NATO 正用 MSS 辅助生成演习事件/事件注入，响应参演方行动并整合演习控制简报；重点是加快参谋工作而非替代演习设计责任。</p><div class="flow">训练目标 → 情节/事件建议 → 人工编辑 → 动态导调</div></article>
+          <article class="scenario" data-cat="intel support"><span class="tag">08 · KNOWLEDGE WORK</span><h3>参谋知识助手</h3><p>在授权数据范围内检索命令、条令、报告和态势信息，生成摘要、COA 草案、简报底稿和交接材料，并保留来源与审批链。</p><div class="flow">自然语言 → 权限检索 → 有据回答 → 人工批准</div></article>
+        </div>
+        <h3 style="font:700 28px var(--serif);margin-top:60px">代表性案例证据</h3>
+        <table class="cases"><thead><tr><th>项目</th><th>任务价值</th><th>公开规模</th><th>成熟度</th><th>解读</th></tr></thead><tbody>
+          <tr><td>Maven Smart System</td><td>情报融合、瞄准、战场态势、计划与决策</td><td class="value">US DoD · $480M ceiling</td><td><span class="status">部署扩张</span></td><td>Palantir 最接近“AI 作战系统”的产品化载体。</td></tr>
+          <tr><td>MSS NATO</td><td>联盟级共同数据作战能力与多域演习集成</td><td class="value">32 国联盟体系</td><td><span class="status">演习使用</span></td><td>验证跨组织、跨国和互操作需求；采购周期公开称约六个月。</td></tr>
+          <tr><td>TITAN</td><td>多层传感器融合、战术边缘分析、目标提名</td><td class="value">$178.4M · 10 prototypes</td><td><span class="status">原型成熟</span></td><td>从纯软件供应商走向软硬一体的非传统主承包商。</td></tr>
+          <tr><td>Army Vantage</td><td>全军数据平台、战备、财务、后勤与人员</td><td class="value">30k+ datasets · 180+ systems*</td><td><span class="status">企业平台</span></td><td>以后台经营数据建立规模和组织黏性，再叠加 AIP。</td></tr>
+          <tr><td>UK Defence partnership</td><td>数据分析、情报、决策支持、计划与瞄准</td><td class="value">Up to £750M opportunities</td><td><span class="status">战略合作</span></td><td>盟友市场本地化与主权数据承诺成为重要 GTM 条件。</td></tr>
+        </tbody></table><p class="small">* Army Vantage 的数据集、系统与节约金额来自 Palantir 官方案例页，为供应商口径。</p>
+      </section>
+
+      <section class="chapter" id="business"><div class="chapter-head"><span class="num">05</span><h2>商业模式</h2></div><p class="lead">军事软件不是按“每席位每月”成交。Palantir 通过长期项目、任务原型、企业许可、持续工程服务与生态上架形成高触达、高迁移成本的政府业务。</p>
+        <div class="money"><article class="metric"><small>2025 GOVERNMENT REVENUE</small><strong>$2.40B</strong><p>同比增长 53%；其中美国政府客户约 19 亿美元。数据来自 Palantir 2025 年 10-K，政府收入包含但不限于军事业务。</p></article><article class="bars"><div class="bar"><label><span>政府客户收入</span><b>53.7%</b></label><i style="width:53.7%"></i></div><div class="bar"><label><span>商业客户收入</span><b>46.3%</b></label><i style="width:46.3%"></i></div><p class="small">按 2025 年总收入 44.75 亿美元计算。</p></article></div>
+        <div class="gtm"><article><b>01 / LAND</b><h3>以任务痛点切入</h3><p>从情报融合、战备或财务等可测量问题起步，用原型、OTA 或小范围部署证明价值。</p></article><article><b>02 / EMBED</b><h3>前线工程师共创</h3><p>工程团队与用户在任务现场迭代，把隐性流程编码成数据模型、权限和应用。</p></article><article><b>03 / EXPAND</b><h3>跨单位与跨任务扩张</h3><p>共享数据底座后，新应用边际交付更快，形成从单一用例到企业平台的扩张。</p></article><article><b>04 / ECOSYSTEM</b><h3>吸纳模型与伙伴</h3><p>Mission Manager、OSDK 与 Apollo 让第三方应用在安全环境交付，平台成为生态入口。</p></article></div>
+        <div class="callout">2025 年美国陆军企业协议把 75 份合同整合进一个最长十年、上限 100 亿美元的框架。它体现采购整合与平台化，但上限不是订单承诺。</div>
+        <h3>优势与代价</h3>
+        <div class="thesis"><article class="is"><h3>优势</h3><p>处理遗留系统与异构数据；深度嵌入任务；跨云、机密、边缘部署；细粒度权限与审计；快速把模型变成可用应用。</p></article><article class="not"><h3>代价 / 风险</h3><p>供应商锁定、采购集中度与可替代性争议；实施依赖高水平工程服务；数据治理和组织变革成本高；商业口径效果需独立验证。</p></article></div>
+      </section>
+
+      <section class="chapter" id="technology"><div class="chapter-head"><span class="num">06</span><h2>技术实现</h2></div><p class="lead">真正困难的部分不是让模型“会回答”，而是让它在正确的时间、以正确权限读取正确数据，调用经过批准的工具，并让人类理解它为何如此建议。</p>
+        <div class="pipeline"><article class="node"><b>01</b><h3>连接数据</h3><p>接入传感器、业务系统、消息、文档和外部情报。</p></article><article class="node"><b>02</b><h3>语义建模</h3><p>Ontology 将数据映射为单位、装备、目标、任务与关系。</p></article><article class="node"><b>03</b><h3>模型编排</h3><p>按任务调用 LLM、视觉模型、预测模型与规则引擎。</p></article><article class="node"><b>04</b><h3>工具行动</h3><p>查询、比较方案、更新任务对象或向其他系统发出受控请求。</p></article><article class="node human"><b>05</b><h3>人类裁决</h3><p>在关键节点解释来源、置信度、限制并请求授权。</p></article><article class="node"><b>06</b><h3>审计学习</h3><p>记录输入、输出、工具调用、审批与结果，支持复盘改进。</p></article></div>
+        <h3>六项关键工程能力</h3>
+        <div class="risk-grid"><article class="risk"><h3>权限继承</h3><p>模型不能因为“看得懂自然语言”就越过数据权限。检索、推理与工具调用均需继承用户和任务授权。</p></article><article class="risk"><h3>可追溯 RAG</h3><p>回答应绑定原始报告、传感器记录或数据库对象，支持分析员回看证据而不是相信流畅文本。</p></article><article class="risk"><h3>确定性护栏</h3><p>将自由生成限制在预定义任务、数据范围、工具和批准步骤中；高风险动作采用显式审批。</p></article><article class="risk"><h3>多模型组合</h3><p>不同密级、延迟、成本和任务选择不同模型；大模型负责理解与编排，专用模型负责识别或预测。</p></article><article class="risk"><h3>断连与边缘</h3><p>Apollo 面向断网、隔离和受控环境管理版本与运维；边缘节点需要在有限算力与带宽下保持任务能力。</p></article><article class="risk"><h3>持续评测</h3><p>军事 AI 评测不仅看准确率，还要看虚警、漏警、时延、鲁棒性、可解释性、权限违规和任务效果。</p></article></div>
+        <div class="notice"><strong>关键边界：</strong>公开资料显示的主流做法仍是“人机协同的决策支持”。把这类平台直接描述为“自主武器大脑”会混淆数据/指挥软件与武器控制系统，也超出公开证据。</div>
+      </section>
+
+      <section class="chapter" id="trend"><div class="chapter-head"><span class="num">07</span><h2>发展趋势</h2></div><p class="lead">未来竞争将从“谁有一个模型”转向“谁能把多模型安全地嵌进联盟级、多密级、断连可用的任务网络”。</p>
+        <div class="signals">
+          <div class="signal-row"><div><h3>从 Copilot 到 Agentic Workflow</h3><p>模型不再只生成摘要，而是跨数据源完成检索、比较、填报和任务编排；但行动权限会被拆成可审计步骤。</p></div><aside>现在 → 2 年</aside></div>
+          <div class="signal-row"><div><h3>任务本体成为竞争焦点</h3><p>通用模型逐渐商品化后，决定效果的是高质量任务语义、数据产品、权限模型和历史操作反馈。</p></div><aside>持续强化</aside></div>
+          <div class="signal-row"><div><h3>边缘小模型与中心大模型协同</h3><p>前线使用低时延、低算力模型完成筛选与辅助；中心节点负责复杂推理、全局融合与模型更新。</p></div><aside>2–5 年</aside></div>
+          <div class="signal-row"><div><h3>从单军种到联盟级互操作</h3><p>NATO MSS 显示数据标准、主权、密级与共同作战图景将成为规模化门槛，软件必须支持联盟而不是只支持单一客户。</p></div><aside>正在发生</aside></div>
+          <div class="signal-row"><div><h3>采购从项目制转向能力框架</h3><p>企业协议与平台采购可加快交付，却也提高对开放接口、数据可迁移、竞争和退出机制的要求。</p></div><aside>制度变量</aside></div>
+          <div class="signal-row"><div><h3>红队评测与责任治理产品化</h3><p>模型评测、提示注入防护、数据投毒检测、来源追溯和人类授权会从政策文本变成平台原生能力。</p></div><aside>必要条件</aside></div>
+        </div>
+        <div class="verdict"><h3>对中国国防科技产业的启示</h3><p>Palantir 最值得研究的不是某个界面或模型，而是“以任务为中心的软件工程与交付机制”。可转化为五个观察框架：</p><ul><li>先建设任务数据产品，再叠加大模型</li><li>把权限、审计和人在回路做成平台能力</li><li>面向断连、弱网和国产异构算力设计</li><li>以小场景证明价值，再扩展共用底座</li><li>开放接口与生态治理同时进入采购要求</li><li>用真实演训闭环评测，而非只做 Demo</li></ul></div>
+      </section>
+
+      <section class="chapter sources" id="sources"><div class="chapter-head"><span class="num">REF</span><h2>主要资料来源</h2></div><p>优先采用政府、军方、NATO、SEC 与 Palantir 官方材料。访问日期均为 2026-08-01。</p><ol>
+        <li><a href="https://www.defense.gov/News/Contracts/Contract/Article/3790490/" target="_blank" rel="noopener">美国国防部：Maven Smart System 4.8 亿美元合同公告</a></li>
+        <li><a href="https://www.army.mil/article/274301/army_tactical_intelligence_targeting_access_node_titan_ground_station_prototype_award" target="_blank" rel="noopener">美国陆军：TITAN 第三阶段原型合同</a></li>
+        <li><a href="https://www.ncia.nato.int/newsroom/news/nato-acquires-aienabled-warfighting-system" target="_blank" rel="noopener">NCIA：NATO 采购 AI-enabled warfighting system</a></li>
+        <li><a href="https://www.ncia.nato.int/newsroom/news/ncia-enables-steadfast-duel-25-natos-largest-computerassisted-command-post-exercise" target="_blank" rel="noopener">NCIA：MSS 用于 STEADFAST DUEL 25</a></li>
+        <li><a href="https://www.act.nato.int/article/ai-in-audacious-training/" target="_blank" rel="noopener">NATO ACT：MSS 用于演习内容与控制工作台</a></li>
+        <li><a href="https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency" target="_blank" rel="noopener">美国陆军：Palantir 企业服务协议与 100 亿美元上限说明</a></li>
+        <li><a href="https://www.palantir.com/army-vantage/" target="_blank" rel="noopener">Palantir：Army Vantage 案例与供应商口径成效</a></li>
+        <li><a href="https://www.palantir.com/docs/apollo/core/introduction" target="_blank" rel="noopener">Palantir 文档：Apollo 与隔离/断连环境</a></li>
+        <li><a href="https://www.palantir.com/platforms/aip/defense" target="_blank" rel="noopener">Palantir：AIP for Defense</a></li>
+        <li><a href="https://investors.palantir.com/files/2025%20FY%20PLTR%2010-K.pdf" target="_blank" rel="noopener">Palantir 2025 Form 10-K</a></li>
+        <li><a href="https://www.gov.uk/government/news/new-strategic-partnership-to-unlock-billions-and-boost-military-ai-and-innovation" target="_blank" rel="noopener">英国国防部：与 Palantir 的防务 AI 战略合作</a></li>
+        <li><a href="https://www.army.mil/article/291806/soldiers_dont_wait_for_ai_they_build_it" target="_blank" rel="noopener">美国陆军：Vantage Edge 2 与部队自建 AIP 工作流</a></li>
+      </ol><p class="small">免责声明：本报告为独立研究，不代表 Palantir、美国国防部、NATO 或任何政府机构观点；文中商标归各自权利人所有。</p></section>
+    </main>
+  </div>
+  <footer class="shell"><span>航利科技 · 前沿军事科技观察</span><span>PUBLIC RESEARCH / VERSION 1.0</span></footer>
+  <script>
+    const filterButtons=[...document.querySelectorAll('.filters button')];
+    const scenarioCards=[...document.querySelectorAll('.scenario')];
+    filterButtons.forEach(button=>button.addEventListener('click',()=>{
+      filterButtons.forEach(item=>item.classList.remove('on'));button.classList.add('on');
+      const filter=button.dataset.filter;
+      scenarioCards.forEach(card=>card.classList.toggle('hidden',filter!=='all'&&!card.dataset.cat.split(' ').includes(filter)));
+    }));
+    const links=[...document.querySelectorAll('.side a')];
+    const sections=[...document.querySelectorAll('main .chapter')];
+    const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{
+      if(entry.isIntersecting){links.forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+entry.target.id));}
+    }),{rootMargin:'-20% 0px -68% 0px'});
+    sections.forEach(section=>observer.observe(section));
+    const progress=document.querySelector('.progress i');
+    addEventListener('scroll',()=>{const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(max?scrollY/max*100:0)+'%';},{passive:true});
+  </script>
+</body>
+</html>
