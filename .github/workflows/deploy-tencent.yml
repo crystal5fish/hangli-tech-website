@@ -1,0 +1,45 @@
+name: Deploy website to Tencent Cloud
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-tencent-website
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Build static website
+        run: npx next build
+      - name: Deploy to Tencent Cloud
+        env:
+          TENCENT_HOST: ${{ secrets.TENCENT_HOST }}
+          TENCENT_USER: ${{ secrets.TENCENT_USER }}
+          TENCENT_SSH_KEY: ${{ secrets.TENCENT_SSH_KEY }}
+        run: |
+          test -n "$TENCENT_HOST"
+          test -n "$TENCENT_USER"
+          test -n "$TENCENT_SSH_KEY"
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$TENCENT_SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -T 10 -H "$TENCENT_HOST" >> ~/.ssh/known_hosts
+          rsync -az --delete \
+            -e "ssh -i ~/.ssh/id_ed25519 -o BatchMode=yes" \
+            --rsync-path="sudo rsync" \
+            out/ "$TENCENT_USER@$TENCENT_HOST:/var/www/hanglilabs/"
