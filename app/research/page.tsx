@@ -16,7 +16,7 @@ export default function ResearchPage() {
           <nav className="nav-links" aria-label="主导航">
             <Link href="/">首页</Link>
             <Link href="/#about">关于航理</Link>
-            <Link className="current" href="/research/">专题研究</Link>
+            <Link className="current" href="/research.html">专题研究</Link>
             <Link href="/industry-news/">行业资讯</Link>
           </nav>
           <a className="nav-contact" href="mailto:aohanyue0226@sina.com">研究合作 <span aria-hidden="true">↗</span></a>

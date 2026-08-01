@@ -15,7 +15,7 @@ export default function IndustryNewsPage() {
         <div className="nav-inner">
           <Link className="wordmark" href="/" aria-label="返回航理科技首页"><span aria-hidden="true" />航理</Link>
           <nav className="nav-links" aria-label="主导航">
-            <Link href="/">首页</Link><Link href="/#about">关于航理</Link><Link href="/research/">专题研究</Link><Link className="current" href="/industry-news/">行业资讯</Link>
+            <Link href="/">首页</Link><Link href="/#about">关于航理</Link><Link href="/research.html">专题研究</Link><Link className="current" href="/industry-news/">行业资讯</Link>
           </nav>
           <a className="nav-contact" href="mailto:aohanyue0226@sina.com">订阅与合作 <span aria-hidden="true">↗</span></a>
         </div>
