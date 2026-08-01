@@ -38,3 +38,20 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "chore(news): update daily AI brief"
           git push
+      - name: Sync news data to Tencent Cloud
+        env:
+          TENCENT_HOST: ${{ secrets.TENCENT_HOST }}
+          TENCENT_USER: ${{ secrets.TENCENT_USER }}
+          TENCENT_SSH_KEY: ${{ secrets.TENCENT_SSH_KEY }}
+        run: |
+          test -n "$TENCENT_HOST"
+          test -n "$TENCENT_USER"
+          test -n "$TENCENT_SSH_KEY"
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$TENCENT_SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -T 10 -H "$TENCENT_HOST" >> ~/.ssh/known_hosts
+          rsync -az --delete \
+            -e "ssh -i ~/.ssh/id_ed25519 -o BatchMode=yes" \
+            --rsync-path="sudo rsync" \
+            public/news/ "$TENCENT_USER@$TENCENT_HOST:/var/www/hanglilabs/news/"
