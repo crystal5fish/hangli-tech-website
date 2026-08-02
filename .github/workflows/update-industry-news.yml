@@ -30,6 +30,8 @@ jobs:
           LLM_BASE_URL: https://api.deepseek.com/chat/completions
           LLM_MODEL: deepseek-chat
           NEWS_LOOKBACK_HOURS: "36"
+      - name: Verify Chinese content and uniqueness
+        run: npm run news:check
       - name: Commit daily brief
         run: |
           git config user.name "hangli-news-bot"
