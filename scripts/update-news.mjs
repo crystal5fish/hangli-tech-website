@@ -147,6 +147,40 @@ async function enrichBatch(batch, attempt = 1) {
   }
 }
 
+async function findDuplicateGroups(items, attempt = 1) {
+  if (items.length < 2) return [];
+  const apiKey = process.env.LLM_API_KEY || process.env.DEEPSEEK_API_KEY;
+  const endpoint = process.env.LLM_BASE_URL || "https://api.deepseek.com/chat/completions";
+  const model = process.env.LLM_MODEL || "deepseek-chat";
+  try {
+    const response = await fetch(endpoint, {
+      method: "POST",
+      headers: { "content-type": "application/json", authorization: `Bearer ${apiKey}` },
+      body: JSON.stringify({
+        model,
+        temperature: 0,
+        response_format: { type: "json_object" },
+        messages: [
+          { role: "system", content: "你负责对当天AI资讯做全局事件去重。判断标准是是否报道同一个现实世界事件，而不是标题字面是否相似；同一人物的同一次发言、同一产品的同一次发布、同一事故或研究即为重复。返回JSON对象 {duplicateGroups:[[id,...]]}，只列出确实重复的组，每组至少2个id，不要把仅主题相近但事件不同的报道合并。" },
+          { role: "user", content: JSON.stringify(items.map((item, id) => ({ id, title: item.title, summary: item.contentSnippet, source: item.source, eventKey: item.eventKey }))) },
+        ],
+      }),
+      signal: AbortSignal.timeout(90000),
+    });
+    if (!response.ok) throw new Error(`LLM ${response.status}: ${await response.text()}`);
+    const parsed = parseJsonContent((await response.json()).choices?.[0]?.message?.content);
+    if (!Array.isArray(parsed.duplicateGroups)) throw new Error("LLM 未返回重复事件分组");
+    return parsed.duplicateGroups.map((group) => [...new Set(group.map(Number))])
+      .filter((group) => group.length >= 2 && group.every((id) => Number.isInteger(id) && id >= 0 && id < items.length));
+  } catch (error) {
+    if (attempt < 3) {
+      console.warn(`DeepSeek 全局去重失败，第 ${attempt} 次重试：${error.message}`);
+      return findDuplicateGroups(items, attempt + 1);
+    }
+    throw error;
+  }
+}
+
 const enriched = [];
 for (let index = 0; index < rawItems.length; index += 8) {
   const batch = rawItems.slice(index, index + 8);
@@ -159,8 +193,11 @@ const candidates = enriched
   .filter((item) => Number(item.relevance) >= 6)
   .filter((item) => hasChinese(item.title) && hasChinese(item.contentSnippet))
   .sort((a, b) => sourceRank(b) - sourceRank(a) || b.relevance - a.relevance || b.contentSnippet.length - a.contentSnippet.length);
+const duplicateGroups = await findDuplicateGroups(candidates);
+const globallyDuplicateIds = new Set(duplicateGroups.flatMap((group) => group.slice(1)));
 const uniqueEvents = [];
-for (const candidate of candidates) {
+for (const [candidateId, candidate] of candidates.entries()) {
+  if (globallyDuplicateIds.has(candidateId)) continue;
   const duplicate = uniqueEvents.some((kept) =>
     (candidate.eventKey && candidate.eventKey === kept.eventKey)
     || (candidate.eventKey && kept.eventKey && titleSimilarity(candidate.eventKey, kept.eventKey) >= 0.7)
