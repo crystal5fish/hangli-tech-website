@@ -10,8 +10,208 @@ export type NewsItem = {
 };
 
 // 此文件由 scripts/update-news.mjs 自动生成。
-export const newsDate = "2026-08-01";
+export const newsDate = "2026-08-02";
 export const newsItems: NewsItem[] = [
+  {
+    "title": "‘More than just objects’: Australian booksellers raise alarm over ‘horrific’ destruction of rare titles to feed AI",
+    "link": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
+    "pubdate": "2026-08-02 04:00:02",
+    "contentSnippet": "Secondhand booksellers believe they may have been caught up in the AI supply chain that se",
+    "creator": "Stephanie Convery",
+    "source": "The Guardian AI",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "YouTube star Hank Green says he's relied 'too heavily' on AI in an apology to fans",
+    "link": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+    "pubdate": "2026-08-02 03:55:38",
+    "contentSnippet": "Hank Green, one of YouTube's most prolific stars, is facing backlash for relying on AI to ",
+    "creator": "Lauren Edmonds",
+    "source": "Business Insider",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "pubdate": "2026-08-02 03:45:45",
+    "contentSnippet": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been gett",
+    "creator": "Anthony Ha",
+    "source": "TechCrunch AI",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "Sam Altman is getting dragged for suggesting this ChatGPT 'use case' for parents",
+    "link": "https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8",
+    "pubdate": "2026-08-02 02:24:58",
+    "contentSnippet": "Sam Altman is both the CEO of one of the world's leading AI startups and a new parent hims",
+    "creator": "Lakshmi Varanasi",
+    "source": "Business Insider",
+    "category": "模型发布",
+    "relevance": 7
+  },
+  {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "pubdate": "2026-08-02 01:07:34",
+    "contentSnippet": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "creator": "Anthony Ha",
+    "source": "TechCrunch AI",
+    "category": "模型发布",
+    "relevance": 7
+  },
+  {
+    "title": "We Are Mildly Horrified by This AI Startup That Coerced People Into Getting Tattoos of Its Logo in Exchange for a Job Interview",
+    "link": "https://futurism.com/future-society/ai-startup-coerced-tattoos-logo-job-interview",
+    "pubdate": "2026-08-02 01:02:00",
+    "contentSnippet": "\"If you're reaching out to us to apply for a job, you might want to take notes.\" The post ",
+    "creator": "Joe Wilkins",
+    "source": "Futurism AI",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "The More People Learn About AI, the More They Want It Out of Their Lives",
+    "link": "https://futurism.com/artificial-intelligence/ai-learn-negative-sentiment-polling-american-attitudes",
+    "pubdate": "2026-08-01 23:02:00",
+    "contentSnippet": "\"I hear people champion AI and I'm like, 'sure, why don't we all participate in our collec",
+    "creator": "Joe Wilkins",
+    "source": "Futurism AI",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "The AI apps winning over corporate America",
+    "link": "https://www.businessinsider.com/fastest-growing-ai-applications-for-work-2026-8",
+    "pubdate": "2026-08-01 21:00:01",
+    "contentSnippet": "Anthropic, OpenAI, and Cursor have the fastest-growing AI apps in the enterprise, but Micr",
+    "creator": "Alistair Barr",
+    "source": "Business Insider",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+    "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "pubdate": "2026-08-01 20:30:36",
+    "contentSnippet": "Reddit may still be considering ending its licensing deal with Google.",
+    "creator": "Samuel Axon",
+    "source": "Ars Technica",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
+    "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+    "pubdate": "2026-08-01 20:00:53",
+    "contentSnippet": "New AI models, advanced robots and specialty computer chips are unsettling markets and the",
+    "creator": "Nick Robins-Early",
+    "source": "The Guardian AI",
+    "category": "安全监管",
+    "relevance": 7
+  },
+  {
+    "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-01/ai-isn-t-a-catch-all-trade-for-stocks-in-this-earnings-season",
+    "pubdate": "2026-08-01 20:00:00",
+    "contentSnippet": "Equity investors are learning a harsh lesson this corporate earnings season: Not all artif",
+    "creator": "Sagarika Jaisinghani and Joel Leon",
+    "source": "Bloomberg Technology",
+    "category": "投融资信息",
+    "relevance": 7
+  },
+  {
+    "title": "A Prominent AI Investor Is Now Crumbling, in What Could Be a Sign of Things to Come",
+    "link": "https://futurism.com/artificial-intelligence/situational-awareness-ai-investor-crumbling",
+    "pubdate": "2026-08-01 19:02:00",
+    "contentSnippet": "Careful who you trust your billions of dollars with. The post A Prominent AI Investor Is N",
+    "creator": "Frank Landymore",
+    "source": "Futurism AI",
+    "category": "投融资信息",
+    "relevance": 7
+  },
+  {
+    "title": "This OpenAI product manager always asks ChatGPT to 'impress' him. Here’s his advice for AI prompts.",
+    "link": "https://www.businessinsider.com/openai-product-manager-ai-prompt-advice-2026-8",
+    "pubdate": "2026-08-01 18:30:01",
+    "contentSnippet": "OpenAI product manager Ty Geri told Business Insider that he sends long rambles to ChatGPT",
+    "creator": "Henry Chandonnet",
+    "source": "Business Insider",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+    "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+    "pubdate": "2026-08-01 18:30:00",
+    "contentSnippet": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s foun",
+    "creator": "Matt Burgess, Maddy Varner, Dell Cameron, Andy Greenberg",
+    "source": "Wired AI",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "Employees Long for the Days Before the Workplace Filled Up With AI Slop",
+    "link": "https://futurism.com/artificial-intelligence/employees-long-days-before-ai-slop",
+    "pubdate": "2026-08-01 18:01:00",
+    "contentSnippet": "Those were the days. The post Employees Long for the Days Before the Workplace Filled Up W",
+    "creator": "Victor Tangermann",
+    "source": "Futurism AI",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+    "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+    "pubdate": "2026-08-01 17:30:00",
+    "contentSnippet": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other ",
+    "creator": "Lily Hay Newman",
+    "source": "Wired AI",
+    "category": "模型发布",
+    "relevance": 7
+  },
+  {
+    "title": "金山办公WPS存储管理新版本上线",
+    "link": "https://36kr.com/newsflashes/3920632482491776?f=rss",
+    "pubdate": "2026-08-01 16:30:26",
+    "contentSnippet": "7月31日，金山办公首次参展ChinaJoy，现场除展示独立AI办公Agent灵犀和面向研发场景的WPS Comate外，还设置了面向WPS用户的反馈区。同日，包含存储管理等多项更",
+    "creator": "",
+    "source": "36氪",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "部分美国企业换上中国大模型以降低成本",
+    "link": "https://36kr.com/newsflashes/3920583026929281?f=rss",
+    "pubdate": "2026-08-01 15:30:11",
+    "contentSnippet": "从AlphaGo称霸围棋界到ChatGPT面世，美国在算法大模型领域积累了显著的先发优势。但近年中国大模型的崛起对AI格局有所冲击。美国《华尔街日报》等多家媒体提到，中国大模型独角",
+    "creator": "",
+    "source": "36氪",
+    "category": "模型发布",
+    "relevance": 7
+  },
+  {
+    "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+    "link": "https://36kr.com/p/3920595518533250?f=rss",
+    "pubdate": "2026-08-01 14:37:32",
+    "contentSnippet": "如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是",
+    "creator": "",
+    "source": "36氪",
+    "category": "投融资信息",
+    "relevance": 7
+  },
+  {
+    "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
+    "link": "https://36kr.com/newsflashes/3920435807923841?f=rss",
+    "pubdate": "2026-08-01 14:15:22",
+    "contentSnippet": "由浙江省数字经济发展中心等编制的《人工智能OPC术语》团体标准2026年8月1日起实施，将人工智能OPC（One Person Company，一人公司）界定为由1名核心自然人主导",
+    "creator": "",
+    "source": "36氪",
+    "category": "技术论文",
+    "relevance": 7
+  },
   {
     "title": "Can Africa Power the AI Boom?",
     "link": "https://www.bloomberg.com/news/videos/2026-08-01/can-africa-power-the-ai-boom-video",
@@ -43,26 +243,6 @@ export const newsItems: NewsItem[] = [
     "relevance": 7
   },
   {
-    "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
-    "link": "https://www.qbitai.com/2026/08/464452.html",
-    "pubdate": "2026-08-01 11:38:10",
-    "contentSnippet": "三本教科书，救活英伟达",
-    "creator": "一水",
-    "source": "量子位",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "AI顶会现场，见到了一家美妆巨头",
-    "link": "https://www.qbitai.com/2026/08/464364.html",
-    "pubdate": "2026-08-01 10:52:18",
-    "contentSnippet": "欧莱雅把AI装进mei'zhuang'quan'lian'lu",
-    "creator": "听雨",
-    "source": "量子位",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
     "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
     "link": "https://36kr.com/p/3920241240419720?f=rss",
     "pubdate": "2026-08-01 08:38:59",
@@ -70,16 +250,6 @@ export const newsItems: NewsItem[] = [
     "creator": "",
     "source": "36氪",
     "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "Google Rolls Back Earth AI Tool Over Concern About Fake Images",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images",
-    "pubdate": "2026-08-01 06:23:27",
-    "contentSnippet": "Alphabet Inc.’s Google announced Friday that it will roll back its new AI image generation",
-    "creator": "Micah Barkley",
-    "source": "Bloomberg Technology",
-    "category": "产品发布",
     "relevance": 7
   },
   {
@@ -103,16 +273,6 @@ export const newsItems: NewsItem[] = [
     "relevance": 7
   },
   {
-    "title": "From Substack to YouTube, here are the social platforms cracking down on AI slop",
-    "link": "https://www.businessinsider.com/ai-slop-substack-youtube-tiktok-pinterest-facebook-instagram-threads-2026-7",
-    "pubdate": "2026-08-01 05:10:55",
-    "contentSnippet": "Platforms like YouTube and TikTok are navigating the fine line between embracing AI and lo",
-    "creator": "Sydney Bradley,Katherine Li,Dan Whateley",
-    "source": "Business Insider",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
     "title": "Major Publisher Cans $2.4 Million Book Deal After Author Was Accused of Using AI, for a Very Cynical Reason",
     "link": "https://futurism.com/artificial-intelligence/major-publisher-million-book-deal-author-accused-ai",
     "pubdate": "2026-08-01 04:59:39",
@@ -120,26 +280,6 @@ export const newsItems: NewsItem[] = [
     "creator": "Victor Tangermann",
     "source": "Futurism AI",
     "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "Google Earth's new AI image generation function didn't survive a day after users deepfaked disasters",
-    "link": "https://www.businessinsider.com/google-earth-nano-banana-gemini-ai-satellite-image-generation-function-2026-7",
-    "pubdate": "2026-08-01 04:55:11",
-    "contentSnippet": "Google pulled its AI image-editing feature from Google Earth within 24 hours of its launch",
-    "creator": "Katherine Li",
-    "source": "Business Insider",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "Illumina CEO on Genomic Sequencing Opportunities and AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/illumina-ceo-on-genomic-sequencing-opportunities-and-ai-video",
-    "pubdate": "2026-08-01 04:47:59",
-    "contentSnippet": "Illumina CEO Jacob Thaysen discusses the company's earnings, genomic medicine opportunitie",
-    "creator": "",
-    "source": "Bloomberg Technology",
-    "category": "行业动态",
     "relevance": 7
   },
   {
@@ -193,26 +333,6 @@ export const newsItems: NewsItem[] = [
     "relevance": 7
   },
   {
-    "title": "Big Tech Holds $2 Trillion of Spending Commitments for AI Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
-    "pubdate": "2026-08-01 03:13:19",
-    "contentSnippet": "The four largest players in the data center race have committed nearly $2.4 trillion in sp",
-    "creator": "Brody Ford",
-    "source": "Bloomberg Technology",
-    "category": "投融资信息",
-    "relevance": 7
-  },
-  {
-    "title": "Apple's Stumble, Amazon's Surge and Anthropic's Hacks | Bloomberg Tech 7/31/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-tech-7-31-2026-video",
-    "pubdate": "2026-08-01 03:11:09",
-    "contentSnippet": "Bloomberg’s Ed Ludlow breaks down Tim Cook's final Apple earnings call as CEO - a story of",
-    "creator": "",
-    "source": "Bloomberg Technology",
-    "category": "安全监管",
-    "relevance": 7
-  },
-  {
     "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
     "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
     "pubdate": "2026-08-01 03:04:56",
@@ -220,36 +340,6 @@ export const newsItems: NewsItem[] = [
     "creator": "Nate Anderson",
     "source": "Ars Technica",
     "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "Moonshot's Kimi Built With Nvidia Compute",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/moonshot-s-kimi-built-with-nvidia-compute-video",
-    "pubdate": "2026-08-01 02:54:44",
-    "contentSnippet": "Chinese AI startup Moonshot's Kimi models are powered in part by around 20,000 Nvidia Hopp",
-    "creator": "",
-    "source": "Bloomberg Technology",
-    "category": "模型发布",
-    "relevance": 7
-  },
-  {
-    "title": "The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video",
-    "pubdate": "2026-08-01 02:49:14",
-    "contentSnippet": "Recent disclosures from Anthropic and OpenAI have shifted the AI conversation from model c",
-    "creator": "",
-    "source": "Bloomberg Technology",
-    "category": "安全监管",
-    "relevance": 7
-  },
-  {
-    "title": "Amazon's AI Story Is a 'Game Changer,' Says Mizuho",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/amazon-s-ai-story-is-a-game-changer-says-mizuho-video",
-    "pubdate": "2026-08-01 02:44:39",
-    "contentSnippet": "Amazon's latest earnings may have changed the AI narrative around the company. Mizuho's Jo",
-    "creator": "",
-    "source": "Bloomberg Technology",
-    "category": "投融资信息",
     "relevance": 7
   },
   {
@@ -333,10 +423,10 @@ export const newsItems: NewsItem[] = [
     "relevance": 7
   },
   {
-    "title": "We Are Alarmed by This PR Firm Using a Small Army of Fake AI-Powered Publicists to Barrage Journalists With Pitches for Its Clients",
+    "title": "A PR Firm Is Using Fake Publicists With AI-Generated Headshots to Spam Journalists With Pitches for Its Clients",
     "link": "https://futurism.com/artificial-intelligence/pr-firm-fake-ai-publicists",
     "pubdate": "2026-08-01 00:12:38",
-    "contentSnippet": "Why am I getting emails from fake PR reps with AI-generated faces? The post We Are Alarmed",
+    "contentSnippet": "Why am I getting emails from fake PR reps with AI-generated faces? The post A PR Firm Is U",
     "creator": "Maggie Harrison Dupré",
     "source": "Futurism AI",
     "category": "产品发布",
@@ -359,16 +449,6 @@ export const newsItems: NewsItem[] = [
     "contentSnippet": "\"Tonight I typed just one sentence into Google Earth and put refugees near the Mexican bor",
     "creator": "Joseph Cox",
     "source": "404 Media",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "Palantir CEO says Dario Amodei is not the 'caricature' that Americans might believe him to be",
-    "link": "https://www.businessinsider.com/palantir-ceo-dario-amodei-ai-tokens-fde-2026-7",
-    "pubdate": "2026-08-01 00:02:49",
-    "contentSnippet": "Alex Karp continued to drag the AI labs during Palantir's all-hands meeting — while defend",
-    "creator": "Henry Chandonnet",
-    "source": "Business Insider",
     "category": "行业动态",
     "relevance": 7
   },
@@ -430,16 +510,6 @@ export const newsItems: NewsItem[] = [
     "creator": "Graham Hope",
     "source": "AI Business",
     "category": "模型发布",
-    "relevance": 7
-  },
-  {
-    "title": "Tech firms are bringing job interviews back in person to stop AI use, RTO guru says",
-    "link": "https://www.businessinsider.com/ai-job-interviews-in-person-nick-bloom-rto-2026-7",
-    "pubdate": "2026-07-31 22:52:43",
-    "contentSnippet": "Stanford economist Nick Bloom says employers are adding face-to-face rounds as AI makes it",
-    "creator": "Thibault Spirlet",
-    "source": "Business Insider",
-    "category": "行业动态",
     "relevance": 7
   },
   {
@@ -520,376 +590,6 @@ export const newsItems: NewsItem[] = [
     "creator": "Andrew Lovell",
     "source": "AI Accelerator Institute",
     "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "Meta’s Personal AI Agents Face EU Data and Profiling Rules",
-    "link": "https://www.techrepublic.com/article/news-meta-ai-agents-eu-rules-emea/",
-    "pubdate": "2026-07-31 21:12:54",
-    "contentSnippet": "Meta’s push toward personal AI agents is colliding with Europe’s strict rules on profiling",
-    "creator": "TechRepublic Staff",
-    "source": "TechRepublic AI",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
-    "link": "https://36kr.com/newsflashes/3919556554305154?f=rss",
-    "pubdate": "2026-07-31 20:59:06",
-    "contentSnippet": "36氪获悉，7月31日，国务院国资委党委召开扩大会议。会议强调，要指导中央企业主动对接和带头落实好国家政策，抓住重点、主动作为，充分发挥引领带动作用，更好助推经济持续向新向优向好发",
-    "creator": "",
-    "source": "36氪",
-    "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "AI labels to be compulsory on authentic-looking content under EU rules",
-    "link": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
-    "pubdate": "2026-07-31 19:21:20",
-    "contentSnippet": "Companies must ensure people know when they are interacting with artificially generated im",
-    "creator": "Jennifer Rankin in Brussels",
-    "source": "The Guardian AI",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-    "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-    "pubdate": "2026-07-31 19:00:52",
-    "contentSnippet": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
-    "creator": "Nate Anderson",
-    "source": "Ars Technica",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
-    "link": "https://36kr.com/p/3910776673064073?f=rss",
-    "pubdate": "2026-07-31 18:27:38",
-    "contentSnippet": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲",
-    "creator": "",
-    "source": "36氪",
-    "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
-    "link": "https://36kr.com/p/3919378312670857?f=rss",
-    "pubdate": "2026-07-31 18:01:34",
-    "contentSnippet": "大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截",
-    "creator": "",
-    "source": "36氪",
-    "category": "投融资信息",
-    "relevance": 7
-  },
-  {
-    "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-    "link": "https://www.qbitai.com/2026/07/464328.html",
-    "pubdate": "2026-07-31 17:11:32",
-    "contentSnippet": "开源项目GitHub狂揽8000+Star",
-    "creator": "思邈",
-    "source": "量子位",
-    "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "开云的转折：在中国，做一个AI乐观派",
-    "link": "https://36kr.com/p/3919225763540611?f=rss",
-    "pubdate": "2026-07-31 16:58:59",
-    "contentSnippet": "作者 | 谢芸子 黄绎达 编辑 | 张帆 开云的转型初见成效。 7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。 更关",
-    "creator": "",
-    "source": "36氪",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
-    "link": "https://36kr.com/p/3919301778288261?f=rss",
-    "pubdate": "2026-07-31 16:40:43",
-    "contentSnippet": "文｜张子怡 编辑｜袁斯来 随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。 前不久，全球支付平台PingPong",
-    "creator": "",
-    "source": "36氪",
-    "category": "安全监管",
-    "relevance": 7
-  },
-  {
-    "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
-    "link": "https://36kr.com/p/3919112515956355?f=rss",
-    "pubdate": "2026-07-31 16:24:28",
-    "contentSnippet": "你的创业想法，值得被看见 有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。 我们发现，每位创业者关注的重点都",
-    "creator": "",
-    "source": "36氪",
-    "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
-    "link": "https://36kr.com/p/3919271016263303?f=rss",
-    "pubdate": "2026-07-31 16:12:09",
-    "contentSnippet": "文｜张子怡 编辑｜袁斯来 低空经济正从飞行器制造走向城市治理。 7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座",
-    "creator": "",
-    "source": "36氪",
-    "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "米哈游蔡浩宇AI创业生变",
-    "link": "https://www.qbitai.com/2026/07/464169.html",
-    "pubdate": "2026-07-31 15:22:37",
-    "contentSnippet": "多个项目暂停，九成资源押向Agent",
-    "creator": "鹭羽",
-    "source": "量子位",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "姚顺雨拿50年数学难题成绩单，招人了",
-    "link": "https://www.qbitai.com/2026/07/464100.html",
-    "pubdate": "2026-07-31 14:54:57",
-    "contentSnippet": "AI for Science方向",
-    "creator": "一水",
-    "source": "量子位",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "学习强国做了个AI社区，两周铺进68座城市",
-    "link": "https://www.qbitai.com/2026/07/463727.html",
-    "pubdate": "2026-07-31 14:47:00",
-    "contentSnippet": "",
-    "creator": "量子位的朋友们",
-    "source": "量子位",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "Isn’t AI terrible enough already? Now they want to eat the world’s books?! | First Dog on the Moon",
-    "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/31/isnt-ai-terrible-enough-already-now-they-want-to-eat-the-worlds-books",
-    "pubdate": "2026-07-31 14:35:21",
-    "contentSnippet": "Leave books alone! Sign up here to get an email whenever First Dog cartoons are published ",
-    "creator": "First Dog on the Moon",
-    "source": "The Guardian AI",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
-    "link": "https://36kr.com/p/3919137999957382?f=rss",
-    "pubdate": "2026-07-31 14:00:25",
-    "contentSnippet": "AI在企业端的快速渗透正在被持续验证。 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.",
-    "creator": "",
-    "source": "36氪",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "GPT-5.6今起大降价，最大幅度80%！",
-    "link": "https://www.qbitai.com/2026/07/463640.html",
-    "pubdate": "2026-07-31 11:01:21",
-    "contentSnippet": "Luna打骨折",
-    "creator": "听雨",
-    "source": "量子位",
-    "category": "模型发布",
-    "relevance": 7
-  },
-  {
-    "title": "Could AI take your job? Some workers in China already know the answer",
-    "link": "https://www.theguardian.com/world/2026/jul/31/china-ai-jobs-workers-labour-market-technology",
-    "pubdate": "2026-07-31 10:22:05",
-    "contentSnippet": "Across the country, workers are fearful about the impact of AI on their livelihoods in an ",
-    "creator": "Amy Hawkins in Wuhan",
-    "source": "The Guardian AI",
-    "category": "投融资信息",
-    "relevance": 7
-  },
-  {
-    "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
-    "link": "https://36kr.com/p/3917874427555457?f=rss",
-    "pubdate": "2026-07-31 09:52:24",
-    "contentSnippet": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将",
-    "creator": "",
-    "source": "36氪",
-    "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
-    "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-    "pubdate": "2026-07-31 09:24:26",
-    "contentSnippet": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its",
-    "creator": "Louise Matsakis, Lily Hay Newman",
-    "source": "Wired AI",
-    "category": "安全监管",
-    "relevance": 7
-  },
-  {
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "pubdate": "2026-07-31 09:06:54",
-    "contentSnippet": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found",
-    "creator": "Kirsten Korosec",
-    "source": "TechCrunch AI",
-    "category": "安全监管",
-    "relevance": 7
-  },
-  {
-    "title": "Anthropic’s AI Claude hacked into three organizations during cybersecurity test",
-    "link": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
-    "pubdate": "2026-07-31 08:22:16",
-    "contentSnippet": "Company says it discovered unauthorized access during ‘proactive review’ after rival OpenA",
-    "creator": "Reuters",
-    "source": "The Guardian AI",
-    "category": "安全监管",
-    "relevance": 7
-  },
-  {
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "pubdate": "2026-07-31 07:25:58",
-    "contentSnippet": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged p",
-    "creator": "Marina Temkin",
-    "source": "TechCrunch AI",
-    "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
-    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "pubdate": "2026-07-31 07:08:58",
-    "contentSnippet": "Reddit's financial situation is looking good but uncertainty about its relationship to Goo",
-    "creator": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "pubdate": "2026-07-31 06:41:41",
-    "contentSnippet": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-    "creator": "Russell Brandom",
-    "source": "TechCrunch AI",
-    "category": "投融资信息",
-    "relevance": 7
-  },
-  {
-    "title": "HP’s Intel Business PC Lineup Targets Flexible Work",
-    "link": "https://www.techrepublic.com/article/news-hp-intel-business-pcs-flexible-work/",
-    "pubdate": "2026-07-31 06:40:09",
-    "contentSnippet": "HP’s Intel-powered EliteBook, ProBook, and EliteDesk lineup gives IT teams more options fo",
-    "creator": "Kezia Jungco",
-    "source": "TechRepublic AI",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "IBM: AI-Enabled Data Breaches Cost Organizations $6 Million on Average",
-    "link": "https://www.techrepublic.com/article/news-ibm-ai-enabled-data-breach-costs/",
-    "pubdate": "2026-07-31 04:32:45",
-    "contentSnippet": "IBM found AI-enabled breaches cost organizations $6 million on average, exposing gaps in v",
-    "creator": "Aminu Abdullahi",
-    "source": "TechRepublic AI",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "pubdate": "2026-07-31 04:26:38",
-    "contentSnippet": "A federal judge said the Trump administration has not presented enough evidence to justify",
-    "creator": "Rebecca Bellan",
-    "source": "TechCrunch AI",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "Amazon Shares Soar Most Since 2012 on Cloud Sales Growth",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
-    "pubdate": "2026-07-31 04:16:21",
-    "contentSnippet": "Amazon.com Inc. shares surged the most since 2012 after the company reported accelerating ",
-    "creator": "Spencer Soper",
-    "source": "Bloomberg Technology",
-    "category": "投融资信息",
-    "relevance": 7
-  },
-  {
-    "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
-    "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-    "pubdate": "2026-07-31 04:12:57",
-    "contentSnippet": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it",
-    "creator": "Maxwell Zeff",
-    "source": "Wired AI",
-    "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "pubdate": "2026-07-31 03:44:16",
-    "contentSnippet": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-    "creator": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "Foundations for an AI-forward healthcare organization",
-    "link": "https://www.databricks.com/blog/foundations-ai-forward-healthcare-organization",
-    "pubdate": "2026-07-31 03:30:00",
-    "contentSnippet": "The challenge for healthcare executives adopting AI is the noise when trying to advance an",
-    "creator": "",
-    "source": "Databricks",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "pubdate": "2026-07-31 02:57:58",
-    "contentSnippet": "As experts have warned for the last two years, some companies — like Microsoft and now Goo",
-    "creator": "Lorenzo Franceschi-Bicchierai",
-    "source": "TechCrunch AI",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
-    "link": "https://aibusiness.com/agentic-ai/oracle-brings-google-gemini-models-enterprise-customers",
-    "pubdate": "2026-07-31 02:44:57",
-    "contentSnippet": "The partnership aims to give users more choice when building AI agents and automating busi",
-    "creator": "Shaun Sutner",
-    "source": "AI Business",
-    "category": "模型发布",
-    "relevance": 7
-  },
-  {
-    "title": "LinkedIn adds a button to report AI-generated &#8216;slop&#8217;",
-    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-    "pubdate": "2026-07-31 02:05:21",
-    "contentSnippet": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “se",
-    "creator": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-    "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-    "pubdate": "2026-07-31 01:51:10",
-    "contentSnippet": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key play",
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "source": "Wired AI",
-    "category": "安全监管",
-    "relevance": 7
-  },
-  {
-    "title": "Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest Cleantech Rounds",
-    "link": "https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/",
-    "pubdate": "2026-07-31 01:12:19",
-    "contentSnippet": "Amid soaring energy demand from AI data centers, Antora says it will use its new capital t",
-    "creator": "Marlize van Romburgh",
-    "source": "Crunchbase News",
-    "category": "行业动态",
     "relevance": 7
   }
 ];
