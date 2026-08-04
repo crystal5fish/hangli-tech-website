@@ -7,7 +7,13 @@ const outputFile = new URL("app/industry-news/news-data.ts", root);
 const archiveDir = new URL("public/news/", root);
 const archiveIndexFile = new URL("public/news/index.json", root);
 const hours = Number(process.env.NEWS_LOOKBACK_HOURS || 36);
-const cutoff = Date.now() - hours * 60 * 60 * 1000;
+const requestedDate = String(process.env.NEWS_DATE || "").trim();
+if (requestedDate && !/^\d{4}-\d{2}-\d{2}$/.test(requestedDate)) {
+  throw new Error("NEWS_DATE 必须使用 YYYY-MM-DD 格式");
+}
+const newsDate = requestedDate || new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Shanghai" });
+const windowEnd = requestedDate ? Date.parse(`${requestedDate}T23:59:59+08:00`) : Date.now();
+const cutoff = windowEnd - hours * 60 * 60 * 1000;
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_", textNodeName: "#text" });
 const allowedCategories = new Set(["模型发布", "产品发布", "行业动态", "投融资信息", "安全监管", "技术论文", "其他"]);
 
@@ -72,7 +78,10 @@ async function fetchSource(source) {
       source: source.name,
       sourceType: source.type,
     };
-  }).filter((item) => item.title && item.link && Date.parse(item.pubdate) >= cutoff);
+  }).filter((item) => {
+    const publishedAt = Date.parse(item.pubdate);
+    return item.title && item.link && publishedAt >= cutoff && publishedAt <= windowEnd;
+  });
 }
 
 async function mapLimit(values, limit, worker) {
@@ -113,7 +122,7 @@ async function enrichBatch(batch, attempt = 1) {
         temperature: 0,
         response_format: { type: "json_object" },
         messages: [
-          { role: "system", content: "你是严谨的大模型行业编辑。返回JSON对象 {items:[...]}，items数量和顺序必须与输入完全一致。每项仅包含 title、summary、category、relevance、eventKey。title和summary必须使用简体中文，专有名词可保留英文；title简洁准确，summary不超过70个汉字。category只能是模型发布、产品发布、行业动态、投融资信息、安全监管、技术论文、其他。relevance为0-10整数。eventKey用8-30个简体中文字符概括“核心主体+核心事件”，忽略媒体措辞和评论角度；不同媒体报道同一事件时eventKey必须相同。例如有关Sam Altman推荐父母用ChatGPT的报道，eventKey统一为“SamAltman推荐ChatGPT育儿”。" },
+          { role: "system", content: "你是严谨的大模型行业编辑。返回JSON对象 {items:[...]}，items数量和顺序必须与输入完全一致。每项仅包含 title、summary、category、relevance、eventKey。title和summary必须使用简体中文，专有名词可保留英文，但不得直接输出纯英文标题或纯英文摘要，必须翻译；title简洁准确，summary不超过70个汉字。category只能是模型发布、产品发布、行业动态、投融资信息、安全监管、技术论文、其他。relevance为0-10整数。eventKey用8-30个简体中文字符概括“核心主体+核心事件”，忽略媒体措辞和评论角度；不同媒体报道同一事件时eventKey必须相同。例如有关Sam Altman推荐父母用ChatGPT的报道，eventKey统一为“SamAltman推荐ChatGPT育儿”。" },
           { role: "user", content: JSON.stringify(batch.map(({ title, contentSnippet, source, sourceType }) => ({ title, contentSnippet, source, sourceType }))) },
         ],
       }),
@@ -142,6 +151,12 @@ async function enrichBatch(batch, attempt = 1) {
     if (attempt < 3) {
       console.warn(`DeepSeek 批次处理失败，第 ${attempt} 次重试：${error.message}`);
       return enrichBatch(batch, attempt + 1);
+    }
+    if (batch.length > 1) {
+      console.warn(`DeepSeek 批次连续失败，拆分为单条重试：${error.message}`);
+      const recovered = [];
+      for (const item of batch) recovered.push(...await enrichBatch([item]));
+      return recovered;
     }
     throw error;
   }
@@ -187,7 +202,6 @@ for (let index = 0; index < rawItems.length; index += 8) {
   enriched.push(...await enrichBatch(batch));
 }
 
-const newsDate = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Shanghai" });
 const sourceRank = (item) => ({ "厂商官方": 5, "研究机构": 4, "技术论文": 4, "技术社区": 3, "国际媒体": 2, "中文媒体": 2 }[item.sourceType] ?? 1);
 const candidates = enriched
   .filter((item) => Number(item.relevance) >= 6)
