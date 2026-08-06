@@ -22,7 +22,7 @@ export default function IndustryNewsPage() {
       </header>
       <IndustryNewsClient items={newsItems} date={newsDate} />
       <footer className="news-footer">
-        <div className="page-shell"><span className="wordmark footer-wordmark"><span aria-hidden="true" />航理</span><p>企业 AI 应用创新伙伴 · 行业资讯</p><span>© {new Date().getFullYear()} 航理科技</span></div>
+        <div className="page-shell"><span className="wordmark footer-wordmark"><span aria-hidden="true" />航理</span><a className="beian-link" href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer">京ICP备2026047718号</a><span>© {new Date().getFullYear()} 航理科技</span></div>
       </footer>
     </>
   );
