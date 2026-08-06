@@ -43,8 +43,12 @@ jobs:
               root /var/www/hanglilabs;
               index index.html;
 
+              location = /industry-news/ {
+                  try_files /industry-news.html =404;
+              }
+
               location / {
-                  try_files $uri $uri/ $uri.html =404;
+                  try_files $uri.html $uri/index.html $uri =404;
               }
           }
           NGINX
