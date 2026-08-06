@@ -3,8 +3,8 @@ import Link from "next/link";
 import { researchReports } from "./reports";
 
 export const metadata: Metadata = {
-  title: "专题研究｜航理科技",
-  description: "航理科技围绕人工智能、产业应用与前沿技术持续发布的深度专题研究。",
+  title: "专题研究｜Hong AI 研究室",
+  description: "Hong AI 研究室围绕人工智能、产业应用与前沿技术持续发布的深度专题研究。",
 };
 
 export default function ResearchPage() {
@@ -12,10 +12,10 @@ export default function ResearchPage() {
     <>
       <header className="site-nav page-shell research-nav">
         <div className="nav-inner">
-          <Link className="wordmark" href="/" aria-label="返回航理科技首页"><span aria-hidden="true" />航理</Link>
+          <Link className="wordmark" href="/" aria-label="返回 Hong AI 研究室首页"><span aria-hidden="true" />Hong AI 研究室</Link>
           <nav className="nav-links" aria-label="主导航">
             <Link href="/">首页</Link>
-            <Link href="/#about">关于航理</Link>
+            <Link href="/#about">关于研究室</Link>
             <Link className="current" href="/research.html">专题研究</Link>
             <Link href="/industry-news/">行业资讯</Link>
           </nav>
@@ -26,7 +26,7 @@ export default function ResearchPage() {
       <main className="research-main">
         <section className="research-mast page-shell">
           <div className="research-mast-meta">
-            <span>HANGli RESEARCH / 专题研究</span>
+            <span>HONG AI LAB / 专题研究</span>
             <span>ISSUE 001—</span>
           </div>
           <div className="research-mast-grid">
@@ -68,7 +68,7 @@ export default function ResearchPage() {
       </main>
 
       <footer className="news-footer research-footer">
-        <div className="page-shell"><span className="wordmark footer-wordmark"><span aria-hidden="true" />航理</span><a className="beian-link" href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer">京ICP备2026047718号</a><span>© {new Date().getFullYear()} 航理科技</span></div>
+        <div className="page-shell"><span className="wordmark footer-wordmark"><span aria-hidden="true" />Hong AI 研究室</span><a className="beian-link" href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer">京ICP备2026047718号</a><span>© {new Date().getFullYear()} Hong AI 研究室</span></div>
       </footer>
     </>
   );

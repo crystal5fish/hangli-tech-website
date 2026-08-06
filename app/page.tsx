@@ -94,11 +94,11 @@ export default function Home() {
     <>
       <header className="site-nav page-shell">
         <div className="nav-inner">
-          <a className="wordmark" href="#top" aria-label="航理科技首页">
-            <span aria-hidden="true" />航理
+          <a className="wordmark" href="#top" aria-label="Hong AI 研究室首页">
+            <span aria-hidden="true" />Hong AI 研究室
           </a>
           <nav className="nav-links" aria-label="主导航">
-            <a href="#about">关于航理</a>
+            <a href="#about">关于研究室</a>
             <a href="#method">四步方法</a>
             <a href="#workshop">创新工作坊</a>
             <a href="/research.html">专题研究</a>
@@ -134,7 +134,7 @@ export default function Home() {
 
           <div className="connection-system" aria-label="连接人工智能技术能力与产业业务创新需求">
             <div className="system-meta">
-              <span>航理科技</span>
+              <span>Hong AI 研究室</span>
               <span>连接系统 / 001</span>
             </div>
             <div className="connection-map" aria-hidden="true">
@@ -160,7 +160,7 @@ export default function Home() {
 
         <section className="about section-pad" id="about">
           <div className="page-shell split-section">
-            <SectionLabel>01 / 关于航理科技</SectionLabel>
+            <SectionLabel>01 / 关于 Hong AI 研究室</SectionLabel>
             <div className="section-content">
               <h2 className="statement">
                 人工智能正在重新定义
@@ -181,7 +181,7 @@ export default function Home() {
               </div>
               <div className="mission-line">
                 <p>
-                  航理科技帮助知识密集型组织完成从 AI 认知、场景发现、方案设计到应用落地的全过程创新。
+                  Hong AI 研究室帮助知识密集型组织完成从 AI 认知、场景发现、方案设计到应用落地的全过程创新。
                 </p>
                 <span>连接技术能力与产业需求，推动 AI 从概念走向业务价值。</span>
               </div>
@@ -209,7 +209,7 @@ export default function Home() {
         </section>
 
         <section className="method section-pad page-shell" id="method">
-          <SectionLabel>03 / 航理科技的方法</SectionLabel>
+          <SectionLabel>03 / Hong AI 研究室的方法</SectionLabel>
           <div className="method-title-row">
             <h2>AI 应用创新四步法</h2>
             <p>一条从共识到验证的路径，<br />让每一步都为下一步创造确定性。</p>
@@ -257,7 +257,7 @@ export default function Home() {
                 <p className="eyebrow">Enterprise AI Innovation Workshop</p>
                 <h2>企业 AI 应用<br /><em>创新工作坊</em></h2>
                 <p>帮助组织在短周期内，完成从 AI 认知到应用方案设计。</p>
-                <a className="primary-action light" href={`mailto:${contactEmail}?subject=${encodeURIComponent("咨询航理科技企业AI应用创新工作坊")}`}>
+                <a className="primary-action light" href={`mailto:${contactEmail}?subject=${encodeURIComponent("咨询 Hong AI 研究室企业 AI 应用创新工作坊")}`}>
                   咨询工作坊 <span aria-hidden="true">↗</span>
                 </a>
               </div>
@@ -290,17 +290,17 @@ export default function Home() {
 
       <footer className="site-footer section-pad" id="contact">
         <div className="page-shell">
-          <SectionLabel>07 / 联系航理科技</SectionLabel>
+          <SectionLabel>07 / 联系 Hong AI 研究室</SectionLabel>
           <h2>探索人工智能时代的<br />组织创新。</h2>
           <a className="footer-mail" href={`mailto:${contactEmail}`}>
-            <span>与航理科技开始一次对话</span>
+            <span>与 Hong AI 研究室开始一次对话</span>
             <strong>{contactEmail}</strong>
             <i aria-hidden="true">↗</i>
           </a>
           <div className="footer-bottom">
-            <span className="wordmark footer-wordmark"><span aria-hidden="true" />航理</span>
+            <span className="wordmark footer-wordmark"><span aria-hidden="true" />Hong AI 研究室</span>
             <a className="beian-link" href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer">京ICP备2026047718号</a>
-            <span>© {new Date().getFullYear()} 航理科技</span>
+            <span>© {new Date().getFullYear()} Hong AI 研究室</span>
           </div>
         </div>
       </footer>

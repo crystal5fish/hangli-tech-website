@@ -62,7 +62,7 @@ const linkOf = (item) => {
 };
 
 async function fetchSource(source) {
-  const response = await fetch(source.url, { headers: { "user-agent": "Hangli-AI-Brief/1.0" }, signal: AbortSignal.timeout(20000) });
+  const response = await fetch(source.url, { headers: { "user-agent": "Hong-AI-Lab-Brief/1.0" }, signal: AbortSignal.timeout(20000) });
   if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
   const xml = parser.parse(await response.text());
   const entries = [...array(xml?.rss?.channel?.item), ...array(xml?.feed?.entry), ...array(xml?.["rdf:RDF"]?.item)];

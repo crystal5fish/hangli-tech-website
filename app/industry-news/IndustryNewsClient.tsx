@@ -82,7 +82,7 @@ export default function IndustryNewsClient({ items, date }: { items: NewsItem[];
       <section className="brief-top page-shell">
         <div className="brief-title">
           <div>
-            <p>HANGli AI DAILY / 行业资讯</p>
+            <p>HONG AI LAB DAILY / 行业资讯</p>
             <h1>AI 每日情报</h1>
           </div>
           <div className="brief-date">
