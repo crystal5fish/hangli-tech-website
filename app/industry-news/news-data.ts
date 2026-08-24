@@ -10,8 +10,268 @@ export type NewsItem = {
 };
 
 // 此文件由 scripts/update-news.mjs 自动生成。
-export const newsDate = "2026-08-23";
+export const newsDate = "2026-08-24";
 export const newsItems: NewsItem[] = [
+  {
+    "title": "AI模型平台Hugging Face探索出售，估值或达130亿美元",
+    "link": "https://siliconangle.com/2026/08/23/report-ai-model-hub-hugging-face-exploring-sale-at-13b-valuation",
+    "pubdate": "2026-08-24 07:05:29",
+    "contentSnippet": "据报道，Hugging Face正在探索出售，估值可能超过130亿美元，已聘请银行接洽潜在买家，谈判尚处早期。",
+    "creator": "Duncan Riley",
+    "source": "SiliconANGLE AI",
+    "category": "投融资信息",
+    "relevance": 9
+  },
+  {
+    "title": "匿名AI编码模型Ox Alpha来源成谜",
+    "link": "https://siliconangle.com/2026/08/23/nobody-knows-who-built-ai-coding-model-ox-alpha-or-where-the-code-goes",
+    "pubdate": "2026-08-24 06:37:37",
+    "contentSnippet": "自8月20日起，匿名提供者通过OpenRouter免费提供前沿编码模型Ox Alpha，无人知晓其开发者及代码去向。",
+    "creator": "Duncan Riley",
+    "source": "SiliconANGLE AI",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "Sam Altman担忧AI被少数强大玩家控制",
+    "link": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+    "pubdate": "2026-08-24 05:38:35",
+    "contentSnippet": "OpenAI CEO Sam Altman表示，对AI失控的担忧可能导致人们用自由换取安全。",
+    "creator": "Truman Dickerson",
+    "source": "Business Insider",
+    "category": "行业动态",
+    "relevance": 8
+  },
+  {
+    "title": "约会应用联合创始人因AI假网红丑闻离职",
+    "link": "https://futurism.com/artificial-intelligence/dating-app-cofounder-bails-scandal-fake-ai-influencers",
+    "pubdate": "2026-08-24 01:06:00",
+    "contentSnippet": "约会应用联合创始人在发现应用使用AI生成假网红后离职，该应用被指为“心理战”。",
+    "creator": "Frank Landymore",
+    "source": "Futurism AI",
+    "category": "行业动态",
+    "relevance": 6
+  },
+  {
+    "title": "得州州长称数据中心遭抵制是自食其果",
+    "link": "https://www.businessinsider.com/greg-abbott-texas-data-centers-backlash-2026-8",
+    "pubdate": "2026-08-24 00:42:33",
+    "contentSnippet": "得州州长阿博特最初支持扩建AI数据中心，但当地居民强烈反对，迫使他改变立场。",
+    "creator": "Lauren Edmonds",
+    "source": "Business Insider",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "为什么每个AI代理都需要组织架构图",
+    "link": "https://siliconangle.com/2026/08/23/why-every-ai-agent-needs-an-org-chart",
+    "pubdate": "2026-08-24 00:00:52",
+    "contentSnippet": "一位首席信息官指出，权限只告诉AI代理能做什么，却未说明意图，因此需要组织架构图来明确职责。",
+    "creator": "Dux Raymond Sy",
+    "source": "SiliconANGLE AI",
+    "category": "技术论文",
+    "relevance": 6
+  },
+  {
+    "title": "Flock CEO呼吁妥协，监控技术遭抵制",
+    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash",
+    "pubdate": "2026-08-23 23:30:00",
+    "contentSnippet": "Flock Safety的监控技术因可能被滥用而面临公众强烈反对，CEO呼吁各方妥协。",
+    "creator": "Anthony Ha",
+    "source": "TechCrunch AI",
+    "category": "行业动态",
+    "relevance": 6
+  },
+  {
+    "title": "用受版权保护的书籍训练AI合法吗？很复杂",
+    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
+    "pubdate": "2026-08-23 23:00:00",
+    "contentSnippet": "多数作者在不知情的情况下为AI工具贡献了作品，这可能违法，但法律界定复杂。",
+    "creator": "Amanda Silberling",
+    "source": "TechCrunch AI",
+    "category": "安全监管",
+    "relevance": 8
+  },
+  {
+    "title": "数据中心吸走建筑工人，导致住房建设无人可用",
+    "link": "https://futurism.com/artificial-intelligence/data-centers-construction-worker-labor-housing-market",
+    "pubdate": "2026-08-23 22:05:00",
+    "contentSnippet": "专家称许多建筑工人转向数据中心建设，导致住房建筑工人短缺。",
+    "creator": "Joe Wilkins",
+    "source": "Futurism AI",
+    "category": "行业动态",
+    "relevance": 6
+  },
+  {
+    "title": "AI债务炸弹危机？不，这不是安然2.0",
+    "link": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+    "pubdate": "2026-08-23 22:00:34",
+    "contentSnippet": "专家警告数据中心建设债务危机，但作者认为风险与过去不同且可恢复，无需过度担忧。",
+    "creator": "Gene Marks",
+    "source": "The Guardian AI",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "苹果可折叠iPhone细节及零售店变革",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61",
+    "pubdate": "2026-08-23 22:00:01",
+    "contentSnippet": "苹果可折叠iPhone细节曝光，零售店将调整以适配新产品，同时iPhone价格可能上涨。",
+    "creator": "Mark Gurman",
+    "source": "Bloomberg Technology",
+    "category": "产品发布",
+    "relevance": 8
+  },
+  {
+    "title": "Meta诉讼：社交媒体诉讼威胁大型科技公司",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/meta-trial-how-social-media-lawsuits-threaten-big-tech",
+    "pubdate": "2026-08-23 22:00:00",
+    "contentSnippet": "针对社交媒体巨头的诉讼浪潮指控其平台设计导致青少年伤害，首例人身伤害案陪审团裁定Meta和谷歌疏忽，赔偿600万美元。",
+    "creator": "Peter Blumberg",
+    "source": "Bloomberg Technology",
+    "category": "安全监管",
+    "relevance": 9
+  },
+  {
+    "title": "WRC唯一真“人机共生”展台：沉浸式机器人咖啡店",
+    "link": "https://www.qbitai.com/2026/08/478319.html",
+    "pubdate": "2026-08-23 21:20:00",
+    "contentSnippet": "WRC展会上出现唯一真“人机共生”展台，是一家沉浸式机器人咖啡店，强调真实体验。",
+    "creator": "衡宇",
+    "source": "量子位",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "开发者创建AI水印移除工具引关注",
+    "link": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+    "pubdate": "2026-08-23 19:32:01",
+    "contentSnippet": "一位科技企业家开发了开源AI水印移除工具，挑战Anthropic的水印计划，并因此受到大量关注。",
+    "creator": "Agnes Applegate",
+    "source": "Business Insider",
+    "category": "技术论文",
+    "relevance": 6
+  },
+  {
+    "title": "香港教授投身具身智能创业",
+    "link": "https://www.qbitai.com/2026/08/478289.html",
+    "pubdate": "2026-08-23 19:20:13",
+    "contentSnippet": "香港多所大学涌现一批教授投身具身智能领域创业，成为独特现象。",
+    "creator": "Jay",
+    "source": "量子位",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "天使投资人支持宇树科技创始人",
+    "link": "https://www.qbitai.com/2026/08/478234.html",
+    "pubdate": "2026-08-23 19:17:22",
+    "contentSnippet": "一位投资人曾给王兴兴第一笔200万投资，如今担任另一家机器人公司董事长，继续支持具身机器人创业者。",
+    "creator": "Jay",
+    "source": "量子位",
+    "category": "投融资信息",
+    "relevance": 8
+  },
+  {
+    "title": "匿名牛来大模型被扒出智谱血缘，或与Cursor有关",
+    "link": "https://www.qbitai.com/2026/08/478191.html",
+    "pubdate": "2026-08-23 17:56:12",
+    "contentSnippet": "匿名模型被指与智谱有关，可能使用开源GLM训练，引发争议。",
+    "creator": "衡宇",
+    "source": "量子位",
+    "category": "模型发布",
+    "relevance": 8
+  },
+  {
+    "title": "英伟达AI服务器将涨价15%，1GW数据中心成本激增50亿美元",
+    "link": "https://www.qbitai.com/2026/08/478164.html",
+    "pubdate": "2026-08-23 17:51:49",
+    "contentSnippet": "内存成本飙升导致英伟达AI服务器涨价15%，数据中心成本大幅增加。",
+    "creator": "衡宇",
+    "source": "量子位",
+    "category": "产品发布",
+    "relevance": 9
+  },
+  {
+    "title": "全球首次！机器人迎战网球运动员，极限救球",
+    "link": "https://www.qbitai.com/2026/08/478093.html",
+    "pubdate": "2026-08-23 17:45:27",
+    "contentSnippet": "机器人AstraTennis首次对战网球运动员，展示极限救球和快速起身技术。",
+    "creator": "衡宇",
+    "source": "量子位",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "读博年轻人押注双足人形机器人一体化大脑",
+    "link": "https://www.qbitai.com/2026/08/478020.html",
+    "pubdate": "2026-08-23 17:29:59",
+    "contentSnippet": "几个博士生创业，研发双足人形机器人一体化大脑，展示自动驾驶卡丁车技术，不走硅谷路线。",
+    "creator": "衡宇",
+    "source": "量子位",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "OpenAI高管警告AI网络攻击威胁",
+    "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+    "pubdate": "2026-08-23 16:00:27",
+    "contentSnippet": "OpenAI全球事务官Chris Lehane警告需防范AI发起的持续网络攻击，并呼吁制定新安全标准。",
+    "creator": "Robert Booth",
+    "source": "The Guardian AI",
+    "category": "安全监管",
+    "relevance": 9
+  },
+  {
+    "title": "上纬新材开启家庭机器人预订",
+    "link": "https://www.qbitai.com/2026/08/478017.html",
+    "pubdate": "2026-08-23 15:17:41",
+    "contentSnippet": "上纬新材宣布个人机器人开启预订，拉开家庭机器人消费时代序幕。",
+    "creator": "量子位的朋友们",
+    "source": "量子位",
+    "category": "产品发布",
+    "relevance": 8
+  },
+  {
+    "title": "无界动力深度参与WRC主论坛",
+    "link": "https://www.qbitai.com/2026/08/478007.html",
+    "pubdate": "2026-08-23 15:12:22",
+    "contentSnippet": "无界动力参与世界机器人大会主论坛及多场活动，展示从世界模型到现实生产力的应用。",
+    "creator": "量子位的朋友们",
+    "source": "量子位",
+    "category": "行业动态",
+    "relevance": 6
+  },
+  {
+    "title": "人形机器人百米跑9.39秒破纪录",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/humanoid-robot-beats-usain-bolt-s-100m-world-record-in-beijing",
+    "pubdate": "2026-08-23 15:07:21",
+    "contentSnippet": "北京世界人形机器人运动会上，人形机器人百米跑9.39秒，超越博尔特世界纪录。",
+    "creator": "Bloomberg News",
+    "source": "Bloomberg Technology",
+    "category": "行业动态",
+    "relevance": 8
+  },
+  {
+    "title": "阿里拟融资百亿美元加码AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+    "pubdate": "2026-08-23 14:13:28",
+    "contentSnippet": "阿里巴巴寻求通过股票出售筹集约102亿美元，以竞争AI全球领导地位，遭投资者Michael Burry批评。",
+    "creator": "Trista Xinyi Luo and Dave Sebastian",
+    "source": "Bloomberg Technology",
+    "category": "投融资信息",
+    "relevance": 8
+  },
+  {
+    "title": "DeepSeek取消周末高峰定价",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/deepseek-ends-weekend-peak-pricing-for-api-users-from-today",
+    "pubdate": "2026-08-23 13:57:57",
+    "contentSnippet": "DeepSeek宣布自8月23日起，周末API使用不再区分高峰和低谷，统一按低谷价格计费。",
+    "creator": "Bloomberg News",
+    "source": "Bloomberg Technology",
+    "category": "产品发布",
+    "relevance": 7
+  },
   {
     "title": "哈佛699美元创业训练营提供AI导师化身",
     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
@@ -20,376 +280,36 @@ export const newsItems: NewsItem[] = [
     "creator": "Anthony Ha",
     "source": "TechCrunch AI",
     "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "神秘AI模型Ox Alpha惊艳开发者，来源成谜",
-    "link": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-    "pubdate": "2026-08-23 04:46:35",
-    "contentSnippet": "Ox Alpha模型周四在OpenRouter上线，性能惊艳，但来源未知，有人怀疑出自中国实验室。",
-    "creator": "Lakshmi Varanasi",
-    "source": "Business Insider",
-    "category": "行业动态",
-    "relevance": 8
-  },
-  {
-    "title": "2026北京世界人形机器人奥运会现场",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-22/scenes-from-the-2026-beijing-world-humanoid-robot-games-video",
-    "pubdate": "2026-08-23 03:12:16",
-    "contentSnippet": "2026年世界人形机器人奥运会开幕，666支队伍、2000多台机器人参赛。",
-    "creator": "",
-    "source": "Bloomberg Technology",
-    "category": "行业动态",
     "relevance": 6
   },
   {
-    "title": "DeepMind校友创立的Inherent称其AI代理在复现研究上超越Anthropic和OpenAI",
+    "title": "DeepMind校友创立的Inherent称其AI‘队友’在复现研究上超越Anthropic和OpenAI",
     "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
     "pubdate": "2026-08-23 03:00:00",
-    "contentSnippet": "英国AI实验室Inherent发布Faraday，声称其复现科学论文的能力超越Anthropic和OpenAI。",
+    "contentSnippet": "英国AI实验室Inherent发布Faraday，其复现科学论文的能力或成创新基石。",
     "creator": "Anna Heim",
     "source": "TechCrunch AI",
-    "category": "产品发布",
+    "category": "模型发布",
     "relevance": 8
   },
   {
-    "title": "英伟达客户被告知AI相关服务器涨价超15%",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
-    "pubdate": "2026-08-23 02:42:34",
-    "contentSnippet": "因内存芯片成本飙升，英伟达通知大客户，含AI芯片的服务器价格涨幅多超15%。",
-    "creator": "Brody Ford and Ian King",
-    "source": "Bloomberg Technology",
-    "category": "行业动态",
-    "relevance": 9
-  },
-  {
-    "title": "OpenAI呼吁加州加强AI安全法案",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
-    "pubdate": "2026-08-23 00:30:34",
-    "contentSnippet": "OpenAI呼吁加州加强此前反对的SB 53法案，以强化AI安全监管。",
-    "creator": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "category": "安全监管",
-    "relevance": 9
-  },
-  {
-    "title": "AI前台听不懂人话，患者放弃预约",
+    "title": "患者因AI‘接待员’听不懂而跳过就医",
     "link": "https://futurism.com/artificial-intelligence/patients-skipping-doctor-ai-receptionist",
     "pubdate": "2026-08-23 00:07:00",
-    "contentSnippet": "因AI接待员无法理解患者需求，导致患者挂断电话并放弃预约。",
+    "contentSnippet": "AI接待员无法理解患者表述，导致患者挂断电话并放弃预约。",
     "creator": "Frank Landymore",
     "source": "Futurism AI",
     "category": "行业动态",
     "relevance": 7
   },
   {
-    "title": "前沿AI实验室缺乏遏制失控模型的计划",
+    "title": "前沿AI实验室仍不愿说明如何控制失控模型",
     "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
     "pubdate": "2026-08-23 00:00:00",
-    "contentSnippet": "新研究发现领先AI实验室缺乏遏制失控模型的公开计划，引发对AI安全准备的担忧。",
-    "creator": "Rebecca Bellan",
-    "source": "TechCrunch AI",
-    "category": "安全监管",
-    "relevance": 9
-  },
-  {
-    "title": "优必选将客户产线1:1搬进WRC，解锁具身智能落地路径",
-    "link": "https://www.qbitai.com/2026/08/477253.html",
-    "pubdate": "2026-08-22 22:46:43",
-    "contentSnippet": "优必选在世界机器人大会展示端侧部署，解决具身大脑装进身体的问题，并适配多种机器人。",
-    "creator": "田, 晏林",
-    "source": "量子位",
-    "category": "行业动态",
-    "relevance": 8
-  },
-  {
-    "title": "伽利略机器人首发陆行具身系统，打通轮车足技术壁垒",
-    "link": "https://www.qbitai.com/2026/08/477246.html",
-    "pubdate": "2026-08-22 22:19:39",
-    "contentSnippet": "伽利略机器人在WRC发布陆行具身系统，旨在打通轮式、车式、足式机器人的底层技术。",
-    "creator": "量子位的朋友们",
-    "source": "量子位",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "魔法原子亮相WRC 2026，展示物理AI实景应用",
-    "link": "https://www.qbitai.com/2026/08/477155.html",
-    "pubdate": "2026-08-22 22:11:20",
-    "contentSnippet": "魔法原子在世界机器人大会展示三大场景解决方案，强调一脑驱动多形落地，实现物理AI上岗。",
-    "creator": "量子位的朋友们",
-    "source": "量子位",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "00后清华博士生创业神经接口：将肌肉反应炼成Token",
-    "link": "https://www.qbitai.com/2026/08/477094.html",
-    "pubdate": "2026-08-22 21:56:00",
-    "contentSnippet": "清华博士生创业神经接口，通过腕带采集肌肉信号，转化为Token，实现人机交互。",
-    "creator": "衡宇",
-    "source": "量子位",
-    "category": "投融资信息",
-    "relevance": 6
-  },
-  {
-    "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-    "link": "https://www.qbitai.com/2026/08/477090.html",
-    "pubdate": "2026-08-22 20:21:07",
-    "contentSnippet": "将真实场景重建为持续更新、可计算的4D数字世界，中国团队在精细神经元和跨身体平台方面取得进展。",
-    "creator": "梦晨",
-    "source": "量子位",
-    "category": "技术论文",
-    "relevance": 8
-  },
-  {
-    "title": "中学生使用AI的结果极其不祥",
-    "link": "https://futurism.com/artificial-intelligence/results-high-school-students-ai",
-    "pubdate": "2026-08-22 20:03:00",
-    "contentSnippet": "在人工智能时代，取得好成绩是一种海市蜃楼，中学生使用AI的结果令人担忧。",
-    "creator": "Frank Landymore",
-    "source": "Futurism AI",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "Apollo的Slok称AI影响薪资但尚未裁员",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
-    "pubdate": "2026-08-22 20:00:00",
-    "contentSnippet": "Apollo Global Management发现AI在劳动力市场的影响，Torsten Slok表示AI对薪资有影响但尚未导致裁员。",
-    "creator": "David Westin",
-    "source": "Bloomberg Technology",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "Claude如何为AI生成文本添加水印",
-    "link": "https://magazine.sebastianraschka.com/p/claude-watermarking",
-    "pubdate": "2026-08-22 19:11:39",
-    "contentSnippet": "一段48分钟的视频讲解令牌采样、水印检测和移除。",
-    "creator": "Sebastian Raschka, PhD",
-    "source": "Ahead of AI",
-    "category": "技术论文",
-    "relevance": 8
-  },
-  {
-    "title": "新型字体让AI抓取器陷入困境",
-    "link": "https://futurism.com/artificial-intelligence/devious-new-font-turns-ai-scrapers-into-mincemeat",
-    "pubdate": "2026-08-22 18:01:00",
-    "contentSnippet": "这种字体使文本被污染，未经许可收集更困难、成本更高。",
-    "creator": "Frank Landymore",
-    "source": "Futurism AI",
-    "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "OpenAI首席经济学家谈团队工作所需素质",
-    "link": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-    "pubdate": "2026-08-22 17:50:01",
-    "contentSnippet": "OpenAI首席经济学家Ronnie Chatterji领导研究团队，探讨AI对劳动力市场和经济的影响，并分享其团队所需的关键素质。",
-    "creator": "Sarah E. Needleman",
-    "source": "Business Insider",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "好莱坞创意人员培训AI替代自己，称“挖自己职业的坟墓”",
-    "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-    "pubdate": "2026-08-22 14:00:55",
-    "contentSnippet": "好莱坞编剧、导演等创意人员从事兼职培训AI模型，以弥补收入，但担忧此举会加速自身职业的消亡。",
-    "creator": "Robert Booth UK technology editor",
-    "source": "The Guardian AI",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "AI灾难堪比广岛？专家担忧人类无法自我保护",
-    "link": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
-    "pubdate": "2026-08-22 13:00:54",
-    "contentSnippet": "蒂莫西·加顿·阿什在硅谷观察到AI发展速度超过人类控制能力，担忧即使发生广岛级灾难，人类也可能无法有效保护自己。",
-    "creator": "Timothy Garton Ash",
-    "source": "The Guardian AI",
-    "category": "安全监管",
-    "relevance": 8
-  },
-  {
-    "title": "中国AI热潮的中心：内蒙古小城成为数据中心枢纽",
-    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom",
-    "pubdate": "2026-08-22 07:25:32",
-    "contentSnippet": "内蒙古一座城市凭借廉价能源、充足土地和靠近北京的优势，成为中国AI数据中心的重要枢纽。",
-    "creator": "Zeyi Yang",
-    "source": "Wired AI",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "Anthropic Opus 4.6被指可绕过限制生成色情内容",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine",
-    "pubdate": "2026-08-22 07:07:25",
-    "contentSnippet": "TechCrunch测试发现，Anthropic的Claude模型虽禁止生成色情内容，但轻易可绕过限制。",
+    "contentSnippet": "新研究发现领先AI实验室缺乏公开的失控模型遏制计划，引发对准备工作的质疑。",
     "creator": "Rebecca Bellan",
     "source": "TechCrunch AI",
     "category": "安全监管",
     "relevance": 8
-  },
-  {
-    "title": "英伟达与数据中心开发商Cloverleaf合作",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
-    "pubdate": "2026-08-22 06:37:38",
-    "contentSnippet": "英伟达持续投资数据中心开发，与Cloverleaf达成合作，以推动AI数据中心建设。",
-    "creator": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "DeepSeek发布多模态语言模型V4 Flash Vision Exp",
-    "link": "https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8",
-    "pubdate": "2026-08-22 04:18:15",
-    "contentSnippet": "DeepSeek推出V4系列新模型，支持多模态，初期仅限付费平台，未来或开源免费。",
-    "creator": "Maria Deutscher",
-    "source": "SiliconANGLE AI",
-    "category": "模型发布",
-    "relevance": 9
-  },
-  {
-    "title": "英伟达研究显示AI智能体性能取决于框架而非模型",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
-    "pubdate": "2026-08-22 03:43:39",
-    "contentSnippet": "英伟达研究表明，通过微调，AI智能体即使模型不强也能表现良好，框架是关键。",
-    "creator": "Julie Bort",
-    "source": "TechCrunch AI",
-    "category": "技术论文",
-    "relevance": 7
-  },
-  {
-    "title": "AI行业公众形象严重受损",
-    "link": "https://futurism.com/future-society/ai-industry-fumbled-public-image",
-    "pubdate": "2026-08-22 03:03:28",
-    "contentSnippet": "调查显示，美国多数年轻人对AI感到担忧多于兴奋，行业公关形象亟待改善。",
-    "creator": "Victor Tangermann",
-    "source": "Futurism AI",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "中国监管机构要求特斯拉修复近300万辆汽车",
-    "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars",
-    "pubdate": "2026-08-22 02:07:15",
-    "contentSnippet": "中国安全监管机构针对碰撞中车门无法打开的问题，要求特斯拉召回并修复近300万辆汽车。",
-    "creator": "Jonathan M. Gitlin",
-    "source": "Ars Technica",
-    "category": "安全监管",
-    "relevance": 8
-  },
-  {
-    "title": "Meta将AI创作引入社交媒体，Vibe Coding走向主流",
-    "link": "https://www.techrepublic.com/article/news-meta-pocket-vibe-coding-social-app",
-    "pubdate": "2026-08-22 01:41:29",
-    "contentSnippet": "Meta的Pocket应用将AI生成的游戏和互动体验转化为社交内容，用户可玩、混音并分享。",
-    "creator": "Joseph Ofonagoro",
-    "source": "TechRepublic AI",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "Meta智能眼镜遭英国影院考虑限制",
-    "link": "https://www.techrepublic.com/article/news-uk-cinemas-meta-smart-glasses-piracy",
-    "pubdate": "2026-08-22 01:33:33",
-    "contentSnippet": "英国影院因盗版和隐私担忧，考虑对Meta智能眼镜实施限制，引发无障碍和录制问题。",
-    "creator": "Aminu Abdullahi",
-    "source": "TechRepublic AI",
-    "category": "安全监管",
-    "relevance": 6
-  },
-  {
-    "title": "Slack Code为AI编码代理提供共享渠道",
-    "link": "https://www.techrepublic.com/article/news-slack-code-ai-coding-agents",
-    "pubdate": "2026-08-22 00:59:11",
-    "contentSnippet": "Slack Code为AI编码代理提供共享项目渠道，团队可实时观看、指导和审查软件开发过程。",
-    "creator": "Aminu Abdullahi",
-    "source": "TechRepublic AI",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "Waymo推出定制芯片驱动下一代机器人出租车",
-    "link": "https://www.techrepublic.com/article/news-waymo-custom-ai-chips-robotaxis",
-    "pubdate": "2026-08-22 00:41:24",
-    "contentSnippet": "Waymo公布自研5纳米AI芯片，用于处理车内传感器数据，以扩大自动驾驶车队规模。",
-    "creator": "Aminu Abdullahi",
-    "source": "TechRepublic AI",
-    "category": "产品发布",
-    "relevance": 8
-  },
-  {
-    "title": "本周十大融资：国防科技、AI工具和基础设施领先",
-    "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion",
-    "pubdate": "2026-08-21 23:42:23",
-    "contentSnippet": "本周最大融资流向国防科技初创Castelion，其他大额融资涉及AI推理、视频创作、数据中心和语音转文字工具。",
-    "creator": "Joanna Glasner",
-    "source": "Crunchbase News",
-    "category": "投融资信息",
-    "relevance": 7
-  },
-  {
-    "title": "泄露备忘录显示共和党担忧AI数据中心反弹",
-    "link": "https://futurism.com/artificial-intelligence/leaked-memo-data-centers-ai-ohio-republicans-election",
-    "pubdate": "2026-08-21 23:04:35",
-    "contentSnippet": "泄露备忘录显示共和党担心AI数据中心反对声成为选举周期“潜伏问题”。",
-    "creator": "Joe Wilkins",
-    "source": "Futurism AI",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "提示：代理式AI正超越企业准备度",
-    "link": "https://aibusiness.com/agentic-ai/prompt-agentic-ai-outpacing-enterprise-readiness",
-    "pubdate": "2026-08-21 22:28:42",
-    "contentSnippet": "随着代理部署加速，许多企业仍在努力应对支持其规模化所需的流程、数据、成本和控制。",
-    "creator": "Liz Hughes",
-    "source": "AI Business",
-    "category": "行业动态",
-    "relevance": 7
-  },
-  {
-    "title": "政治冲击数据中心，OpenAI落后于Anthropic，AI大而不能倒",
-    "link": "https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly",
-    "pubdate": "2026-08-21 22:00:32",
-    "contentSnippet": "数据中心成为中期选举政治问题，共和党担忧反对声；OpenAI落后Anthropic，AI行业“大而不能倒”。",
-    "creator": "Robert Hof",
-    "source": "SiliconANGLE AI",
-    "category": "行业动态",
-    "relevance": 8
-  },
-  {
-    "title": "美国司法部调查a16z，对风投意味着什么？",
-    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
-    "pubdate": "2026-08-21 22:00:00",
-    "contentSnippet": "Andreessen Horowitz合伙人兼任竞争公司董事，司法部据报调查近一年，援引百年反垄断法。",
-    "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
-    "source": "TechCrunch AI",
-    "category": "安全监管",
-    "relevance": 7
-  },
-  {
-    "title": "Starcloud融资2.5亿美元建设轨道数据中心，发射选项枯竭",
-    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
-    "pubdate": "2026-08-21 22:00:00",
-    "contentSnippet": "Starcloud为轨道数据中心融资2.5亿美元，但面临发射选项枯竭的挑战，太空竞争加剧。",
-    "creator": "Tim Fernholz",
-    "source": "TechCrunch AI",
-    "category": "投融资信息",
-    "relevance": 7
-  },
-  {
-    "title": "Waymo在机器人出租车竞争中加倍游说支出",
-    "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber",
-    "pubdate": "2026-08-21 21:11:35",
-    "contentSnippet": "Alphabet旗下Waymo增加游说支出，以说服美国监管机构为全自动驾驶出租车服务扫清障碍。",
-    "creator": "Rafe Rosner Uddin and Michael Taffe, Financial Times",
-    "source": "Ars Technica",
-    "category": "行业动态",
-    "relevance": 6
   }
 ];
