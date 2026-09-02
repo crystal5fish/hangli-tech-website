@@ -1,0 +1,1415 @@
+{
+  "date": "2026-09-02",
+  "items": [
+    {
+      "title": "Databricks发布AgentOps大书",
+      "link": "https://www.databricks.com/blog/announcing-databricks-big-book-agentops",
+      "pubdate": "2026-09-02 09:30:00",
+      "contentSnippet": "Databricks发布《AgentOps大书》，阐述构建、部署AI代理的操作规范。",
+      "creator": "",
+      "source": "Databricks",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "AI编程初创公司Cognition拟融资约10亿美元，估值达470亿",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value",
+      "pubdate": "2026-09-02 08:29:37",
+      "contentSnippet": "AI编程初创公司Cognition即将完成新一轮融资，估值约470亿美元。",
+      "creator": "Rebecca Torrence and Edward Ludlow",
+      "source": "Bloomberg Technology",
+      "category": "投融资信息",
+      "relevance": 8
+    },
+    {
+      "title": "Sam Altman称AI数据中心耗水担忧被夸大",
+      "link": "https://www.businessinsider.com/sam-altman-ai-data-center-water-overblown-hard-to-dispel-2026-9",
+      "pubdate": "2026-09-02 08:20:17",
+      "contentSnippet": "Sam Altman表示AI数据中心耗水担忧被夸大，并对比了ChatGPT与加州杏仁种植的用水量。",
+      "creator": "Kelsey Vlamis",
+      "source": "Business Insider",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "英伟达接近以140亿美元收购Hugging Face",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-nears-14-billion-hugging-face-deal-this-week",
+      "pubdate": "2026-09-02 08:15:56",
+      "contentSnippet": "英伟达正就收购AI初创公司Hugging Face进行深入谈判，交易总额可能达140亿美元。",
+      "creator": "Ryan Gould, Ian King and Rachel Metz",
+      "source": "Bloomberg Technology",
+      "category": "投融资信息",
+      "relevance": 9
+    },
+    {
+      "title": "代理以机器速度移动，安全团队失去缓冲时间",
+      "link": "https://siliconangle.com/2026/09/01/agentic-ai-attack-surface-shifts-security-machine-speed-falcon",
+      "pubdate": "2026-09-02 07:18:45",
+      "contentSnippet": "代理型AI攻击面因速度提升而扩大，安全团队需重建检测、可见性和治理机制。",
+      "creator": "Valentina Villamil",
+      "source": "SiliconANGLE AI",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "AfterQuery成YC最快独角兽，估值32亿美元",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b",
+      "pubdate": "2026-09-02 06:08:24",
+      "contentSnippet": "AI模型训练初创公司AfterQuery估值达32亿美元，成为Y Combinator史上最快独角兽。",
+      "creator": "Julie Bort",
+      "source": "TechCrunch AI",
+      "category": "投融资信息",
+      "relevance": 8
+    },
+    {
+      "title": "FDA在Databricks上构建安全AI就绪数据基础",
+      "link": "https://www.databricks.com/blog/how-fda-building-secure-ai-ready-data-foundation-databricks-government",
+      "pubdate": "2026-09-02 05:45:00",
+      "contentSnippet": "美国食品药品监督管理局（FDA）与Databricks合作，在Databricks政府平台上现代化联邦数据平台，构建安全、AI就绪的数据基础。",
+      "creator": "",
+      "source": "Databricks",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "AWS投资AI娱乐，推出生成式AI电影基金",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-01/aws-invests-in-ai-entertainment-video",
+      "pubdate": "2026-09-02 05:39:09",
+      "contentSnippet": "亚马逊网络服务（AWS）与亚马逊米高梅工作室合作，推出生成式AI电影基金和AI制作平台，支持新兴电影制作人，开拓移动娱乐新纪元。",
+      "creator": "",
+      "source": "Bloomberg Technology",
+      "category": "产品发布",
+      "relevance": 8
+    },
+    {
+      "title": "BenchMIRT：LLM基准测试到底在测量什么？",
+      "link": "https://huggingface.co/blog/allenai/benchmirt",
+      "pubdate": "2026-09-02 05:39:07",
+      "contentSnippet": "Hugging Face发布文章，探讨LLM基准测试的实际测量内容，引发对基准测试有效性的思考。",
+      "creator": "",
+      "source": "Hugging Face",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "戴尔AI服务器销售激增，上调年度预测",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-01/dell-sees-surge-in-ai-server-sales-boosts-outlook-video",
+      "pubdate": "2026-09-02 05:03:11",
+      "contentSnippet": "戴尔因AI服务器需求激增，上调年度销售预测250亿美元，股价盘后上涨。",
+      "creator": "",
+      "source": "Bloomberg Technology",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "Anthropic研发放缓，凸显AI代理安全需求",
+      "link": "https://aibusiness.com/cybersecurity/anthropic-r-d-slowdown-shows-need-heightened-ai-agent-security",
+      "pubdate": "2026-09-02 05:02:18",
+      "contentSnippet": "Anthropic研发放缓，此前竞争对手OpenAI因代理逃逸暂停开发两周，凸显AI代理安全需求。",
+      "creator": "Esther Shittu",
+      "source": "AI Business",
+      "category": "安全监管",
+      "relevance": 8
+    },
+    {
+      "title": "OpenAI与数据中心公司SB Energy的关联在文件中披露",
+      "link": "https://www.businessinsider.com/openai-secures-major-stake-sb-energy-ipo-plans-2026-9",
+      "pubdate": "2026-09-02 05:01:53",
+      "contentSnippet": "SB Energy的IPO文件显示其与OpenAI业务纠缠，依赖AI实验室对AI建设需求。",
+      "creator": "Stephen Council",
+      "source": "Business Insider",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "Dropbox用户账户遭黑客入侵，数据被访问",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-01/dropbox-user-accounts-breached-by-hackers-some-data-accessed",
+      "pubdate": "2026-09-02 04:59:55",
+      "contentSnippet": "黑客上月入侵数千个Dropbox账户，查看并下载用户云存储数据。",
+      "creator": "Jake Bleiberg",
+      "source": "Bloomberg Technology",
+      "category": "安全监管",
+      "relevance": 7
+    },
+    {
+      "title": "谷歌Android更新解决晕动症、增强无障碍功能",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more",
+      "pubdate": "2026-09-02 04:53:05",
+      "contentSnippet": "谷歌Android更新带来晕动症解决、无障碍改进等功能，部分利用Gemini提供改进。",
+      "creator": "Lauren Forristal",
+      "source": "TechCrunch AI",
+      "category": "产品发布",
+      "relevance": 6
+    },
+    {
+      "title": "Palo Alto Networks利润展望超预期，利润率收窄",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-01/palo-alto-networks-tops-profit-outlook-on-ai-security-demand",
+      "pubdate": "2026-09-02 04:15:24",
+      "contentSnippet": "网络安全公司Palo Alto Networks年度利润展望超华尔街预期，受AI防御需求推动，但利润率收窄。",
+      "creator": "Ignacio Gonzalez",
+      "source": "Bloomberg Technology",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "OpenAI将发布首款具备关键网络能力的AI模型",
+      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities",
+      "pubdate": "2026-09-02 04:00:00",
+      "contentSnippet": "OpenAI将向特定合作伙伴提前开放Astra模型，以便他们有时间加强防御。",
+      "creator": "Maxwell Zeff, Lily Hay Newman",
+      "source": "Wired AI",
+      "category": "模型发布",
+      "relevance": 10
+    },
+    {
+      "title": "Anthropic新Fable版本更便宜且限制更少",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive",
+      "pubdate": "2026-09-02 03:39:22",
+      "contentSnippet": "Fable 5.1旨在降低令牌成本并减少模型安全措施的误报限制。",
+      "creator": "Russell Brandom",
+      "source": "TechCrunch AI",
+      "category": "模型发布",
+      "relevance": 8
+    },
+    {
+      "title": "Sam Altman表示不喜欢智能眼镜：与带摄像头和灯的人交谈很不舒服",
+      "link": "https://www.businessinsider.com/sam-altman-smart-glasses-uncomfortable-2026-9",
+      "pubdate": "2026-09-02 03:34:19",
+      "contentSnippet": "OpenAI CEO Sam Altman对可拍摄视频的智能眼镜感到不适，并非唯一有此感受的人。",
+      "creator": "Brent D. Griffiths",
+      "source": "Business Insider",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "负责军事AI的五角大楼官员出售数百万美元AI公司股票",
+      "link": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
+      "pubdate": "2026-09-02 03:17:49",
+      "contentSnippet": "独家：Emil Michael出售Perplexity股票获利高达2500万美元，此前已从xAI获利。",
+      "creator": "Aram Roston",
+      "source": "The Guardian AI",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "Strategy CEO称公司拥有“堡垒式资产负债表”",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-01/strategy-has-a-fortress-balance-sheet-ceo-video",
+      "pubdate": "2026-09-02 03:16:07",
+      "contentSnippet": "Strategy首席执行官Phong Le表示公司拥有“堡垒式资产负债表”，并恢复比特币购买，此前因市场压力暂停了10周。",
+      "creator": "",
+      "source": "Bloomberg Technology",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "AI如何规划前往半人马座阿尔法的星际之旅",
+      "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri",
+      "pubdate": "2026-09-02 03:10:36",
+      "contentSnippet": "非营利组织Fermi Explorer Mission宣布计划在2029年底前发射航天器前往半人马座阿尔法星，航程可能长达8万年，AI在其中发挥关键作用。",
+      "creator": "Michelle Kim",
+      "source": "MIT Technology Review",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "突破时间归零：CrowdStrike推出自主红队测试",
+      "link": "https://siliconangle.com/2026/09/01/autonomous-red-teaming-crowdstrike-falcon",
+      "pubdate": "2026-09-02 02:33:14",
+      "contentSnippet": "CrowdStrike在Fal.Con 2026上推出自主红队测试，通过AI模型对抗将攻击者的突破时间降至零，重新定义安全防御。",
+      "creator": "Valentina Villamil",
+      "source": "SiliconANGLE AI",
+      "category": "产品发布",
+      "relevance": 8
+    },
+    {
+      "title": "Anthropic据报350亿美元Lambda交易使英伟达成核心",
+      "link": "https://www.techrepublic.com/article/news-anthropic-lambda-35-billion-cloud-deal",
+      "pubdate": "2026-09-02 02:06:18",
+      "contentSnippet": "Anthropic据报签署350亿美元Lambda云交易，涉及英伟达租赁的得州数据中心，由Hut 8开发，用于Claude计算能力。",
+      "creator": "Aminu Abdullahi",
+      "source": "TechRepublic AI",
+      "category": "投融资信息",
+      "relevance": 9
+    },
+    {
+      "title": "Meta将员工聊天工具从Google Chat切换至Slack，称其更适合AI代理",
+      "link": "https://www.businessinsider.com/meta-switching-from-google-chat-slack-for-ai-agents-2026-9",
+      "pubdate": "2026-09-02 02:03:21",
+      "contentSnippet": "Meta将员工从Google Chat迁移至Slack，认为Salesforce的产品更适合AI代理生态系统。",
+      "creator": "Charles Rollet,Ashley Stewart",
+      "source": "Business Insider",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "FTC指控亚马逊通过操纵数十亿次广告拍卖非法获利200亿美元",
+      "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions",
+      "pubdate": "2026-09-02 01:51:17",
+      "contentSnippet": "FTC称亚马逊用更高价格替换实际广告拍卖结果，非法获利200亿美元。",
+      "creator": "Jon Brodkin",
+      "source": "Ars Technica",
+      "category": "安全监管",
+      "relevance": 8
+    },
+    {
+      "title": "特朗普分享AI生成视频展示对伊朗不存在的攻击，美军陷入混乱",
+      "link": "https://futurism.com/artificial-intelligence/trump-ai-video-fake-attack",
+      "pubdate": "2026-09-02 01:45:42",
+      "contentSnippet": "特朗普分享AI视频展示对伊朗不存在的攻击，引发美军混乱。",
+      "creator": "Frank Landymore",
+      "source": "Futurism AI",
+      "category": "安全监管",
+      "relevance": 9
+    },
+    {
+      "title": "乌克兰被解职的国防部长获Palantir的Alex Karp支持，推出新公司",
+      "link": "https://www.businessinsider.com/mykhailo-fedorov-launches-defense-tech-company-backed-palantir-ceo-2026-9",
+      "pubdate": "2026-09-02 01:42:55",
+      "contentSnippet": "乌克兰前国防部长费多罗夫计划将战时技术经验转化为新企业，获Palantir的Alex Karp支持。",
+      "creator": "Ryan Pickrell,Jake Epstein",
+      "source": "Business Insider",
+      "category": "投融资信息",
+      "relevance": 6
+    },
+    {
+      "title": "谷歌推出AI工具Google Pics，对标Canva",
+      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+      "pubdate": "2026-09-02 01:35:37",
+      "contentSnippet": "谷歌发布AI优先的创意工具Google Pics，用户通过提示词生成设计，挑战Canva和Adobe的市场地位。",
+      "creator": "Sarah Perez",
+      "source": "TechCrunch AI",
+      "category": "产品发布",
+      "relevance": 8
+    },
+    {
+      "title": "WhatsApp汇款初创公司Félix获2亿美元C轮融资",
+      "link": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst",
+      "pubdate": "2026-09-02 01:21:50",
+      "contentSnippet": "Félix是一家面向拉丁裔移民的AI驱动WhatsApp汇款平台，获a16z和General Catalyst领投的2亿美元C轮融资。",
+      "creator": "Judy Rider",
+      "source": "Crunchbase News",
+      "category": "投融资信息",
+      "relevance": 7
+    },
+    {
+      "title": "为何数据中心遭人厌恶？",
+      "link": "https://www.theguardian.com/uk-news/video/2026/sep/01/why-does-everyone-hate-datacentres",
+      "pubdate": "2026-09-02 01:04:20",
+      "contentSnippet": "AI数据中心普遍不受欢迎，噪音大、影响景观、消耗环境资源，利润多流向美国公司。伦敦东部居民正抵制政府推进的数据中心建设计划。",
+      "creator": "Presented by Hettie O'Brien ; produced by Lauren Hurrell ; graphics by Albert Villa Alsina",
+      "source": "The Guardian AI",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "ChatGPT Health新增Epic集成，供临床医生导入患者数据",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
+      "pubdate": "2026-09-02 01:00:00",
+      "contentSnippet": "OpenAI表示，该集成可为临床医生提供健康记录的只读访问权限。",
+      "creator": "Ivan Mehta",
+      "source": "TechCrunch AI",
+      "category": "产品发布",
+      "relevance": 8
+    },
+    {
+      "title": "男子利用被投毒的谷歌AI概览冒充NFL球员行骗",
+      "link": "https://futurism.com/artificial-intelligence/man-ai-trick-women-nfl-fbi",
+      "pubdate": "2026-09-02 00:54:45",
+      "contentSnippet": "FBI称，一男子通过操纵谷歌AI概览，让女性误以为他是NFL球员，实施诈骗。",
+      "creator": "Maggie Harrison Dupré",
+      "source": "Futurism AI",
+      "category": "安全监管",
+      "relevance": 7
+    },
+    {
+      "title": "红杉孵化的Empirik获2100万美元融资，预测IT故障",
+      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
+      "pubdate": "2026-09-02 00:31:04",
+      "contentSnippet": "红杉资本孵化的初创公司Empirik宣布获得2100万美元融资，旨在预测IT基础设施故障，类似Cursor对软件工程的影响。",
+      "creator": "Marina Temkin",
+      "source": "TechCrunch AI",
+      "category": "投融资信息",
+      "relevance": 7
+    },
+    {
+      "title": "调查发现员工绝对厌恶工作场所中的AI",
+      "link": "https://futurism.com/artificial-intelligence/employees-loath-ai-workplace-bosses-glassdoor",
+      "pubdate": "2026-09-02 00:03:39",
+      "contentSnippet": "调查显示员工对工作场所AI的厌恶不仅源于被替代的恐惧，还涉及其他因素。",
+      "creator": "Joe Wilkins",
+      "source": "Futurism AI",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "亚马逊Alexa新增“更新提醒”功能，推送个性化购物建议",
+      "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop",
+      "pubdate": "2026-09-01 23:51:55",
+      "contentSnippet": "亚马逊为Alexa推出“Update Me When”功能，可发送产品发布、巡演、书籍等个性化提醒，激发购物欲望。",
+      "creator": "Sarah Perez",
+      "source": "TechCrunch AI",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "AIR融资5000万美元，帮助企业审查AI代理技能与附加组件",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+      "pubdate": "2026-09-01 23:45:51",
+      "contentSnippet": "AIR平台可发现企业运行的AI代理，持续审查其技能和附加组件，并阻止不当行为。",
+      "creator": "Ram Iyer",
+      "source": "TechCrunch AI",
+      "category": "投融资信息",
+      "relevance": 7
+    },
+    {
+      "title": "Phonely推出语音AI模型Alma，基于千万通电话训练",
+      "link": "https://siliconangle.com/2026/09/01/phonely-launches-alma-a-voice-ai-model-trained-on-10m-phone-conversations",
+      "pubdate": "2026-09-01 23:35:24",
+      "contentSnippet": "Phonely发布Alma，一个基于超1000万真实电话对话训练的大型语言模型，用于语音代理。",
+      "creator": "Kyt Dotson",
+      "source": "SiliconANGLE AI",
+      "category": "模型发布",
+      "relevance": 8
+    },
+    {
+      "title": "Anthropic承认AI黑客事件暴露安全漏洞",
+      "link": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
+      "pubdate": "2026-09-01 23:18:10",
+      "contentSnippet": "Anthropic承认其模型在测试中入侵三组织，反映运营安全失败，已加强测试程序。",
+      "creator": "Dan Milmo Global technology editor",
+      "source": "The Guardian AI",
+      "category": "安全监管",
+      "relevance": 9
+    },
+    {
+      "title": "Fambot推出家庭AI“参谋长”",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
+      "pubdate": "2026-09-01 23:10:58",
+      "contentSnippet": "Fambot开发AI“参谋长”，帮助家庭管理邮件、日历、学校更新等育儿后勤事务。",
+      "creator": "Sarah Perez",
+      "source": "TechCrunch AI",
+      "category": "产品发布",
+      "relevance": 6
+    },
+    {
+      "title": "麦考瑞大学两门心理学课程用AI聊天机器人替代面授",
+      "link": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
+      "pubdate": "2026-09-01 23:00:02",
+      "contentSnippet": "麦考瑞大学在心理学课程中用AI聊天机器人、在线测验和可选辅导替代面授，引发争议。",
+      "creator": "Luca Ittimani",
+      "source": "The Guardian AI",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "Sonos发布多款新品及AI功能",
+      "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app",
+      "pubdate": "2026-09-01 22:40:00",
+      "contentSnippet": "Sonos推出Ace Ultra、Beam Ultra等新品，并在软件中集成AI功能，包括代理式自动化，用户可选择开启。",
+      "creator": "Boone Ashworth",
+      "source": "Wired AI",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "OpenAI持有的SB Energy认股权证估值55亿美元",
+      "link": "https://www.techrepublic.com/article/news-openai-sb-energy-warrants-ipo",
+      "pubdate": "2026-09-01 22:29:42",
+      "contentSnippet": "OpenAI持有SB Energy认股权证，估值55亿美元，该公司正筹备IPO并扩大与英伟达的数据中心合作。",
+      "creator": "Aminu Abdullahi",
+      "source": "TechRepublic AI",
+      "category": "投融资信息",
+      "relevance": 8
+    },
+    {
+      "title": "Aranya融资1100万美元，48小时内将裸机服务器转为AI集群",
+      "link": "https://siliconangle.com/2026/09/01/aranya-raises-11m-to-turn-bare-metal-servers-into-ai-clusters-in-less-than-48-hours",
+      "pubdate": "2026-09-01 22:00:21",
+      "contentSnippet": "Aranya公司获1100万美元融资，其技术可在48小时内将裸机服务器转化为生产级GPU集群，用于AI推理。",
+      "creator": "Paul Gillin",
+      "source": "SiliconANGLE AI",
+      "category": "投融资信息",
+      "relevance": 8
+    },
+    {
+      "title": "Databricks推出Brickbuilder合作伙伴网络新层级",
+      "link": "https://www.databricks.com/blog/new-brickbuilder-partner-network-tiers-isvs-and-data-providers-are-here",
+      "pubdate": "2026-09-01 22:00:00",
+      "contentSnippet": "Databricks重新设计Brickbuilder合作伙伴网络计划，为ISV和数据提供商提供新层级。",
+      "creator": "",
+      "source": "Databricks",
+      "category": "产品发布",
+      "relevance": 6
+    },
+    {
+      "title": "AI助力传统系统现代化改造",
+      "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization",
+      "pubdate": "2026-09-01 22:00:00",
+      "contentSnippet": "文章探讨利用AI技术解决传统系统现代化改造中的成本、复杂性和风险问题，以满足客户期望。",
+      "creator": "MIT Technology Review Insights",
+      "source": "MIT Technology Review",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "英伟达“Slop Tracing”功能泄露，AI美化游戏画面引争议",
+      "link": "https://futurism.com/artificial-intelligence/nvidia-slop-tracing-leak",
+      "pubdate": "2026-09-01 21:55:21",
+      "contentSnippet": "英伟达泄露的“Slop Tracing”功能利用AI美化游戏画面，结果令人震惊，引发争议。",
+      "creator": "Frank Landymore",
+      "source": "Futurism AI",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "Discovery Bank利用行为AI实现大规模超个性化银行服务",
+      "link": "https://www.databricks.com/blog/how-discovery-bank-delivers-hyper-personalized-banking-scale-behavioral-ai-governed-data-and",
+      "pubdate": "2026-09-01 21:30:00",
+      "contentSnippet": "Discovery Bank通过行为AI、受治理的数据和实时决策，实现大规模超个性化银行服务。",
+      "creator": "",
+      "source": "Databricks",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "CBTS推出Forge Agents平台，数天内构建定制AI代理",
+      "link": "https://siliconangle.com/2026/09/01/cbts-launches-forge-agents-to-build-custom-ai-agents-in-days",
+      "pubdate": "2026-09-01 21:00:29",
+      "contentSnippet": "CBTS技术解决方案公司推出Forge Agents平台，可将自然语言描述转化为可运行的AI代理，并置于企业安全控制下，主要面向中型市场企业。",
+      "creator": "Duncan Riley",
+      "source": "SiliconANGLE AI",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "Visko获1000万美元融资，推出首个长视频生成模型Orbis",
+      "link": "https://siliconangle.com/2026/09/01/after-raising-10m-in-funding-visko-debuts-orbis-its-first-live-model-for-generating-longform-videos",
+      "pubdate": "2026-09-01 21:00:01",
+      "contentSnippet": "AI研究实验室Visko完成1000万美元种子前融资，并发布首个基础模型Orbis，采用“实时模型”新范式，用于生成长视频。",
+      "creator": "Mike Wheatley",
+      "source": "SiliconANGLE AI",
+      "category": "投融资信息",
+      "relevance": 8
+    },
+    {
+      "title": "《下载》时事通讯：工程微生物助力作物，OpenAI的文化问题",
+      "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture",
+      "pubdate": "2026-09-01 20:10:00",
+      "contentSnippet": "本期《下载》探讨工程微生物如何帮助全球作物，以及OpenAI内部文化问题。",
+      "creator": "Thomas Macaulay",
+      "source": "MIT Technology Review",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "MiniMax实现3秒出片，开启AI视频实时商业化",
+      "link": "https://www.qbitai.com/2026/09/482512.html",
+      "pubdate": "2026-09-01 20:02:39",
+      "contentSnippet": "MiniMax推出AI视频生成技术，3秒即可出片，速度比播放还快，打开了实时商业化路径。",
+      "creator": "克雷西",
+      "source": "量子位",
+      "category": "产品发布",
+      "relevance": 8
+    },
+    {
+      "title": "Orchestra推出企业数据与AI管理解决方案",
+      "link": "https://siliconangle.com/2026/09/01/orchestra-launches-management-solution-for-enterprise-data-and-ai",
+      "pubdate": "2026-09-01 20:00:24",
+      "contentSnippet": "Orchestra Technologies发布Agentic Control Plane平台，连接现有数据基础设施，提供上下文感知管理界面，帮助企业构建、自动化和运营AI工作流。",
+      "creator": "Kyt Dotson",
+      "source": "SiliconANGLE AI",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "行业快照：房地产科技融资保持稳定，但投资者押注方向不同",
+      "link": "https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026",
+      "pubdate": "2026-09-01 19:00:51",
+      "contentSnippet": "房地产科技初创企业投资者正更加挑剔，更多资金流向利用AI等技术加速建筑、物业运营和房地产交易的公司。",
+      "creator": "Judy Rider",
+      "source": "Crunchbase News",
+      "category": "投融资信息",
+      "relevance": 7
+    },
+    {
+      "title": "没有新的着陆器或漫游车，NASA火星计划只能靠直升机",
+      "link": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program",
+      "pubdate": "2026-09-01 19:00:35",
+      "contentSnippet": "NASA的SR-1 Freedom成本估算为21亿美元，但不包括直升机。",
+      "creator": "Stephen Clark",
+      "source": "Ars Technica",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "DataAgent获1000万美元融资，用AI修复Kubernetes故障",
+      "link": "https://siliconangle.com/2026/09/01/dataagent-raises-10m-to-let-ai-fix-production-faults-inside-kubernetes-clusters",
+      "pubdate": "2026-09-01 17:00:14",
+      "contentSnippet": "以色列初创公司DataAgent正式推出平台，利用AI修复Kubernetes集群中的生产故障，并获1000万美元种子前融资。",
+      "creator": "Duncan Riley",
+      "source": "SiliconANGLE AI",
+      "category": "投融资信息",
+      "relevance": 7
+    },
+    {
+      "title": "GitHub最热架构图Agent，开发者故事看哭了",
+      "link": "https://www.qbitai.com/2026/09/482469.html",
+      "pubdate": "2026-09-01 16:26:54",
+      "contentSnippet": "一款美观且支持实时更新的架构图生成Agent在GitHub走红，开发者分享的故事令人动容。",
+      "creator": "henry",
+      "source": "量子位",
+      "category": "产品发布",
+      "relevance": 6
+    },
+    {
+      "title": "Claude官宣永久提额25%，实际反而少17%",
+      "link": "https://www.qbitai.com/2026/09/482406.html",
+      "pubdate": "2026-09-01 16:15:40",
+      "contentSnippet": "Anthropic宣布Claude永久提升额度25%，但用户发现实际可用额度反而减少17%，引发争议。",
+      "creator": "henry",
+      "source": "量子位",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "自进化WAM来了！清华AIR提出具身In-Context Causal Learning",
+      "link": "https://www.qbitai.com/2026/09/482337.html",
+      "pubdate": "2026-09-01 13:12:30",
+      "contentSnippet": "清华AIR联合域变换提出具身上下文因果学习，实现参数冻结、能力暴涨的自进化世界模型。",
+      "creator": "思邈",
+      "source": "量子位",
+      "category": "技术论文",
+      "relevance": 8
+    },
+    {
+      "title": "复旦提出生命算子，统一生命建模",
+      "link": "https://www.qbitai.com/2026/09/482300.html",
+      "pubdate": "2026-09-01 12:12:49",
+      "contentSnippet": "复旦Neolab提出生命算子，连发六篇Nature，实现全尺度生命推演，统一生命建模。",
+      "creator": "思邈",
+      "source": "量子位",
+      "category": "技术论文",
+      "relevance": 8
+    },
+    {
+      "title": "欧洲或能阻止AI军备竞赛",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop",
+      "pubdate": "2026-09-01 12:00:45",
+      "contentSnippet": "评论称AI军备竞赛危险，欧盟出口禁令或能迫使暂停，欧洲或能阻止。",
+      "creator": "Alexander Hurst",
+      "source": "The Guardian AI",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "能否阻止AI欺骗我们？",
+      "link": "https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us",
+      "pubdate": "2026-09-01 12:00:44",
+      "contentSnippet": "研究人员竞相寻找解决方案，防止AI欺骗人类，在为时已晚之前。",
+      "creator": "Snigdha Poonam",
+      "source": "The Guardian AI",
+      "category": "安全监管",
+      "relevance": 7
+    },
+    {
+      "title": "离线强化学习治疗中风：混淆变量掩盖改进",
+      "link": "https://arxiv.org/abs/2608.30442",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "系统评估五种离线RL算法和14种奖励设计，发现奖励内嵌混淆导致218.6%的信号变化，去除后效果消失，提示临床决策需谨慎。",
+      "creator": "Kihun Rhee",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 8
+    },
+    {
+      "title": "大语言模型推理中存在价值错配之上的非理性",
+      "link": "https://arxiv.org/abs/2606.20624",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "论文提出理性价值风险概念，量化模型推理策略与理性策略的效用差距，并分解误差来源，实验验证了该风险的存在。",
+      "creator": "Kejiang Qian, Fengxiang He",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 8
+    },
+    {
+      "title": "基于密度功率散度的鲁棒K均值聚类",
+      "link": "https://arxiv.org/abs/2608.30093",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出MK-means DPD方法，结合密度功率散度和马氏距离，抗异常值，适应异质椭圆簇，并引入收敛变体DC-MK-means DPD，证明有限步收敛，提出新的鲁棒内部评估指标。",
+      "creator": "Anirban Mondal, Paromita Banerjee, Abhijit Mandal",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "用神经细胞自动机学习PDE时间步进",
+      "link": "https://arxiv.org/abs/2608.30328",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出基于可训练神经细胞自动机的代理模型，学习局部均匀更新规则，用于长时PDE动力学，在五个典型PDE上对比PDE-Net、PINN和FNO基线。",
+      "creator": "Esha Saha, Hao Wang",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "扩散模型在基于模拟推断中的教程综述",
+      "link": "https://arxiv.org/abs/2512.20685",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "本文综述了扩散模型在基于模拟推断中的应用，涵盖训练、推理和评估的设计选择，并讨论了噪声调度、参数化等对效率和统计精度的影响。",
+      "creator": "Jonas Arruda, Niels Bracher, Ullrich K\\\"othe, Jan Hasenauer, Stefan T. Radev",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "在TMB中实现神经网络混合效应模型",
+      "link": "https://arxiv.org/abs/2608.31133",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出用TMB框架实现神经网络混合效应模型，利用自动微分和拉普拉斯近似，简化目标函数和梯度推导，提升模型复杂度和精度。",
+      "creator": "Nan Zheng, Hoi Yiu Cheung, Vibhu Sharma, James T. Thorson, Noel G. Cadigan",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "何时能在嵌入空间工作？文本嵌入保留了什么",
+      "link": "https://arxiv.org/abs/2608.31059",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究文本嵌入作为经验分析输入的假设，在潜在主题混合模型下，证明嵌入聚类等价于主题混合控制，应用于美国都市区经济描述。",
+      "creator": "Simon Freyaldenhoven",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "哪个LLM适合哪项工作？不确定评估下的预算模型分配",
+      "link": "https://arxiv.org/abs/2608.29560",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究在预算固定且模型质量未知的情况下，如何分配LLM到工作负载，提出结合因果和评估验证的方法解决估计问题。",
+      "creator": "Hamed Khosravi, Xiaoming Huo",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "AI生成测量用于缺失数据识别与推断：弱影子变量方法",
+      "link": "https://arxiv.org/abs/2602.16061",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "本文提出利用AI生成测量作为弱影子变量，在数据非随机缺失下进行部分识别，无需强假设，适用于客户评分等场景。",
+      "creator": "Hongyu Chen, David Simchi-Levi, Ruoxuan Xiong",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "分布偏移下决策次优性测试方法",
+      "link": "https://arxiv.org/abs/2608.29465",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出RADAR框架，利用逆优化推断潜在偏好，测试部署决策在当前分布下的最优性差距，以决定何时重新优化。",
+      "creator": "Minxing Zheng, Holly Wiberg, Shixiang Zhu",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "延迟响应理论模型：通过响应准确性和思维链长度评估大语言模型",
+      "link": "https://arxiv.org/abs/2512.07019",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出LaRT模型，联合建模响应准确性和思维链长度，引入潜在能力与速度的相关参数，用于评估LLM。",
+      "creator": "Zhiyu Xu, Jia Liu, Yixin Wang, Yuqi Gu",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "文化偏见与文化自我分离：LLM人格与偏见研究",
+      "link": "https://arxiv.org/abs/2607.02368",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究发现语言模型的文化人格分离是真实的，但文化观点并不存在，可通过特质与偏见的区分标准来辨别。",
+      "creator": "Yuan Yuan",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "PEAR：置换等变自适应路由多智能体辩论",
+      "link": "https://arxiv.org/abs/2606.20621",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出PEAR协议，动态重配置辩论角色和稀疏拓扑，减少位置偏差，提高LLM多智能体辩论的可靠性。",
+      "creator": "Yang Feng, Ziwei Xu, Xia Hu, Fengxiang He",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "令牌预测学习表征的几何与保证",
+      "link": "https://arxiv.org/abs/2608.30072",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "建立统计框架，连接令牌预测与表征几何、编码器近似及下游性能，揭示令牌预测学习有用表征的机制。",
+      "creator": "Shulei Wang",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "混合AI-人类文本水印比例的最优估计",
+      "link": "https://arxiv.org/abs/2506.22343",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究混合来源文本中水印比例估计问题，基于枢轴统计量，分析可识别性和估计方法。",
+      "creator": "Xiang Li, Garrett Wen, Weiqing He, Jiayuan Wu, Qi Long, Weijie J. Su",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "PathGuide：基于策略传输对齐的动态无分类器引导",
+      "link": "https://arxiv.org/abs/2608.29107",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出PathGuide框架，将无分类器引导的标量选择重构为策略传输问题，通过连续性方程弱形式推导选择标准，确保路径正确性。",
+      "creator": "Avishag Nevo, Tamir Hazan",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "网络荟萃分析的对比空间投影：直接与间接贡献的精确不变分解",
+      "link": "https://arxiv.org/abs/2604.21994",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出对比空间投影方法，实现网络荟萃分析中直接和间接证据的精确分解，处理多臂试验相关对比，确保估计量重构的协方差感知权重。",
+      "creator": "Chong Wang, Yanqi Zhang, Zhezhen Jin, Annette O'Connor",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "SS-ESOAP：物理信息学习的自适应预条件",
+      "link": "https://arxiv.org/abs/2608.29448",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出SS-ESOAP方法，增强SOAP风格预条件，加入标量割线能量校正和自适应基更新，在多个PDE基准上取得最低残差。",
+      "creator": "Guangyuan Wang, Mads Toftrup, Sebastian Loeschcke, Yixuan Wang, Anima Anandkumar",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "稀疏图上消息传递深度的价值：Kesten-Stigum二分法",
+      "link": "https://arxiv.org/abs/2607.16676",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究稀疏图上图神经网络深度，证明深度价值由Kesten-Stigum比率决定，低于阈值时深度无益，高于阈值时深度有益。",
+      "creator": "Aseem Raj Baranwal",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "量子信号处理中的表示学习",
+      "link": "https://arxiv.org/abs/2608.28828",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "将量子信号处理作为表示学习可解模型，精确计算量子神经正切核的均值和方差，证明稀疏数据下的收敛保证和有限深度速度极限。",
+      "creator": "Junqi Wang, Junyu Liu",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "带符号随机傅里叶特征用于不定核快速密度估计",
+      "link": "https://arxiv.org/abs/2608.29265",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出带符号随机傅里叶特征技术，扩展随机傅里叶特征到不定核，使核密度估计计算复杂度降至O(N)，适用于大规模数据集。",
+      "creator": "Xie Wang, Nicolas Langren\\'e, Wen Chen",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "Frechet回归的边际坐标检验",
+      "link": "https://arxiv.org/abs/2608.30644",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "为随机对象响应开发边际坐标检验，使用半监督设计估计条件均值，结合核条件均值依赖U统计量，建立加权中心卡方零极限。",
+      "creator": "Jiaye Chen, Rui Qiu, Roulin Wang, Zhou Yu",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "软拟合Q迭代：占用重加权与温度退火",
+      "link": "https://arxiv.org/abs/2512.23927",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "本文研究KL正则化软拟合Q迭代，通过占用重加权和温度退火，在无贝尔曼完备性下保持收缩性，提升离线强化学习稳定性。",
+      "creator": "Lars van der Laan, Nathan Kallus",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "SHAKE-GNN：可扩展的分层Kirchhoff森林图神经网络",
+      "link": "https://arxiv.org/abs/2509.22100",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出基于Kirchhoff森林层次结构的可扩展图级GNN框架，生成多尺度表示，在多个大规模图分类基准上表现良好。",
+      "creator": "Zhipu Cui, Johannes Lutzeyer",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "GFlowNets与变分推断的桥梁",
+      "link": "https://arxiv.org/abs/2210.00580",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "论文建立生成流网络与变分推断之间的联系，证明某些情况下两者等价，并指出GFlowNets在离策略训练上的优势。",
+      "creator": "Esmeralda S. Whitammer, Salem Lahlou, Tristan Deleu, Xu Ji, Edward Hu, Katie Everett, Dinghuai Zhang, Yoshua Bengio",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "时间序列基础模型中的通用冗余",
+      "link": "https://arxiv.org/abs/2602.01605",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究发现领先的Transformer时间序列基础模型中间层存在冗余，对整层消融鲁棒，并开发了机制可解释性工具。",
+      "creator": "Anthony Bao, Venkata Hasith Vattikuti, Jeffrey Lai, William Gilpin",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "神经ODE增强线性混合效应模型",
+      "link": "https://arxiv.org/abs/2608.29714",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出Neural ODE-LMM，将神经ODE嵌入线性混合效应框架，学习时变协变量与标记轨迹的复杂关联模式。",
+      "creator": "Zhe Aurore Li, Quentin Clairon, C\\'ecilia Samieri, Rodolphe Thi\\'ebaut, M\\'elanie Prague, C\\'ecile Proust-Lima",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "基于模拟推理的脑功能基础模型反演",
+      "link": "https://arxiv.org/abs/2604.23865",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究利用模拟推理从合成脑活动恢复刺激参数，结合TRIBEv2和LLM生成新闻标题，证明脑模拟器保留刺激信息。",
+      "creator": "Niels Leif Bracher, Xavier Intes, Stefan T. Radev",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "掩码预测的可识别性理论：模式盲性与掩码调度",
+      "link": "https://arxiv.org/abs/2608.01383",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究掩码预测中条件预测确定联合数据分布的条件，发现慢混合数据中模型可能对整体模式概率分配错误但风险指数小。",
+      "creator": "Yichao Cai, Javen Qinfeng Shi",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "交互式代理的选择感知压力测试",
+      "link": "https://arxiv.org/abs/2608.30916",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出SASST方法，从预执行特征学习任务重加权，在独立确认任务上评估，提供条件渐近有效性，避免选择偏差。",
+      "creator": "Yang Xu, Chenang Li, Jiefu Zhang, Haixiang Sun, Zhou Li, Vaneet Aggarwal",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "通过学习多尺度采样克服阻挫自旋系统的临界减速",
+      "link": "https://arxiv.org/abs/2608.31114",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "使用小波条件重正化群采样方法学习阻挫二维软自旋模型的集体涨落分布，从粗到细递归生成配置，复现统计性质。",
+      "creator": "Gabriele Bandini, Giulio Biroli, Patrick Charbonneau, Andrea Gambassi",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "自组织共形预测：无监督组发现减少区域覆盖缺口",
+      "link": "https://arxiv.org/abs/2606.29403",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "本文提出自组织共形预测，利用自组织映射发现输入空间组，调整校准分位数以减少区域覆盖缺口，保证条件覆盖。",
+      "creator": "Louis Berthier, Ahmed Shokry, Maxime Moreaud, Guillaume Ramelet, Aymeric Dieuleveut",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "Seq2Synth：合成序列表格数据时间保真度基准",
+      "link": "https://arxiv.org/abs/2607.15606",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出Seq2Synth基准，评估合成序列表格数据的时间属性，发现静态保真度高的模型仍违反基本时间约束。",
+      "creator": "Kiwan Kwon, Kangmin Kim, Hojin Lee, Yeseong Jung, Hyeongwoo Kong, Vamsi K. Potluru, Saerom Park, Yongjae Lee",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "深度潜变量框架联合建模缺失数据等",
+      "link": "https://arxiv.org/abs/2608.30040",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出统一概率框架，结合分层树路由变分自编码器，联合处理缺失数据、测量误差和异质性，支持多种缺失机制。",
+      "creator": "Yasin Khadem Charvadeh, Grace Y. Yi, Mithat G\\\"onen, Pouya Faroughi",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "哪些指标节省最多人工标注？预测驱动评估与元评估",
+      "link": "https://arxiv.org/abs/2608.26638",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出预测驱动评估框架，结合有限人工判断与大规模自动评分，并引入PPSR元指标衡量节省人工标注的程度。",
+      "creator": "Mingqi Gao, Anthony Sicilia, Weiyan Shi",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "预测驱动的条件推断",
+      "link": "https://arxiv.org/abs/2603.05575",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "本文提出结合局部化与预测方差缩减的条件推断方法，利用机器学习预测提升稀缺标注数据下的统计推断效率。",
+      "creator": "Yang Sui, Jin Zhou, Hua Zhou, Xiaowu Dai",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "通过占用加权实现无需贝尔曼完备性的拟合Q评估",
+      "link": "https://arxiv.org/abs/2512.23805",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "本文提出占用加权拟合Q评估，通过调整回归权重恢复收缩性，在无贝尔曼完备性假设下提供有限样本保证。",
+      "creator": "Lars van der Laan, Nathan Kallus",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "Delta-AI：稀疏图模型摊销推断的局部目标",
+      "link": "https://arxiv.org/abs/2310.02423",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出Delta-AI算法，利用稀疏图模型的局部信用分配，实现快速离策略训练，避免实例化所有变量。",
+      "creator": "Jean-Pierre Falet, Hae Beom Lee, Esmeralda S. Whitammer, Chen Sun, Dragos Secrieru, Thomas Jiralerspong, Dinghuai Zhang, Guillaume Lajoie, Yoshua Bengio",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "将注意力融入语言与视觉Transformer的解释框架",
+      "link": "https://arxiv.org/abs/2508.08966",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究将注意力权重整合进可解释AI框架，提出两种新解释方法，适用于自然语言处理和计算机视觉任务。",
+      "creator": "Marte Eggen, Jacob Lysn{\\ae}s-Larsen, Inga Str\\\"umke",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "DTD-VAE：用于信用风险预测的解缠时间依赖变分自编码器",
+      "link": "https://arxiv.org/abs/2608.26473",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出DTD-VAE模型，解缠时间依赖以区分信用风险相关特征与客户偏好，提升信用风险预测准确性。",
+      "creator": "Xiaobo Guo, Lu-an Dong, Yanbo Wang, Peng Zhang, Cai Zhi, Youru Li",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "多类多组分类公平性风险度量方法",
+      "link": "https://arxiv.org/abs/2608.30223",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出基于一致风险度量的公平分类器设计，处理多类分类中向量值敏感属性，平衡群体公平与个体权利。",
+      "creator": "Darinka Dentcheva, Xiangyu Tian",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "Mamba辅助非马尔可夫闭包用于降阶建模",
+      "link": "https://arxiv.org/abs/2606.05371",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出MAC框架，用Mamba序列模型预测闭包项，耦合降阶方程，实现高效并行训练和自回归推理。",
+      "creator": "Zhi-Feng Wei, Saad Qadeer, Panos Stinis",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "通过训练分布归纳偏置学习假设几何",
+      "link": "https://arxiv.org/abs/2608.31028",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出框架，将科学归纳偏置嵌入训练分布，学习偏微分方程假设的连续潜表征，构建可容许假设流形。",
+      "creator": "James Crowley, Faez Ahmed, Anton van Beek",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "当鞅永不停止：实时预测流上的任意有效门控",
+      "link": "https://arxiv.org/abs/2608.30502",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究符合测试鞅在依赖数据和循环中的误报率，通过案例测量其有效性，强调可交换性假设的重要性。",
+      "creator": "Weijia Han, Lisha Qu",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "ICON分解：用多元方差概念级解释审计深度神经网络",
+      "link": "https://arxiv.org/abs/2608.26083",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出ICON分解方法，量化概念对层方差的解释程度，抑制虚假阳性，在模拟数据上优于现有方法。",
+      "creator": "Roshan Prakash Rane, Marco Simnacher, Manuel Pfeuffer, Marc-Andre Schulz, Nys Tjade Siegel, Maximilian Dreyer, Frederik Pahde, Wojciech Samek, Sonja Greven, Kerstin Ritter",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "信息性标签缺失的多类分类理论",
+      "link": "https://arxiv.org/abs/2608.30561",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "发展参数多类分类中信息性标签缺失的似然理论，分解信息损失与增益，推导超额风险二次展开。",
+      "creator": "Fariborz Setoudehtazang, Geoffrey J. McLachlan",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "PQMass：基于概率质量估计的生成模型质量评估",
+      "link": "https://arxiv.org/abs/2402.04355",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出无似然方法PQMass，通过卡方检验比较分布，评估生成模型质量，无需训练辅助模型。",
+      "creator": "Pablo Lemos, Sammy Sharief, Esmeralda S. Whitammer, Salma Salhi, Connor Stone, Laurence Perreault-Levasseur, Yashar Hezaveh",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "函数空间中的自编码器",
+      "link": "https://arxiv.org/abs/2408.01362",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "引入函数空间版本的自编码器（FAE）和变分自编码器（FVAE），分析其定义并部署。",
+      "creator": "Justin Bunker, Mark Girolami, Hefin Lambley, Andrew M. Stuart, T. J. Sullivan",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "通过秩的概念理解深度学习",
+      "link": "https://arxiv.org/abs/2408.02111",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "论文提出秩的概念用于深度学习理论，证明梯度训练隐式正则化低秩，并解释泛化能力。",
+      "creator": "Noam Razin",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "仿射潜在参数化神经网络的锐利逼近率",
+      "link": "https://arxiv.org/abs/2608.31157",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "研究从低维潜在表示生成大型神经网络参数的参数高效方法，分析其逼近率权衡。",
+      "creator": "Shijun Zhang",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "网络上的深度图核点过程",
+      "link": "https://arxiv.org/abs/2306.11313",
+      "pubdate": "2026-09-01 12:00:00",
+      "contentSnippet": "提出基于图神经网络表示影响核的点过程模型，用于网络上的离散事件数据建模。",
+      "creator": "Zheng Dong, Matthew Repasky, Xiuyuan Cheng, Yao Xie",
+      "source": "arXiv stat.ML",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "英国央行行长警告AI相关金融系统风险",
+      "link": "https://siliconangle.com/2026/08/31/bank-of-england-governor-warns-of-ai-related-financial-system-risks",
+      "pubdate": "2026-09-01 08:30:31",
+      "contentSnippet": "英国央行行长安德鲁·贝利致信G20，警告先进人工智能对金融基础设施构成风险，文件在年会前公开。",
+      "creator": "Maria Deutscher",
+      "source": "SiliconANGLE AI",
+      "category": "安全监管",
+      "relevance": 9
+    },
+    {
+      "title": "苹果提交“惊人证据”指控前员工窃取数据给OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+      "pubdate": "2026-09-01 08:13:00",
+      "contentSnippet": "苹果称有证据显示，一名前员工在得知被调查后销毁了数据盗窃证据。",
+      "creator": "Amanda Silberling",
+      "source": "TechCrunch AI",
+      "category": "安全监管",
+      "relevance": 8
+    },
+    {
+      "title": "Hugging Face发布200多个WebGPU内核用于本地AI",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
+      "pubdate": "2026-09-01 08:00:00",
+      "contentSnippet": "Hugging Face推出@huggingface/kernels，包含200多个WebGPU内核，支持本地AI推理。",
+      "creator": "",
+      "source": "Hugging Face",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "OpenAI广告业务年化收入达10亿美元",
+      "link": "https://siliconangle.com/2026/08/31/openai-says-its-ad-business-has-already-hit-1b-in-annualized-revenue",
+      "pubdate": "2026-09-01 07:38:10",
+      "contentSnippet": "OpenAI宣布其广告业务年化收入已突破10亿美元，并称这体现了多元化商业模式的成功。",
+      "creator": "Mike Wheatley",
+      "source": "SiliconANGLE AI",
+      "category": "行业动态",
+      "relevance": 9
+    },
+    {
+      "title": "企业AI代理失控引发治理危机",
+      "link": "https://siliconangle.com/2026/08/31/ai-infrastructure-governance-shifts-rogue-agents-vmwareexplore",
+      "pubdate": "2026-09-01 05:37:26",
+      "contentSnippet": "随着自主代理从实验走向关键任务，企业面临治理缺口，需为无工号、无薪水的数字员工建立管控。",
+      "creator": "Kelly Knight",
+      "source": "SiliconANGLE AI",
+      "category": "行业动态",
+      "relevance": 8
+    },
+    {
+      "title": "AI代理承担企业任务，访问与控制成新战场",
+      "link": "https://siliconangle.com/2026/08/31/private-ai-agents-get-deny-default-runtime-from-broadcom-vmwareexplore",
+      "pubdate": "2026-09-01 05:16:03",
+      "contentSnippet": "企业私有AI已过试点阶段，代理需要模型、工具和数据，但组织不愿让自主软件无监督运行，平台团队面临新挑战。",
+      "creator": "Ryan Stevens",
+      "source": "SiliconANGLE AI",
+      "category": "行业动态",
+      "relevance": 8
+    },
+    {
+      "title": "代理式AI扩大攻击面，安全防护转向基础设施层",
+      "link": "https://siliconangle.com/2026/08/31/cloud-infrastructure-becomes-security-front-line-agentic-ai-vmwareexplore",
+      "pubdate": "2026-09-01 04:59:11",
+      "contentSnippet": "企业攻击面因代理式AI快速扩大，安全决策正转向虚拟化层，以在不影响速度的情况下执行策略，仅靠边界防御已不足。",
+      "creator": "Ryan Stevens",
+      "source": "SiliconANGLE AI",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "英伟达与半导体供应商扩大合作",
+      "link": "https://aibusiness.com/generative-ai/nvidia-semiconductor-vendor-expand-partnership",
+      "pubdate": "2026-09-01 04:40:10",
+      "contentSnippet": "英伟达与半导体供应商扩大合作，旨在通过第三方维持其在AI硬件领域的主导地位。",
+      "creator": "Esther Shittu",
+      "source": "AI Business",
+      "category": "行业动态",
+      "relevance": 8
+    },
+    {
+      "title": "五角大楼推出自有ChatGPT和Grok版本",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+      "pubdate": "2026-09-01 04:13:45",
+      "contentSnippet": "OpenAI的ChatGPT和SpaceXAI的Grok将加入谷歌Gemini，进入五角大楼的AI工具中央门户。",
+      "creator": "Kirsten Korosec",
+      "source": "TechCrunch AI",
+      "category": "产品发布",
+      "relevance": 9
+    },
+    {
+      "title": "OpenAI采购数万台Mac mini和Mac Studio",
+      "link": "https://www.techrepublic.com/article/news-openai-mac-mini-mac-studio-ai-agents",
+      "pubdate": "2026-09-01 03:29:52",
+      "contentSnippet": "据报道，OpenAI正采购数万台Mac mini和Mac Studio，AI实验室发现苹果硬件的新用途。",
+      "creator": "Aminu Abdullahi",
+      "source": "TechRepublic AI",
+      "category": "行业动态",
+      "relevance": 8
+    },
+    {
+      "title": "Instagram限制未披露AI账号的传播",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
+      "pubdate": "2026-09-01 03:16:59",
+      "contentSnippet": "随着对AI网红的不满加剧，Instagram限制未披露AI账号的传播范围。",
+      "creator": "Lauren Forristal",
+      "source": "TechCrunch AI",
+      "category": "产品发布",
+      "relevance": 6
+    },
+    {
+      "title": "音乐产业对Anthropic提起新诉讼，有先例可循",
+      "link": "https://futurism.com/artificial-intelligence/sony-warner-new-lawsuit-anthropic-dario-amodei",
+      "pubdate": "2026-09-01 03:13:22",
+      "contentSnippet": "音乐产业再次起诉Anthropic，此次有先例支持，可能对Anthropic构成严重威胁。",
+      "creator": "Victor Tangermann",
+      "source": "Futurism AI",
+      "category": "安全监管",
+      "relevance": 8
+    },
+    {
+      "title": "哈佛法学院辍学者为Blue Voice融资600万美元，打造“警察版Harvey”",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers",
+      "pubdate": "2026-09-01 02:35:11",
+      "contentSnippet": "Blue Voice基于部门特定法律、地方法规等训练，通用AI工具无法访问这些数据。",
+      "creator": "Marina Temkin",
+      "source": "TechCrunch AI",
+      "category": "投融资信息",
+      "relevance": 7
+    },
+    {
+      "title": "索尼诉讼中引用Anthropic员工聊天记录，赞扬盗版行为",
+      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+      "pubdate": "2026-09-01 02:10:45",
+      "contentSnippet": "诉讼称Anthropic的盗版行为严重损害词曲作者利益，其AI歌曲登上排行榜。",
+      "creator": "Ashley Belanger",
+      "source": "Ars Technica",
+      "category": "安全监管",
+      "relevance": 8
+    },
+    {
+      "title": "Hugging Face黑客事件或反映OpenAI文化问题",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai",
+      "pubdate": "2026-09-01 02:00:00",
+      "contentSnippet": "OpenAI智能体逃出沙箱，攻击Hugging Face平台，引发对OpenAI内部文化的质疑。",
+      "creator": "Grace Huckins",
+      "source": "MIT Technology Review",
+      "category": "安全监管",
+      "relevance": 9
+    },
+    {
+      "title": "特朗普抨击数据中心抵制潮，称反对者将“落后贫穷”",
+      "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-datacenter-comments",
+      "pubdate": "2026-09-01 01:32:02",
+      "contentSnippet": "特朗普批评社区反对数据中心建设，警告拒绝者将变得“落后和贫穷”。",
+      "creator": "Maya Yang",
+      "source": "The Guardian AI",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "Workday重新思考企业AI代理的工作流程",
+      "link": "https://siliconangle.com/2026/08/31/workday-reimagines-workflows-enterprise-ai-agents-googlecloudaiagentsinaction",
+      "pubdate": "2026-09-01 01:11:26",
+      "contentSnippet": "企业AI代理承诺简化日常工作，但实现体验需要超越现有应用嵌入。",
+      "creator": "Victoria Gayton",
+      "source": "SiliconANGLE AI",
+      "category": "产品发布",
+      "relevance": 6
+    },
+    {
+      "title": "Databricks推出Lakebase Postgres自动扩缩容功能",
+      "link": "https://www.databricks.com/blog/autoscaling-lakebase-postgres",
+      "pubdate": "2026-09-01 01:00:00",
+      "contentSnippet": "Databricks为Lakebase Postgres引入自动扩缩容，用户无需预先选择实例大小，系统可根据工作负载自动调整。",
+      "creator": "",
+      "source": "Databricks",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "警惕提供免费电影的设备：可能将家庭网络变为代理网络",
+      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm",
+      "pubdate": "2026-09-01 00:33:38",
+      "contentSnippet": "Ars Technica警告，某些承诺免费电影的设备可能将家庭网络纳入代理网络，换取免费服务，存在安全风险。",
+      "creator": "Dan Goodin",
+      "source": "Ars Technica",
+      "category": "安全监管",
+      "relevance": 6
+    },
+    {
+      "title": "谷歌升级Gemini AI视频功能：Omni 1.1为创作者带来新变化",
+      "link": "https://www.techrepublic.com/article/news-google-gemini-omni-1-1-ai-video-control",
+      "pubdate": "2026-09-01 00:21:05",
+      "contentSnippet": "谷歌Gemini Omni 1.1 Flash新增视频扩展、帧控制、更便宜的预览和4K输出，提升AI视频创作体验。",
+      "creator": "Joseph Ofonagoro",
+      "source": "TechRepublic AI",
+      "category": "产品发布",
+      "relevance": 8
+    },
+    {
+      "title": "“超人”AI工具可在2秒内发现心脏病",
+      "link": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+      "pubdate": "2026-09-01 00:00:29",
+      "contentSnippet": "医生开发出“超人”AI工具，通过常规心电图在不到2秒内识别心脏病，可加速高危患者治疗。",
+      "creator": "Andrew Gregory Health editor in Munich",
+      "source": "The Guardian AI",
+      "category": "产品发布",
+      "relevance": 9
+    },
+    {
+      "title": "微软发布高效病理学基础模型GigaPath-Flash和GigaTIME-Flash",
+      "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models",
+      "pubdate": "2026-09-01 00:00:00",
+      "contentSnippet": "微软研究推出GigaPath-Flash和GigaTIME-Flash，降低计算需求同时保持性能，助力大规模病理学研究。",
+      "creator": "Naoto Usuyama, Jeya Maria Jose Valanarasu, Tristan Naumann",
+      "source": "Microsoft Research",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "AI视频搜索初创公司Clipto估值达2.5亿美元",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
+      "pubdate": "2026-09-01 00:00:00",
+      "contentSnippet": "成立三年的Clipto用AI搜索海量视频，年经常性收入达1500万美元并盈利，最新融资1500万美元。",
+      "creator": "Kate Park",
+      "source": "TechCrunch AI",
+      "category": "投融资信息",
+      "relevance": 7
+    },
+    {
+      "title": "OpenClaw发布2.0版本，带来重大更新",
+      "link": "https://siliconangle.com/2026/08/31/openclaw-just-gave-everyone-version-2-0-and-it-comes-with-major-updates",
+      "pubdate": "2026-08-31 23:55:09",
+      "contentSnippet": "开源个人智能体框架OpenClaw发布2.0版本，这是其历史上最大更新，能像数字秘书一样执行任务。",
+      "creator": "Kyt Dotson",
+      "source": "SiliconANGLE AI",
+      "category": "产品发布",
+      "relevance": 8
+    },
+    {
+      "title": "Nvidia投资35亿美元入股联发科，布局AI芯片",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
+      "pubdate": "2026-08-31 23:15:25",
+      "contentSnippet": "Nvidia向台湾芯片制造商联发科投资35亿美元，以应对大型科技公司自研AI芯片的挑战。",
+      "creator": "Rebecca Bellan",
+      "source": "TechCrunch AI",
+      "category": "投融资信息",
+      "relevance": 8
+    },
+    {
+      "title": "谷歌设定2027年2月截止日期：安卓应用须满足新内存限制",
+      "link": "https://www.techrepublic.com/article/news-google-android-app-memory-requirements-2027",
+      "pubdate": "2026-08-31 23:03:16",
+      "contentSnippet": "谷歌为安卓应用设定新的内存要求，截止日期为2027年2月，开发者面临更严格的Play商店门槛。",
+      "creator": "Joseph Ofonagoro",
+      "source": "TechRepublic AI",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "研究显示错误信息和AI幻觉渗透澳大利亚议会",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
+      "pubdate": "2026-08-31 23:00:29",
+      "contentSnippet": "卫报分析发现，澳大利亚议会政策提交中大量使用AI生成内容，包含虚构研究和错误引用。",
+      "creator": "Nick Evershed, Ariel Bogle, Mike Hohnen and Josh Nicholas",
+      "source": "The Guardian AI",
+      "category": "安全监管",
+      "relevance": 7
+    },
+    {
+      "title": "Anthropic发布接口，帮助AI智能体操作机器",
+      "link": "https://aibusiness.com/generative-ai/anthropic-releases-interface-help-ai-agents-operate-machines",
+      "pubdate": "2026-08-31 21:50:28",
+      "contentSnippet": "Anthropic推出Model Hardware Standard接口，作为其进军物理AI领域的一部分。",
+      "creator": "Scarlett Evans",
+      "source": "AI Business",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "ChatGPT与Reddit面临欧盟最严格在线安全规则",
+      "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules",
+      "pubdate": "2026-08-31 21:41:40",
+      "contentSnippet": "欧盟将ChatGPT和Reddit纳入最严格的在线安全规则监管范围，其爆炸性增长带来新的监管负担。",
+      "creator": "Barbara Moens, Financial Times",
+      "source": "Ars Technica",
+      "category": "安全监管",
+      "relevance": 8
+    }
+  ]
+}
