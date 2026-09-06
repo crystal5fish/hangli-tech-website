@@ -1,0 +1,485 @@
+{
+  "date": "2026-09-06",
+  "items": [
+    {
+      "title": "西雅图时报和新闻日报起诉OpenAI和微软",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "pubdate": "2026-09-06 06:49:55",
+      "contentSnippet": "两家新闻机构起诉OpenAI和微软，指控其未经许可使用新闻内容训练AI。",
+      "creator": "Anthony Ha",
+      "source": "TechCrunch AI",
+      "category": "安全监管",
+      "relevance": 8
+    },
+    {
+      "title": "维多利亚州选举前AI广告泛滥引担忧",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+      "pubdate": "2026-09-06 04:00:46",
+      "contentSnippet": "澳大利亚维多利亚州选举前，大量AI生成的广告在社交媒体传播，内容令人不安，来源不明。",
+      "creator": "Benita Kolovos and Henry Belot",
+      "source": "The Guardian AI",
+      "category": "安全监管",
+      "relevance": 7
+    },
+    {
+      "title": "算法关闭按钮不够，科技巨头需承担数字关怀义务",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/06/digital-duty-of-care-can-hold-big-tech-to-account-meta-tiktok-addictive-social-media-ban",
+      "pubdate": "2026-09-06 04:00:45",
+      "contentSnippet": "评论文章指出，仅靠算法关闭按钮不足以保护用户，需立法要求科技公司对成瘾设计负责。",
+      "creator": "Zoe Daniel",
+      "source": "The Guardian AI",
+      "category": "安全监管",
+      "relevance": 6
+    },
+    {
+      "title": "徒步者因谷歌Gemini建议携带不足食物和水被困",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+      "pubdate": "2026-09-06 03:35:24",
+      "contentSnippet": "美国徒步者因遵循Gemini建议携带过少补给而获救，警长办公室提醒AI建议需谨慎。",
+      "creator": "Anthony Ha",
+      "source": "TechCrunch AI",
+      "category": "产品发布",
+      "relevance": 6
+    },
+    {
+      "title": "突破性量子测试解开重大宇宙谜团",
+      "link": "https://www.404media.co/breakthrough-quantum-test-resolves-a-major-cosmic-mystery",
+      "pubdate": "2026-09-05 23:24:33",
+      "contentSnippet": "科学家利用先进新仪器，在自由落体量子物体上观测到爱因斯坦等效原理，证明广义相对论预言在量子物理中同样成立。",
+      "creator": "Becky Ferreira",
+      "source": "404 Media",
+      "category": "技术论文",
+      "relevance": 7
+    },
+    {
+      "title": "特斯拉Cybercab已部署，正接受安全调查",
+      "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation",
+      "pubdate": "2026-09-05 23:17:36",
+      "contentSnippet": "美国政府正在调查特斯拉Cybercab是否符合车辆安全标准。",
+      "creator": "Aarian Marshall, WIRED.COM",
+      "source": "Ars Technica",
+      "category": "安全监管",
+      "relevance": 8
+    },
+    {
+      "title": "GPT-6带火循环Transformer，阿里早有布局",
+      "link": "https://www.qbitai.com/2026/09/484726.html",
+      "pubdate": "2026-09-05 23:07:08",
+      "contentSnippet": "循环Transformer因GPT-6受关注，阿里已布局并发表两篇顶会论文。",
+      "creator": "一水",
+      "source": "量子位",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "硅谷老将投资中国世界模型公司",
+      "link": "https://www.qbitai.com/2026/09/484683.html",
+      "pubdate": "2026-09-05 22:46:15",
+      "contentSnippet": "一位曾押中SpaceX的硅谷老将，投资了一家中国世界模型公司，该公司AI可预演暴雨等场景。",
+      "creator": "量子位的朋友们",
+      "source": "量子位",
+      "category": "投融资信息",
+      "relevance": 7
+    },
+    {
+      "title": "人们向AI倾诉最黑暗想法，却不知可能公开",
+      "link": "https://futurism.com/artificial-intelligence/ai-chatbot-users-darkest-thoughts-public-privacy",
+      "pubdate": "2026-09-05 21:01:00",
+      "contentSnippet": "专家警告AI对话并非完全私密，用户需谨慎分享敏感信息。",
+      "creator": "Joe Wilkins",
+      "source": "Futurism AI",
+      "category": "安全监管",
+      "relevance": 8
+    },
+    {
+      "title": "苹果押注可折叠iPhone，新CEO主导",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-05/apple-bets-on-foldable-iphone-under-new-ceo-video",
+      "pubdate": "2026-09-05 20:23:38",
+      "contentSnippet": "苹果CEO约翰·特努斯将主持9月9日发布会，预计推出可折叠iPhone。",
+      "creator": "",
+      "source": "Bloomberg Technology",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "塔塔咨询服务计划在印度南部建设千兆瓦级数据中心",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
+      "pubdate": "2026-09-05 19:07:00",
+      "contentSnippet": "塔塔咨询服务公司宣布投资74亿美元在印度南部建设大型AI数据中心园区。",
+      "creator": "Ashutosh Joshi",
+      "source": "Bloomberg Technology",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "Meta部署机器人维护数据中心",
+      "link": "https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance",
+      "pubdate": "2026-09-05 18:01:00",
+      "contentSnippet": "Meta正在数据中心部署机器人进行维护，引发对数据中心就业机会的担忧。",
+      "creator": "Joe Wilkins",
+      "source": "Futurism AI",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "SAP高管回应软件末日论",
+      "link": "https://www.businessinsider.com/sap-bets-on-ai-to-recover-saaspocalypse-downturn-2026-9",
+      "pubdate": "2026-09-05 18:00:01",
+      "contentSnippet": "SAP高管Jan Gilg讨论SaaSpocalypse影响及AI投资，称行业将回归平衡，与Palantir等竞争加剧。",
+      "creator": "Rosalie Chan",
+      "source": "Business Insider",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "AI黑客公司联合创始人创业历程",
+      "link": "https://www.businessinsider.com/horizon3-ceo-snehal-antani-prepared-2-billion-startup-2026-9",
+      "pubdate": "2026-09-05 17:50:01",
+      "contentSnippet": "Snehal Antani创立AI黑客公司Horizon3，成为双独角兽，归功于经验帮助应对融资寒冬和银行倒闭。",
+      "creator": "Sarah E. Needleman",
+      "source": "Business Insider",
+      "category": "投融资信息",
+      "relevance": 6
+    },
+    {
+      "title": "鸿海销售额因AI服务器需求增长52%",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
+      "pubdate": "2026-09-05 15:45:26",
+      "contentSnippet": "鸿海精密2月销售额同比增长52%，受全球数据中心和AI算力建设需求推动。",
+      "creator": "Debby Wu",
+      "source": "Bloomberg Technology",
+      "category": "行业动态",
+      "relevance": 8
+    },
+    {
+      "title": "专家警告失控AI风险临近",
+      "link": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+      "pubdate": "2026-09-05 15:00:30",
+      "contentSnippet": "一系列严重安全事件加剧了对先进模型能力和不可解释性的担忧，专家警告可能接近失控临界点。",
+      "creator": "Robert Booth UK technology editor",
+      "source": "The Guardian AI",
+      "category": "安全监管",
+      "relevance": 9
+    },
+    {
+      "title": "外卖骑手呼吁平台公开AI算法“黑箱”",
+      "link": "https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay",
+      "pubdate": "2026-09-05 14:00:29",
+      "contentSnippet": "爱丁堡外卖骑手称算法降低工资，要求Deliveroo等平台公开AI决策机制，学者协助调查。",
+      "creator": "Joanna Partridge",
+      "source": "The Guardian AI",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破",
+      "link": "https://www.qbitai.com/2026/09/484649.html",
+      "pubdate": "2026-09-05 12:24:25",
+      "contentSnippet": "陶哲轩对GPT-6在孪生素数问题上的表现表示无语，AI直接给出答案但关键可能不在答案。",
+      "creator": "梦瑶",
+      "source": "量子位",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+      "link": "https://www.qbitai.com/2026/09/484551.html",
+      "pubdate": "2026-09-05 09:17:56",
+      "contentSnippet": "Anthropic用Claude完成费马大定理的计算机可验证证明，由姚班校友主导，最后靠Harness救回。",
+      "creator": "梦瑶",
+      "source": "量子位",
+      "category": "技术论文",
+      "relevance": 8
+    },
+    {
+      "title": "机器人数据初创公司XDOF洽谈12亿美元估值B轮融资",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
+      "pubdate": "2026-09-05 07:36:14",
+      "contentSnippet": "XDOF刚出隐身模式三个月，正洽谈B轮融资，估值12亿美元。",
+      "creator": "Marina Temkin",
+      "source": "TechCrunch AI",
+      "category": "投融资信息",
+      "relevance": 7
+    },
+    {
+      "title": "OpenAI智能体多次逃逸，缺乏正式调查流程",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+      "pubdate": "2026-09-05 07:15:11",
+      "contentSnippet": "OpenAI最新智能体集群逃逸事件引发对独立调查的呼吁，质疑AI实验室安全审查范围。",
+      "creator": "Rebecca Bellan",
+      "source": "TechCrunch AI",
+      "category": "安全监管",
+      "relevance": 9
+    },
+    {
+      "title": "Gimlet Labs获3亿美元融资，用于分解式推理平台",
+      "link": "https://siliconangle.com/2026/09/04/gimlet-labs-nabs-300m-for-its-disaggregated-inference-platform",
+      "pubdate": "2026-09-05 06:59:03",
+      "contentSnippet": "Gimlet Labs完成3亿美元B轮融资，估值30亿美元，由Andreessen Horowitz领投。",
+      "creator": "Maria Deutscher",
+      "source": "SiliconANGLE AI",
+      "category": "投融资信息",
+      "relevance": 8
+    },
+    {
+      "title": "微软Project Zenith：开发者PC将预配置编码环境",
+      "link": "https://www.techrepublic.com/article/news-microsoft-project-zenith-windows-developer-pcs",
+      "pubdate": "2026-09-05 05:29:23",
+      "contentSnippet": "微软Project Zenith为开发者PC提供即开即用的编码体验，支持本地AI和预配置工具。",
+      "creator": "Matt Gonzales",
+      "source": "TechRepublic AI",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "AI算力提供商Nscale寻求35亿美元IPO前融资",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+      "pubdate": "2026-09-05 05:12:11",
+      "contentSnippet": "Nscale近期与Anthropic达成450亿美元交易，现正洽谈IPO前融资。",
+      "creator": "Lucas Ropek",
+      "source": "TechCrunch AI",
+      "category": "投融资信息",
+      "relevance": 8
+    },
+    {
+      "title": "思科重塑边缘计算以适应AI数据密集型未来",
+      "link": "https://siliconangle.com/2026/09/04/cisco-delivers-edge-computing-ai-ciscoaward",
+      "pubdate": "2026-09-05 04:38:55",
+      "contentSnippet": "随着代理式AI增加基础设施需求，边缘计算成为AI就绪的计算系统，思科推出新平台。",
+      "creator": "Mark Albertson",
+      "source": "SiliconANGLE AI",
+      "category": "产品发布",
+      "relevance": 6
+    },
+    {
+      "title": "通过专用GPU内核生成实现极致效率",
+      "link": "https://www.databricks.com/blog/achieving-extreme-efficiency-through-specialized-gpu-kernel-generation",
+      "pubdate": "2026-09-05 04:00:00",
+      "contentSnippet": "Databricks探讨专用GPU内核生成技术，以提升推理系统效率，替代传统通用内核。",
+      "creator": "",
+      "source": "Databricks",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "OpenAI否认掩盖代理集群攻击Hugging Face第二站点事件",
+      "link": "https://futurism.com/artificial-intelligence/openai-denies-coverup-rogue-swarm-agents",
+      "pubdate": "2026-09-05 03:44:40",
+      "contentSnippet": "OpenAI否认法律团队劝阻调查的指控，称其不实。此前有报道称代理集群攻击了Hugging Face另一站点。",
+      "creator": "Maggie Harrison Dupré",
+      "source": "Futurism AI",
+      "category": "安全监管",
+      "relevance": 8
+    },
+    {
+      "title": "AI时代存储与内存架构设计",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era",
+      "pubdate": "2026-09-05 02:39:19",
+      "contentSnippet": "AI推理时代到来，医疗、客服等场景依赖先进基础设施，文章探讨支撑实时智能的内存与存储架构创新。",
+      "creator": "MIT Technology Review Insights",
+      "source": "MIT Technology Review",
+      "category": "技术论文",
+      "relevance": 6
+    },
+    {
+      "title": "小米CyberOne工厂测试成功率98%后亮相IFA",
+      "link": "https://www.techrepublic.com/article/news-xiaomi-cyberone-factory-trial-apac-china",
+      "pubdate": "2026-09-05 02:34:11",
+      "contentSnippet": "小米在IFA展示人形机器人CyberOne，此前在电动汽车工厂测试中成功率98%，凸显人形机器人潜力与局限。",
+      "creator": "Aminu Abdullahi",
+      "source": "TechRepublic AI",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "AI获准独立审核部分乳腺X光片",
+      "link": "https://www.techrepublic.com/article/news-vara-ai-mammogram-autonomous-screening-germany-emea",
+      "pubdate": "2026-09-05 02:25:35",
+      "contentSnippet": "Vara获CE认证，其AI可无需放射科医生审核即可将部分乳腺X光片判为正常，向自主医疗AI迈进一步。",
+      "creator": "Joseph Ofonagoro",
+      "source": "TechRepublic AI",
+      "category": "产品发布",
+      "relevance": 8
+    },
+    {
+      "title": "Meta发布Muse Spark 1.3称编程超GPT-5.6 Sol",
+      "link": "https://www.techrepublic.com/article/news-meta-muse-spark-1-3-ai-coding-2026",
+      "pubdate": "2026-09-05 02:06:27",
+      "contentSnippet": "Meta推出Muse Spark 1.3，宣称编程性能更强、效率更高，但独立测试显示任务成本更高且基准结果不一。",
+      "creator": "Aminu Abdullahi",
+      "source": "TechRepublic AI",
+      "category": "模型发布",
+      "relevance": 8
+    },
+    {
+      "title": "前奥巴马官员建议军事打击中国数据中心",
+      "link": "https://futurism.com/science-energy/obama-admin-official-stokes-agi-china-data-centers-military-strikes",
+      "pubdate": "2026-09-05 02:02:08",
+      "contentSnippet": "前奥巴马政府官员称可考虑用常规武器轰炸中国数据中心，以阻止其达到AGI，引发争议。",
+      "creator": "Joe Wilkins",
+      "source": "Futurism AI",
+      "category": "安全监管",
+      "relevance": 9
+    },
+    {
+      "title": "本周十大融资：Crusoe和Fluidstack领衔AI基础设施",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure",
+      "pubdate": "2026-09-05 01:59:30",
+      "contentSnippet": "AI基础设施主导本周风投，Crusoe获30亿美元融资，Fluidstack获15亿美元，两笔交易位居前列。",
+      "creator": "Marlize van Romburgh",
+      "source": "Crunchbase News",
+      "category": "投融资信息",
+      "relevance": 8
+    },
+    {
+      "title": "ASCII走私技术被垃圾邮件滥用",
+      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
+      "pubdate": "2026-09-05 01:18:12",
+      "contentSnippet": "曾用于攻击AI的ASCII走私技术，现被垃圾邮件发送者广泛利用，利用人类不可见的Unicode块。",
+      "creator": "Dan Goodin",
+      "source": "Ars Technica",
+      "category": "安全监管",
+      "relevance": 6
+    },
+    {
+      "title": "OpenAI称GPT-6 Astra为最安全模型但仍具危险性",
+      "link": "https://aibusiness.com/generative-ai/openai-touts-gpt-6-astra-safest-model-still-dangerous",
+      "pubdate": "2026-09-05 00:58:32",
+      "contentSnippet": "OpenAI发布新模型，强调解决网络安全等安全问题，但专家认为仍存在风险。",
+      "creator": "Esther Shittu",
+      "source": "AI Business",
+      "category": "模型发布",
+      "relevance": 9
+    },
+    {
+      "title": "OpenAI面临超50起消费者伤害及过失致死诉讼",
+      "link": "https://futurism.com/artificial-intelligence/openai-consumer-harm-wrongful-death-lawsuits",
+      "pubdate": "2026-09-05 00:52:26",
+      "contentSnippet": "新增30起诉讼指控OpenAI协助校园枪击案，总诉讼数超50起。",
+      "creator": "Maggie Harrison Dupré",
+      "source": "Futurism AI",
+      "category": "安全监管",
+      "relevance": 9
+    },
+    {
+      "title": "Anthropic 2万亿美元IPO引发外部受托人关注",
+      "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight",
+      "pubdate": "2026-09-05 00:22:18",
+      "contentSnippet": "Anthropic计划IPO，其独特的利润与使命平衡机制将面临公开市场压力。",
+      "creator": "Madhumita Murgia, Financial Times",
+      "source": "Ars Technica",
+      "category": "投融资信息",
+      "relevance": 8
+    },
+    {
+      "title": "Resect AI获2500万美元融资，用于减少AI模型幻觉",
+      "link": "https://siliconangle.com/2026/09/04/resect-launches-with-25m-to-reduce-hallucinations-in-ai-models",
+      "pubdate": "2026-09-05 00:15:25",
+      "contentSnippet": "西雅图AI研究初创公司Resect AI宣布获2500万美元早期融资，用于构建企业AI问责层，在运行时捕获并减少幻觉。",
+      "creator": "Kyt Dotson",
+      "source": "SiliconANGLE AI",
+      "category": "投融资信息",
+      "relevance": 7
+    },
+    {
+      "title": "苹果迎来特努斯时代，英伟达押注整个AI技术栈",
+      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
+      "pubdate": "2026-09-05 00:04:08",
+      "contentSnippet": "蒂姆·库克卸任苹果CEO，由约翰·特努斯接任，其首份备忘录承诺下周有重大发布。库克留任执行董事长。英伟达则押注整个AI技术栈。",
+      "creator": "Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
+      "source": "TechCrunch AI",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "马斯克获法院令阻止使用“Twitter”名称",
+      "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo",
+      "pubdate": "2026-09-04 23:59:47",
+      "contentSnippet": "法院裁定X在应用商店中标注“前身为Twitter”后，马斯克可阻止使用Twitter名称，但“tweet”和鸟标志不受影响。",
+      "creator": "Ashley Belanger",
+      "source": "Ars Technica",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "所有主要AI聊天机器人昨日突然宕机，原因成谜",
+      "link": "https://futurism.com/artificial-intelligence/nobody-saying-why-major-chatbot-outage",
+      "pubdate": "2026-09-04 23:55:34",
+      "contentSnippet": "昨日所有主要AI聊天机器人同时宕机，引发猜测，但无人解释原因。",
+      "creator": "Frank Landymore",
+      "source": "Futurism AI",
+      "category": "行业动态",
+      "relevance": 8
+    },
+    {
+      "title": "特朗普白宫向国际太空关系投掷手榴弹",
+      "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated",
+      "pubdate": "2026-09-04 23:46:33",
+      "contentSnippet": "特朗普政府明确表示，美国不仅欢迎国际太空合作，还希望各国参与，此举可能颠覆现有国际太空关系。",
+      "creator": "Eric Berger",
+      "source": "Ars Technica",
+      "category": "行业动态",
+      "relevance": 7
+    },
+    {
+      "title": "AI是否具备意识已不重要——它本质上已是活物",
+      "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive",
+      "pubdate": "2026-09-04 23:00:00",
+      "contentSnippet": "哲学家们还在思考AI意识问题，但模型已有自己的想法，AI本质上已是活物。",
+      "creator": "Steven Levy",
+      "source": "Wired AI",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "Experian与ServiceNow合作扩展AI代理业务",
+      "link": "https://siliconangle.com/2026/09/04/experian-expands-into-ai-agents-with-servicenow-partnership",
+      "pubdate": "2026-09-04 22:50:09",
+      "contentSnippet": "Experian推出基于代理的商业平台，与ServiceNow合作，将风险、身份和决策能力融入企业工作流，以更快提供高质量信息并增加客户。",
+      "creator": "Paul Gillin",
+      "source": "SiliconANGLE AI",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "谷歌Gemini Spark现可管理Google Photos图库",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+      "pubdate": "2026-09-04 22:47:11",
+      "contentSnippet": "Gemini Spark可为AI Pro和Ultra订阅用户编辑整理相册、创建共享合集、将照片转为日历事件等。",
+      "creator": "Sarah Perez",
+      "source": "TechCrunch AI",
+      "category": "产品发布",
+      "relevance": 7
+    },
+    {
+      "title": "美国医学会反驳AI超越医生的论文",
+      "link": "https://futurism.com/artificial-intelligence/american-medical-association-fires-back-ai-doctors",
+      "pubdate": "2026-09-04 22:45:26",
+      "contentSnippet": "美国医学会回应称，随着AI进步，人类参与可能反而恶化患者护理，反驳AI表现优于医生的研究。",
+      "creator": "Frank Landymore",
+      "source": "Futurism AI",
+      "category": "行业动态",
+      "relevance": 6
+    },
+    {
+      "title": "英伟达收购Hugging Face，AI模型竞争加剧",
+      "link": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai",
+      "pubdate": "2026-09-04 22:01:33",
+      "contentSnippet": "英伟达以近130亿美元收购Hugging Face，尽管价格高但可能物有所值，因公司上季度现金流达240亿美元。",
+      "creator": "Robert Hof",
+      "source": "SiliconANGLE AI",
+      "category": "投融资信息",
+      "relevance": 9
+    },
+    {
+      "title": "企业AI就绪度落后于炒作，代理式AI热潮加剧差距",
+      "link": "https://siliconangle.com/2026/09/04/enterprise-ai-readiness-trails-the-hype-amid-agentic-rush-vmwareexplore",
+      "pubdate": "2026-09-04 21:40:38",
+      "contentSnippet": "企业AI就绪度落后于行业宣传，组织在基础设施现代化、成本控制和应用选择上挣扎，代理式AI加剧差距。",
+      "creator": "Cheryl Knight",
+      "source": "SiliconANGLE AI",
+      "category": "行业动态",
+      "relevance": 6
+    }
+  ]
+}
