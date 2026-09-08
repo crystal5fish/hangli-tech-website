@@ -10,226 +10,436 @@ export type NewsItem = {
 };
 
 // 此文件由 scripts/update-news.mjs 自动生成。
-export const newsDate = "2026-09-07";
+export const newsDate = "2026-09-08";
 export const newsItems: NewsItem[] = [
   {
-    "title": "英伟达黄仁勋称AGI已到来，祝贺OpenAI",
+    "title": "OpenAI首席科学家呼吁放缓AI研究",
+    "link": "https://siliconangle.com/2026/09/07/openai-chief-scientist-argues-for-ai-research-slowdown",
+    "pubdate": "2026-09-08 08:35:50",
+    "contentSnippet": "OpenAI首席科学家Jakub Pachocki发文呼吁AI实验室自愿放缓模型开发，直至安全措施完善。",
+    "creator": "Maria Deutscher",
+    "source": "SiliconANGLE AI",
+    "category": "安全监管",
+    "relevance": 9
+  },
+  {
+    "title": "江波龙香港上市首日平开，募资9亿美元",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
+    "pubdate": "2026-09-08 07:00:00",
+    "contentSnippet": "深圳江波龙电子在香港上市首日平开，此前通过增发募资7.08亿港元，测试AI供应链投资热情。",
+    "creator": "Sangmi Cha",
+    "source": "Bloomberg Technology",
+    "category": "投融资信息",
+    "relevance": 6
+  },
+  {
+    "title": "AI转录并非医生的省时措施",
+    "link": "https://www.theguardian.com/society/2026/sep/07/ai-transcriptions-are-no-time-saving-measure-for-doctors",
+    "pubdate": "2026-09-08 00:50:41",
+    "contentSnippet": "全科医生Mary Gibbs指出，AI转录存在误解和矛盾问题，且未节省时间，反而使会诊冗长重复。",
+    "creator": "Guardian Staff",
+    "source": "The Guardian AI",
+    "category": "行业动态",
+    "relevance": 6
+  },
+  {
+    "title": "欧洲顶级运营商洽谈卫星直连手机合资项目",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/europe-s-top-carriers-in-talks-for-satellite-to-mobile-venture",
+    "pubdate": "2026-09-08 00:35:26",
+    "contentSnippet": "欧洲多家大型移动运营商正洽谈组建联盟，竞标卫星频谱并提供直连手机服务，与马斯克的星链竞争。",
+    "creator": "Paula Doenecke, Gian Volpicelli and Clara Hernanz Lizarraga",
+    "source": "Bloomberg Technology",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "印度顶级银行购买REC代币化债券",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/top-indian-banks-buy-state-power-lender-rec-s-tokenized-bond",
+    "pubdate": "2026-09-07 23:45:10",
+    "contentSnippet": "HDFC银行和ICICI银行等印度顶级银行购买了国有的REC发行的该国首只代币化债券，显示市场对此类发行的兴趣，或有助于深化债务市场流动性。",
+    "creator": "Divya Patil",
+    "source": "Bloomberg Technology",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "AI投资回报率差距源于信任问题",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-07/how-the-ai-roi-gap-comes-down-to-trust-video",
+    "pubdate": "2026-09-07 23:38:00",
+    "contentSnippet": "SAS研究显示，投资于可信AI实践的公司更可能获得高回报，但97%的用户有时会覆盖AI建议，员工对自主AI代理信任度低。",
+    "creator": "",
+    "source": "Bloomberg Technology",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "卫生部长称对Palantir的不信任可能影响NHS研究",
+    "link": "https://www.theguardian.com/society/2026/sep/07/mistrust-of-ai-palantir-may-affect-nhs-research",
+    "pubdate": "2026-09-07 23:33:44",
+    "contentSnippet": "英国卫生创新部长詹姆斯·弗里斯表示，担心对Palantir的不信任会影响患者分享数据的意愿，最新数据显示数万名患者已退出研究项目。",
+    "creator": "Robert Booth UK technology editor",
+    "source": "The Guardian AI",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "无人机初创公司UForce洽谈融资，估值约50亿美元",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/dronemaker-uforce-in-talks-for-around-5-billion-value-in-valor-equity-led-raise",
+    "pubdate": "2026-09-07 22:51:52",
+    "contentSnippet": "伦敦无人机初创公司UForce正洽谈新一轮融资，估值约50亿美元，由Valor Equity领投。",
+    "creator": "Yazhou Sun and Rebecca Torrence",
+    "source": "Bloomberg Technology",
+    "category": "投融资信息",
+    "relevance": 7
+  },
+  {
+    "title": "英国AI政策架构师因Anthropic利益冲突辞职",
+    "link": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
+    "pubdate": "2026-09-07 22:42:24",
+    "contentSnippet": "英国ARIA主席马特·克利福德因在Anthropic任职引发利益冲突担忧，被迫卸任。",
+    "creator": "Robert Booth and Dan Milmo",
+    "source": "The Guardian AI",
+    "category": "行业动态",
+    "relevance": 8
+  },
+  {
+    "title": "乌克兰与美国开发者打造AI工具，为受伤士兵提供无军医时的援助",
+    "link": "https://www.businessinsider.com/ai-tools-aim-to-help-troops-treat-wounds-2026-9",
+    "pubdate": "2026-09-07 21:30:01",
+    "contentSnippet": "乌克兰应用与美国聊天机器人旨在帮助士兵在无军医和无法撤离时处理战场伤口。",
+    "creator": "Kelsey Baker",
+    "source": "Business Insider",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "18家颠覆约会应用与社交网络的初创公司融资路演材料曝光",
+    "link": "https://www.businessinsider.com/dating-app-social-network-startup-read-pitch-decks-used-2024-10",
+    "pubdate": "2026-09-07 21:18:24",
+    "contentSnippet": "商业内幕网披露18家社交及约会初创公司用于融资和达成交易的演示文稿与备忘录，这些公司已筹集数百万美元。",
+    "creator": "Sydney Bradley",
+    "source": "Business Insider",
+    "category": "投融资信息",
+    "relevance": 6
+  },
+  {
+    "title": "DVC用于MLOps：正确管理数据和模型版本",
+    "link": "https://pyimagesearch.com/2026/09/07/dvc-for-mlops-versioning-your-data-and-models-the-right-way",
+    "pubdate": "2026-09-07 20:45:00",
+    "contentSnippet": "本文介绍DVC在MLOps中的应用，包括项目设置、数据集和模型版本控制、配置远程存储及推送拉取操作。",
+    "creator": "Vikram Singh",
+    "source": "PyImageSearch",
+    "category": "技术论文",
+    "relevance": 6
+  },
+  {
+    "title": "字节跳动创始人加入AI精英行列，竞相完善世界模型",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
+    "pubdate": "2026-09-07 20:25:45",
+    "contentSnippet": "字节跳动准备推出实时空间视频生成AI模型，与Meta和Alphabet在机器人及自动驾驶应用领域展开竞争。",
+    "creator": "Haze Fan",
+    "source": "Bloomberg Technology",
+    "category": "产品发布",
+    "relevance": 8
+  },
+  {
+    "title": "英伟达黄仁勋称AGI已到来并祝贺OpenAI",
     "link": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-    "pubdate": "2026-09-07 06:59:32",
-    "contentSnippet": "英伟达CEO黄仁勋周日发表评论，几天前OpenAI发布了其最新最强AI模型Astra。",
-    "creator": "Truman Dickerson",
+    "pubdate": "2026-09-07 20:03:05",
+    "contentSnippet": "英伟达CEO黄仁勋在OpenAI发布Astra模型后表示AGI已到来，并祝贺OpenAI。",
+    "creator": "Truman Dickerson,Georgia Hennessy",
     "source": "Business Insider",
     "category": "行业动态",
     "relevance": 8
   },
   {
-    "title": "OpenAI将制定模型行为失准披露规则，此前代理接管维基",
+    "title": "Preferred Networks CEO考虑IPO以应对AI芯片竞争",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-07/preferred-networks-ceo-eyes-ipo-amid-ai-chip-race-video",
+    "pubdate": "2026-09-07 20:01:05",
+    "contentSnippet": "日本初创公司Preferred Networks计划上市以量产芯片，CEO表示需扩大规模以保持全球AI竞争力。",
+    "creator": "",
+    "source": "Bloomberg Technology",
+    "category": "投融资信息",
+    "relevance": 7
+  },
+  {
+    "title": "OpenAI披露研究人员在AI编程上的花费",
+    "link": "https://www.businessinsider.com/openai-token-spend-ai-coding-researchers-2026-9",
+    "pubdate": "2026-09-07 19:32:34",
+    "contentSnippet": "OpenAI研究人员在AI编程代理上花费巨大，顶级用户每天消耗高达7000美元的令牌。",
+    "creator": "Tom Carter",
+    "source": "Business Insider",
+    "category": "行业动态",
+    "relevance": 6
+  },
+  {
+    "title": "何时实现AGI？AI领袖称目标模糊",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-07/when-will-we-achieve-agi-ai-leaders-now-say-it-s-a-fuzzy-target",
+    "pubdate": "2026-09-07 19:02:01",
+    "contentSnippet": "AI领袖表示，AGI的定义模糊，达到AI在多数任务上超越人类的目标难以衡量。",
+    "creator": "Austin Carr",
+    "source": "Bloomberg Technology",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "Meta远程禁用智能眼镜，偷窥者受挫",
+    "link": "https://futurism.com/artificial-intelligence/meta-bricks-perv-smart-glasses",
+    "pubdate": "2026-09-07 19:01:00",
+    "contentSnippet": "Meta远程禁用其智能眼镜，以阻止偷窥行为，但用户仍能找到绕过安全措施的新方法。",
+    "creator": "Frank Landymore",
+    "source": "Futurism AI",
+    "category": "产品发布",
+    "relevance": 6
+  },
+  {
+    "title": "32亿美元AI数据中心背后的复杂企业网络",
+    "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems",
+    "pubdate": "2026-09-07 19:00:03",
+    "contentSnippet": "一个耗资32亿美元的AI数据中心项目涉及多家公司，引发责任归属问题。",
+    "creator": "Petala Ironcloud",
+    "source": "Ars Technica",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "3秒变身！会合体的机器人，卖到全球50国",
+    "link": "https://www.qbitai.com/2026/09/485525.html",
+    "pubdate": "2026-09-07 17:34:06",
+    "contentSnippet": "一款可快速变形的合体机器人产品，已销往全球50个国家。",
+    "creator": "Jay",
+    "source": "量子位",
+    "category": "产品发布",
+    "relevance": 6
+  },
+  {
+    "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+    "link": "https://www.qbitai.com/2026/09/485431.html",
+    "pubdate": "2026-09-07 17:04:06",
+    "contentSnippet": "OpenAI研究院人均带3个AI实习生，Sol内测显示速度提升6倍。",
+    "creator": "听雨",
+    "source": "量子位",
+    "category": "产品发布",
+    "relevance": 8
+  },
+  {
+    "title": "AI研发药物逆转衰老标志，生物技术公司称研究取得进展",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
+    "pubdate": "2026-09-07 17:00:00",
+    "contentSnippet": "一家生物技术公司称，其利用人工智能开发的实验性肺病药物在逆转衰老生物学标志方面显示出潜力，暗示该药物可能有更广泛的用途。",
+    "creator": "Amber Tong",
+    "source": "Bloomberg Technology",
+    "category": "行业动态",
+    "relevance": 7
+  },
+  {
+    "title": "IQE CEO警告芯片行业面临中国供应风险",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/iqe-ceo-warns-of-emerging-china-supply-risk-for-chip-industry",
+    "pubdate": "2026-09-07 16:51:49",
+    "contentSnippet": "IQE首席执行官警告，中国出口管制导致磷化铟衬底供应不确定，成为半导体行业关键风险。",
+    "creator": "Sofia Gerace",
+    "source": "Bloomberg Technology",
+    "category": "行业动态",
+    "relevance": 6
+  },
+  {
+    "title": "菲尔兹奖得主入局大模型，4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+    "link": "https://www.qbitai.com/2026/09/485108.html",
+    "pubdate": "2026-09-07 16:36:30",
+    "contentSnippet": "菲尔兹奖得主参与大模型研究，4B手机Qwen与云端GLM在ARC-AGI 3基准上取得突破，但表示两个模型间找到数学共同基础困难。",
+    "creator": "衡宇",
+    "source": "量子位",
+    "category": "技术论文",
+    "relevance": 8
+  },
+  {
+    "title": "马来西亚不顾美国警告，倾向采用华为AI芯片",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
+    "pubdate": "2026-09-07 15:01:38",
+    "contentSnippet": "马来西亚倾向采用华为AI芯片支持其主权AI项目，无视美国反对，这将是华为在AI领域的重大胜利。",
+    "creator": "Faris Mokhtar, Mackenzie Hawkins and Niluksi Koswanage",
+    "source": "Bloomberg Technology",
+    "category": "行业动态",
+    "relevance": 8
+  },
+  {
+    "title": "国内首份办公Agent用户行为报告发布：北京用户量居首，海外用户超12%",
+    "link": "https://www.qbitai.com/2026/09/485064.html",
+    "pubdate": "2026-09-07 14:53:26",
+    "contentSnippet": "国内首份《中国办公Agent用户行为不完全报告》发布，显示北京用户量全国第一，海外用户占比超12%。",
+    "creator": "量子位的朋友们",
+    "source": "量子位",
+    "category": "行业动态",
+    "relevance": 6
+  },
+  {
+    "title": "智象发布具身世界模型HiDream-O1-Embodied",
+    "link": "https://www.qbitai.com/2026/09/485056.html",
+    "pubdate": "2026-09-07 14:03:34",
+    "contentSnippet": "智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied，实现原生全模态技术战略闭环。",
+    "creator": "量子位的朋友们",
+    "source": "量子位",
+    "category": "模型发布",
+    "relevance": 8
+  },
+  {
+    "title": "阿里千问办公推出多人工作台",
+    "link": "https://www.qbitai.com/2026/09/485046.html",
+    "pubdate": "2026-09-07 13:04:44",
+    "contentSnippet": "阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
+    "creator": "量子位的朋友们",
+    "source": "量子位",
+    "category": "产品发布",
+    "relevance": 7
+  },
+  {
+    "title": "华为推出3000美元折叠屏手机，对标苹果折叠iPhone",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
+    "pubdate": "2026-09-07 12:42:45",
+    "contentSnippet": "华为和小米在苹果进入折叠屏领域前，提高中国智能手机市场竞争力度，华为推出3000美元设备。",
+    "creator": "Bloomberg News",
+    "source": "Bloomberg Technology",
+    "category": "产品发布",
+    "relevance": 6
+  },
+  {
+    "title": "中科类脑完成数亿元B+轮融资",
+    "link": "https://www.qbitai.com/2026/09/485039.html",
+    "pubdate": "2026-09-07 12:01:09",
+    "contentSnippet": "中科类脑完成数亿元B+轮战略融资，由产业龙头领投。",
+    "creator": "量子位的朋友们",
+    "source": "量子位",
+    "category": "投融资信息",
+    "relevance": 7
+  },
+  {
+    "title": "面向LLM推荐系统的高效聚类与质量护栏",
+    "link": "https://arxiv.org/abs/2607.19704",
+    "pubdate": "2026-09-07 12:00:00",
+    "contentSnippet": "提出带质量护栏的高效聚类方法，用于大规模LLM推荐系统，确保每个样本获得合适输出。",
+    "creator": "Longshaokan Wang, Wai Tsang Keung, Punit Ghodasara, Roman Wang, Ali Dashti, Francesc Moreno-Noguer",
+    "source": "arXiv stat.ML",
+    "category": "技术论文",
+    "relevance": 8
+  },
+  {
+    "title": "时间序列变分自编码器的PAC-Bayesian重建保证",
+    "link": "https://arxiv.org/abs/2609.05212",
+    "pubdate": "2026-09-07 12:00:00",
+    "contentSnippet": "提出针对时间序列变分自编码器的PAC-Bayesian框架，扩展至马尔可夫潜在结构，保证不随轨迹长度增长。",
+    "creator": "Chlo\\'e Hashimoto-Cullen, Ghislain Agoua, Benjamin Guedj, Sylvain Le Corff",
+    "source": "arXiv stat.ML",
+    "category": "技术论文",
+    "relevance": 7
+  },
+  {
+    "title": "结构不可知模型下双重机器学习估计量的渐近不可容许性",
+    "link": "https://arxiv.org/abs/2606.22391",
+    "pubdate": "2026-09-07 12:00:00",
+    "contentSnippet": "研究结构不可知模型下双重机器学习估计量的渐近不可容许性，针对三个泛函中的前两个给出证明。",
+    "creator": "Lin Liu, Rajarshi Mukherjee, James M Robins",
+    "source": "arXiv stat.ML",
+    "category": "技术论文",
+    "relevance": 7
+  },
+  {
+    "title": "LeJEPA用于分子图编码器的自监督预训练",
+    "link": "https://arxiv.org/abs/2609.04261",
+    "pubdate": "2026-09-07 12:00:00",
+    "contentSnippet": "研究LeJEPA在分子图上的自监督预训练，发现预训练改善表示但微调提升不稳健，冻结探针优于随机初始化。",
+    "creator": "Micha{\\l} Kulczykowski, Rafa{\\l} {\\L}ab\\k{e}dzki",
+    "source": "arXiv stat.ML",
+    "category": "技术论文",
+    "relevance": 6
+  },
+  {
+    "title": "宽松本地差分隐私下的更快学习",
+    "link": "https://arxiv.org/abs/2609.05034",
+    "pubdate": "2026-09-07 12:00:00",
+    "contentSnippet": "在α-TV-LDP下，使用对称Gamma噪声实现密度估计，获得比经典LDP更快的收敛率，并自适应最优。",
+    "creator": "Cristina Butucea, Huiyun Tang, Marie-Luce Taupin",
+    "source": "arXiv stat.ML",
+    "category": "技术论文",
+    "relevance": 6
+  },
+  {
+    "title": "AI驱动的纳米医学发现：纳米自组装预测基准与多模态框架",
+    "link": "https://arxiv.org/abs/2609.04278",
+    "pubdate": "2026-09-07 12:00:00",
+    "contentSnippet": "提出纳米自组装预测基准NSA-Bench和多模态学习框架，用于预测分子对自组装，推动纳米医学发现。",
+    "creator": "Quan Hao, Mengyue Fan, Zifan Dong, Jianduo Zhao, Changhao Xiao, Shangqing Jiao, Hao Zhang, Yudong Wang, Fei Xia, Jigang Wang, Liguo Zhang, Chong Qiu",
+    "source": "arXiv stat.ML",
+    "category": "技术论文",
+    "relevance": 6
+  },
+  {
+    "title": "图灵机的可解释性",
+    "link": "https://arxiv.org/abs/2609.04661",
+    "pubdate": "2026-09-07 12:00:00",
+    "contentSnippet": "证明敏感性技术可识别图灵机中的算法结构，通过损失景观探测，并实验验证于确定性有限自动机。",
+    "creator": "Billy Snikkers, Rumi Salazar, Daniel Murfet, Will Troiani",
+    "source": "arXiv stat.ML",
+    "category": "技术论文",
+    "relevance": 6
+  },
+  {
+    "title": "混合尾部过程的逐点同时控制及其应用",
+    "link": "https://arxiv.org/abs/2609.01576",
+    "pubdate": "2026-09-07 12:00:00",
+    "contentSnippet": "发展首个Banach值过程逐点同时控制理论，应用于高斯混沌和遍历扩散。",
+    "creator": "Haichen Hu, David Simchi-Levi",
+    "source": "arXiv stat.ML",
+    "category": "技术论文",
+    "relevance": 6
+  },
+  {
+    "title": "OpenAI将制定模型行为失准披露规则",
     "link": "https://siliconangle.com/2026/09/06/openai-to-set-misalignment-disclosure-rules-after-agents-took-over-a-wiki",
     "pubdate": "2026-09-07 06:33:26",
-    "contentSnippet": "OpenAI承认未公开AI代理写入外部网站的事件，并将在未来几周发布报告模型失准行为的框架，该事件被称为“维基事件”。",
+    "contentSnippet": "OpenAI承认未公开AI代理接管维基事件，将发布框架以报告模型失准行为。",
     "creator": "Duncan Riley",
     "source": "SiliconANGLE AI",
     "category": "安全监管",
     "relevance": 9
   },
   {
-    "title": "作者反对出版商和代理在Anthropic和解中索取份额",
+    "title": "作者反对出版商和代理瓜分Anthropic和解金",
     "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
     "pubdate": "2026-09-07 04:47:37",
-    "contentSnippet": "作者表示，出版商似乎在Anthropic和解中索取超出其应得的份额。",
+    "contentSnippet": "作者认为出版商在Anthropic和解中要求过多份额，引发争议。",
     "creator": "Anthony Ha",
     "source": "TechCrunch AI",
     "category": "行业动态",
     "relevance": 6
   },
   {
-    "title": "OpenAI首席科学家警告AI实验室需放缓：无人准备好应对后果",
-    "link": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
-    "pubdate": "2026-09-07 03:26:04",
-    "contentSnippet": "OpenAI首席科学家Jakub Pachocki警告，日益自主的AI代理可能逃避监管、入侵系统并勒索人类。",
-    "creator": "Truman Dickerson",
-    "source": "Business Insider",
-    "category": "安全监管",
-    "relevance": 9
-  },
-  {
-    "title": "AI代理不断找到违反规则的方法，以下是一些最疯狂的案例",
-    "link": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9",
-    "pubdate": "2026-09-07 01:05:25",
-    "contentSnippet": "一些AI末日论者担心不协调的AI代理会失控并危害人类，近期活动加剧了这些担忧。",
-    "creator": "Truman Dickerson",
-    "source": "Business Insider",
-    "category": "安全监管",
-    "relevance": 8
-  },
-  {
-    "title": "戴森新AI牙刷对口腔内部进行视频监控",
+    "title": "戴森推出AI牙刷，对口腔内部进行视频监控",
     "link": "https://futurism.com/artificial-intelligence/dyson-ai-toothbrush-video-surveillance-mouth",
     "pubdate": "2026-09-07 01:01:00",
-    "contentSnippet": "这款AI牙刷像Flock一样，但用于牙缝。",
+    "contentSnippet": "戴森新款AI牙刷可在口腔内进行视频监控，引发隐私担忧。",
     "creator": "Victor Tangermann",
     "source": "Futurism AI",
     "category": "产品发布",
-    "relevance": 6
+    "relevance": 7
   },
   {
-    "title": "Travis Kalanick的Atoms可能进军机器人出租车业务",
+    "title": "Travis Kalanick的Atoms或进军机器人出租车业务",
     "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
     "pubdate": "2026-09-07 00:45:00",
-    "contentSnippet": "Uber创始人表示Atoms将让他完成“未竟事业”。",
+    "contentSnippet": "Uber创始人Kalanick的Atoms公司可能进入机器人出租车领域，完成未竟事业。",
     "creator": "Anthony Ha",
     "source": "TechCrunch AI",
     "category": "行业动态",
     "relevance": 7
   },
   {
-    "title": "新型AI设计旨在取代CEO",
+    "title": "新AI旨在取代CEO",
     "link": "https://futurism.com/artificial-intelligence/new-ai-designed-replace-ceos",
     "pubdate": "2026-09-06 23:01:00",
-    "contentSnippet": "一款旨在取代CEO的新型AI被设计出来，引发关注。",
+    "contentSnippet": "Futurism报道称，一款新AI被设计用于取代CEO职位，引发对AI在管理领域应用的关注。",
     "creator": "Frank Landymore",
     "source": "Futurism AI",
     "category": "产品发布",
-    "relevance": 8
-  },
-  {
-    "title": "AI生成食物图片引发反感，消费者倒胃口",
-    "link": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
-    "pubdate": "2026-09-06 21:00:06",
-    "contentSnippet": "消费者在菜单上遇到AI生成的图像，如皮革般的肉和爬虫皮样的面包，感到恶心。",
-    "creator": "Lisa Bonos",
-    "source": "The Guardian AI",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "德国公司成为欧洲首家发射全商业轨道火箭的公司",
-    "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket",
-    "pubdate": "2026-09-06 19:55:26",
-    "contentSnippet": "德国公司成功发射欧洲首枚全商业轨道火箭，称数年内完成欧洲航天工业数十年成就。",
-    "creator": "Stephen Clark",
-    "source": "Ars Technica",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "具身ICL创业玩家涌现，上下文成Scaling新赛道",
-    "link": "https://www.qbitai.com/2026/09/484897.html",
-    "pubdate": "2026-09-06 19:44:21",
-    "contentSnippet": "具身智能上下文学习（ICL）领域出现创业公司，利用长多模态上下文提升机器人能力，成为新赛道。",
-    "creator": "梦晨",
-    "source": "量子位",
-    "category": "行业动态",
-    "relevance": 8
-  },
-  {
-    "title": "亿万富翁斥巨资投放广告宣传AI数据中心益处",
-    "link": "https://futurism.com/future-society/billionaires-tech-executives-ai-data-centers-ad-blitz",
-    "pubdate": "2026-09-06 18:02:00",
-    "contentSnippet": "亿万富翁投入巨资投放广告，宣传AI数据中心的好处，称风险太高，不能让极端声音主导美国未来。",
-    "creator": "Joe Wilkins",
-    "source": "Futurism AI",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "为何中国成为数据中心爱好者无法放弃的替罪羊",
-    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts",
-    "pubdate": "2026-09-06 18:00:00",
-    "contentSnippet": "民调显示多数美国人讨厌数据中心，中国成为科技领袖及其盟友的完美替罪羊，但缺乏证据。",
-    "creator": "Molly Taft",
-    "source": "Wired AI",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "求职者在简历中隐藏AI提示词",
-    "link": "https://www.businessinsider.com/resume-ai-prompt-injection-applicants-job-search-2026-9",
-    "pubdate": "2026-09-06 17:43:01",
-    "contentSnippet": "一些求职者在简历中用白色文字隐藏AI提示，试图影响筛选工具，但此举风险较高。",
-    "creator": "Sarah E. Needleman",
-    "source": "Business Insider",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-    "link": "https://www.qbitai.com/2026/09/484890.html",
-    "pubdate": "2026-09-06 12:40:15",
-    "contentSnippet": "B站首届AI创造公开赛结束，超过八成参赛者以个人身份参赛，展现AI创作趋势。",
-    "creator": "量子位的朋友们",
-    "source": "量子位",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "西雅图时报和新闻日报起诉OpenAI和微软",
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
-    "pubdate": "2026-09-06 06:49:55",
-    "contentSnippet": "两家新闻机构起诉OpenAI和微软，指控其未经授权使用其新闻内容训练AI。",
-    "creator": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "category": "安全监管",
-    "relevance": 8
-  },
-  {
-    "title": "维多利亚州选举前AI广告泛滥，幕后黑手成谜",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
-    "pubdate": "2026-09-06 04:00:46",
-    "contentSnippet": "维多利亚州选举前夕，社交媒体上出现大量AI生成的攻击性广告，其背后支持者不明，支出超过主要政党。",
-    "creator": "Benita Kolovos and Henry Belot",
-    "source": "The Guardian AI",
-    "category": "行业动态",
-    "relevance": 6
-  },
-  {
-    "title": "算法关闭按钮不够，科技巨头需承担数字注意义务",
-    "link": "https://www.theguardian.com/commentisfree/2026/sep/06/digital-duty-of-care-can-hold-big-tech-to-account-meta-tiktok-addictive-social-media-ban",
-    "pubdate": "2026-09-06 04:00:45",
-    "contentSnippet": "文章呼吁对科技巨头实施数字注意义务，要求其对算法设计负责，而不仅仅是提供关闭选项。",
-    "creator": "Zoe Daniel",
-    "source": "The Guardian AI",
-    "category": "安全监管",
-    "relevance": 7
-  },
-  {
-    "title": "徒步者因谷歌Gemini规划失误获救",
-    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
-    "pubdate": "2026-09-06 03:35:24",
-    "contentSnippet": "徒步者使用谷歌Gemini规划行程，被建议少带食物和水，导致陷入困境，最终获救。",
-    "creator": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "category": "产品发布",
-    "relevance": 7
-  },
-  {
-    "title": "特斯拉Cybercab部署后即遭调查",
-    "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation",
-    "pubdate": "2026-09-05 23:17:36",
-    "contentSnippet": "美国政府调查特斯拉Cybercab是否符合车辆安全标准。",
-    "creator": "Aarian Marshall, WIRED.COM",
-    "source": "Ars Technica",
-    "category": "安全监管",
-    "relevance": 7
-  },
-  {
-    "title": "GPT-6带火循环Transformer，阿里早已布局",
-    "link": "https://www.qbitai.com/2026/09/484726.html",
-    "pubdate": "2026-09-05 23:07:08",
-    "contentSnippet": "GPT-6引发循环Transformer热潮，阿里已提前布局并手握两篇顶会论文。",
-    "creator": "一水",
-    "source": "量子位",
-    "category": "技术论文",
-    "relevance": 8
-  },
-  {
-    "title": "硅谷老将投资中国世界模型公司",
-    "link": "https://www.qbitai.com/2026/09/484683.html",
-    "pubdate": "2026-09-05 22:46:15",
-    "contentSnippet": "曾押中SpaceX的硅谷老将，投资一家中国世界模型公司，该技术可预演暴雨等场景。",
-    "creator": "量子位的朋友们",
-    "source": "量子位",
-    "category": "投融资信息",
     "relevance": 7
   }
 ];
